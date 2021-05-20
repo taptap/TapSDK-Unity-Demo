@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/TapDBScene.unity
     guid: 6e940ae6409e947f0be7127741052dd3
+  - enabled: 1
+    path: Assets/Scenes/FriendScene.unity
+    guid: b8d9363a78adb4237a70d5509ea507aa
   m_configObjects: {}

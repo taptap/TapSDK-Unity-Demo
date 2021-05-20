@@ -6,19 +6,19 @@ using UnityEngine.Events;
 using UnityNative.Toasts.Example;
 using TapTap.Bootstrap;
 
-public class MainScene : MonoBehaviour, ITapUserStatusChangedListener
+public class MainScene : MonoBehaviour
 {
 
     void Start()
     {
-            //初始化
-            
-            TapConfig tapConfig = new TapConfig("0RiAlMny7jiz086FaU", true);
-            TapBootstrap.Init(tapConfig);
-
-            //注册回调
-            TapBootstrap.RegisterLoginResultListener(new MyLoginCallback());
-            TapBootstrap.RegisterUserStatusChangedListener(this);
+        var config = new TapConfig.Builder()
+             .ClientID("FwFdCIr6u71WQDQwQN")
+             .ClientSecret("8zkWbrNMBXYtdg6GTyGy3FLRcIi1C5PuKjxwWAUe")
+             .RegionType(RegionType.CN)
+             .TapDBConfig(false, "1.0.0", "1.0.0", false)
+             .ConfigBuilder();
+        TapBootstrap.Init(config);
+        //注册回调
     }
 
     // Update is called once per frame
@@ -28,37 +28,6 @@ public class MainScene : MonoBehaviour, ITapUserStatusChangedListener
     }
 
 
-    public class MyLoginCallback : ITapLoginResultListener {
-        public void OnLoginSuccess(AccessToken accessToken)
-        {
-            UnityNativeToastsHelper.ShowShortText("登录成功");
-            Debug.Log("登录成功:  " + accessToken.ToJSON());
-
-        }
-
-        public void OnLoginError(TapError error)
-        {
-            Debug.Log("登录失败的error信息:  " + error.errorDescription);
-
-        }
-
-        public void OnLoginCancel()
-        {
-            UnityNativeToastsHelper.ShowShortText("取消登录");
-        }
-
-    }
-    private bool isFlag = false;
-
-   
-
-    public void OnLogout(TapError error) {
-        Debug.Log("登出失败的error信息:  " + error.errorDescription);
-    }
-
-    public void OnBind(TapError error) {
-        Debug.Log("绑定的error信息:  " + error.errorDescription);
-    }
 
     private void OnGUI()
     {
@@ -77,6 +46,10 @@ public class MainScene : MonoBehaviour, ITapUserStatusChangedListener
         if (GUI.Button(new Rect(60, 450, 180, 100), "TapDB", style))
         {
             UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(3);
+        }
+        if (GUI.Button(new Rect(60, 600, 180, 100), "好友", style))
+        {
+            UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(4);
         }
 
 
