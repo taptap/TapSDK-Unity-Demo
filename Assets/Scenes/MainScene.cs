@@ -43,11 +43,21 @@ public class MainScene : MonoBehaviour
         {
             UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(2);
         }
-        if (GUI.Button(new Rect(60, 450, 180, 100), "TapDB", style))
+
+        GUIStyle labelStyle = new GUIStyle(GUI.skin.label);
+        labelStyle.fontSize = 40;
+        labelStyle.alignment = TextAnchor.MiddleLeft;
+        
+        GUI.Label(new Rect(60, 435, 800, 100), "TapDB 对接需要联系 Tap 运营同学，仅供参考接口！", labelStyle);
+        
+        if (GUI.Button(new Rect(60, 550, 180, 100), "TapDB", style))
         {
             UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(3);
         }
-        if (GUI.Button(new Rect(60, 600, 180, 100), "好友", style))
+        
+        GUI.Label(new Rect(60, 650, 1000, 100), "好友功能暂未完全对外开放，敬请期待！", labelStyle);
+        
+        if (GUI.Button(new Rect(60, 750, 180, 100), "好友", style))
         {
             UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(4);
         }
