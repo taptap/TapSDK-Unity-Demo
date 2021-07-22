@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.leancloud.storage": {
+      "version": "https://github.com/leancloud/csharp-sdk-upm.git#storage-0.8.2",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "8e13e6ef7f727f90ec1f764ba7b4f848497e5336"
+    },
     "com.ms.nativedialog": {
       "version": "file:../TapSDKDialog",
       "depth": 0,
@@ -7,65 +14,58 @@
       "dependencies": {}
     },
     "com.taptap.tds.bootstrap": {
-      "version": "https://github.com/TapTap/TapBootstrap-Unity.git#2.1.6",
+      "version": "https://github.com/TapTap/TapBootstrap-Unity.git#3.0.0",
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#2.1.6"
+        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#3.0.0",
+        "com.taptap.tds.login": "https://github.com/TapTap/TapLogin-Unity.git#3.0.0",
+        "com.leancloud.storage": "https://github.com/leancloud/csharp-sdk-upm.git#storage-0.8.2"
       },
-      "hash": "4410b11530031e6949efef735d8ae35afa3c203d"
+      "hash": "1cd0d03ef26661551a7593601f8710c9069eff09"
     },
     "com.taptap.tds.common": {
-      "version": "https://github.com/TapTap/TapCommon-Unity.git#2.1.6",
+      "version": "https://github.com/TapTap/TapCommon-Unity.git#3.0.0",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "f1e5940dfdcfc2d7f981a7abbcaabb45641f768d"
+      "hash": "58521271861179666085bcabcb9437574ab4a6f0"
     },
     "com.taptap.tds.dlc": {
-      "version": "https://github.com/TapTap/TapLicense-Unity.git#2.1.6",
+      "version": "https://github.com/TapTap/TapLicense-Unity.git#3.0.0",
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#2.1.6"
+        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#3.0.0"
       },
-      "hash": "0f0660806f06d089ad2b9afb0465191e6054b3dd"
-    },
-    "com.taptap.tds.friends": {
-      "version": "https://github.com/TapTap/TapFriends-Unity.git#2.1.6",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {
-        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#2.1.6"
-      },
-      "hash": "c0c0e7fb3a600979e734703a868a3e616cf7e534"
+      "hash": "3ac1eb59fe2988f91fdcbee34175702b32c3dc3e"
     },
     "com.taptap.tds.login": {
-      "version": "https://github.com/TapTap/TapLogin-Unity.git#2.1.6",
+      "version": "https://github.com/TapTap/TapLogin-Unity.git#3.0.0",
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#2.1.6"
+        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#3.0.0"
       },
-      "hash": "cff64178e5e7050c7596ebb4638ac6cea7dde2e6"
+      "hash": "9738bb30357917a27eeb675d7ef41b6b950ef997"
     },
     "com.taptap.tds.moment": {
-      "version": "https://github.com/TapTap/TapMoment-Unity.git#2.1.6",
+      "version": "https://github.com/TapTap/TapMoment-Unity.git#3.0.0",
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#2.1.6"
+        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#3.0.0"
       },
-      "hash": "7db16fb283d867e219ac3ae4953cd48917947f08"
+      "hash": "84c63407830b9849cf6d52ed599a721b68ef5a0b"
     },
     "com.taptap.tds.tapdb": {
-      "version": "https://github.com/TapTap/TapDB-Unity.git#2.1.6",
+      "version": "https://github.com/TapTap/TapDB-Unity.git#3.0.0",
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#2.1.6"
+        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#3.0.0"
       },
-      "hash": "eb3c8981f1cceade31c09dd339b411cbd4d71d25"
+      "hash": "16ad32c0726ee2a5d05d99ad9f14bc6413d68c1e"
     },
     "com.unity.2d.sprite": {
       "version": "1.0.0",

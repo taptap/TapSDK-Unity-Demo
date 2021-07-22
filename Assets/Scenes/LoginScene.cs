@@ -3,17 +3,15 @@ using System.Collections.Generic;
 using UnityEngine;
 using TapTap.Bootstrap;
 using UnityNative.Toasts.Example;
-using TapTap.Login;
+using System;
+using TapTap.Common;
 
-public class LoginScene : MonoBehaviour, ITapLoginResultListener, ITapUserStatusChangedListener
+
+public class LoginScene : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
     {
-        TapBootstrap.RegisterLoginResultListener(this);
-        TapBootstrap.RegisterUserStatusChangedListener(this);
-
-        TapLogin.ChangeConfig(true, true);
     }
 
     // Update is called once per frame
@@ -21,50 +19,64 @@ public class LoginScene : MonoBehaviour, ITapLoginResultListener, ITapUserStatus
     {
     }
 
-    public void OnLoginSuccess(AccessToken token)
+    public static async void Login()
     {
-        label = $"Login Success:{token.ToJSON()}";
+        try
+        {
+            var currentUser = await TDSUser.GetCurrent();
+            if (null == currentUser)
+            {
+                Debug.Log("当前未登录");
+                try
+                {
+                    var tdsUser = await TDSUser.LoginWithTapTap();
+                    Debug.Log($"login sucess:{tdsUser}");
+                    UnityNativeToastsHelper.ShowShortText($"login sucess:{tdsUser}");
+                }
+                catch (Exception e)
+                {
+                    if (e is TapException tapError)
+                    {
+                        Debug.Log($"get AccessToken exception:{tapError.code} message:{tapError.message}");
+                        UnityNativeToastsHelper.ShowShortText($"get AccessToken exception:{tapError.code} message:{tapError.message}");
+                    }
+                    // ignored
+                }
+            }
+            else 
+            {
+                Debug.Log("已登录");
+                UnityNativeToastsHelper.ShowShortText("已登录");
+            }
+        }
+        catch (Exception e)
+        {
+             Debug.Log($"判断登陆状态失败： message:{e}");
+             UnityNativeToastsHelper.ShowShortText($"判断登陆状态失败： message:{e}");
+        }    
     }
 
-    public void OnLoginCancel()
+    public static async void IsLogin()
     {
-        label = "Login Cancel";
-    }
-
-    public void OnLoginError(TapError error)
-    {
-        if (error != null)
+        try
         {
-            label = $"Login Error:{error.code} desc:{error.errorDescription}";
-        }
-        else
+            var currentUser = await TDSUser.GetCurrent();
+            if (null == currentUser)
+            {
+                Debug.Log("当前未登录");
+                UnityNativeToastsHelper.ShowShortText("当前未登录");
+            }
+            else 
+            {
+                Debug.Log("已登录");
+                UnityNativeToastsHelper.ShowShortText("已登录");
+            }
+        }catch (Exception e)
         {
-            label = "Login Error";
+            Debug.Log($"判断登陆状态失败： message:{e}");
+            UnityNativeToastsHelper.ShowShortText($"判断登陆状态失败： message:{e}");
         }
-    }
-
-    public void OnLogout(TapError error)
-    {
-        if (error != null)
-        {
-            label = $"Logout:{error.code} desc:{error.errorDescription}";
-        }
-        else
-        {
-            label = "Logout";
-        }
-    }
-
-    public void OnBind(TapError error)
-    {
-        if (error != null)
-        {
-            label = $"Bind:{error.code} + desc:{error.errorDescription}";
-        }
-        else
-        {
-            label = $"Bind";
-        }
+        
     }
 
     private string label;
@@ -84,45 +96,12 @@ public class LoginScene : MonoBehaviour, ITapLoginResultListener, ITapUserStatus
 
         if (GUI.Button(new Rect(60, 150, 180, 100), "登录", style))
         {
-            TapBootstrap.GetAccessToken((token, error) =>
-            {
-                if (token != null)
-                {
-                    label = $"LoginSuccess:{token.ToJSON()}";
-                }
-                else
-                {
-                    TapBootstrap.Login(LoginType.TAPTAP, new[] { "public_profile" });
-                }
-            });
-
-            TapLogin.GetProfile(profile => Debug.Log($"Profile:{profile.ToJson()}"));
-            TapLogin.GetTapToken(token => Debug.Log($"TapLoToken:{token.ToJson()}"));
+            Login();   
         }
 
-        if (GUI.Button(new Rect(60, 300, 180, 100), "退出登录", style))
+        if (GUI.Button(new Rect(60, 300, 180, 100), "登录状态", style))
         {
-            TapBootstrap.Logout();
-        }
-
-        if (GUI.Button(new Rect(60, 450, 180, 100), "用户信息", style))
-        {
-            TapBootstrap.GetUser((user, error) =>
-            {
-                label = user != null
-                    ? $"user:{user.ToJSON()}"
-                    : $"Error:{error?.code} Descrption:{error?.errorDescription}";
-            });
-        }
-
-        if (GUI.Button(new Rect(60, 600, 260, 100), "用户详细信息", style))
-        {
-            TapBootstrap.GetDetailUser((user, error) =>
-            {
-                label = user != null
-                    ? $"detailUser:{user.ToJSON()}"
-                    : $"Error:{error?.code} Descrption:{error?.errorDescription}";
-            });
+            IsLogin();   
         }
 
         //if (GUI.Button(new Rect(60, 750, 260, 100), "用户中心", style))
@@ -130,15 +109,33 @@ public class LoginScene : MonoBehaviour, ITapLoginResultListener, ITapUserStatus
         //    // TapBootstrap.OpenUserCenter();
         //}
 
-        if (GUI.Button(new Rect(60, 900, 260, 100), "篝火测试", style))
+        if (GUI.Button(new Rect(60, 450, 260, 100), "篝火测试", style))
         {
-            TapBootstrap.GetTestQualification((b, error) =>
-            {
-                label = $"篝火测试资格:{b} Error:{error?.code} Descrption:{error?.errorDescription}";
-            });
+            // TapLogin.GetTestQualification((valid, error) => {
+            //     if (error)
+            //     {
+            //         // 网络异常或游戏未开启篝火测试
+            //         Debug.Log("网络异常或游戏未开启篝火测试");
+            //         UnityNativeToastsHelper.ShowShortText("网络异常或游戏未开启篝火测试");
+            //     }
+            //     else
+            //     {
+            //         if(valid)
+            //         {
+            //             // 有篝火测试资格
+            //             Debug.Log("该玩家具有篝火测试资格");
+            //             UnityNativeToastsHelper.ShowShortText("该玩家具有篝火测试资格");
+            //         }
+            //     }
+            // });
         }
 
-        if (GUI.Button(new Rect(60, 1050, 180, 100), "返回", style))
+        if (GUI.Button(new Rect(60, 600, 180, 100), "退出登录", style))
+        {
+            TDSUser.Logout();
+        }
+
+        if (GUI.Button(new Rect(60, 750, 180, 100), "返回", style))
         {
             UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(0);
         }
