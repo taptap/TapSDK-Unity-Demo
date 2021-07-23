@@ -5,6 +5,7 @@ using TapTap.Bootstrap;
 using UnityNative.Toasts.Example;
 using System;
 using TapTap.Common;
+using TapTap.Login;
 
 
 public class LoginScene : MonoBehaviour
@@ -31,7 +32,11 @@ public class LoginScene : MonoBehaviour
                 {
                     var tdsUser = await TDSUser.LoginWithTapTap();
                     Debug.Log($"login sucess:{tdsUser}");
+
+                    // tdsUser.ObjectId;
+                    // tdsUser.AuthData;
                     UnityNativeToastsHelper.ShowShortText($"login sucess:{tdsUser}");
+                    
                 }
                 catch (Exception e)
                 {
@@ -75,8 +80,27 @@ public class LoginScene : MonoBehaviour
         {
             Debug.Log($"判断登陆状态失败： message:{e}");
             UnityNativeToastsHelper.ShowShortText($"判断登陆状态失败： message:{e}");
+        }       
+    }
+
+    public static async void GouhuoTest()
+    {
+        try{
+            var test = await TapLogin.GetTestQualification();
+            if(test)
+            {
+                UnityNativeToastsHelper.ShowShortText($"该玩家具备篝火测试资格");
+            }
+            else
+            {
+                UnityNativeToastsHelper.ShowShortText($"该玩家不具备篝火测试资格");
+            }
+            
         }
-        
+        catch(Exception e)
+        {
+            UnityNativeToastsHelper.ShowShortText($"篝火测试 error：{e.Message}");
+        }
     }
 
     private string label;
@@ -111,6 +135,8 @@ public class LoginScene : MonoBehaviour
 
         if (GUI.Button(new Rect(60, 450, 260, 100), "篝火测试", style))
         {
+            GouhuoTest();
+
             // TapLogin.GetTestQualification((valid, error) => {
             //     if (error)
             //     {
