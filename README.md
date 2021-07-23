@@ -1,4 +1,4 @@
-## TapSDK - 2.1.6 For Unity Demo；
+## TapSDK - 3.0.0 For Unity Demo；
 
 ## 运行示例程序
 
@@ -8,4 +8,4 @@
 
 2、配置自己的签名信息，签名打包测试；
 
-3、安卓可以下载项目中的 TapSDK_Unity_2.1.6.apk 先体验；
+3、安卓可以下载项目中的 TapSDK_Unity_3.0.0.apk 先体验；
