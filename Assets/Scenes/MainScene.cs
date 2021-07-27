@@ -4,21 +4,20 @@ using UnityEngine;
 using MS.NativeDialog;
 using UnityEngine.Events;
 using UnityNative.Toasts.Example;
-using TapTap.Bootstrap;
+using TapTap.Bootstrap; // 命名空间
 
 public class MainScene : MonoBehaviour
 {
 
     void Start()
     {
-        var config = new TapConfig.Builder()
-             .ClientID("FwFdCIr6u71WQDQwQN")
-             .ClientSecret("8zkWbrNMBXYtdg6GTyGy3FLRcIi1C5PuKjxwWAUe")
-             .RegionType(RegionType.CN)
-             .TapDBConfig(false, "1.0.0", "1.0.0", false)
-             .ConfigBuilder();
+        var config =  new TapConfig.Builder()
+            .ClientID("0RiAlMny7jiz086FaU")  // 必须，开发者中心对应 Client ID
+            .ClientToken("8V8wemqkpkxmAN7qKhvlh6v0pXc8JJzEZe3JFUnU")  // 必须，开发者中心对应 Client Token
+            .ServerURL("https://0rialmny.cloud.tds1.tapapis.cn") // TapDC 后台获取
+            .RegionType(RegionType.CN)  // 非必须，默认 CN 表示国内
+            .ConfigBuilder();
         TapBootstrap.Init(config);
-        //注册回调
     }
 
     // Update is called once per frame
@@ -54,14 +53,5 @@ public class MainScene : MonoBehaviour
         {
             UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(3);
         }
-        
-        GUI.Label(new Rect(60, 650, 1000, 100), "好友功能暂未完全对外开放，敬请期待！", labelStyle);
-        
-        if (GUI.Button(new Rect(60, 750, 180, 100), "好友", style))
-        {
-            UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(4);
-        }
-
-
     }
 }
