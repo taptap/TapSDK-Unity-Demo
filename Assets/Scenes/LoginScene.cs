@@ -34,8 +34,6 @@ public class LoginScene : MonoBehaviour
 
     void Start()
     {
-        TapLogin.ChangeConfig(true, true);
-
         login.onClick.AddListener(OnLoginClicked);
         loginout.onClick.AddListener(OnLoginOutClicked);
         sessionToken.onClick.AddListener(GetSessionToken);

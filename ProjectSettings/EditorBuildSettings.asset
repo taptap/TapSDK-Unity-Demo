@@ -20,4 +20,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/AchievementScene.unity
     guid: 018d234400c9d4804a572a821962d80c
+  - enabled: 1
+    path: Assets/Scenes/RTCScene.unity
+    guid: f606a21e86be94acf8fa4f5752328e19
+  - enabled: 1
+    path: Assets/Scenes/TapDBScene.unity
+    guid: aa13cc6c000144c43b0593b2cf117329
   m_configObjects: {}

@@ -22,9 +22,9 @@ namespace Assets.Scenes
         {
             initSdkButton.onClick.AddListener(InitTapSdk);
             goLoginScene.onClick.AddListener(() => SceneManager.LoadSceneAsync(1));
-            goAchievementScene.onClick.AddListener(() => SceneManager.LoadSceneAsync(2));
-            goFriendsScene.onClick.AddListener(() => SceneManager.LoadSceneAsync(3));
-            goMomentScene.onClick.AddListener(() => SceneManager.LoadSceneAsync(4));
+            goAchievementScene.onClick.AddListener(() => SceneManager.LoadSceneAsync(4));
+            goFriendsScene.onClick.AddListener(() => SceneManager.LoadSceneAsync(2));
+            goMomentScene.onClick.AddListener(() => SceneManager.LoadSceneAsync(3));
             goRTCScene.onClick.AddListener(() => SceneManager.LoadSceneAsync(5));
             goTapDBScene.onClick.AddListener(() => SceneManager.LoadSceneAsync(6));
         }

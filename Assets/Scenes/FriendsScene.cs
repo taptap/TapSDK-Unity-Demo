@@ -592,7 +592,7 @@ public class FriendsScene : MonoBehaviour
     }
 
     public async void OnTapLoginClicked() {
-        // currentUser = await TDSUser.LoginWithTapTap(new string[] { "public_profile", "user_friends" });
+        currentUser = await TDSUser.LoginWithTapTap(new string[] { "public_profile", "user_friends" });
         LCLogger.Debug("tap 登录成功");
     }
 
@@ -609,7 +609,7 @@ public class FriendsScene : MonoBehaviour
         }
 
         TDSUser friend = TDSUser.CreateWithoutData(TDSUser.CLASS_NAME, friendId) as TDSUser;
-        // await TDSFriends.FollowTapUser(friend);
+        await TDSFriends.FollowTapUser(friend);
         LCLogger.Debug($"添加 tap 好友成功，可在 tap 关注中查看");
     }
 
@@ -625,7 +625,7 @@ public class FriendsScene : MonoBehaviour
             return;
         }
 
-        // await TDSFriends.AddFriendByShortCode(code);
+        await TDSFriends.AddFriendByShortCode(code);
         LCLogger.Debug($"添加好友 {code} 请求发送成功");
     }
 
@@ -638,10 +638,10 @@ public class FriendsScene : MonoBehaviour
         string cursor = queryTokenInput.text?.Length > 0 ? queryTokenInput.text : null;
         int.TryParse(queryLimitInput.text, out int limit);
         limit = limit <= 0 ? 100 : limit;
-        // ThirdPartyFriendResult result = await TDSFriends.QueryThirdPartyFriendList("taptap", cursor, limit,
-            // TDSFriends.ThirdPartyFriendRequestCachePolicy.OnlyNetwork);
-        // LCLogger.Debug($"好友数量: {result.FriendList.Count}");
-        // LCLogger.Debug($"下次查询的游标: {result.Cursor}");
+        ThirdPartyFriendResult result = await TDSFriends.QueryThirdPartyFriendList("taptap", cursor, limit,
+            TDSFriends.ThirdPartyFriendRequestCachePolicy.OnlyNetwork);
+        LCLogger.Debug($"好友数量: {result.FriendList.Count}");
+        LCLogger.Debug($"下次查询的游标: {result.Cursor}");
     }
 
     public async void OnQueryTapFriendListFromCacheClicked() {
@@ -653,10 +653,10 @@ public class FriendsScene : MonoBehaviour
         string cursor = queryTokenInput.text?.Length > 0 ? queryTokenInput.text : null;
         int.TryParse(queryLimitInput.text, out int limit);
         limit = limit <= 0 ? 100 : limit;
-        // ThirdPartyFriendResult result = await TDSFriends.QueryThirdPartyFriendList("taptap", cursor, limit,
-            // TDSFriends.ThirdPartyFriendRequestCachePolicy.CacheElseNetwork);
-        // LCLogger.Debug($"好友数量: {result.FriendList.Count}");
-        // LCLogger.Debug($"下次查询的游标: {result.Cursor}");
+        ThirdPartyFriendResult result = await TDSFriends.QueryThirdPartyFriendList("taptap", cursor, limit,
+            TDSFriends.ThirdPartyFriendRequestCachePolicy.CacheElseNetwork);
+        LCLogger.Debug($"好友数量: {result.FriendList.Count}");
+        LCLogger.Debug($"下次查询的游标: {result.Cursor}");
     }
 
     public async void OnSearchFriendByCodeClicked() {
@@ -671,9 +671,9 @@ public class FriendsScene : MonoBehaviour
             return;
         }
 
-        // TDSFriendInfo friendInfo = await TDSFriends.SearchUserByShortCode(code);
-        // LCLogger.Debug($"好友码 {code} 的用户如下: ");
-        // LCLogger.Debug($"{friendInfo.User.ObjectId} 昵称: {friendInfo.User["nickname"]} - {JsonConvert.SerializeObject(friendInfo.RichPresence)}");
+        TDSFriendInfo friendInfo = await TDSFriends.SearchUserByShortCode(code);
+        LCLogger.Debug($"好友码 {code} 的用户如下: ");
+        LCLogger.Debug($"{friendInfo.User.ObjectId} 昵称: {friendInfo.User["nickname"]} - {JsonConvert.SerializeObject(friendInfo.RichPresence)}");
     }
 
     #endregion

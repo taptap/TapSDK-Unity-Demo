@@ -17,156 +17,172 @@
       "hash": "2c3491e70ef6b68105f62560b575a260f5d9d962"
     },
     "com.taptap.tds.achievement": {
-      "version": "https://github.com/TapTap/TapAchievement-Unity.git#3.4.0",
+      "version": "https://github.com/TapTap/TapAchievement-Unity.git#3.5.0",
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.taptap.tds.bootstrap": "https://github.com/TapTap/TapBootstrap-Unity.git#3.4.0"
+        "com.taptap.tds.bootstrap": "https://github.com/TapTap/TapBootstrap-Unity.git#3.5.0"
       },
-      "hash": "c1a1e80c3512be3e28904299667bbc99f3f3e90d"
+      "hash": "6f3e6a6d80d6c0ea05ff4ecd8a576dce3252d89d"
     },
     "com.taptap.tds.bootstrap": {
-      "version": "https://github.com/TapTap/TapBootstrap-Unity.git#3.4.0",
+      "version": "https://github.com/TapTap/TapBootstrap-Unity.git#3.5.0",
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#3.4.0",
-        "com.taptap.tds.login": "https://github.com/TapTap/TapLogin-Unity.git#3.4.0",
-        "com.leancloud.realtime": "https://github.com/leancloud/csharp-sdk-upm.git#realtime-0.9.11"
+        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#3.5.0",
+        "com.taptap.tds.login": "https://github.com/TapTap/TapLogin-Unity.git#3.5.0",
+        "com.leancloud.realtime": "https://github.com/leancloud/csharp-sdk-upm.git#realtime-0.10.0",
+        "com.leancloud.storage": "https://github.com/leancloud/csharp-sdk-upm.git#storage-0.10.0"
       },
-      "hash": "ed9808c4f1cd615f4784b6c0e768b685f80053fc"
+      "hash": "4aadf7126617a065624aa707965a2eb68499abc4"
     },
     "com.taptap.tds.common": {
-      "version": "https://github.com/TapTap/TapCommon-Unity.git#3.4.0",
+      "version": "https://github.com/TapTap/TapCommon-Unity.git#3.5.0",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "809838dbc30424fc85993a5d4582fe404ffa3a43"
+      "hash": "d4909b21b129e1432ccffb044deca0c6c29e8c64"
     },
     "com.taptap.tds.dlc": {
-      "version": "https://github.com/TapTap/TapLicense-Unity.git#3.4.0",
+      "version": "https://github.com/TapTap/TapLicense-Unity.git#3.5.0",
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#3.4.0"
+        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#3.5.0"
       },
-      "hash": "0d24cdbe1357c87381d6c94310ead3d259fdd74e"
+      "hash": "503f16326c3a2e21c348ecb40814045444fd75b8"
     },
     "com.taptap.tds.friends": {
-      "version": "https://github.com/TapTap/TapFriends-Unity.git#3.4.0",
+      "version": "https://github.com/TapTap/TapFriends-Unity.git#3.5.0",
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#3.4.0",
-        "com.taptap.tds.bootstrap": "https://github.com/TapTap/TapBootstrap-Unity.git#3.4.0",
+        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#3.5.0",
+        "com.taptap.tds.bootstrap": "https://github.com/TapTap/TapBootstrap-Unity.git#3.5.0",
         "com.leancloud.realtime": "https://github.com/leancloud/csharp-sdk-upm.git#realtime-0.10.0"
       },
-      "hash": "1e5de35ceae2460018d2e5063134aab5831f5297"
+      "hash": "34d4a23d77a85dd5d8c475643acbe4fb27e2cc20"
     },
     "com.taptap.tds.login": {
-      "version": "https://github.com/TapTap/TapLogin-Unity.git#3.4.0",
+      "version": "https://github.com/TapTap/TapLogin-Unity.git#3.5.0",
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#3.4.0"
+        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#3.5.0"
       },
-      "hash": "a4fc586b660e63db312bd42dd2001c64e0d9f6b6"
+      "hash": "48bd1df0206b4a44f06b211d479bc560cfb5d3d7"
     },
     "com.taptap.tds.moment": {
-      "version": "https://github.com/TapTap/TapMoment-Unity.git#3.4.0",
+      "version": "https://github.com/TapTap/TapMoment-Unity.git#3.5.0",
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#3.4.0"
+        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#3.5.0"
       },
-      "hash": "0bd069b552525a7bfc996630ff55dd4e29feae08"
+      "hash": "c0800286ccdb8e2a6aa847a177362f325ae01de0"
     },
     "com.taptap.tds.rtc": {
-      "version": "https://github.com/TapTap/TapRTC-Unity.git#3.4.0",
+      "version": "https://github.com/TapTap/TapRTC-Unity.git#3.5.0",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "8055fd57f7c31165247de62119500da205820bc6"
+      "hash": "7a31594960039c8a6933f99abcb133d4c6cab332"
     },
     "com.taptap.tds.support": {
-      "version": "https://github.com/TapTap/TapSupport-Unity.git#3.3.1",
+      "version": "https://github.com/TapTap/TapSupport-Unity.git#3.5.0",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "f2528ff5f8d6bbc3854b28c1fcdcf83501949c30"
+      "hash": "14272cf2529120338a6408e5d9b7ee4e90a67c9f"
     },
     "com.taptap.tds.tapdb": {
-      "version": "https://github.com/TapTap/TapDB-Unity.git#3.4.0",
+      "version": "https://github.com/TapTap/TapDB-Unity.git#3.5.0",
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#3.4.0"
+        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#3.5.0"
       },
-      "hash": "6a1effb79f5e1bfb8544f6a83e9bd94d5451b412"
+      "hash": "dac1645576b54d0a5ca6b2a890ff4db73adaece7"
     },
     "com.unity.collab-proxy": {
       "version": "1.2.16",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
-      "url": "https://packages.unity.cn"
+      "url": "https://packages.unity.com"
     },
     "com.unity.ext.nunit": {
-      "version": "1.0.0",
+      "version": "1.0.6",
       "depth": 1,
       "source": "registry",
       "dependencies": {},
-      "url": "https://packages.unity.cn"
+      "url": "https://packages.unity.com"
     },
     "com.unity.ide.rider": {
-      "version": "1.1.4",
+      "version": "1.2.1",
       "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.test-framework": "1.1.1"
       },
-      "url": "https://packages.unity.cn"
+      "url": "https://packages.unity.com"
     },
-    "com.unity.ide.vscode": {
-      "version": "1.2.1",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://packages.unity.cn"
-    },
-    "com.unity.test-framework": {
-      "version": "1.1.14",
+    "com.unity.ide.visualstudio": {
+      "version": "2.0.8",
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.unity.ext.nunit": "1.0.0",
+        "com.unity.test-framework": "1.1.9"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.ide.vscode": {
+      "version": "1.2.3",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.test-framework": {
+      "version": "1.1.24",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ext.nunit": "1.0.6",
         "com.unity.modules.imgui": "1.0.0",
         "com.unity.modules.jsonserialize": "1.0.0"
       },
-      "url": "https://packages.unity.cn"
+      "url": "https://packages.unity.com"
     },
     "com.unity.textmeshpro": {
-      "version": "2.0.1",
+      "version": "2.1.4",
       "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.ugui": "1.0.0"
       },
-      "url": "https://packages.unity.cn"
+      "url": "https://packages.unity.com"
     },
     "com.unity.timeline": {
-      "version": "1.2.14",
+      "version": "1.2.18",
       "depth": 0,
       "source": "registry",
-      "dependencies": {},
-      "url": "https://packages.unity.cn"
+      "dependencies": {
+        "com.unity.modules.director": "1.0.0",
+        "com.unity.modules.animation": "1.0.0",
+        "com.unity.modules.audio": "1.0.0",
+        "com.unity.modules.particlesystem": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
     },
     "com.unity.ugui": {
       "version": "1.0.0",
       "depth": 0,
       "source": "builtin",
       "dependencies": {
-        "com.unity.modules.ui": "1.0.0"
+        "com.unity.modules.ui": "1.0.0",
+        "com.unity.modules.imgui": "1.0.0"
       }
     },
     "com.unitynative.toasts": {
