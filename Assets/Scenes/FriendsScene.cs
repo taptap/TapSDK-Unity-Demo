@@ -10,7 +10,7 @@ using LeanCloud;
 using LeanCloud.Storage;
 using LC.Newtonsoft.Json;
 
-public class FriendsScene : MonoBehaviour
+public partial class FriendsScene : MonoBehaviour
 {
     public InputField userIdInput;
     public InputField friendIdInput;
@@ -27,10 +27,12 @@ public class FriendsScene : MonoBehaviour
 
 
     public InputField tokenInput;
-    public InputField friendIdForTapFriendInput;
+
     public InputField friendCodeInput;
+
     public InputField queryTokenInput;
     public InputField queryLimitInput;
+    public Toggle friendOnlineSortToggle;
 
     private TDSUser currentUser;
 
@@ -596,23 +598,6 @@ public class FriendsScene : MonoBehaviour
         LCLogger.Debug("tap 登录成功");
     }
 
-    public async void OnAddTapFriendClicked() {
-        if (currentUser == null) {
-            LCLogger.Error("请先登录");
-            return;
-        }
-
-        string friendId = friendIdForTapFriendInput.text;
-        if (string.IsNullOrEmpty(friendId)) {
-            LCLogger.Error("请输入好友 id");
-            return;
-        }
-
-        TDSUser friend = TDSUser.CreateWithoutData(TDSUser.CLASS_NAME, friendId) as TDSUser;
-        await TDSFriends.FollowTapUser(friend);
-        LCLogger.Debug($"添加 tap 好友成功，可在 tap 关注中查看");
-    }
-
     public async void OnAddFriendByCodeClicked() {
         if (currentUser == null) {
             LCLogger.Error("请先登录");
@@ -638,10 +623,13 @@ public class FriendsScene : MonoBehaviour
         string cursor = queryTokenInput.text?.Length > 0 ? queryTokenInput.text : null;
         int.TryParse(queryLimitInput.text, out int limit);
         limit = limit <= 0 ? 100 : limit;
+
+        TDSFriends.SortCondition condition = friendOnlineSortToggle.isOn ? TDSFriends.SortCondition.OnlineCondition : null;
+
         ThirdPartyFriendResult result = await TDSFriends.QueryThirdPartyFriendList("taptap", cursor, limit,
-            TDSFriends.ThirdPartyFriendRequestCachePolicy.OnlyNetwork);
-        LCLogger.Debug($"好友数量: {result.FriendList.Count}");
-        LCLogger.Debug($"下次查询的游标: {result.Cursor}");
+            TDSFriends.ThirdPartyFriendRequestCachePolicy.OnlyNetwork,
+            condition);
+        PrintThirdPartyResult(result);
     }
 
     public async void OnQueryTapFriendListFromCacheClicked() {
@@ -653,10 +641,13 @@ public class FriendsScene : MonoBehaviour
         string cursor = queryTokenInput.text?.Length > 0 ? queryTokenInput.text : null;
         int.TryParse(queryLimitInput.text, out int limit);
         limit = limit <= 0 ? 100 : limit;
+
+        TDSFriends.SortCondition condition = friendOnlineSortToggle.isOn ? TDSFriends.SortCondition.OnlineCondition : null;
+
         ThirdPartyFriendResult result = await TDSFriends.QueryThirdPartyFriendList("taptap", cursor, limit,
-            TDSFriends.ThirdPartyFriendRequestCachePolicy.CacheElseNetwork);
-        LCLogger.Debug($"好友数量: {result.FriendList.Count}");
-        LCLogger.Debug($"下次查询的游标: {result.Cursor}");
+            TDSFriends.ThirdPartyFriendRequestCachePolicy.CacheElseNetwork,
+            condition);
+        PrintThirdPartyResult(result);
     }
 
     public async void OnSearchFriendByCodeClicked() {

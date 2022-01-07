@@ -51,6 +51,7 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scenes\AchievementScene.cs" />
+     <Compile Include="Assets\Scenes\FollowFriendScene.cs" />
      <Compile Include="Assets\Scenes\FriendsScene.cs" />
      <Compile Include="Assets\Scenes\LoginScene.cs" />
      <Compile Include="Assets\Scenes\MomentScene.cs" />
@@ -314,34 +315,31 @@
  <HintPath>/Users/tap-tds/Documents/TapTap/tapsdk2-unity-demo/Library/PackageCache/com.leancloud.storage@2c3491e70e/Plugins/LC.Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="TapTap.Achievement">
- <HintPath>/Users/tap-tds/Documents/TapTap/tapsdk2-unity-demo/Library/PackageCache/com.taptap.tds.achievement@6f3e6a6d80/Plugins/TapTap.Achievement.dll</HintPath>
+ <HintPath>/Users/tap-tds/Documents/TapTap/tapsdk2-unity-demo/Library/PackageCache/com.taptap.tds.achievement@8e53d936f0/Plugins/TapTap.Achievement.dll</HintPath>
  </Reference>
  <Reference Include="TapTap.Bootstrap">
- <HintPath>/Users/tap-tds/Documents/TapTap/tapsdk2-unity-demo/Library/PackageCache/com.taptap.tds.bootstrap@4aadf71266/Plugins/TapTap.Bootstrap.dll</HintPath>
+ <HintPath>/Users/tap-tds/Documents/TapTap/tapsdk2-unity-demo/Library/PackageCache/com.taptap.tds.bootstrap@890b11532e/Plugins/TapTap.Bootstrap.dll</HintPath>
  </Reference>
  <Reference Include="TapTap.Common">
- <HintPath>/Users/tap-tds/Documents/TapTap/tapsdk2-unity-demo/Library/PackageCache/com.taptap.tds.common@d4909b21b1/Plugins/TapTap.Common.dll</HintPath>
- </Reference>
- <Reference Include="TapTap.License">
- <HintPath>/Users/tap-tds/Documents/TapTap/tapsdk2-unity-demo/Library/PackageCache/com.taptap.tds.dlc@503f16326c/Plugins/TapTap.License.dll</HintPath>
+ <HintPath>/Users/tap-tds/Documents/TapTap/tapsdk2-unity-demo/Library/PackageCache/com.taptap.tds.common@f970b33a69/Plugins/TapTap.Common.dll</HintPath>
  </Reference>
  <Reference Include="TapTap.Friends">
- <HintPath>/Users/tap-tds/Documents/TapTap/tapsdk2-unity-demo/Library/PackageCache/com.taptap.tds.friends@34d4a23d77/Plugins/TapTap.Friends.dll</HintPath>
+ <HintPath>/Users/tap-tds/Documents/TapTap/tapsdk2-unity-demo/Library/PackageCache/com.taptap.tds.friends@d07d175781/Plugins/TapTap.Friends.dll</HintPath>
  </Reference>
  <Reference Include="TapTap.Login">
- <HintPath>/Users/tap-tds/Documents/TapTap/tapsdk2-unity-demo/Library/PackageCache/com.taptap.tds.login@48bd1df020/Plugins/TapTap.Login.dll</HintPath>
+ <HintPath>/Users/tap-tds/Documents/TapTap/tapsdk2-unity-demo/Library/PackageCache/com.taptap.tds.login@f8e792c658/Plugins/TapTap.Login.dll</HintPath>
  </Reference>
  <Reference Include="zxing.unity">
- <HintPath>/Users/tap-tds/Documents/TapTap/tapsdk2-unity-demo/Library/PackageCache/com.taptap.tds.login@48bd1df020/Plugins/zxing.unity.dll</HintPath>
+ <HintPath>/Users/tap-tds/Documents/TapTap/tapsdk2-unity-demo/Library/PackageCache/com.taptap.tds.login@f8e792c658/Plugins/zxing.unity.dll</HintPath>
  </Reference>
  <Reference Include="TapTap.Moment">
- <HintPath>/Users/tap-tds/Documents/TapTap/tapsdk2-unity-demo/Library/PackageCache/com.taptap.tds.moment@c0800286cc/Plugins/TapTap.Moment.dll</HintPath>
+ <HintPath>/Users/tap-tds/Documents/TapTap/tapsdk2-unity-demo/Library/PackageCache/com.taptap.tds.moment@d58a129821/Plugins/TapTap.Moment.dll</HintPath>
  </Reference>
  <Reference Include="TapTap.Support">
- <HintPath>/Users/tap-tds/Documents/TapTap/tapsdk2-unity-demo/Library/PackageCache/com.taptap.tds.support@14272cf252/Plugins/TapTap.Support.dll</HintPath>
+ <HintPath>/Users/tap-tds/Documents/TapTap/tapsdk2-unity-demo/Library/PackageCache/com.taptap.tds.support@5af626dd84/Plugins/TapTap.Support.dll</HintPath>
  </Reference>
  <Reference Include="TapTap.TapDB">
- <HintPath>/Users/tap-tds/Documents/TapTap/tapsdk2-unity-demo/Library/PackageCache/com.taptap.tds.tapdb@dac1645576/Plugins/TapTap.TapDB.dll</HintPath>
+ <HintPath>/Users/tap-tds/Documents/TapTap/tapsdk2-unity-demo/Library/PackageCache/com.taptap.tds.tapdb@8b7d55431d/Plugins/TapTap.TapDB.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>/Applications/Unity/Hub/Editor/2019.4.28f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
