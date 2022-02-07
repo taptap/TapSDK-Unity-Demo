@@ -134,7 +134,9 @@ public class RTCScene : MonoBehaviour
 
         try
         {
-            if (await TapRTC.Init(config))
+            var resultCode = await TapRTC.Init(config);
+        
+            if (resultCode == ResultCode.OK)
             {
                 Debug.Log("初始化成功");
             }
@@ -214,6 +216,7 @@ public class RTCScene : MonoBehaviour
                 {
                     // 网络状态以及通话质量
                 },
+                
             });
             room?.Join(authBuffer);
         }
