@@ -1,0 +1,9 @@
+idea
+.vs
+.vscode
+Temp
+Logs
+Library
+bin
+obj
+node_modules
