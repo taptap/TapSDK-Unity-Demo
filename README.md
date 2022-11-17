@@ -10,4 +10,4 @@
 
 3、安卓可以下载项目中的 TapSDK_Unity_3.16.1.apk 先体验；
 
-4、关于 TapSDK 更多详情请参考[官方文档](https://developer.taptap.com/docs/sdk/)；
+4、关于 TapSDK 更多详情请参考[官方文档](https://developer.taptap.com/docs/sdk/)。
