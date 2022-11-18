@@ -4,7 +4,7 @@
 
 该示例程序成功运行打包体验的前提条件
 
-1、在 [TapTap 开发者中心](https://developer.taptap.com/) 注册应用，开启登录、内嵌动态等相关服务。将「Client ID」和「Client Token」填入 MainScene.cs 中作为 TapSDK 初始化所需的参数；
+1、在 [TapTap 开发者中心](https://developer.taptap.com/) 注册应用，开启登录、内嵌动态等相关服务。将「Client ID」和「Client Token」以及「ServerURL」填入 MainScene.cs 中作为 TapSDK 初始化所需的参数；
 
 2、配置自己的签名信息，签名打包测试；
 
