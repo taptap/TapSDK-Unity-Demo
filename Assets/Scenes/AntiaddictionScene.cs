@@ -26,7 +26,6 @@ public class AntiaddictionScene : MonoBehaviour
         Action<int, string> callback = (code, errorMsg) => {
            if (code == 500)
                 {
-                    // 开始计时
                     AntiAddictionUIKit.EnterGame();
                     Debug.Log("AntiAddiction： "+"玩家登录后判断当前玩家可以进行游戏");
                 }
@@ -68,7 +67,7 @@ public class AntiaddictionScene : MonoBehaviour
         
     }
 
-    public async void OnGUI ()
+    public void OnGUI ()
 	{
 
 		GUI.skin = demoSkin;

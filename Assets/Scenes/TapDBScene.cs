@@ -72,7 +72,7 @@ public class TapDBScene : MonoBehaviour
 
         if (GUI.Button(new Rect(580, 770, 160, 80), "事件", style))
         {
-            TapDB.OnEvent("eventCode", "{\"event\":\"123\"}");
+            TapDB.TrackEvent("eventCode", "{\"event\":\"123\"}");
         }
 
 
