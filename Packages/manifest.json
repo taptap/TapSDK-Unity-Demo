@@ -6,6 +6,7 @@
     "com.taptap.tds.dlc": "https://github.com/TapTap/TapLicense-Unity.git#3.16.1",
     "com.taptap.tds.login":"https://github.com/TapTap/TapLogin-Unity.git#3.16.1",
     "com.taptap.tds.common":"https://github.com/TapTap/TapCommon-Unity.git#3.16.1",
+    "com.tapsdk.antiaddiction":"https://github.com/taptap/TapAntiAddiction-Unity.git#3.16.1",
     "com.taptap.tds.bootstrap":"https://github.com/TapTap/TapBootstrap-Unity.git#3.16.1",
     "com.leancloud.realtime": "https://github.com/leancloud/csharp-sdk-upm.git#realtime-0.10.18",
     "com.leancloud.storage": "https://github.com/leancloud/csharp-sdk-upm.git#storage-0.10.18",

@@ -10,12 +10,15 @@ using TapTap.Login;
 
 public class LoginScene : MonoBehaviour
 {
-    // Start is called before the first frame update
+
+    public GUISkin demoSkin;
+    private string label;
+
+
     void Start()
     {
     }
 
-    // Update is called once per frame
     void Update()
     {
     }
@@ -33,8 +36,6 @@ public class LoginScene : MonoBehaviour
                     var tdsUser = await TDSUser.LoginWithTapTap();
                     Debug.Log($"login sucess:{tdsUser}");
 
-                    // tdsUser.ObjectId;
-                    // tdsUser.AuthData;
                     UnityNativeToastsHelper.ShowShortText($"login sucess:{tdsUser}");
                     
                 }
@@ -45,7 +46,6 @@ public class LoginScene : MonoBehaviour
                         Debug.Log($"get AccessToken exception:{tapError.code} message:{tapError.message}");
                         UnityNativeToastsHelper.ShowShortText($"get AccessToken exception:{tapError.code} message:{tapError.message}");
                     }
-                    // ignored
                 }
             }
             else 
@@ -103,67 +103,84 @@ public class LoginScene : MonoBehaviour
         }
     }
 
-    private string label;
+
+    public async void getUserInfo(){
+       
+        var profile = await TapLogin.FetchProfile();
+        Debug.Log($"profile: {profile.ToJson()}");
+        label = profile.ToJson()+ "";
+
+    }
+
 
     private void OnGUI()
     {
-        var style = new GUIStyle(GUI.skin.button) { fontSize = 40 };
 
-        GUI.depth = 0;
+        GUI.skin = demoSkin;
+        float scale = 1.0f;
 
-        var labelStyle = new GUIStyle(GUI.skin.label)
-        {
-            fontSize = 20
-        };
+		
+		float btnWidth= Screen.width / 5 * 2;
+        float btnWidth2 = btnWidth + 80 * scale;
 
-        GUI.Label(new Rect(400, 100, 400, 300), label, labelStyle);
+        float btnHeight = Screen.height / 25;
+		float btnTop = 30 * scale;
+		float btnGap = 20 * scale;
 
-        if (GUI.Button(new Rect(60, 150, 180, 100), "登录", style))
-        {
-            Login();   
+		GUI.skin.button.fontSize = Convert.ToInt32(13 * scale);
+
+        var style = new GUIStyle(GUI.skin.button) { fontSize = 20 };
+        var labelStyle = new GUIStyle(GUI.skin.label) { fontSize = 30 };
+
+        if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth /2, btnHeight), "返回", style))
+		{
+            UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(0);
+
         }
 
-        if (GUI.Button(new Rect(60, 300, 180, 100), "登录状态", style))
-        {
+        btnTop += btnHeight + 20 * scale;
+
+		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "登录", style))
+		{
+            Login();  
+        }
+
+        if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "登录状态", style))
+		{
             IsLogin();   
         }
 
-        //if (GUI.Button(new Rect(60, 750, 260, 100), "用户中心", style))
-        //{
-        //    // TapBootstrap.OpenUserCenter();
-        //}
+        btnTop += btnHeight + 20 * scale;
 
-        if (GUI.Button(new Rect(60, 450, 260, 100), "篝火测试", style))
-        {
+        if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "篝火测试", style))
+		{
+
             GouhuoTest();
-
-            // TapLogin.GetTestQualification((valid, error) => {
-            //     if (error)
-            //     {
-            //         // 网络异常或游戏未开启篝火测试
-            //         Debug.Log("网络异常或游戏未开启篝火测试");
-            //         UnityNativeToastsHelper.ShowShortText("网络异常或游戏未开启篝火测试");
-            //     }
-            //     else
-            //     {
-            //         if(valid)
-            //         {
-            //             // 有篝火测试资格
-            //             Debug.Log("该玩家具有篝火测试资格");
-            //             UnityNativeToastsHelper.ShowShortText("该玩家具有篝火测试资格");
-            //         }
-            //     }
-            // });
         }
 
-        if (GUI.Button(new Rect(60, 600, 180, 100), "退出登录", style))
-        {
+        if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "退出登录", style))
+		{
             TDSUser.Logout();
+		}
+
+        btnTop += btnHeight + 20 * scale;
+
+        if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "获取用户信息", style))
+		{
+
+            getUserInfo();
         }
 
-        if (GUI.Button(new Rect(60, 750, 180, 100), "返回", style))
-        {
-            UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(0);
-        }
+        btnTop += btnHeight + 20 * scale;
+
+        GUI.Label(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, Screen.width / 5 * 4, Screen.height / 4), label, labelStyle);
+
+
+        
+
+
+
+
+    
     }
 }
