@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/AntiaddictionScene.unity
     guid: f60ffed4b7c944176afb1f22889c1d86
+  - enabled: 1
+    path: Assets/Scenes/InsideAccoundScene.unity
+    guid: bce9e4975ddd243ac8624cad39a06dc2
   m_configObjects: {}

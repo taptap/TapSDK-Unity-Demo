@@ -5,7 +5,6 @@ using TapTap.Moment;
 using UnityNative.Toasts.Example;
 using System;
 
-
 public class MomentScene : MonoBehaviour
 {
         public GUISkin demoSkin;
