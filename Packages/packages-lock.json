@@ -29,6 +29,15 @@
       "dependencies": {},
       "hash": "8f3dd73955c292b002ad55817f8d7c9217385d9c"
     },
+    "com.taptap.tds.achievement": {
+      "version": "https://github.com/TapTap/TapAchievement-Unity.git#3.16.1",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.taptap.tds.bootstrap": "https://github.com/TapTap/TapBootstrap-Unity.git#3.16.1"
+      },
+      "hash": "b5307c92aadd7fb8b376dd967b69e1cbaca8030e"
+    },
     "com.taptap.tds.bootstrap": {
       "version": "https://github.com/TapTap/TapBootstrap-Unity.git#3.16.1",
       "depth": 0,

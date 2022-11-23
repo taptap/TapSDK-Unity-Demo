@@ -23,4 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/InsideAccoundScene.unity
     guid: bce9e4975ddd243ac8624cad39a06dc2
+  - enabled: 1
+    path: Assets/Scenes/AchievementScene.unity
+    guid: 90459d8362ca5419d801e4eb0dd7a516
   m_configObjects: {}
