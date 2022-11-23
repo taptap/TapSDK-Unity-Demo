@@ -93,6 +93,12 @@ public class MainScene : MonoBehaviour
 
         }
 
+         if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "成就系统", style))
+		{
+			UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(6);
+
+		}
+
 
 
 
