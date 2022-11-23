@@ -17,17 +17,28 @@ public class MomentScene : MonoBehaviour
 
        TapMoment.SetCallback((code, msg) =>
         {
-            Debug.Log("---- moment 回调  code: " + code + " msg: " + msg + "----");
+            Debug.Log(code + "---" + msg);
             if (code == 20100)
             {
                 UnityNativeToastsHelper.ShowShortText("获取新消息失败");
             } else if (code == 20000) {
                 UnityNativeToastsHelper.ShowShortText("获取新消息成功: "+msg);
+            } else if (code == 10000){
+                UnityNativeToastsHelper.ShowShortText("动态发布成功");
+            } else if (code == 10100){
+                UnityNativeToastsHelper.ShowShortText("动态发布失败");
+            } else if (code == 10200){
+                UnityNativeToastsHelper.ShowShortText("关闭动态发布页面");
+            } else if (code == 30000){
+                UnityNativeToastsHelper.ShowShortText("动态页面打开");
+            } else if (code == 30100){
+                UnityNativeToastsHelper.ShowShortText("动态页面关闭");
+            }  else if (code == 70000){
+                UnityNativeToastsHelper.ShowShortText("场景化入口回调");
             } 
         });
     }
 
-    // Update is called once per frame
     void Update()
     {
         
@@ -67,6 +78,29 @@ public class MomentScene : MonoBehaviour
         if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "动态红点", style))
 		{
             TapMoment.FetchNotification();
+        }
+
+         btnTop += btnHeight + 20 * scale;
+
+		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "场景化入口", style))
+		{
+           var sceneDic = new Dictionary<string, object>() { { TapMomentConstants.TapMomentPageShortCutKey, "taprl0242181001" } };
+           TapMoment.DirectlyOpen(Orientation.ORIENTATION_DEFAULT, TapMomentConstants.TapMomentPageShortCut, sceneDic);
+        }
+
+         if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "一键发布", style))
+		{
+            string content = "分布的内容描述。。。。。。";
+            string[] images = {"imgpath01","imgpath02","imgpath03"};
+            TapMoment.Publish(Orientation.ORIENTATION_LANDSCAPE, images, content);
+
+        }
+
+            btnTop += btnHeight + 20 * scale;
+
+         if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "关闭动态页面", style))
+		{
+            TapMoment.Close();
         }
 
     

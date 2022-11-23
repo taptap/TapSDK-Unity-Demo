@@ -55,7 +55,7 @@ public class MainScene : MonoBehaviour
 
 		}
 
-        if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "动态", style))
+        if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "内嵌动态", style))
 		{
             UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(2);
 
