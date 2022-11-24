@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/AchievementScene.unity
     guid: 90459d8362ca5419d801e4eb0dd7a516
+  - enabled: 1
+    path: Assets/Scenes/BillboardScene.unity
+    guid: 6c1db341d9c0947b69ffc614777b6472
   m_configObjects: {}
