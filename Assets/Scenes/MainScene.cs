@@ -125,6 +125,12 @@ public class MainScene : MonoBehaviour
 
         }
 
+         if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "数据存储", style))
+		{
+			UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(8);
+
+		}
+
 
 
 
