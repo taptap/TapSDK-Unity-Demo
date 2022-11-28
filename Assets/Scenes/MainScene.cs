@@ -38,6 +38,9 @@ public class MainScene : MonoBehaviour
 
 
         TapBootstrap.Init(config);
+
+
+    
     }
 
     void Update()
@@ -131,6 +134,14 @@ public class MainScene : MonoBehaviour
 
 		}
 
+        btnTop += btnHeight + 20 * scale;
+
+		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "云存档", style))
+		{
+
+            UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(9);
+
+        }
 
 
 
