@@ -143,6 +143,12 @@ public class MainScene : MonoBehaviour
 
         }
 
+         if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "排行榜", style))
+		{
+			UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(10);
+
+		}
+
 
 
     }
