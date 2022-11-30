@@ -72,17 +72,21 @@ public class LeaderboardScene : MonoBehaviour
 		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "提交成绩", style))
 		{
             var statistic = new Dictionary<string, double>();
-            statistic["world"] = 20.0;
+            statistic["word"] = 20.0;
             await LCLeaderboard.UpdateStatistics(myself, statistic);
             UnityNativeToastsHelper.ShowShortText("提交成功");
 
         }
         if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "获取名次", style))
 		{
-            var leaderboard = LCLeaderboard.CreateWithoutData("world");
+            var leaderboard = LCLeaderboard.CreateWithoutData("word");
             var rankings = await leaderboard.GetResults(limit: 10);
-            UnityNativeToastsHelper.ShowShortText("名次："+ rankings.ToString());
+            foreach(var ranking in rankings) {
 
+                UnityNativeToastsHelper.ShowShortText("名次："+ ranking.ToString());
+
+
+            }
         }
 
          btnTop += btnHeight + 20 * scale;
@@ -90,16 +94,18 @@ public class LeaderboardScene : MonoBehaviour
 		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "更新成绩", style))
 		{
             var statistic = new Dictionary<string, double> {
-                { "world", 3458.0 },
+                { "word", 3458.0 },
             };
             await LCLeaderboard.UpdateStatistics( myself, statistic);
+            UnityNativeToastsHelper.ShowShortText("更新成绩成功");
 
-
+            
         }
 
         if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "删除成绩", style))
 		{
-            await LCLeaderboard.DeleteStatistics(myself, new List<string> { "world" });
+            await LCLeaderboard.DeleteStatistics(myself, new List<string> { "word" });
+            UnityNativeToastsHelper.ShowShortText("删除成绩成功");
 
         }
 
@@ -107,20 +113,22 @@ public class LeaderboardScene : MonoBehaviour
 
 		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "查询排行榜成员成绩", style))
 		{
-            var otherUser = LCObject.CreateWithoutData(TDSUser.CLASS_NAME, "5c76107144d90400536fc88b");
+            var otherUser = LCObject.CreateWithoutData(TDSUser.CLASS_NAME, "6371b3c9477c6532442ec867");
             var statistics = await LCLeaderboard.GetStatistics(otherUser);
             foreach(var statistic in statistics) {
 
             Debug.Log(statistic.Name);
             Debug.Log(statistic.Value);
 
+            UnityNativeToastsHelper.ShowShortText(statistic.Name+": "+ statistic.Value);
+
             }
         }
 
         if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "获取排行榜结果", style))
 		{
-            var leaderboard = LCLeaderboard.CreateWithoutData("world");
-            Debug.Log(leaderboard);
+            var leaderboard = LCLeaderboard.CreateWithoutData("word");
+            Debug.Log(leaderboard.ToString());
 
 
         }

@@ -8,6 +8,7 @@ using TapTap.Bootstrap; // 命名空间
 using TapTap.Common; // 命名空间
 using System;
 using TapTap.Billboard;
+using LeanCloud;
 
 
 public class MainScene : MonoBehaviour
@@ -16,6 +17,23 @@ public class MainScene : MonoBehaviour
 
     void Start()
     {
+
+        LCLogger.LogDelegate = (LCLogLevel level, string info) => {
+        switch (level) {
+            case LCLogLevel.Debug:
+                Debug.Log($"[DEBUG] {DateTime.Now} {info}\n");
+                break;
+            case LCLogLevel.Warn:
+                Debug.Log($"[WARNING] {DateTime.Now} {info}\n");
+                break;
+            case LCLogLevel.Error:
+                Debug.Log($"[ERROR] {DateTime.Now} {info}\n");
+                break;
+            default:
+                Debug.Log(info);
+                break;
+        }
+    };
 
 
         // 初始化 公告系统需要
