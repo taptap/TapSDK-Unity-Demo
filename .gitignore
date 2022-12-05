@@ -8,3 +8,6 @@ bin
 obj
 node_modules
 .DS_Store
+*.cs.meta
+*.unity.meta
+unity_ios_demo
