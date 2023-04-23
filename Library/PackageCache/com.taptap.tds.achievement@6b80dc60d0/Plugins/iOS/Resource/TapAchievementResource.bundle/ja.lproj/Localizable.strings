@@ -1,0 +1,16 @@
+
+
+
+"achievement_date" = "- 獲得：{date} - ";
+"achievement_complete" = "項目達成おめでとう！";
+"achievement_detail_description" = "{complete}/{total} 達成項目";
+"achievement_under_prompt" = "\"この項目を達成したプレイヤーは{lessThan}未満です\"";
+"achievement_prompt" = "\"{percent}のプレイヤーがこの項目を達成しました\"";
+"achievement_keep_play" = "もう少しプレイしたら明らかになりますよ";
+"achievement_secret" = "非表示";
+"achievement_level_precious" = "エクストリーム";
+"achievement_level_rarity" = "スーパーハード";
+"achievement_level_unCommon" = "ハード";
+"achievement_level_ordinary" = "ノーマル";
+"achievement_locked" = "ロック中";
+"achievement_unlocked" = "完了";

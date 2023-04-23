@@ -1,0 +1,16 @@
+
+
+
+"achievement_date" = "- 획득:{date} - ";
+"achievement_complete" = "축하합니다. 새로운 업적을 달성 하였습니다.";
+"achievement_detail_description" = "{complete}업적중 /{total}개 의 업적을 달성 하였습니다";
+"achievement_under_prompt" = "\"{lessThan}미만의 유저가 이 성과를 달성 하였습니다\"";
+"achievement_prompt" = "\"{percent}유저가 이 업적을 달성 하였습니다\"";
+"achievement_keep_play" = "계속해서 플레이를 하면 알 수 있습니다";
+"achievement_secret" = "숨김";
+"achievement_level_precious" = "울트라 유니크";
+"achievement_level_rarity" = "유니크";
+"achievement_level_unCommon" = "희귀";
+"achievement_level_ordinary" = "노멀";
+"achievement_locked" = "미해제";
+"achievement_unlocked" = "해제";

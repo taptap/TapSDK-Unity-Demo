@@ -1,0 +1,16 @@
+
+
+
+"achievement_date" = "- {date} 獲得 - ";
+"achievement_complete" = "恭喜解鎖新成就！";
+"achievement_detail_description" = "已解鎖{complete}項成就，共{total}項成就";
+"achievement_under_prompt" = "\"只有不到{lessThan}的玩家達成此項成就\"";
+"achievement_prompt" = "\"有{percent}的玩家達成此項成就\"";
+"achievement_keep_play" = "繼續玩下去就會知道囉";
+"achievement_secret" = "隱藏";
+"achievement_level_precious" = "極為珍貴";
+"achievement_level_rarity" = "珍貴";
+"achievement_level_unCommon" = "稀有";
+"achievement_level_ordinary" = "普通";
+"achievement_locked" = "未解鎖";
+"achievement_unlocked" = "已解鎖";

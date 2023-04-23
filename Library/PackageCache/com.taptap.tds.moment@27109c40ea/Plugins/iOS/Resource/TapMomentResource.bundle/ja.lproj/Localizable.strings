@@ -1,0 +1,14 @@
+"permission_intent_title" = "メディアへのアクセス";
+"permission_intent_reason" = "動画/画像を保存またはアップロードできるように、アルバムへのアクセス権限をゲームに許可する。";
+"permission_intent_confirm" = "許可";
+"permission_tip_title" = "ご注意";
+"permission_tip_reason" = "画像/動画にアクセスできません。設定からカメラへのアクセス権限を許可してください。";
+"permission_tip_confirm" = "設定へ移動";
+"save_image" = "画像を保存する";
+"dialog_title" = "ご注意";
+"dialog_content" = "ゲームに戻る。";
+"dialog_confirm" = "OK";
+"dialog_cancel" = "キャンセル";
+"save_success" = "保存しました。";
+"save_fail" = "保存に失敗しました。";
+"load_fail_hint" = "読み込みに失敗しました。再試行してください。";

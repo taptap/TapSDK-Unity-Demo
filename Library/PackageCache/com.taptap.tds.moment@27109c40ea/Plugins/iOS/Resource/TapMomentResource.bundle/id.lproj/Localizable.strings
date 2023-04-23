@@ -1,0 +1,14 @@
+"permission_intent_title" = "Akses ke media";
+"permission_intent_reason" = "Izinkan game mengakses album agar kamu bisa menyimpan atau mengupload video/gambar.";
+"permission_intent_confirm" = "Izinkan";
+"permission_tip_title" = "Tips";
+"permission_tip_reason" = "Gagal mengakses gambar/video. Silakan buka Setting untuk mengizinkan akses ke kamera terlebih dahulu.";
+"permission_tip_confirm" = "Buka setting";
+"save_image" = "Simpan gambar";
+"dialog_title" = "Tips";
+"dialog_content" = "Kembali ke game.";
+"dialog_confirm" = "Konfirmasi";
+"dialog_cancel" = "Cancel";
+"save_success" = "Berhasil simpan";
+"save_fail" = "Gagal simpan";
+"load_fail_hint" = "Loading gagal. Harap coba lagi";

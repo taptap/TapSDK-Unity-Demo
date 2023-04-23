@@ -1,0 +1,55 @@
+apply plugin: 'com.android.library'
+
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation(name: 'TapCommon_3.18.5', ext:'aar')
+    implementation(name: 'TapLogin_3.18.5', ext:'aar')
+    implementation(name: 'TapBillboard_3.18.5', ext:'aar')
+    implementation(name: 'TapAchievement_3.18.5', ext:'aar')
+    implementation(name: 'AntiAddiction_3.18.5', ext:'aar')
+    implementation(name: 'com.UnityNative.Toasts-v1.0.4', ext:'aar')
+    implementation(name: 'TapLicense_3.18.5', ext:'aar')
+    implementation(name: 'TapDB_3.18.5', ext:'aar')
+    implementation(name: 'TapMoment_3.18.5', ext:'aar')
+    implementation(name: 'AntiAddictionUI_3.18.5', ext:'aar')
+    implementation project('Opensdk.plugin')
+
+}
+
+android {
+    compileSdkVersion 30
+    buildToolsVersion '30.0.2'
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    defaultConfig {
+        minSdkVersion 22
+        targetSdkVersion 30
+        ndk {
+            abiFilters 'armeabi-v7a'
+        }
+        versionCode 1
+        versionName '0.1'
+        consumerProguardFiles 'proguard-unity.txt'
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+
+    aaptOptions {
+        noCompress = ['.unity3d', '.ress', '.resource', '.obb', '.bundle', '.unityexp'] + unityStreamingAssets.tokenize(', ')
+        ignoreAssetsPattern = "!.svn:!.git:!.ds_store:!*.scc:.*:!CVS:!thumbs.db:!picasa.ini:!*~"
+    }
+
+    packagingOptions {
+        doNotStrip '*/armeabi-v7a/*.so'
+    }
+}
+
+
+

@@ -1,0 +1,14 @@
+"permission_intent_title" = "Access to media";
+"permission_intent_reason" = "Allow the game to access your album so you can save or upload videos/images.";
+"permission_intent_confirm" = "Allow";
+"permission_tip_title" = "Attention";
+"permission_tip_reason" = "Failed to access images/videos. Please go to Settings to allow access to the camera first.";
+"permission_tip_confirm" = "Go to settings";
+"save_image" = "Save Image";
+"dialog_title" = "Attention";
+"dialog_content" = "Go back to the game.";
+"dialog_confirm" = "Confirm";
+"dialog_cancel" = "Cancel";
+"save_success" = "Saved";
+"save_fail" = "Saving Failed";
+"load_fail_hint" = "Loading failed. Try again.";

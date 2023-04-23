@@ -1,0 +1,32 @@
+Using template '/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/Apk/UnityManifest.xml'
+
+android.hardware.vulkan.version was added because:
+	One of the graphics devices was Vulkan
+android.permission.INTERNET was added because:
+	UnityEngine.Networking was present in:
+		TapTap.RTC-FeaturesChecked.txt
+		Unity.Services.Core.Internal-FeaturesChecked.txt
+		Unity.Services.Core.Networking-FeaturesChecked.txt
+		Unity.Services.Core.Telemetry-FeaturesChecked.txt
+	System.Net.Sockets was present in:
+		TapTap.Login-FeaturesChecked.txt
+	UnityEngine.Network was present in:
+		TapTap.RTC-FeaturesChecked.txt
+		Unity.Services.Core.Internal-FeaturesChecked.txt
+		Unity.Services.Core.Networking-FeaturesChecked.txt
+		Unity.Services.Core.Telemetry-FeaturesChecked.txt
+	UnityEngine.WWW was present in:
+		TapTap.Login-FeaturesChecked.txt
+	UnityEngine.Networking.UnityWebRequest was present in:
+		TapTap.RTC-FeaturesChecked.txt
+		Unity.Services.Core.Internal-FeaturesChecked.txt
+		Unity.Services.Core.Networking-FeaturesChecked.txt
+		Unity.Services.Core.Telemetry-FeaturesChecked.txt
+android.permission.ACCESS_NETWORK_STATE was added because:
+	UnityEngine.Application::get_internetReachability was present in:
+		Unity.Services.Core.Telemetry-FeaturesChecked.txt
+android.hardware.touchscreen.multitouch, android.hardware.touchscreen.multitouch.distinct were enabled because:
+	UnityEngine.Input::GetTouch was present in:
+		UnityEngine.UI-FeaturesChecked.txt
+	UnityEngine.Input::get_touchCount was present in:
+		UnityEngine.UI-FeaturesChecked.txt

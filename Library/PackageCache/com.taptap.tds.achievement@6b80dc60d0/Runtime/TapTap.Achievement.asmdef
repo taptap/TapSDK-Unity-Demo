@@ -1,0 +1,16 @@
+{
+    "name": "TapTap.Achievement",
+    "references": [
+        "GUID:e40af75f4f5764fee95a90e612fbdab8",
+        "GUID:616cea76def2d4f059b94440fc8cc03d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

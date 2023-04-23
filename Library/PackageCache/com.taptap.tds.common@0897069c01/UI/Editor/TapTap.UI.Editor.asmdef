@@ -1,0 +1,17 @@
+{
+    "name": "TapTap.UI.Editor",
+    "references": [
+        "GUID:e40af75f4f5764fee95a90e612fbdab8"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

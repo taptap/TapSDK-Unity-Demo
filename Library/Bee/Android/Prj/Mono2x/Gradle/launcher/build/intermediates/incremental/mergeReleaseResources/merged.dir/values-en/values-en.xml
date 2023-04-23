@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="billboard_loading">Loading…</string>
+    <string name="billboard_network_error_retry">Loading failed. Please try again.</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_choose_tap_cn">TapTap China</string>
+    <string name="dialog_choose_tap_global">TapTap</string>
+    <string name="dialog_choose_title">Select the following applications to run</string>
+    <string name="dialog_confirm">Confirm</string>
+    <string name="dialog_content">Go back to the game.</string>
+    <string name="dialog_title">Attention</string>
+    <string name="load_fail_hint">Loading failed. Try again.</string>
+    <string name="permission_intent_confirm">Allow</string>
+    <string name="permission_intent_reason">Allow the game to access your album so you can save or upload videos/images.</string>
+    <string name="permission_intent_title">Access to media</string>
+    <string name="permission_tip_confirm">Go to settings</string>
+    <string name="permission_tip_reason">Failed to acess images/videos. Please go to Settings to allow access to the camera first.</string>
+    <string name="permission_tip_title">Attention</string>
+    <string name="save_fail">Saving Failed</string>
+    <string name="save_image">Save Image</string>
+    <string name="save_success">Saved</string>
+    <string name="taptap_alert_download_taptap">This game requires the latest TapTap service support, please download the latest TapTap version</string>
+    <string name="taptap_alert_license_no">Game not activated, please buy this game from TapTap</string>
+    <string name="taptap_string_checking_license">Checking purchase information...</string>
+    <string name="taptap_string_download_taptap">Download TapTap</string>
+    <string name="taptap_string_open_taptap">Open TapTap</string>
+    <string name="tds_achievement_string_dialog_earned_date">- Accomplished on %s -</string>
+    <string name="tds_achievement_string_dialog_percent">\'%.1f%% of players have this\'</string>
+    <string name="tds_achievement_string_dialog_percent_low">\'Fewer than 0.1% of players have achieved this\'</string>
+    <string name="tds_achievement_string_dialog_status">%1$s/%2$s Achievements</string>
+    <string name="tds_achievement_string_invisible_subtitle">Keep playing to find out</string>
+    <string name="tds_achievement_string_invisible_title">Hidden</string>
+    <string name="tds_achievement_string_locked">LOCKED</string>
+    <string name="tds_achievement_string_pop_title">Achievement unlocked!</string>
+    <string name="tds_achievement_string_rarity_common">Common</string>
+    <string name="tds_achievement_string_rarity_rare">Super Rare</string>
+    <string name="tds_achievement_string_rarity_ultra_rare">Ultra Rare</string>
+    <string name="tds_achievement_string_rarity_uncommon">Rare</string>
+    <string name="tds_achievement_string_unlocked">UNLOCKED</string>
+</resources>

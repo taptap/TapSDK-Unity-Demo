@@ -1,0 +1,16 @@
+
+
+
+"achievement_date" = "- Mendapat achievement pada {date} - ";
+"achievement_complete" = "Mendapatkan achievement!";
+"achievement_detail_description" = "{complete}/{total} Achievement";
+"achievement_under_prompt" = "\"Kurang dari {lessThan} pemain memiliki achievement ini\"";
+"achievement_prompt" = "\"{percent} pemain mendapat Achievement ini\"";
+"achievement_keep_play" = "Tetaplah bermain untuk membukanya";
+"achievement_secret" = "Tersembunyi";
+"achievement_level_precious" = "Ultra Rare";
+"achievement_level_rarity" = "Super Rare";
+"achievement_level_unCommon" = "Rare";
+"achievement_level_ordinary" = "Common";
+"achievement_locked" = "LOCKED";
+"achievement_unlocked" = "UNLOCKED";

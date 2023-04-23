@@ -1,0 +1,122 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  maven_library {
+    artifactId: "TapCommon_3.18.5"
+  }
+  digests {
+    sha256: "\355\177\310\vlk=\370\311S\315\n\242\341\331\310\350\026\360pE\350\320\372\313}OB\275\210d\365"
+  }
+}
+library {
+  maven_library {
+    artifactId: "TapLogin_3.18.5"
+  }
+  digests {
+    sha256: "\213(\264\311#\032F\254\345\277\365\033eD\262\371\033\310j\276/\2123\a\332\\\217)\251\207\232\365"
+  }
+}
+library {
+  maven_library {
+    artifactId: "TapBillboard_3.18.5"
+  }
+  digests {
+    sha256: "\302%hK\333\365j\334\333\210l\236\203\241\206\'\260Z?\372/\237\254\230\030\251\304\342\347S\351\022"
+  }
+}
+library {
+  maven_library {
+    artifactId: "TapAchievement_3.18.5"
+  }
+  digests {
+    sha256: "2\345\207\033\247B\341\331d\337g\v\322\354\fy\372\376|p\025\341\244\241\032}\340\261\303\203\353\312"
+  }
+}
+library {
+  maven_library {
+    artifactId: "AntiAddiction_3.18.5"
+  }
+  digests {
+    sha256: "j\375\343\035,\243\207K\324>\232\370\037\r\210\035y\253\302\360p\315#;)\002\330\207\3634\234\351"
+  }
+}
+library {
+  maven_library {
+    artifactId: "TapLicense_3.18.5"
+  }
+  digests {
+    sha256: "\227\3153\206\214 \357\265qj\'|\002.$e\021\243\204\205\333\211\341r\022\251iBv^3g"
+  }
+}
+library {
+  maven_library {
+    artifactId: "TapDB_3.18.5"
+  }
+  digests {
+    sha256: "q\374\247\323l\233\255\270F\000y7[\n\370\206\343H?\336\211\\\3104]s\306\362\305\212\034\310"
+  }
+}
+library {
+  maven_library {
+    artifactId: "TapMoment_3.18.5"
+  }
+  digests {
+    sha256: "%X\023DRw4ak\323\347\004N9g\333X\n\"\342\251R*\201 \222\233\273\n\003!3"
+  }
+}
+library {
+  maven_library {
+    artifactId: "AntiAddictionUI_3.18.5"
+  }
+  digests {
+    sha256: "\036\314\265\024\246\201\251\321<|dq\334\030\300\373\005\316\370\241\343\236.\266\375\313\204|\2440~\353"
+  }
+}
+library {
+  digests {
+    sha256: "\233\343\334\037\254\016E\277B`<\351\314\027v\177\273hP\025\240/\334\214\3640\215\036\021\342\2617"
+  }
+}
+library {
+  digests {
+    sha256: "\216\'TJk\037E\205Rd\220C\377\361\32720\232b\230b9\355\201s\026\363\222\251\276\203\244"
+  }
+}
+library_dependencies {
+}
+library_dependencies {
+  library_index: 1
+}
+library_dependencies {
+  library_index: 2
+}
+library_dependencies {
+  library_index: 3
+}
+library_dependencies {
+  library_index: 4
+}
+library_dependencies {
+  library_index: 5
+}
+library_dependencies {
+  library_index: 6
+}
+library_dependencies {
+  library_index: 7
+}
+library_dependencies {
+  library_index: 8
+}
+library_dependencies {
+  library_index: 9
+}
+library_dependencies {
+  library_index: 10
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 9
+  dependency_index: 10
+}

@@ -1,0 +1,6 @@
+framework module TapBillboardSDK {
+  umbrella header "TapBillboardSDK.h"
+
+  export *
+  module * { export * }
+}

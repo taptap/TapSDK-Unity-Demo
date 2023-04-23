@@ -1,0 +1,18 @@
+{
+    "name": "TapTap.TapDB.Mobile.Runtime",
+    "references": [
+        "GUID:d9a5d47c553a04a28a7d21a3f3fc8dc3"
+    ],
+    "includePlatforms": [
+        "Android",
+        "iOS"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

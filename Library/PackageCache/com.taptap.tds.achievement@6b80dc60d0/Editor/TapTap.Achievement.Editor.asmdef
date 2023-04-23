@@ -1,0 +1,18 @@
+{
+    "name": "TapTap.Achievement.Standalone.Editor",
+    "references": [
+        "GUID:616cea76def2d4f059b94440fc8cc03d",
+        "GUID:93f19dce2f7c14970ada84bd47468070"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

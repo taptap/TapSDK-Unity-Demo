@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="billboard_loading">Sedang memua…</string>
+    <string name="billboard_network_error_retry">Gagal memuat halaman. Tekan untuk mencoba lagi.</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_confirm">Konfirmasi</string>
+    <string name="dialog_content">Kembali ke game.</string>
+    <string name="dialog_title">Tips</string>
+    <string name="load_fail_hint">Loading gagal. Harap coba lagi</string>
+    <string name="permission_intent_confirm">Izinkan</string>
+    <string name="permission_intent_reason">Izinkan game mengakses album agar kamu bisa menyimpan atau mengupload video/gambar.</string>
+    <string name="permission_intent_title">Akses ke media</string>
+    <string name="permission_tip_confirm">Buka setting</string>
+    <string name="permission_tip_reason">Gagal mengakses gambar/video. Silakan buka Setting untuk mengizinkan akses ke kamera terlebih dahulu.</string>
+    <string name="permission_tip_title">Tips</string>
+    <string name="save_fail">Gagal simpan</string>
+    <string name="save_image">Simpan gambar</string>
+    <string name="save_success">Berhasil simpan</string>
+    <string name="tds_achievement_string_dialog_earned_date">- Mendapat achievement pada %s -</string>
+    <string name="tds_achievement_string_dialog_percent">\"%.1f%% pemain mendapat Achievement ini\"</string>
+    <string name="tds_achievement_string_dialog_percent_low">\"Kurang dari 0.1% pemain memiliki achievement ini\"</string>
+    <string name="tds_achievement_string_dialog_status">%1$s/%2$s Achievement</string>
+    <string name="tds_achievement_string_invisible_subtitle">Tetaplah bermain untuk membukanya</string>
+    <string name="tds_achievement_string_invisible_title">Tersembunyi</string>
+    <string name="tds_achievement_string_locked">LOCKED</string>
+    <string name="tds_achievement_string_pop_title">Mendapatkan achievement!</string>
+    <string name="tds_achievement_string_rarity_common">Common</string>
+    <string name="tds_achievement_string_rarity_rare">Super Rare</string>
+    <string name="tds_achievement_string_rarity_ultra_rare">Ultra Rare</string>
+    <string name="tds_achievement_string_rarity_uncommon">Rare</string>
+    <string name="tds_achievement_string_unlocked">UNLOCKED</string>
+</resources>

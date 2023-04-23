@@ -1,0 +1,14 @@
+"permission_intent_title" = "미디어 접근 권한";
+"permission_intent_reason" = "동영상/이미지 저장 또는 업로드를 위해, 게임이 나의 앨범에 접근하도록 허용하세요.";
+"permission_intent_confirm" = "허용";
+"permission_tip_title" = "팁";
+"permission_tip_reason" = "이미지/동영상에 접근하지 못했습니다. 먼저 설정으로 이동해서 카메라의 접근 권한을 허용하세요.";
+"permission_tip_confirm" = "설정으로 이동";
+"save_image" = "그림 저장";
+"dialog_title" = "팁";
+"dialog_content" = "게임으로 돌아갑니다.";
+"dialog_confirm" = "확인";
+"dialog_cancel" = "취소";
+"save_success" = "저장 성공";
+"save_fail" = "저장 실패";
+"load_fail_hint" = "데이터 다운로드 실패. 다시 시도 버튼을 눌러주시기 바랍니다.";

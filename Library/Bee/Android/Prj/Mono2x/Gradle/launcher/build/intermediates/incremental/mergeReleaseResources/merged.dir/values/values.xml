@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="antiaddictionui_color_15c5ce">#15C5CE</color>
+    <color name="antiaddictionui_color_222222">#222222</color>
+    <color name="antiaddictionui_color_888888">#888888</color>
+    <color name="antiaddictionui_color_bfbfbf">#BFBFBF</color>
+    <color name="antiaddictionui_color_black_a30">#B3000000</color>
+    <color name="color_tap">#14B9C8</color>
+    <color name="color_title">#333333</color>
+    <color name="tapMomentBlack">#000000</color>
+    <color name="ttos_moment_black">#333333</color>
+    <color name="ttos_moment_font">#666666</color>
+    <color name="ttos_moment_white">#FFFFFF</color>
+    <item name="tds_common_tag_unhandled_key_event_manager" type="id"/>
+    <item name="tds_common_tag_unhandled_key_listeners" type="id"/>
+    <item name="unitySurfaceView" type="id"/>
+    <string name="FreeformWindowOrientation_landscape"/>
+    <string name="FreeformWindowOrientation_portrait"/>
+    <string name="FreeformWindowSize_maximize"/>
+    <string name="FreeformWindowSize_phone"/>
+    <string name="FreeformWindowSize_tablet"/>
+    <string name="antiaddictionui_dialog_tap_authorization_title" translatable="false">TapTap 快速认证服务</string>
+    <string name="antiaddictionui_fetch_realname_fail" translatable="false">未查询到实名状态，防沉迷启动失败</string>
+    <string name="antiaddictionui_network_error" translatable="false">网络异常，请稍后重试</string>
+    <string name="antiaddictionui_retry" translatable="false">重试</string>
+    <string name="antiaddictionui_return_game">返回游戏</string>
+    <string name="app_name">Tds-unity-demo</string>
+    <string name="billboard_loading">加载中…</string>
+    <string name="billboard_network_error_retry">页面加载失败，点击重试</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_choose_tap_cn">TapTap中国</string>
+    <string name="dialog_choose_tap_global">TapTap</string>
+    <string name="dialog_choose_title">选择以下应用程序打开</string>
+    <string name="dialog_confirm">Confirm</string>
+    <string name="dialog_content">Go back to the game.</string>
+    <string name="dialog_title">Attention</string>
+    <string name="game_view_content_description">Game view</string>
+    <string name="load_fail_hint">Loading failed. Try again.</string>
+    <string name="permission_intent_confirm">Allow</string>
+    <string name="permission_intent_reason">Allow the game to access your album so you can save or upload videos/images.</string>
+    <string name="permission_intent_title">Access to media</string>
+    <string name="permission_tip_confirm">Go to settings</string>
+    <string name="permission_tip_reason">Failed to access images/videos. Please go to Settings to allow access to the camera first.</string>
+    <string name="permission_tip_title">Attention</string>
+    <string name="save_fail">Saving Failed</string>
+    <string name="save_image">Save Image</string>
+    <string name="save_success">Saved</string>
+    <string name="taptap_alert_download_taptap">本游戏需要最新版TapTap服务支持，请下载最新版本TapTap</string>
+    <string name="taptap_alert_license_no">游戏未激活，请前往TapTap购买此游戏</string>
+    <string name="taptap_string_checking_license">正在查询购买信息...</string>
+    <string name="taptap_string_download_taptap">下载TapTap</string>
+    <string name="taptap_string_open_taptap">打开TapTap</string>
+    <string name="tds_achievement_string_dialog_earned_date">- Accomplished on %s -</string>
+    <string name="tds_achievement_string_dialog_percent">\'%.1f%% of players have this\'</string>
+    <string name="tds_achievement_string_dialog_percent_low">\'Fewer than 0.1% of players have achieved this\'</string>
+    <string name="tds_achievement_string_dialog_status">%1$s/%2$s Achievements</string>
+    <string name="tds_achievement_string_invisible_subtitle">Keep playing to find out</string>
+    <string name="tds_achievement_string_invisible_title">Hidden</string>
+    <string name="tds_achievement_string_locked">LOCKED</string>
+    <string name="tds_achievement_string_pop_title">Achievement unlocked!</string>
+    <string name="tds_achievement_string_rarity_common">Common</string>
+    <string name="tds_achievement_string_rarity_rare">Super Rare</string>
+    <string name="tds_achievement_string_rarity_ultra_rare">Ultra Rare</string>
+    <string name="tds_achievement_string_rarity_uncommon">Rare</string>
+    <string name="tds_achievement_string_unlocked">UNLOCKED</string>
+    <style name="AlertDialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="BaseUnityTheme" parent="android:Theme.Holo.Light.NoActionBar.Fullscreen">
+</style>
+    <style name="BottomSheetStyle" parent="@android:style/Theme">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:gravity">bottom</item>
+        <item name="android:windowAnimationStyle">@style/dialog_fragment_animation</item>
+    </style>
+    <style name="Theme.Tap.Light.NoActionBar" parent="android:Theme.Black.NoTitleBar">
+        <item name="android:windowBackground">@color/tapMomentBlack</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+    </style>
+    <style name="UnityThemeSelector" parent="BaseUnityTheme">
+	<item name="android:windowBackground">@android:color/black</item>
+</style>
+    <style name="UnityThemeSelector.Translucent" parent="@style/UnityThemeSelector">
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowBackground">@android:color/transparent</item>
+</style>
+    <style name="antiaddictionui_common_text_style">
+        <item name="android:textColor">@color/antiaddictionui_color_888888</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="dialog_fragment_animation">
+        <item name="android:windowEnterAnimation">@anim/ttos_moment_in_bottom</item>
+        <item name="android:windowExitAnimation">@anim/ttos_moment_out_bottom</item>
+    </style>
+    <style name="tds_common_DialogTheme">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="tds_common_animation_slideSheetDialog_landscape" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/tds_common_slide_sheet_land_slide_in</item>
+        <item name="android:windowExitAnimation">@anim/tds_common_slide_sheet_land_slide_out</item>
+    </style>
+    <style name="tds_common_animation_slideSheetDialog_portrait" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/tds_common_slide_sheet_port_slide_in</item>
+        <item name="android:windowExitAnimation">@anim/tds_common_slide_sheet_port_slide_out</item>
+    </style>
+    <style name="tds_common_permission_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+</resources>

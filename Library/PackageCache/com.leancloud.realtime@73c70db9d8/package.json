@@ -1,0 +1,16 @@
+{
+  "name": "com.leancloud.realtime",
+  "version": "1.0.2",
+  "displayName": "LeanCloud Realtime",
+  "description": "This is leancloud realtime package",
+  "unity": "2019.1",
+  "dependencies": {
+    "com.leancloud.storage": "https://github.com/leancloud/csharp-sdk-upm.git#storage-1.0.2"
+  },
+  "keywords": ["LeanCloud", "Realtime"],
+  "author": {
+    "name": "LeanCloud",
+    "email": "support@leancloud.rocks",
+    "url": "https://leancloud.cn/"
+  }
+}

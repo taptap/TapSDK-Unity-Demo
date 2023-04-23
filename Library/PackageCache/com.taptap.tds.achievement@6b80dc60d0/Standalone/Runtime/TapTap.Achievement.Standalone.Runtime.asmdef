@@ -1,0 +1,27 @@
+{
+    "name": "TapTap.Achievement.Standalone.Runtime",
+    "references": [
+        "GUID:93f19dce2f7c14970ada84bd47468070",
+        "GUID:e40af75f4f5764fee95a90e612fbdab8"
+    ],
+    "includePlatforms": [
+        "CloudRendering",
+        "Editor",
+        "GameCoreScarlett",
+        "GameCoreXboxOne",
+        "LinuxStandalone64",
+        "macOSStandalone",
+        "WSA",
+        "WindowsStandalone32",
+        "WindowsStandalone64",
+        "XboxOne"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

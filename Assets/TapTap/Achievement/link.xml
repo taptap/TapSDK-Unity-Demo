@@ -1,0 +1,4 @@
+<linker>
+  <assembly fullname="TapTap.Achievement" preserve="all" />
+  <assembly fullname="TapTap.Achievement.Mobile.Runtime" preserve="all" />
+</linker>

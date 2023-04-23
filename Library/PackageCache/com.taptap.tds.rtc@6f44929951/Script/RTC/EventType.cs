@@ -1,0 +1,13 @@
+namespace TapTap.RTC
+{
+    public enum EventType
+    {
+        MAIN_EVENT_TYPE_NONE = 0,
+        MAIN_EVENT_TYPE_ENTER_ROOM = 1,
+        MAIN_EVENT_TYPE_EXIT_ROOM = 2,
+        MAIN_EVENT_TYPE_DISCONNECT = 3,
+        MAIN_EVENT_TYPE_USER_UPDATE = 4,
+        MAIN_EVENT_TYPE_ROOM_TYPE_CHANGE = 5,
+        MAIN_EVENT_TYPE_CHANGE_ROOM_QUALITY = 6,
+    }
+}

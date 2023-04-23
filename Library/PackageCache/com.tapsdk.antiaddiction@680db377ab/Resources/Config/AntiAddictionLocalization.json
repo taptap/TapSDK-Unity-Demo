@@ -1,0 +1,53 @@
+{
+    "items": {
+        "zhs": {
+            "NetError": "网络异常，请稍后重试", 
+            "NoVerification": "未查询到实名状态，防沉迷启动失败",
+            "EnterGame": "进入游戏",
+            "ExitGame": "退出游戏",
+            "Retry": "重试"
+        }, 
+        "en": {
+            "NetError": "Network error,please try again", 
+            "NoVerification": "No Verification",
+            "EnterGame": "Enter",
+            "ExitGame": "Exit",
+            "Retry": "Retry"
+        },
+        "Id": {
+            "NetError": "Network error,please try again", 
+            "NoVerification": "No Verification",
+            "EnterGame": "Enter",
+            "ExitGame": "Exit",
+            "Retry": "Retry"
+        },
+        "Ja": {
+            "NetError": "Network error,please try again", 
+            "NoVerification": "No Verification",
+            "EnterGame": "Enter",
+            "ExitGame": "Exit",
+            "Retry": "Retry"
+        },
+        "Ko": {
+            "NetError": "Network error,please try again", 
+            "NoVerification": "No Verification",
+            "EnterGame": "Enter",
+            "ExitGame": "Exit",
+            "Retry": "Retry"
+        },
+        "Th": {
+            "NetError": "Network error,please try again", 
+            "NoVerification": "No Verification",
+            "EnterGame": "Enter",
+            "ExitGame": "Exit",
+            "Retry": "Retry"
+        },
+        "zht": {
+            "NetError": "网络异常，请稍后重试", 
+            "NoVerification": "未查询到实名状态，防沉迷启动失败",
+            "EnterGame": "进入游戏",
+            "ExitGame": "退出游戏",
+            "Retry": "重试"
+        }
+    }
+}

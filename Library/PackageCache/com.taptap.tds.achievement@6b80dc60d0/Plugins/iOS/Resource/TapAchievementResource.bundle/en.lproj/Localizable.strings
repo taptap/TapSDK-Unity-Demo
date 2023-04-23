@@ -1,0 +1,13 @@
+"achievement_unlocked" = "UNLOCKED";
+"achievement_locked" = "LOCKED";
+"achievement_level_ordinary" = "Common";
+"achievement_level_unCommon" = "Rare";
+"achievement_level_rarity" = "Super Rare";
+"achievement_level_precious" = "Ultra Rare";
+"achievement_secret" = "Hidden";
+"achievement_keep_play" = "Keep playing to find out";
+"achievement_prompt" = "‘{percent} of players have achieved this’";
+"achievement_under_prompt" = "‘Fewer than {lessThan} of players have achieved this’";
+"achievement_detail_description" = "{complete}/{total} Achievements";
+"achievement_complete" = "Achievement unlocked!";
+"achievement_date" = "- Accomplished on {date} - ";

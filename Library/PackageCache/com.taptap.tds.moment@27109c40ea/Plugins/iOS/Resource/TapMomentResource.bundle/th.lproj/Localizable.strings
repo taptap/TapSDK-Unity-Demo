@@ -1,0 +1,14 @@
+"permission_intent_title" = "เข้าถึงสื่อ";
+"permission_intent_reason" = "อนุญาตให้เกมเข้าถึงอัลบั้มของคุณ เพื่อให้คุณสามารถบันทึกหรืออัปโหลดวิดีโอ/รูปภาพได้";
+"permission_intent_confirm" = "อนุญาต";
+"permission_tip_title" = "ทิปส์";
+"permission_tip_reason" = "ไม่สามารถเข้าถึงรูปภาพ/วิดีโอได้ โปรดไปที่การตั้งค่าเพื่ออนุญาตการเข้าถึงกล้องก่อน";
+"permission_tip_confirm" = "ไปที่การตั้งค่า";
+"save_image" = "บันทึกรูปภาพ";
+"dialog_title" = "ทิปส์";
+"dialog_content" = "กลับไปที่เกม";
+"dialog_confirm" = "ยืนยัน";
+"dialog_cancel" = "ยกเลิก";
+"save_success" = "บันทึกสำเร็จ";
+"save_fail" = "บันทึกไม่สำเร็จ";
+"load_fail_hint" = "การโหลดล้มเหลว โปรดลองใหม่ภายหลัง";

@@ -1,0 +1,16 @@
+
+
+
+"achievement_date" = "- สำเร็จเมื่อ {date} - ";
+"achievement_secret" = "ความสำเร็จลับ";
+"achievement_keep_play" = "เล่นเพื่อปลดล็อกความสำเร็จลับ";
+"achievement_level_unCommon" = "แรร์";
+"achievement_level_rarity" = "ซุปเปอร์แรร์";
+"achievement_level_precious" = "อัลตราแรร์";
+"achievement_locked" = "ล็อก";
+"achievement_level_ordinary" = "คอมมอน";
+"achievement_complete" = "ปลดล็อกความสำเร็จ!";
+"achievement_detail_description" = "{complete}/{total} ความสำเร็จ";
+"achievement_unlocked" = "ปลดล็อก";
+"achievement_prompt" = "\"{percent} ของผู้เล่นได้รับความสำเร็จนี้\"";
+"achievement_under_prompt" = "\"ผู้เล่นน้อยกว่า {lessThan} ได้รับความสำเร็จนี้\"";

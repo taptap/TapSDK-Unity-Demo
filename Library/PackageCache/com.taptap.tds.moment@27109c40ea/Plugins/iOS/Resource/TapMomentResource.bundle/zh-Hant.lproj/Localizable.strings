@@ -1,0 +1,14 @@
+"permission_intent_title" = "媒體存取";
+"permission_intent_reason" = "允許遊戲存取你的相簿，你就能儲存或上傳影片／相片。";
+"permission_intent_confirm" = "允許";
+"permission_tip_title" = "提示";
+"permission_tip_reason" = "無法存取相片／影片。請先前往設定允許存取相機。";
+"permission_tip_confirm" = "前往設定";
+"save_image" = "保存圖片";
+"dialog_title" = "提示";
+"dialog_content" = "返回遊戲。";
+"dialog_confirm" = "確定";
+"dialog_cancel" = "取消";
+"save_success" = "保存成功";
+"save_fail" = "保存失敗";
+"load_fail_hint" = "數據載入失敗，點擊重試";
