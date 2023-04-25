@@ -11,6 +11,7 @@ ScriptsOnlyBuild:
     - LoginScene
     - MainScene
     - MomentScene
+    - MyNamespaceC.PostExamplee
     - RTCScene
     - StorageScene
     - TapDBScene
@@ -79,6 +80,35 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Toggle/ToggleEvent
   methodsToPreserve: []
   sceneClasses:
+    Assets/GiftScene.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 43418}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
     Assets/Scenes/AchievementScene.unity:
     - Class: 1
       Script: {instanceID: 0}
@@ -101,7 +131,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 40648}
+      Script: {instanceID: 3302}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -130,7 +160,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 40628}
+      Script: {instanceID: 2766}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -159,7 +189,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 40660}
+      Script: {instanceID: 8668}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -188,7 +218,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 40646}
+      Script: {instanceID: 6422}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -217,7 +247,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 40626}
+      Script: {instanceID: 6668}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -246,7 +276,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 40668}
+      Script: {instanceID: 7580}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -275,7 +305,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 40632}
+      Script: {instanceID: 6382}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -298,7 +328,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 40622}
+      Script: {instanceID: 4682}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -321,7 +351,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 40620}
+      Script: {instanceID: 5908}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -350,7 +380,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 40664}
+      Script: {instanceID: 3726}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -385,69 +415,69 @@ ScriptsOnlyBuild:
     - Class: 111
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1572}
+      Script: {instanceID: 1632}
     - Class: 114
-      Script: {instanceID: 2322}
+      Script: {instanceID: 1634}
     - Class: 114
-      Script: {instanceID: 2854}
+      Script: {instanceID: 1636}
     - Class: 114
-      Script: {instanceID: 2904}
+      Script: {instanceID: 1638}
     - Class: 114
-      Script: {instanceID: 3156}
+      Script: {instanceID: 1640}
     - Class: 114
-      Script: {instanceID: 3340}
+      Script: {instanceID: 1790}
     - Class: 114
-      Script: {instanceID: 3974}
+      Script: {instanceID: 1940}
     - Class: 114
-      Script: {instanceID: 4884}
+      Script: {instanceID: 2510}
     - Class: 114
-      Script: {instanceID: 5110}
+      Script: {instanceID: 2594}
     - Class: 114
-      Script: {instanceID: 5178}
+      Script: {instanceID: 3016}
     - Class: 114
-      Script: {instanceID: 5536}
+      Script: {instanceID: 3082}
     - Class: 114
-      Script: {instanceID: 5872}
+      Script: {instanceID: 3134}
     - Class: 114
-      Script: {instanceID: 6380}
+      Script: {instanceID: 3406}
     - Class: 114
-      Script: {instanceID: 6808}
+      Script: {instanceID: 3596}
     - Class: 114
-      Script: {instanceID: 7190}
+      Script: {instanceID: 4210}
     - Class: 114
-      Script: {instanceID: 7486}
+      Script: {instanceID: 4280}
     - Class: 114
-      Script: {instanceID: 29200}
+      Script: {instanceID: 4346}
     - Class: 114
-      Script: {instanceID: 29246}
+      Script: {instanceID: 4762}
     - Class: 114
-      Script: {instanceID: 29268}
+      Script: {instanceID: 5248}
     - Class: 114
-      Script: {instanceID: 29274}
+      Script: {instanceID: 5572}
     - Class: 114
-      Script: {instanceID: 29284}
+      Script: {instanceID: 6548}
     - Class: 114
-      Script: {instanceID: 29304}
+      Script: {instanceID: 6858}
     - Class: 114
-      Script: {instanceID: 29336}
+      Script: {instanceID: 6882}
     - Class: 114
-      Script: {instanceID: 29386}
+      Script: {instanceID: 6970}
     - Class: 114
-      Script: {instanceID: 29396}
+      Script: {instanceID: 7016}
     - Class: 114
-      Script: {instanceID: 29420}
+      Script: {instanceID: 7318}
     - Class: 114
-      Script: {instanceID: 29444}
+      Script: {instanceID: 7622}
     - Class: 114
-      Script: {instanceID: 29460}
+      Script: {instanceID: 7698}
     - Class: 114
-      Script: {instanceID: 29462}
+      Script: {instanceID: 7724}
     - Class: 114
-      Script: {instanceID: 29472}
+      Script: {instanceID: 8038}
     - Class: 114
-      Script: {instanceID: 33344}
+      Script: {instanceID: 8832}
     - Class: 114
-      Script: {instanceID: 40624}
+      Script: {instanceID: 29118}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -488,7 +518,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 40638}
+      Script: {instanceID: 5712}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -517,7 +547,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 40666}
+      Script: {instanceID: 5552}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -527,16 +557,46 @@ ScriptsOnlyBuild:
   scriptHashData:
   - hash:
       serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+      Hash: bcaee4c2a83047257b5f47d6ed264b75
     assemblyName: UnityEngine.UI.dll
-    namespaceName: UnityEngine.UIElements
-    className: PanelRaycaster
+    namespaceName: UnityEngine.UI
+    className: Toggle
   - hash:
       serializedVersion: 2
       Hash: a6e561615949734e9f12f9b61661f43e
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: Image
+  - hash:
+      serializedVersion: 2
+      Hash: 699619b86d9359741a4f58540298c80b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Text
+  - hash:
+      serializedVersion: 2
+      Hash: 040dd48e3a027d5424519a5fa2009df4
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: a1aa98c78061c6f03a8c124cda576e67
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UIElements
+    className: PanelRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 7ae8cd48c89027257f70cfc95b4d4495
+    assemblyName: TapTap.Achievement.Standalone.Runtime.dll
+    namespaceName: TapTap.Achievement.Standalone
+    className: TapAchievementToast
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -567,6 +627,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: Shadow
+  - hash:
+      serializedVersion: 2
+      Hash: 91ec8855df098bd8a3abfb755c78db93
+    assemblyName: TapTap.AntiAddiction.dll
+    namespaceName: TapTap.AntiAddiction.Internal
+    className: TaptapAntiAddictionTimeSelectorController
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -623,10 +689,22 @@ ScriptsOnlyBuild:
     className: RawImage
   - hash:
       serializedVersion: 2
+      Hash: ed9146c22c1fc8eebbea1a8da76a7761
+    assemblyName: TapTap.UI.dll
+    namespaceName: TapTap.UI.AillieoTech
+    className: ScrollViewEx
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnBecameVisibleMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 1fbfc8f5d9759ad810c770cd2bab537a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AntiaddictionScene
   - hash:
       serializedVersion: 2
       Hash: cc4274b586df3c02688bac01b88bd16c
@@ -663,6 +741,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: ae83e830e7a90c0aff918c4c2e520825
+    assemblyName: TapTap.UI.dll
+    namespaceName: TapTap.UI
+    className: GraphicRaycasterBugFixed
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -720,9 +804,21 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: TapTap.AntiAddiction.dll
+    namespaceName: TapTap.AntiAddiction
+    className: AntiAddictionPoll
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnDropdownValueChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 1fbfc8f5d9759ad810c770cd2bab537a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AchievementScene
   - hash:
       serializedVersion: 2
       Hash: 0fd6822f6177297bd0eb4d83cc7a9030
@@ -785,6 +881,12 @@ ScriptsOnlyBuild:
     className: UnityOnSelectMessageListener
   - hash:
       serializedVersion: 2
+      Hash: 1fbfc8f5d9759ad810c770cd2bab537a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RTCScene
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: UnityEngine.TestRunner.dll
     namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
@@ -839,10 +941,22 @@ ScriptsOnlyBuild:
     className: UnityOnPointerExitMessageListener
   - hash:
       serializedVersion: 2
+      Hash: f5a41d3d0e03b0b3ac2aad04f1aed7e8
+    assemblyName: TapTap.Achievement.Standalone.Runtime.dll
+    namespaceName: TapTap.Achievement.Standalone
+    className: TapAchievementItem
+  - hash:
+      serializedVersion: 2
       Hash: aba7b2852ef61d175dd9602e7723d5e5
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: Mask
+  - hash:
+      serializedVersion: 2
+      Hash: a2e2c720753b37b60d566b6ed7e8d448
+    assemblyName: TapTap.AntiAddiction.dll
+    namespaceName: TapTap.AntiAddiction.Internal
+    className: TapTapChinaVerifyFinishPanelController
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -875,6 +989,12 @@ ScriptsOnlyBuild:
     className: PhysicsRaycaster
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Loom
+  - hash:
+      serializedVersion: 2
       Hash: 0fb27be807aa299702f28ad0bcad1f46
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -905,10 +1025,22 @@ ScriptsOnlyBuild:
     className: DictionaryAsset
   - hash:
       serializedVersion: 2
+      Hash: 1fbfc8f5d9759ad810c770cd2bab537a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LoginScene
+  - hash:
+      serializedVersion: 2
       Hash: 6980e81ddc615a861309d2d659cc3760
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_SubMeshUI
+  - hash:
+      serializedVersion: 2
+      Hash: 5f4d11df1ce84741c9910bbb132b16ca
+    assemblyName: TapTap.UI.dll
+    namespaceName: TapTap.UI
+    className: ToastPanelController
   - hash:
       serializedVersion: 2
       Hash: fd68d84f33fad85aac38f2739c0ee270
@@ -959,6 +1091,12 @@ ScriptsOnlyBuild:
     className: UnityOnEndDragMessageListener
   - hash:
       serializedVersion: 2
+      Hash: a9d9493fd0634df54055de971fe45c00
+    assemblyName: UnityNative.Toasts.Example.dll
+    namespaceName: UnityNative.Toasts.Example
+    className: ShowShortToastButton
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
@@ -977,16 +1115,58 @@ ScriptsOnlyBuild:
     className: TMP_InputField
   - hash:
       serializedVersion: 2
-      Hash: bcaee4c2a83047257b5f47d6ed264b75
-    assemblyName: UnityEngine.UI.dll
-    namespaceName: UnityEngine.UI
-    className: Toggle
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: TapTap.Login.dll
+    namespaceName: TapTap.Login.Internal
+    className: ContainerWindow
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: TapTap.Login.dll
+    namespaceName: TapTap.Login.Internal
+    className: Net
+  - hash:
+      serializedVersion: 2
+      Hash: 23029d1b70ee338cb07014aa493ad8cc
+    assemblyName: TapTap.Login.dll
+    namespaceName: TapTap.Login.Internal
+    className: QRCodeWindow
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: TapTap.Login.dll
+    namespaceName: TapTap.Login.Internal
+    className: UIAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: TapTap.Login.dll
+    namespaceName: TapTap.Login.Internal
+    className: UIBase
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: TapTap.Login.dll
+    namespaceName: TapTap.Login.Internal
+    className: UIElement
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: TapTap.Login.dll
+    namespaceName: TapTap.Login.Internal
+    className: UIManager
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: GlobalMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TapDBScene
   - hash:
       serializedVersion: 2
       Hash: 21a9c6dbf300fc1f6dc15ca7e2c39a37
@@ -1013,6 +1193,12 @@ ScriptsOnlyBuild:
     className: TMP_FontAsset
   - hash:
       serializedVersion: 2
+      Hash: 1fbfc8f5d9759ad810c770cd2bab537a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: StorageScene
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
@@ -1031,16 +1217,16 @@ ScriptsOnlyBuild:
     className: GroupTrack
   - hash:
       serializedVersion: 2
+      Hash: 1fbfc8f5d9759ad810c770cd2bab537a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MomentScene
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnDeselectMessageListener
-  - hash:
-      serializedVersion: 2
-      Hash: 699619b86d9359741a4f58540298c80b
-    assemblyName: UnityEngine.UI.dll
-    namespaceName: UnityEngine.UI
-    className: Text
   - hash:
       serializedVersion: 2
       Hash: 2574ac7d50617d23cdefe4ad22f5e1ad
@@ -1049,10 +1235,16 @@ ScriptsOnlyBuild:
     className: StateGraphAsset
   - hash:
       serializedVersion: 2
-      Hash: a1aa98c78061c6f03a8c124cda576e67
-    assemblyName: UnityEngine.UI.dll
-    namespaceName: UnityEngine.UI
-    className: CanvasScaler
+      Hash: 1fbfc8f5d9759ad810c770cd2bab537a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LeaderboardScene
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: TapTap.UI.dll
+    namespaceName: TapTap.UI
+    className: UIManager
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -1067,10 +1259,28 @@ ScriptsOnlyBuild:
     className: AspectRatioFitter
   - hash:
       serializedVersion: 2
+      Hash: 1fbfc8f5d9759ad810c770cd2bab537a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: FriendScene
+  - hash:
+      serializedVersion: 2
       Hash: 760787567e1b60d64a3e421ab83ee14a
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TextMeshProUGUI
+  - hash:
+      serializedVersion: 2
+      Hash: 97649f95d78b20fc51cee20fbf858a1e
+    assemblyName: TapTap.AntiAddiction.dll
+    namespaceName: TapTap.AntiAddiction.Internal
+    className: TaptapAntiAddictionHealthReminderController
+  - hash:
+      serializedVersion: 2
+      Hash: 1fbfc8f5d9759ad810c770cd2bab537a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GamesavesScene
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -1097,6 +1307,12 @@ ScriptsOnlyBuild:
     className: TMP_SubMesh
   - hash:
       serializedVersion: 2
+      Hash: 170ebed32744789972357215bc257d98
+    assemblyName: TapTap.UI.dll
+    namespaceName: TapTap.UI
+    className: LoadingPanelController
+  - hash:
+      serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -1107,6 +1323,18 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.TestRunner.dll
     namespaceName: UnityEngine.TestTools
     className: BeforeAfterTestCommandState
+  - hash:
+      serializedVersion: 2
+      Hash: e348d75344259615226ba40242851d10
+    assemblyName: TapTap.AntiAddiction.dll
+    namespaceName: TapTap.AntiAddiction.Internal
+    className: TaptapAntiAddictionIDInputController
+  - hash:
+      serializedVersion: 2
+      Hash: f27a79c8f41992ff647bcec2005f9296
+    assemblyName: TapTap.Achievement.Standalone.Runtime.dll
+    namespaceName: TapTap.Achievement.Standalone
+    className: TapAchievementDetailPanel
   - hash:
       serializedVersion: 2
       Hash: 4fd8bf02e3089425d3502e26c44ba31a
@@ -1181,10 +1409,22 @@ ScriptsOnlyBuild:
     className: UnityOnPointerDownMessageListener
   - hash:
       serializedVersion: 2
+      Hash: 1fbfc8f5d9759ad810c770cd2bab537a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: InsideAccoundScene
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnScrollRectValueChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: f7eaccc118b0a29def51828d45bcdaff
+    assemblyName: TapTap.AntiAddiction.dll
+    namespaceName: TapTap.AntiAddiction.Internal
+    className: TaptapAntiAddictionRetryAlertController
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -1205,6 +1445,18 @@ ScriptsOnlyBuild:
     className: UnityOnSubmitMessageListener
   - hash:
       serializedVersion: 2
+      Hash: a9d9493fd0634df54055de971fe45c00
+    assemblyName: UnityNative.Toasts.Example.dll
+    namespaceName: UnityNative.Toasts.Example
+    className: ShowLongToastButton
+  - hash:
+      serializedVersion: 2
+      Hash: 41fe23f92ba7b46f1654ba7f5e0a485e
+    assemblyName: TapTap.Achievement.Standalone.Runtime.dll
+    namespaceName: TapTap.Achievement.Standalone
+    className: TapAchievementPanel
+  - hash:
+      serializedVersion: 2
       Hash: a81d4c2c1cf3ad164d277d927a193679
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -1223,16 +1475,22 @@ ScriptsOnlyBuild:
     className: UnityOnMoveMessageListener
   - hash:
       serializedVersion: 2
+      Hash: b6df7579c4ff366c61415aa5f92bc212
+    assemblyName: TapTap.UI.dll
+    namespaceName: TapTap.UI.AillieoTech
+    className: ScrollView
+  - hash:
+      serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: ControlTrack
   - hash:
       serializedVersion: 2
-      Hash: 040dd48e3a027d5424519a5fa2009df4
-    assemblyName: UnityEngine.UI.dll
-    namespaceName: UnityEngine.UI
-    className: ScrollRect
+      Hash: d0e6a21fdc00e02c8e7840647f294ae5
+    assemblyName: TapTap.AntiAddiction.dll
+    namespaceName: TapTap.AntiAddiction.Internal
+    className: TaptapAntiAddictionHealthPaymentController
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -1271,6 +1529,12 @@ ScriptsOnlyBuild:
     className: TMP_ScrollbarEventHandler
   - hash:
       serializedVersion: 2
+      Hash: 1fbfc8f5d9759ad810c770cd2bab537a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BillboardScene
+  - hash:
+      serializedVersion: 2
       Hash: 8220b46879dc5e37db1b940c938f5744
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -1295,250 +1559,22 @@ ScriptsOnlyBuild:
     className: TouchInputModule
   - hash:
       serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Unity.VisualScripting.Core.dll
-    namespaceName: Unity.VisualScripting
-    className: UnityOnSliderValueChangedMessageListener
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: TapTap.Login.dll
-    namespaceName: TapTap.Login.Internal
-    className: ContainerWindow
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: TapTap.Login.dll
-    namespaceName: TapTap.Login.Internal
-    className: Net
-  - hash:
-      serializedVersion: 2
-      Hash: 23029d1b70ee338cb07014aa493ad8cc
-    assemblyName: TapTap.Login.dll
-    namespaceName: TapTap.Login.Internal
-    className: QRCodeWindow
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: TapTap.Login.dll
-    namespaceName: TapTap.Login.Internal
-    className: UIAnimator
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: TapTap.Login.dll
-    namespaceName: TapTap.Login.Internal
-    className: UIBase
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: TapTap.Login.dll
-    namespaceName: TapTap.Login.Internal
-    className: UIElement
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: TapTap.Login.dll
-    namespaceName: TapTap.Login.Internal
-    className: UIManager
-  - hash:
-      serializedVersion: 2
-      Hash: 7ae8cd48c89027257f70cfc95b4d4495
-    assemblyName: TapTap.Achievement.Standalone.Runtime.dll
-    namespaceName: TapTap.Achievement.Standalone
-    className: TapAchievementToast
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: TapTap.UI.dll
-    namespaceName: TapTap.UI
-    className: UIManager
-  - hash:
-      serializedVersion: 2
-      Hash: 91ec8855df098bd8a3abfb755c78db93
-    assemblyName: TapTap.AntiAddiction.dll
-    namespaceName: TapTap.AntiAddiction.Internal
-    className: TaptapAntiAddictionTimeSelectorController
-  - hash:
-      serializedVersion: 2
-      Hash: 97649f95d78b20fc51cee20fbf858a1e
-    assemblyName: TapTap.AntiAddiction.dll
-    namespaceName: TapTap.AntiAddiction.Internal
-    className: TaptapAntiAddictionHealthReminderController
-  - hash:
-      serializedVersion: 2
-      Hash: 5f4d11df1ce84741c9910bbb132b16ca
-    assemblyName: TapTap.UI.dll
-    namespaceName: TapTap.UI
-    className: ToastPanelController
-  - hash:
-      serializedVersion: 2
-      Hash: ae83e830e7a90c0aff918c4c2e520825
-    assemblyName: TapTap.UI.dll
-    namespaceName: TapTap.UI
-    className: GraphicRaycasterBugFixed
-  - hash:
-      serializedVersion: 2
-      Hash: f7eaccc118b0a29def51828d45bcdaff
-    assemblyName: TapTap.AntiAddiction.dll
-    namespaceName: TapTap.AntiAddiction.Internal
-    className: TaptapAntiAddictionRetryAlertController
-  - hash:
-      serializedVersion: 2
-      Hash: 41fe23f92ba7b46f1654ba7f5e0a485e
-    assemblyName: TapTap.Achievement.Standalone.Runtime.dll
-    namespaceName: TapTap.Achievement.Standalone
-    className: TapAchievementPanel
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: TapTap.AntiAddiction.dll
-    namespaceName: TapTap.AntiAddiction
-    className: AntiAddictionPoll
-  - hash:
-      serializedVersion: 2
-      Hash: f5a41d3d0e03b0b3ac2aad04f1aed7e8
-    assemblyName: TapTap.Achievement.Standalone.Runtime.dll
-    namespaceName: TapTap.Achievement.Standalone
-    className: TapAchievementItem
-  - hash:
-      serializedVersion: 2
-      Hash: 170ebed32744789972357215bc257d98
-    assemblyName: TapTap.UI.dll
-    namespaceName: TapTap.UI
-    className: LoadingPanelController
-  - hash:
-      serializedVersion: 2
-      Hash: e348d75344259615226ba40242851d10
-    assemblyName: TapTap.AntiAddiction.dll
-    namespaceName: TapTap.AntiAddiction.Internal
-    className: TaptapAntiAddictionIDInputController
-  - hash:
-      serializedVersion: 2
-      Hash: b6df7579c4ff366c61415aa5f92bc212
-    assemblyName: TapTap.UI.dll
-    namespaceName: TapTap.UI.AillieoTech
-    className: ScrollView
-  - hash:
-      serializedVersion: 2
-      Hash: a2e2c720753b37b60d566b6ed7e8d448
-    assemblyName: TapTap.AntiAddiction.dll
-    namespaceName: TapTap.AntiAddiction.Internal
-    className: TapTapChinaVerifyFinishPanelController
-  - hash:
-      serializedVersion: 2
-      Hash: f27a79c8f41992ff647bcec2005f9296
-    assemblyName: TapTap.Achievement.Standalone.Runtime.dll
-    namespaceName: TapTap.Achievement.Standalone
-    className: TapAchievementDetailPanel
-  - hash:
-      serializedVersion: 2
-      Hash: ed9146c22c1fc8eebbea1a8da76a7761
-    assemblyName: TapTap.UI.dll
-    namespaceName: TapTap.UI.AillieoTech
-    className: ScrollViewEx
-  - hash:
-      serializedVersion: 2
-      Hash: d0e6a21fdc00e02c8e7840647f294ae5
-    assemblyName: TapTap.AntiAddiction.dll
-    namespaceName: TapTap.AntiAddiction.Internal
-    className: TaptapAntiAddictionHealthPaymentController
-  - hash:
-      serializedVersion: 2
-      Hash: 1fbfc8f5d9759ad810c770cd2bab537a
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: MomentScene
-  - hash:
-      serializedVersion: 2
-      Hash: 1fbfc8f5d9759ad810c770cd2bab537a
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: LoginScene
-  - hash:
-      serializedVersion: 2
       Hash: 1fbfc8f5d9759ad810c770cd2bab537a
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: MainScene
   - hash:
       serializedVersion: 2
-      Hash: 1fbfc8f5d9759ad810c770cd2bab537a
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: GamesavesScene
-  - hash:
-      serializedVersion: 2
-      Hash: 1fbfc8f5d9759ad810c770cd2bab537a
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: AntiaddictionScene
-  - hash:
-      serializedVersion: 2
-      Hash: 1fbfc8f5d9759ad810c770cd2bab537a
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: LeaderboardScene
-  - hash:
-      serializedVersion: 2
-      Hash: 1fbfc8f5d9759ad810c770cd2bab537a
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: StorageScene
-  - hash:
-      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Loom
+    assemblyName: Unity.VisualScripting.Core.dll
+    namespaceName: Unity.VisualScripting
+    className: UnityOnSliderValueChangedMessageListener
   - hash:
       serializedVersion: 2
       Hash: 1fbfc8f5d9759ad810c770cd2bab537a
     assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: FriendScene
-  - hash:
-      serializedVersion: 2
-      Hash: 1fbfc8f5d9759ad810c770cd2bab537a
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: AchievementScene
-  - hash:
-      serializedVersion: 2
-      Hash: a9d9493fd0634df54055de971fe45c00
-    assemblyName: UnityNative.Toasts.Example.dll
-    namespaceName: UnityNative.Toasts.Example
-    className: ShowLongToastButton
-  - hash:
-      serializedVersion: 2
-      Hash: 1fbfc8f5d9759ad810c770cd2bab537a
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: BillboardScene
-  - hash:
-      serializedVersion: 2
-      Hash: a9d9493fd0634df54055de971fe45c00
-    assemblyName: UnityNative.Toasts.Example.dll
-    namespaceName: UnityNative.Toasts.Example
-    className: ShowShortToastButton
-  - hash:
-      serializedVersion: 2
-      Hash: 1fbfc8f5d9759ad810c770cd2bab537a
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: RTCScene
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: TapDBScene
-  - hash:
-      serializedVersion: 2
-      Hash: 1fbfc8f5d9759ad810c770cd2bab537a
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: InsideAccoundScene
+    namespaceName: MyNamespaceC
+    className: PostExamplee
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
@@ -1554,4 +1590,5 @@ ScriptsOnlyBuild:
   - Assets/Scenes/LeaderboardScene.unity
   - Assets/Scenes/RTCScene.unity
   - Assets/Scenes/FriendScene.unity
+  - Assets/GiftScene.unity
   playerPath: /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/tds_demo.apk

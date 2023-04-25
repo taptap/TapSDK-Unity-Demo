@@ -5,6 +5,7 @@ android.hardware.vulkan.version was added because:
 android.permission.INTERNET was added because:
 	UnityEngine.Networking was present in:
 		TapTap.RTC-FeaturesChecked.txt
+		Assembly-CSharp-FeaturesChecked.txt
 		Unity.Services.Core.Internal-FeaturesChecked.txt
 		Unity.Services.Core.Networking-FeaturesChecked.txt
 		Unity.Services.Core.Telemetry-FeaturesChecked.txt
@@ -12,13 +13,16 @@ android.permission.INTERNET was added because:
 		TapTap.Login-FeaturesChecked.txt
 	UnityEngine.Network was present in:
 		TapTap.RTC-FeaturesChecked.txt
+		Assembly-CSharp-FeaturesChecked.txt
 		Unity.Services.Core.Internal-FeaturesChecked.txt
 		Unity.Services.Core.Networking-FeaturesChecked.txt
 		Unity.Services.Core.Telemetry-FeaturesChecked.txt
 	UnityEngine.WWW was present in:
+		Assembly-CSharp-FeaturesChecked.txt
 		TapTap.Login-FeaturesChecked.txt
 	UnityEngine.Networking.UnityWebRequest was present in:
 		TapTap.RTC-FeaturesChecked.txt
+		Assembly-CSharp-FeaturesChecked.txt
 		Unity.Services.Core.Internal-FeaturesChecked.txt
 		Unity.Services.Core.Networking-FeaturesChecked.txt
 		Unity.Services.Core.Telemetry-FeaturesChecked.txt

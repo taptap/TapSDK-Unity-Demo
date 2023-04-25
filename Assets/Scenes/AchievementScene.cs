@@ -155,14 +155,14 @@ public class AchievementScene : MonoBehaviour
 
     public void finishAcievement(){
         // displayID 是在开发者中心中添加成就时自行设定的 成就ID
-        TapAchievement.Reach("win_battle_10");
+        TapAchievement.Reach("win_battle_20");
          UnityNativeToastsHelper.ShowShortText("达成一个成就");
-
+        
     }
 
     public void addStep(){
         // displayID 是在开发者中心中添加成就时自行设定的 成就ID
-        TapAchievement.GrowSteps("win_battle_10", 1);
+        TapAchievement.GrowSteps("win_battle_30", 1);
         UnityNativeToastsHelper.ShowShortText("该成就前进了 1 步！");
     }
 

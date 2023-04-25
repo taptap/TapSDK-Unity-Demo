@@ -1,7 +1,7 @@
 sceneSetups:
 - path: Assets/Scenes/SampleScene.unity
   isLoaded: 1
-  isActive: 1
+  isActive: 0
   isSubScene: 0
 - path: Assets/Scenes/LoginScene.unity
   isLoaded: 1
@@ -21,7 +21,7 @@ sceneSetups:
   isSubScene: 0
 - path: Assets/Scenes/InsideAccoundScene.unity
   isLoaded: 1
-  isActive: 0
+  isActive: 1
   isSubScene: 0
 - path: Assets/Scenes/AchievementScene.unity
   isLoaded: 1
@@ -48,6 +48,10 @@ sceneSetups:
   isActive: 0
   isSubScene: 0
 - path: Assets/Scenes/FriendScene.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/GiftScene.unity
   isLoaded: 1
   isActive: 0
   isSubScene: 0

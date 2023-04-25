@@ -181,6 +181,14 @@ public class MainScene : MonoBehaviour
 			UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(12);
 
 		}
+        btnTop += btnHeight + 20 * scale;
+
+		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "礼包系统", style))
+		{
+
+            UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(13);
+
+        }
 
 
 

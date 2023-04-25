@@ -394,6 +394,7 @@
 "Assets/Scenes/AchievementScene.cs"
 "Assets/Scenes/AntiaddictionScene.cs"
 "Assets/Scenes/BillboardScene.cs"
+"Assets/Scenes/Demo.cs"
 "Assets/Scenes/FriendScene.cs"
 "Assets/Scenes/GamesavesScene.cs"
 "Assets/Scenes/InsideAccoundScene.cs"
@@ -402,9 +403,11 @@
 "Assets/Scenes/Loom.cs"
 "Assets/Scenes/MainScene.cs"
 "Assets/Scenes/MomentScene.cs"
+"Assets/Scenes/PostExamplee.cs"
 "Assets/Scenes/RTCScene.cs"
 "Assets/Scenes/StorageScene.cs"
 "Assets/Scenes/TapDBScene.cs"
+"Assets/Scenes/using System.cs"
 -langversion:9.0
 
 /deterministic
