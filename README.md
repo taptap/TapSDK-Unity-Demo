@@ -8,8 +8,8 @@
 
 2、配置自己的签名信息，签名打包测试；
 
-3、安卓可以下载项目中的 [TapSDK_demo.apk](https://lc-buhezimj.cn-e1.lcfile.com/Ac0tsbB9CjXJRNKzmL4osUjgmqHM7Kwh/tds_demo.apk) 或扫描如下二维码进行下载体验；
-![Demo 下载图片](https://lc-buhezimj.cn-e1.lcfile.com/55wjAdOJiDTVfRvsi1XbeEmNqfq2OxXF/1_452970795_171_85_3_687113694_0c3ba828fec9c2c3de47239308ee9c36.png)
+3、安卓可以下载项目中的 [TapSDK_demo.apk](https://lc-buhezimj.cn-e1.lcfile.com/x4vesS9bCXvmjhurd9LWzfpT9aCNvX8E/tds_demo.apk) 或扫描如下二维码进行下载体验；
+![Demo 下载图片](https://lc-buhezimj.cn-e1.lcfile.com/GdI7IeqheB8D0G6vSuobOl5jijMhBBl4/1_452970795_171_85_3_687819015_cec95175bbd42e8262bae8a06a82ab43.png)
 
 4、关于 TapSDK 更多详情请参考[官方文档](https://developer.taptap.com/docs/sdk/)。
 
