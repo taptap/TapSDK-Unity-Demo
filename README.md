@@ -1,4 +1,4 @@
-## TapSDK - 3.18.5 For Unity Demo；
+## TapSDK - 3.18.7 For Unity Demo；
 
 ## 运行示例程序
 
