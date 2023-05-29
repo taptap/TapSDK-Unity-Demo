@@ -1,0 +1,11 @@
+{
+  "name": "com.taptap.tds.achievement",
+  "displayName": "TapTap Achievement",
+  "description": "TapTap Develop Service",
+  "version": "3.18.7",
+  "unity": "2018.3",
+  "license": "MIT",
+  "dependencies": {
+    "com.taptap.tds.bootstrap": "https://github.com/TapTap/TapBootstrap-Unity.git#3.18.7"
+  }
+}

@@ -1,65 +1,65 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:2:1-14:12
-INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:2:1-14:12
-INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:2:1-14:12
-INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:2:1-14:12
-INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:2:1-14:12
-INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:2:1-14:12
-INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:2:1-14:12
+ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:2:1-14:12
 	package
-		ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:3:11-44
-		INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml
-		INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml
+		ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:3:11-44
+		INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml
+		INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml
 	android:versionName
-		ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:5:11-36
-		INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml
-		INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml
+		ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:5:11-36
+		INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml
+		INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:2:11-69
+		ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:4:11-34
-		INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml
-		INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml
+		ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:4:11-34
+		INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml
+		INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:7:3-69
+ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:7:3-69
 	android:name
-		ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:7:20-66
+		ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:7:20-66
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:8:3-77
+ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:8:3-77
 	android:name
-		ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:8:20-74
+		ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:8:20-74
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:9:3-74
+ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:9:3-74
 	android:name
-		ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:9:20-71
+		ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:9:20-71
 uses-permission#android.permission.INTERNET
-ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:10:3-65
+ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:10:3-65
 	android:name
-		ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:10:20-62
+		ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:10:20-62
 uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
-ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:11:3-78
+ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:11:3-78
 	android:name
-		ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:11:20-75
+		ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:11:20-75
 uses-permission#android.permission.BLUETOOTH
-ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:12:3-65
+ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:12:3-65
 	android:name
-		ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:12:20-63
+		ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:12:20-63
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:13:3-78
+ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:13:3-78
 	android:name
-		ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:13:20-76
+		ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml:13:20-76
 uses-sdk
-INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml
-INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml
-INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml
-INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml
+INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml
+INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml
+INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml
+INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml
-		ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml
-		INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml
+		INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml
+		ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml
+		INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml
-		ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml
-		INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml
+		INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml
+		ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml
+		INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml

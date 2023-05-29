@@ -1,0 +1,15 @@
+{
+    "name": "TapTap.Moment.Runtime",
+    "references": [
+        "GUID:5672c01f26a404fb7b6ff575cb06f54b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

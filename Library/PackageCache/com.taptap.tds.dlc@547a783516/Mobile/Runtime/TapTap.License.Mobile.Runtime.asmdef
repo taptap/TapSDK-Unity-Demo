@@ -1,0 +1,18 @@
+{
+    "name": "TapTap.License.Mobile.Runtime",
+    "references": [
+        "GUID:6f31234cd7bae42d2ae6f8b300cad891"
+    ],
+    "includePlatforms": [
+        "Android",
+        "iOS"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

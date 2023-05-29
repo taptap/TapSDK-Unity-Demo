@@ -43,6 +43,14 @@ library {
 }
 library {
   maven_library {
+    artifactId: "com.UnityNative.Toasts-v1.0.4"
+  }
+  digests {
+    sha256: "6\333\036\a\351 O\207\3053`\027\022\307\030\304B?%\306>C\022\000S\335,\351?\323\260\207"
+  }
+}
+library {
+  maven_library {
     artifactId: "TapLicense_3.18.5"
   }
   digests {
@@ -115,8 +123,11 @@ library_dependencies {
 library_dependencies {
   library_index: 10
 }
+library_dependencies {
+  library_index: 11
+}
 module_dependencies {
   module_name: "base"
-  dependency_index: 9
   dependency_index: 10
+  dependency_index: 11
 }

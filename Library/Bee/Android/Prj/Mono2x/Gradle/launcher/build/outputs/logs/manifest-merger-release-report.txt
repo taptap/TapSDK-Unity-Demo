@@ -1,12 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
-INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
-INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
-INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
-MERGED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-70:12
-MERGED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/jetified-TapCommon_3.18.5/AndroidManifest.xml:2:1-26:12
-MERGED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/jetified-TapLogin_3.18.5/AndroidManifest.xml:2:1-29:12
+ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+MERGED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-70:12
+MERGED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/TapCommon_3.18.5/AndroidManifest.xml:2:1-26:12
+MERGED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:2:1-29:12
 MERGED from [:TapBillboard_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/06d458ffe48dcec3f08e77be3a067aee/TapBillboard_3.18.5/AndroidManifest.xml:2:1-20:12
 MERGED from [:TapAchievement_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/fd06c7727b61ced401a4a54f62f99d5c/TapAchievement_3.18.5/AndroidManifest.xml:2:1-17:12
 MERGED from [:AntiAddiction_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/51654fc15e2e7c0d21365bea1f691540/AntiAddiction_3.18.5/AndroidManifest.xml:2:1-13:12
@@ -15,48 +15,48 @@ MERGED from [:TapLicense_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/f
 MERGED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:2:1-33:12
 MERGED from [:TapMoment_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/9d81f569705acda46e18aea80c8102ad/TapMoment_3.18.5/AndroidManifest.xml:2:1-24:12
 MERGED from [:AntiAddictionUI_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/ff2daa0d0dc16bb86b1f5715fccaef85/AntiAddictionUI_3.18.5/AndroidManifest.xml:2:1-11:12
-MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-19:12
-INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
-INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
-INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
 	package
-		ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:70-92
-		INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
-		INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:70-92
+		INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
-		ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
-		INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+		INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:93-139
+		ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:93-139
 	android:versionCode
-		INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
-		ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
-		INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+		INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:11-69
 	android:installLocation
-		ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:140-180
+		ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:140-180
 supports-screens
-ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:3-163
+ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:3-163
 	android:largeScreens
-		ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:78-105
+		ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:78-105
 	android:smallScreens
-		ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:21-48
+		ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:21-48
 	android:normalScreens
-		ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:49-77
+		ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:49-77
 	android:xlargeScreens
-		ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:106-134
+		ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:106-134
 	android:anyDensity
-		ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:135-160
+		ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:135-160
 application
-ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:3-83
-MERGED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-68:19
-MERGED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-68:19
-MERGED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/jetified-TapCommon_3.18.5/AndroidManifest.xml:13:5-24:19
-MERGED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/jetified-TapCommon_3.18.5/AndroidManifest.xml:13:5-24:19
-MERGED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/jetified-TapLogin_3.18.5/AndroidManifest.xml:11:5-27:19
-MERGED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/jetified-TapLogin_3.18.5/AndroidManifest.xml:11:5-27:19
+ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:3-83
+MERGED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-68:19
+MERGED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-68:19
+MERGED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/TapCommon_3.18.5/AndroidManifest.xml:13:5-24:19
+MERGED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/TapCommon_3.18.5/AndroidManifest.xml:13:5-24:19
+MERGED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:11:5-27:19
+MERGED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:11:5-27:19
 MERGED from [:TapBillboard_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/06d458ffe48dcec3f08e77be3a067aee/TapBillboard_3.18.5/AndroidManifest.xml:14:5-18:19
 MERGED from [:TapBillboard_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/06d458ffe48dcec3f08e77be3a067aee/TapBillboard_3.18.5/AndroidManifest.xml:14:5-18:19
 MERGED from [:TapAchievement_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/fd06c7727b61ced401a4a54f62f99d5c/TapAchievement_3.18.5/AndroidManifest.xml:11:5-15:19
@@ -66,25 +66,25 @@ MERGED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-
 MERGED from [:TapMoment_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/9d81f569705acda46e18aea80c8102ad/TapMoment_3.18.5/AndroidManifest.xml:18:5-22:19
 MERGED from [:TapMoment_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/9d81f569705acda46e18aea80c8102ad/TapMoment_3.18.5/AndroidManifest.xml:18:5-22:19
 	android:extractNativeLibs
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:30:18-50
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:30:18-50
 	android:label
-		ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:16-48
+		ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:16-48
 	tools:ignore
 		ADDED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:22:9-39
 	android:icon
-		ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:49-80
+		ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:49-80
 	android:usesCleartextTraffic
 		ADDED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:21:9-44
 uses-sdk
-INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
-INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
-MERGED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-10:41
-MERGED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-10:41
-MERGED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/jetified-TapCommon_3.18.5/AndroidManifest.xml:7:5-9:41
-MERGED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/jetified-TapCommon_3.18.5/AndroidManifest.xml:7:5-9:41
-MERGED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/jetified-TapLogin_3.18.5/AndroidManifest.xml:7:5-9:41
-MERGED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/jetified-TapLogin_3.18.5/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+MERGED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-10:41
+MERGED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-10:41
+MERGED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/TapCommon_3.18.5/AndroidManifest.xml:7:5-9:41
+MERGED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/TapCommon_3.18.5/AndroidManifest.xml:7:5-9:41
+MERGED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:7:5-9:41
+MERGED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:7:5-9:41
 MERGED from [:TapBillboard_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/06d458ffe48dcec3f08e77be3a067aee/TapBillboard_3.18.5/AndroidManifest.xml:7:5-9:41
 MERGED from [:TapBillboard_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/06d458ffe48dcec3f08e77be3a067aee/TapBillboard_3.18.5/AndroidManifest.xml:7:5-9:41
 MERGED from [:TapAchievement_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/fd06c7727b61ced401a4a54f62f99d5c/TapAchievement_3.18.5/AndroidManifest.xml:7:5-9:41
@@ -101,46 +101,46 @@ MERGED from [:TapMoment_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/fi
 MERGED from [:TapMoment_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/9d81f569705acda46e18aea80c8102ad/TapMoment_3.18.5/AndroidManifest.xml:8:5-10:41
 MERGED from [:AntiAddictionUI_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/ff2daa0d0dc16bb86b1f5715fccaef85/AntiAddictionUI_3.18.5/AndroidManifest.xml:7:5-9:41
 MERGED from [:AntiAddictionUI_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/ff2daa0d0dc16bb86b1f5715fccaef85/AntiAddictionUI_3.18.5/AndroidManifest.xml:7:5-9:41
-MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
-MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
-INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
-INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:11:9-49
 	android:targetSdkVersion
-		INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
-		ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
-		INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
-		ADDED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
-		INJECTED from /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
 uses-feature#0x00030000
-ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-54
+ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-54
 	android:glEsVersion
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:12:19-51
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:12:19-51
 uses-feature#android.hardware.vulkan.version
-ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-15:36
+ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-15:36
 	android:required
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:15:9-33
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:15:9-33
 	android:name
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:14:9-55
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:14:9-55
 uses-permission#android.permission.INTERNET
-ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:17:5-67
-MERGED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/jetified-TapCommon_3.18.5/AndroidManifest.xml:11:5-67
-MERGED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/jetified-TapCommon_3.18.5/AndroidManifest.xml:11:5-67
+ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:17:5-67
+MERGED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/TapCommon_3.18.5/AndroidManifest.xml:11:5-67
+MERGED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/TapCommon_3.18.5/AndroidManifest.xml:11:5-67
 MERGED from [:TapBillboard_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/06d458ffe48dcec3f08e77be3a067aee/TapBillboard_3.18.5/AndroidManifest.xml:11:5-67
 MERGED from [:TapBillboard_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/06d458ffe48dcec3f08e77be3a067aee/TapBillboard_3.18.5/AndroidManifest.xml:11:5-67
 MERGED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:13:5-67
 MERGED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:13:5-67
 MERGED from [:TapMoment_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/9d81f569705acda46e18aea80c8102ad/TapMoment_3.18.5/AndroidManifest.xml:12:5-67
 MERGED from [:TapMoment_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/9d81f569705acda46e18aea80c8102ad/TapMoment_3.18.5/AndroidManifest.xml:12:5-67
-MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-67
-MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-67
+MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-67
+MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-67
 	android:name
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:17:22-64
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:17:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:18:5-79
+ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:18:5-79
 MERGED from [:TapBillboard_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/06d458ffe48dcec3f08e77be3a067aee/TapBillboard_3.18.5/AndroidManifest.xml:12:5-79
 MERGED from [:TapBillboard_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/06d458ffe48dcec3f08e77be3a067aee/TapBillboard_3.18.5/AndroidManifest.xml:12:5-79
 MERGED from [:AntiAddiction_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/51654fc15e2e7c0d21365bea1f691540/AntiAddiction_3.18.5/AndroidManifest.xml:11:5-79
@@ -149,142 +149,142 @@ MERGED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-
 MERGED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:16:5-79
 MERGED from [:TapMoment_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/9d81f569705acda46e18aea80c8102ad/TapMoment_3.18.5/AndroidManifest.xml:16:5-79
 MERGED from [:TapMoment_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/9d81f569705acda46e18aea80c8102ad/TapMoment_3.18.5/AndroidManifest.xml:16:5-79
-MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-79
-MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-79
+MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-79
+MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-79
 	android:name
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:18:22-76
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:18:22-76
 uses-feature#android.hardware.touchscreen
-ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:20:5-22:36
+ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:20:5-22:36
 	android:required
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:22:9-33
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:22:9-33
 	android:name
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:21:9-52
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:21:9-52
 uses-feature#android.hardware.touchscreen.multitouch
-ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:23:5-25:36
+ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:23:5-25:36
 	android:required
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:25:9-33
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:25:9-33
 	android:name
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:24:9-63
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:24:9-63
 uses-feature#android.hardware.touchscreen.multitouch.distinct
-ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:26:5-28:36
+ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:26:5-28:36
 	android:required
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:28:9-33
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:28:9-33
 	android:name
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:27:9-72
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:27:9-72
 activity#com.unity3d.player.UnityPlayerActivity
-ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:31:9-51:20
+ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:31:9-51:20
 	android:screenOrientation
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:37:13-49
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:37:13-49
 	android:launchMode
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:35:13-44
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:35:13-44
 	android:hardwareAccelerated
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:34:13-48
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:34:13-48
 	android:resizeableActivity
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:36:13-47
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:36:13-47
 	android:configChanges
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:33:13-194
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:33:13-194
 	android:theme
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:38:13-54
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:38:13-54
 	android:name
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:32:13-66
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:32:13-66
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:39:13-43:29
+ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:39:13-43:29
 action#android.intent.action.MAIN
-ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:40:17-69
+ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:40:17-69
 	android:name
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:40:25-66
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:40:25-66
 category#android.intent.category.LAUNCHER
-ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:42:17-77
+ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:42:17-77
 	android:name
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:42:27-74
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:42:27-74
 meta-data#unityplayer.UnityActivity
-ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:45:13-47:40
+ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:45:13-47:40
 	android:value
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:47:17-37
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:47:17-37
 	android:name
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:46:17-57
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:46:17-57
 meta-data#android.notch_support
-ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:48:13-50:40
+ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:48:13-50:40
 	android:value
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:50:17-37
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:50:17-37
 	android:name
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:49:17-53
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:49:17-53
 meta-data#unity.splash-mode
-ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:53:9-55:33
+ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:53:9-55:33
 	android:value
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:55:13-30
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:55:13-30
 	android:name
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:54:13-45
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:54:13-45
 meta-data#unity.splash-enable
-ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:56:9-58:36
+ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:56:9-58:36
 	android:value
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:58:13-33
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:58:13-33
 	android:name
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:57:13-47
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:57:13-47
 meta-data#unity.launch-fullscreen
-ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:59:9-61:36
+ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:59:9-61:36
 	android:value
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:61:13-33
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:61:13-33
 	android:name
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:60:13-51
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:60:13-51
 meta-data#unity.allow-resizable-window
-ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:62:9-64:37
+ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:62:9-64:37
 	android:value
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:64:13-34
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:64:13-34
 	android:name
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:63:13-56
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:63:13-56
 meta-data#notch.config
-ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:65:9-67:50
+ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:65:9-67:50
 	android:value
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:67:13-47
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:67:13-47
 	android:name
-		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:66:13-40
+		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:66:13-40
 activity#com.tds.common.oauth.TapTapEntryActivity
-ADDED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/jetified-TapCommon_3.18.5/AndroidManifest.xml:14:9-18:86
+ADDED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/TapCommon_3.18.5/AndroidManifest.xml:14:9-18:86
 	android:exported
-		ADDED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/jetified-TapCommon_3.18.5/AndroidManifest.xml:17:13-37
+		ADDED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/TapCommon_3.18.5/AndroidManifest.xml:17:13-37
 	android:configChanges
-		ADDED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/jetified-TapCommon_3.18.5/AndroidManifest.xml:16:13-96
+		ADDED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/TapCommon_3.18.5/AndroidManifest.xml:16:13-96
 	android:theme
-		ADDED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/jetified-TapCommon_3.18.5/AndroidManifest.xml:18:13-83
+		ADDED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/TapCommon_3.18.5/AndroidManifest.xml:18:13-83
 	android:name
-		ADDED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/jetified-TapCommon_3.18.5/AndroidManifest.xml:15:13-68
+		ADDED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/TapCommon_3.18.5/AndroidManifest.xml:15:13-68
 provider#com.tds.common.provider.CurrentConfigProvider
-ADDED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/jetified-TapCommon_3.18.5/AndroidManifest.xml:20:9-23:40
+ADDED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/TapCommon_3.18.5/AndroidManifest.xml:20:9-23:40
 	android:authorities
-		ADDED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/jetified-TapCommon_3.18.5/AndroidManifest.xml:22:13-71
+		ADDED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/TapCommon_3.18.5/AndroidManifest.xml:22:13-71
 	android:exported
-		ADDED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/jetified-TapCommon_3.18.5/AndroidManifest.xml:23:13-37
+		ADDED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/TapCommon_3.18.5/AndroidManifest.xml:23:13-37
 	android:name
-		ADDED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/jetified-TapCommon_3.18.5/AndroidManifest.xml:21:13-73
+		ADDED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/TapCommon_3.18.5/AndroidManifest.xml:21:13-73
 activity#com.taptap.sdk.ui.TapTapActivity
-ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/jetified-TapLogin_3.18.5/AndroidManifest.xml:12:9-16:86
+ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:12:9-16:86
 	android:exported
-		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/jetified-TapLogin_3.18.5/AndroidManifest.xml:15:13-37
+		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:15:13-37
 	android:configChanges
-		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/jetified-TapLogin_3.18.5/AndroidManifest.xml:14:13-96
+		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:14:13-96
 	android:theme
-		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/jetified-TapLogin_3.18.5/AndroidManifest.xml:16:13-83
+		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:16:13-83
 	android:name
-		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/jetified-TapLogin_3.18.5/AndroidManifest.xml:13:13-60
+		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:13:13-60
 activity#com.taptap.sdk.TapLoginHelperActivity
-ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/jetified-TapLogin_3.18.5/AndroidManifest.xml:17:9-21:86
+ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:17:9-21:86
 	android:exported
-		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/jetified-TapLogin_3.18.5/AndroidManifest.xml:20:13-37
+		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:20:13-37
 	android:configChanges
-		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/jetified-TapLogin_3.18.5/AndroidManifest.xml:19:13-96
+		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:19:13-96
 	android:theme
-		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/jetified-TapLogin_3.18.5/AndroidManifest.xml:21:13-83
+		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:21:13-83
 	android:name
-		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/jetified-TapLogin_3.18.5/AndroidManifest.xml:18:13-65
+		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:18:13-65
 provider#com.taptap.sdk.internal.user.CurrentUserProvider
-ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/jetified-TapLogin_3.18.5/AndroidManifest.xml:23:9-26:40
+ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:23:9-26:40
 	android:authorities
-		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/jetified-TapLogin_3.18.5/AndroidManifest.xml:25:13-69
+		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:25:13-69
 	android:exported
-		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/jetified-TapLogin_3.18.5/AndroidManifest.xml:26:13-37
+		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:26:13-37
 	android:name
-		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/jetified-TapLogin_3.18.5/AndroidManifest.xml:24:13-76
+		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:24:13-76
 meta-data#com.tapsdk.billboard.loader
 ADDED from [:TapBillboard_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/06d458ffe48dcec3f08e77be3a067aee/TapBillboard_3.18.5/AndroidManifest.xml:15:9-17:36
 	android:value
@@ -307,8 +307,8 @@ ADDED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2
 		ADDED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:14:22-72
 uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:15:5-76
-MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-76
-MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-76
+MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-76
+MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-76
 	android:name
 		ADDED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:15:22-73
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
@@ -319,8 +319,8 @@ uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 ADDED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:18:5-81
 MERGED from [:TapMoment_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/9d81f569705acda46e18aea80c8102ad/TapMoment_3.18.5/AndroidManifest.xml:13:5-15:40
 MERGED from [:TapMoment_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/9d81f569705acda46e18aea80c8102ad/TapMoment_3.18.5/AndroidManifest.xml:13:5-15:40
-MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:17:5-81
-MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:17:5-81
+MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:17:5-81
+MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:17:5-81
 	tools:ignore
 		ADDED from [:TapMoment_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/9d81f569705acda46e18aea80c8102ad/TapMoment_3.18.5/AndroidManifest.xml:15:9-37
 	android:name
@@ -346,14 +346,14 @@ ADDED from [:TapMoment_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/fil
 	android:name
 		ADDED from [:TapMoment_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/9d81f569705acda46e18aea80c8102ad/TapMoment_3.18.5/AndroidManifest.xml:20:13-52
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-71
+ADDED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-71
 	android:name
-		ADDED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:11:22-68
+		ADDED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:11:22-68
 uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
-ADDED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-80
+ADDED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-80
 	android:name
-		ADDED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:15:22-77
+		ADDED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:15:22-77
 uses-permission#android.permission.BLUETOOTH
-ADDED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:16:5-68
+ADDED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:16:5-68
 	android:name
-		ADDED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:16:22-65
+		ADDED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:16:22-65

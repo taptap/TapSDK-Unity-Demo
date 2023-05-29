@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/yuwenjian/Desktop/unity_Project/Tds-unity-demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rCN/values-zh-rCN.xml",
+            "outputFile": "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rCN/values-zh-rCN.xml",
             "map": [
                 {
                     "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3563765e9e705e7b6416f14c7e1391db/TapLicense_3.18.5/res/values-zh-rCN/values-zh-rCN.xml",

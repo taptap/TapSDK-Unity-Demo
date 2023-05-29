@@ -1,0 +1,18 @@
+{
+    "name": "TapTap.Moment.Mobile.Runtime",
+    "references": [
+        "GUID:5f5654759b7534ddebacbe2e8ef8a8da"
+    ],
+    "includePlatforms": [
+        "Android",
+        "iOS"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
