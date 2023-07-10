@@ -23,105 +23,105 @@
       "dependencies": {}
     },
     "com.tapsdk.antiaddiction": {
-      "version": "https://github.com/taptap/TapAntiAddiction-Unity.git#3.18.7",
+      "version": "https://github.com/taptap/TapAntiAddiction-Unity.git#3.19.0",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "eaccd813fc6e810ff3633e47138417e59ab57ae1"
+      "hash": "da8f4db09536683e7459fe0d3a05d7f1f131a8f1"
     },
     "com.taptap.tds.achievement": {
-      "version": "https://github.com/TapTap/TapAchievement-Unity.git#3.18.7",
+      "version": "https://github.com/TapTap/TapAchievement-Unity.git#3.19.0",
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.taptap.tds.bootstrap": "https://github.com/TapTap/TapBootstrap-Unity.git#3.18.7"
+        "com.taptap.tds.bootstrap": "https://github.com/TapTap/TapBootstrap-Unity.git#3.19.0"
       },
-      "hash": "2ce6b02336b0f3e7e369d7e0e086bf298e539c93"
+      "hash": "c77b8a228c6687ccb31cde0fe29b6fbf626e6c03"
     },
     "com.taptap.tds.billboard": {
-      "version": "https://github.com/TapTap/TapBillboard-Unity.git#3.18.7",
+      "version": "https://github.com/TapTap/TapBillboard-Unity.git#3.19.0",
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.taptap.tds.bootstrap": "https://github.com/TapTap/TapBootstrap-Unity.git#3.18.7"
+        "com.taptap.tds.bootstrap": "https://github.com/TapTap/TapBootstrap-Unity.git#3.19.0"
       },
-      "hash": "8732cc548d6f062a2041d9c488648045dfc124ff"
+      "hash": "4178e8d9521ebbbb55567a81941c9a2e7c5542a4"
     },
     "com.taptap.tds.bootstrap": {
-      "version": "https://github.com/TapTap/TapBootstrap-Unity.git#3.18.7",
+      "version": "https://github.com/TapTap/TapBootstrap-Unity.git#3.19.0",
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#3.18.7",
-        "com.taptap.tds.login": "https://github.com/TapTap/TapLogin-Unity.git#3.18.7",
+        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#3.19.0",
+        "com.taptap.tds.login": "https://github.com/TapTap/TapLogin-Unity.git#3.19.0",
         "com.leancloud.realtime": "https://github.com/leancloud/csharp-sdk-upm.git#realtime-0.10.14",
         "com.leancloud.storage": "https://github.com/leancloud/csharp-sdk-upm.git#storage-0.10.14"
       },
-      "hash": "504d5c98f66cccd5693d04a1d0f9cafa806a8954"
+      "hash": "cb2927b842e6f80ccf67bb2957f0908789985b27"
     },
     "com.taptap.tds.common": {
-      "version": "https://github.com/TapTap/TapCommon-Unity.git#3.18.7",
+      "version": "https://github.com/TapTap/TapCommon-Unity.git#3.19.0",
       "depth": 0,
       "source": "git",
       "dependencies": {
         "com.unity.modules.ui": "1.0.0",
         "com.leancloud.storage": "https://github.com/leancloud/csharp-sdk-upm.git#storage-0.10.14"
       },
-      "hash": "9712419ca94c14dd3e17bab05d70bc472e1a1cf9"
+      "hash": "1739e815c6003f4203c9c09c6f996b27190deab3"
     },
     "com.taptap.tds.dlc": {
-      "version": "https://github.com/TapTap/TapLicense-Unity.git#3.18.7",
+      "version": "https://github.com/TapTap/TapLicense-Unity.git#3.19.0",
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#3.18.7"
+        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#3.19.0"
       },
-      "hash": "547a783516fa613c50a4dceb0f3cd3f9d43d26ea"
+      "hash": "01e29c3ba966c2c29b6ffbb6d65c7e8b64499b55"
     },
     "com.taptap.tds.friends": {
-      "version": "https://github.com/TapTap/TapFriends-Unity.git#3.18.7",
+      "version": "https://github.com/TapTap/TapFriends-Unity.git#3.19.0",
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#3.18.7",
-        "com.taptap.tds.bootstrap": "https://github.com/TapTap/TapBootstrap-Unity.git#3.18.7",
+        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#3.19.0",
+        "com.taptap.tds.bootstrap": "https://github.com/TapTap/TapBootstrap-Unity.git#3.19.0",
         "com.leancloud.realtime": "https://github.com/leancloud/csharp-sdk-upm.git#realtime-0.10.14"
       },
-      "hash": "782ac23fd9464b9cea2b4f5962bad383f45f1596"
+      "hash": "195a7100068ded030ca0492d27d45fec49adee2c"
     },
     "com.taptap.tds.login": {
-      "version": "https://github.com/TapTap/TapLogin-Unity.git#3.18.7",
+      "version": "https://github.com/TapTap/TapLogin-Unity.git#3.19.0",
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#3.18.7"
+        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#3.19.0"
       },
-      "hash": "58dd4d20eb0f9f47f37c85240bc9c3fa65676ef0"
+      "hash": "5d91333e11455549a85478f984a2b857203b9e59"
     },
     "com.taptap.tds.moment": {
-      "version": "https://github.com/TapTap/TapMoment-Unity.git#3.18.7",
+      "version": "https://github.com/TapTap/TapMoment-Unity.git#3.19.0",
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#3.18.7"
+        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#3.19.0"
       },
-      "hash": "e2f0b32ad6f84b30820c192f5b4fddd35f42106f"
+      "hash": "e398ea8854bf063ea2546f33484ecdbccf4d0379"
     },
     "com.taptap.tds.rtc": {
-      "version": "https://github.com/TapTap/TapRTC-Unity.git#3.18.7",
+      "version": "https://github.com/TapTap/TapRTC-Unity.git#3.19.0",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "f891dc3a6f945cbd620ecfab4920ba35d6e10dc5"
+      "hash": "94f19fe36db8405414ead085fd69301fbe3c9d3c"
     },
     "com.taptap.tds.tapdb": {
-      "version": "https://github.com/TapTap/TapDB-Unity.git#3.18.7",
+      "version": "https://github.com/TapTap/TapDB-Unity.git#3.19.0",
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#3.18.7"
+        "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#3.19.0"
       },
-      "hash": "0cd641bb66524f633d49a51a7ceb605c708e71df"
+      "hash": "9619db644cc3db38cb38c22e9fdc8a7ed9dc3971"
     },
     "com.unity.collab-proxy": {
       "version": "1.17.1",

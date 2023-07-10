@@ -9,8 +9,6 @@ android.permission.INTERNET was added because:
 		Unity.Services.Core.Internal-FeaturesChecked.txt
 		Unity.Services.Core.Networking-FeaturesChecked.txt
 		Unity.Services.Core.Telemetry-FeaturesChecked.txt
-	System.Net.Sockets was present in:
-		TapTap.Login-FeaturesChecked.txt
 	UnityEngine.Network was present in:
 		TapTap.RTC-FeaturesChecked.txt
 		Assembly-CSharp-FeaturesChecked.txt
@@ -19,7 +17,6 @@ android.permission.INTERNET was added because:
 		Unity.Services.Core.Telemetry-FeaturesChecked.txt
 	UnityEngine.WWW was present in:
 		Assembly-CSharp-FeaturesChecked.txt
-		TapTap.Login-FeaturesChecked.txt
 	UnityEngine.Networking.UnityWebRequest was present in:
 		TapTap.RTC-FeaturesChecked.txt
 		Assembly-CSharp-FeaturesChecked.txt

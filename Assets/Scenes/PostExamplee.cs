@@ -5,25 +5,27 @@ using System.Security.Cryptography;
 using System.Text;
 using System;
 using UnityNative.Toasts.Example;
+using System.Collections.Generic;
 
-
-namespace MyNamespaceC {
-    public class PostExamplee : MonoBehaviour
+public class PostExamplee : MonoBehaviour
     {
 
             public GUISkin demoSkin;
 
             string url = "https://poster-api.xd.cn/api/v1.0/cdk/game/submit-simple";
             string clientId = "hskcocvse6x1cgkklm";
-            string giftCode = "87CfvvEdbRVPM";
+            string giftCode = "NZ4mp2cztRMXH";
             string nonceStr = "RFG7U";
             int timestamp = (int)(DateTime.UtcNow.Subtract(new DateTime(1970, 1, 1))).TotalSeconds;
             string sign;
-            string characterId = "879a0c9105b917055ee";
+            string characterId = "879a0cdd91djhhd0ddd235nnb917055ee";
+
 
     void Start()
     {
         sign = CalculateSHA1(timestamp + nonceStr + clientId);
+        Debug.Log("sign："+ sign);
+
         characterId =  characterId+ timestamp;
         
     }
@@ -57,7 +59,8 @@ namespace MyNamespaceC {
 
 		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "无服务器兑换请求", style))
 		{
-           StartCoroutine(PostRequest());
+            IEnumerator ie = PostRequest();
+           StartCoroutine(ie);
         }
     }
 
@@ -84,13 +87,37 @@ namespace MyNamespaceC {
         // Handle the response
         if (request.result == UnityWebRequest.Result.Success)
         {
+            string responseText = request.downloadHandler.text;
+            Debug.Log("success : " + responseText);
             UnityNativeToastsHelper.ShowShortText("Request successful!");
-            Debug.Log(request.downloadHandler.text);
+           
+
+
+            MyResponseData responseData = JsonUtility.FromJson<MyResponseData>(responseText);
+            
+            Debug.Log("success : " + responseData.error);
+            Debug.Log("success : " + responseData.activity_id);
+
+            yield return responseData;
         }
         else
         {
             UnityNativeToastsHelper.ShowShortText("Request failed!");
-            Debug.Log(request.error);
+
+            Debug.LogError("API request failed: " + request.error);
+
+            // Get the error response text
+            string errorResponseText = request.downloadHandler.text;
+
+            // Parse the error JSON response
+            ErrorResponse errorResponse = JsonUtility.FromJson<ErrorResponse>(errorResponseText);
+
+            // Process the error response data
+            Debug.Log("Error code : " + errorResponse.error);
+            Debug.Log("Error: " + errorResponse.message);
+            Debug.Log("Error info: " + errorResponse.info.hint);
+
+
         }
     }
 
@@ -107,9 +134,57 @@ namespace MyNamespaceC {
     }
 
 
-
+    [Serializable]
+    public class MyResponseData
+    {
+        public string activity_id;
+        public string content;
+        public ContentObj[] content_obj;
+        public string nonce_str;
+        public string sign;
+        public int timestamp;
+        public bool success;
+        public int error;
+        public string c_sign;
+        public CustomData custom;
     }
+
+    [Serializable]
+    public class ContentObj
+    {
+        public string name;
+        public int number;
+    }
+
+    [Serializable]
+    public class CustomData
+    {
+        public string[] seasons;
+    }
+
+
+    [Serializable]
+    public class ErrorResponse
+    {
+        public int error;
+        public string message;
+        public ErrorInfo info;
+    }
+
+    [Serializable]
+    public class ErrorInfo
+    {
+        public string dev_message;
+        public string hint;
+    }
+
+
+
+
+
+
 }
+
 
 
 

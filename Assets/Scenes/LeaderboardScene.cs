@@ -11,9 +11,6 @@ using LeanCloud.Storage;
 using LeanCloud.Realtime;
 
 
-
-
-
 public class LeaderboardScene : MonoBehaviour
 {
         public GUISkin demoSkin;

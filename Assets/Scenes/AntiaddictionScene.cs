@@ -19,11 +19,11 @@ public class AntiaddictionScene : MonoBehaviour
          AntiAddictionConfig config_anti = new AntiAddictionConfig()
         {
             gameId = "hskcocvse6x1cgkklm",      // TapTap 开发者中心对应 Client ID
-            useTapLogin = true,             // 是否启动 TapTap 快速认证
             showSwitchAccount = true,      // 是否显示切换账号按钮
         };         
-
+        
         Action<int, string> callback = (code, errorMsg) => {
+           
            if (code == 500)
                 {
                     AntiAddictionUIKit.EnterGame();
@@ -105,8 +105,8 @@ public class AntiaddictionScene : MonoBehaviour
         btnTop += btnHeight + 20 * scale;
 		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "快速认证", style))
 		{
-            string userIdentifier = "Player_unique_Identifier1";
-            AntiAddictionUIKit.Startup(userIdentifier);
+            string userIdentifier = "Player_unique_Identifier11289";
+            AntiAddictionUIKit.Startup(userIdentifier,true);
         }
 
          if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "登出", style))

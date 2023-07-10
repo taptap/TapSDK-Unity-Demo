@@ -5,16 +5,16 @@ INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/B
 INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
 INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
 MERGED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-70:12
-MERGED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/TapCommon_3.18.5/AndroidManifest.xml:2:1-26:12
-MERGED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:2:1-29:12
-MERGED from [:TapBillboard_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/06d458ffe48dcec3f08e77be3a067aee/TapBillboard_3.18.5/AndroidManifest.xml:2:1-20:12
-MERGED from [:TapAchievement_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/fd06c7727b61ced401a4a54f62f99d5c/TapAchievement_3.18.5/AndroidManifest.xml:2:1-17:12
-MERGED from [:AntiAddiction_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/51654fc15e2e7c0d21365bea1f691540/AntiAddiction_3.18.5/AndroidManifest.xml:2:1-13:12
+MERGED from [:AntiAddiction_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6af14990d92f8f70862964df25878f8e/AntiAddiction_3.19.0/AndroidManifest.xml:2:1-13:12
+MERGED from [:TapCommon_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/becae0ac76dffde132a21f2624aa1531/TapCommon_3.19.0/AndroidManifest.xml:2:1-26:12
+MERGED from [:TapBillboard_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/53ef749399d4f01b13aac07b0dec05af/TapBillboard_3.19.0/AndroidManifest.xml:2:1-20:12
+MERGED from [:TapDB_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6fb1e832d70e2def8fa0fae6566e4f76/TapDB_3.19.0/AndroidManifest.xml:2:1-33:12
+MERGED from [:TapAchievement_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/866047a5b1f1e86d14bd03fc6b97204d/TapAchievement_3.19.0/AndroidManifest.xml:2:1-17:12
+MERGED from [:TapLicense_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/ece5268b48ca065bbcebc53cfbc6be06/TapLicense_3.19.0/AndroidManifest.xml:2:1-13:12
 MERGED from [:com.UnityNative.Toasts-v1.0.4:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6fe9f6ad787975c9cd69f7eaba463259/com.UnityNative.Toasts-v1.0.4/AndroidManifest.xml:2:1-12:12
-MERGED from [:TapLicense_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3563765e9e705e7b6416f14c7e1391db/TapLicense_3.18.5/AndroidManifest.xml:2:1-13:12
-MERGED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:2:1-33:12
-MERGED from [:TapMoment_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/9d81f569705acda46e18aea80c8102ad/TapMoment_3.18.5/AndroidManifest.xml:2:1-24:12
-MERGED from [:AntiAddictionUI_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/ff2daa0d0dc16bb86b1f5715fccaef85/AntiAddictionUI_3.18.5/AndroidManifest.xml:2:1-11:12
+MERGED from [:AntiAddictionUI_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/9dcab725782a5c083a749a157df6fcd2/AntiAddictionUI_3.19.0/AndroidManifest.xml:2:1-11:12
+MERGED from [:TapLogin_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b3d0caa6961c74d4a4dd71065be2aa04/TapLogin_3.19.0/AndroidManifest.xml:2:1-29:12
+MERGED from [:TapMoment_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/539ab121a2ef359ac6b142bb3ed3f997/TapMoment_3.19.0/AndroidManifest.xml:2:1-24:12
 MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-19:12
 INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
 INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
@@ -53,60 +53,60 @@ application
 ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:3-83
 MERGED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-68:19
 MERGED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-68:19
-MERGED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/TapCommon_3.18.5/AndroidManifest.xml:13:5-24:19
-MERGED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/TapCommon_3.18.5/AndroidManifest.xml:13:5-24:19
-MERGED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:11:5-27:19
-MERGED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:11:5-27:19
-MERGED from [:TapBillboard_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/06d458ffe48dcec3f08e77be3a067aee/TapBillboard_3.18.5/AndroidManifest.xml:14:5-18:19
-MERGED from [:TapBillboard_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/06d458ffe48dcec3f08e77be3a067aee/TapBillboard_3.18.5/AndroidManifest.xml:14:5-18:19
-MERGED from [:TapAchievement_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/fd06c7727b61ced401a4a54f62f99d5c/TapAchievement_3.18.5/AndroidManifest.xml:11:5-15:19
-MERGED from [:TapAchievement_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/fd06c7727b61ced401a4a54f62f99d5c/TapAchievement_3.18.5/AndroidManifest.xml:11:5-15:19
-MERGED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:20:5-31:19
-MERGED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:20:5-31:19
-MERGED from [:TapMoment_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/9d81f569705acda46e18aea80c8102ad/TapMoment_3.18.5/AndroidManifest.xml:18:5-22:19
-MERGED from [:TapMoment_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/9d81f569705acda46e18aea80c8102ad/TapMoment_3.18.5/AndroidManifest.xml:18:5-22:19
+MERGED from [:TapCommon_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/becae0ac76dffde132a21f2624aa1531/TapCommon_3.19.0/AndroidManifest.xml:13:5-24:19
+MERGED from [:TapCommon_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/becae0ac76dffde132a21f2624aa1531/TapCommon_3.19.0/AndroidManifest.xml:13:5-24:19
+MERGED from [:TapBillboard_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/53ef749399d4f01b13aac07b0dec05af/TapBillboard_3.19.0/AndroidManifest.xml:14:5-18:19
+MERGED from [:TapBillboard_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/53ef749399d4f01b13aac07b0dec05af/TapBillboard_3.19.0/AndroidManifest.xml:14:5-18:19
+MERGED from [:TapDB_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6fb1e832d70e2def8fa0fae6566e4f76/TapDB_3.19.0/AndroidManifest.xml:20:5-31:19
+MERGED from [:TapDB_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6fb1e832d70e2def8fa0fae6566e4f76/TapDB_3.19.0/AndroidManifest.xml:20:5-31:19
+MERGED from [:TapAchievement_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/866047a5b1f1e86d14bd03fc6b97204d/TapAchievement_3.19.0/AndroidManifest.xml:11:5-15:19
+MERGED from [:TapAchievement_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/866047a5b1f1e86d14bd03fc6b97204d/TapAchievement_3.19.0/AndroidManifest.xml:11:5-15:19
+MERGED from [:TapLogin_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b3d0caa6961c74d4a4dd71065be2aa04/TapLogin_3.19.0/AndroidManifest.xml:11:5-27:19
+MERGED from [:TapLogin_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b3d0caa6961c74d4a4dd71065be2aa04/TapLogin_3.19.0/AndroidManifest.xml:11:5-27:19
+MERGED from [:TapMoment_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/539ab121a2ef359ac6b142bb3ed3f997/TapMoment_3.19.0/AndroidManifest.xml:18:5-22:19
+MERGED from [:TapMoment_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/539ab121a2ef359ac6b142bb3ed3f997/TapMoment_3.19.0/AndroidManifest.xml:18:5-22:19
 	android:extractNativeLibs
 		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:30:18-50
 	android:label
 		ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:16-48
 	tools:ignore
-		ADDED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:22:9-39
+		ADDED from [:TapDB_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6fb1e832d70e2def8fa0fae6566e4f76/TapDB_3.19.0/AndroidManifest.xml:22:9-39
 	android:icon
 		ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:49-80
 	android:usesCleartextTraffic
-		ADDED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:21:9-44
+		ADDED from [:TapDB_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6fb1e832d70e2def8fa0fae6566e4f76/TapDB_3.19.0/AndroidManifest.xml:21:9-44
 uses-sdk
 INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
 INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
 MERGED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-10:41
 MERGED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-10:41
-MERGED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/TapCommon_3.18.5/AndroidManifest.xml:7:5-9:41
-MERGED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/TapCommon_3.18.5/AndroidManifest.xml:7:5-9:41
-MERGED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:7:5-9:41
-MERGED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:7:5-9:41
-MERGED from [:TapBillboard_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/06d458ffe48dcec3f08e77be3a067aee/TapBillboard_3.18.5/AndroidManifest.xml:7:5-9:41
-MERGED from [:TapBillboard_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/06d458ffe48dcec3f08e77be3a067aee/TapBillboard_3.18.5/AndroidManifest.xml:7:5-9:41
-MERGED from [:TapAchievement_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/fd06c7727b61ced401a4a54f62f99d5c/TapAchievement_3.18.5/AndroidManifest.xml:7:5-9:41
-MERGED from [:TapAchievement_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/fd06c7727b61ced401a4a54f62f99d5c/TapAchievement_3.18.5/AndroidManifest.xml:7:5-9:41
-MERGED from [:AntiAddiction_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/51654fc15e2e7c0d21365bea1f691540/AntiAddiction_3.18.5/AndroidManifest.xml:7:5-9:41
-MERGED from [:AntiAddiction_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/51654fc15e2e7c0d21365bea1f691540/AntiAddiction_3.18.5/AndroidManifest.xml:7:5-9:41
+MERGED from [:AntiAddiction_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6af14990d92f8f70862964df25878f8e/AntiAddiction_3.19.0/AndroidManifest.xml:7:5-9:41
+MERGED from [:AntiAddiction_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6af14990d92f8f70862964df25878f8e/AntiAddiction_3.19.0/AndroidManifest.xml:7:5-9:41
+MERGED from [:TapCommon_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/becae0ac76dffde132a21f2624aa1531/TapCommon_3.19.0/AndroidManifest.xml:7:5-9:41
+MERGED from [:TapCommon_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/becae0ac76dffde132a21f2624aa1531/TapCommon_3.19.0/AndroidManifest.xml:7:5-9:41
+MERGED from [:TapBillboard_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/53ef749399d4f01b13aac07b0dec05af/TapBillboard_3.19.0/AndroidManifest.xml:7:5-9:41
+MERGED from [:TapBillboard_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/53ef749399d4f01b13aac07b0dec05af/TapBillboard_3.19.0/AndroidManifest.xml:7:5-9:41
+MERGED from [:TapDB_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6fb1e832d70e2def8fa0fae6566e4f76/TapDB_3.19.0/AndroidManifest.xml:8:5-11:52
+MERGED from [:TapDB_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6fb1e832d70e2def8fa0fae6566e4f76/TapDB_3.19.0/AndroidManifest.xml:8:5-11:52
+MERGED from [:TapAchievement_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/866047a5b1f1e86d14bd03fc6b97204d/TapAchievement_3.19.0/AndroidManifest.xml:7:5-9:41
+MERGED from [:TapAchievement_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/866047a5b1f1e86d14bd03fc6b97204d/TapAchievement_3.19.0/AndroidManifest.xml:7:5-9:41
+MERGED from [:TapLicense_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/ece5268b48ca065bbcebc53cfbc6be06/TapLicense_3.19.0/AndroidManifest.xml:7:5-9:41
+MERGED from [:TapLicense_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/ece5268b48ca065bbcebc53cfbc6be06/TapLicense_3.19.0/AndroidManifest.xml:7:5-9:41
 MERGED from [:com.UnityNative.Toasts-v1.0.4:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6fe9f6ad787975c9cd69f7eaba463259/com.UnityNative.Toasts-v1.0.4/AndroidManifest.xml:8:5-10:41
 MERGED from [:com.UnityNative.Toasts-v1.0.4:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6fe9f6ad787975c9cd69f7eaba463259/com.UnityNative.Toasts-v1.0.4/AndroidManifest.xml:8:5-10:41
-MERGED from [:TapLicense_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3563765e9e705e7b6416f14c7e1391db/TapLicense_3.18.5/AndroidManifest.xml:7:5-9:41
-MERGED from [:TapLicense_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3563765e9e705e7b6416f14c7e1391db/TapLicense_3.18.5/AndroidManifest.xml:7:5-9:41
-MERGED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:8:5-11:52
-MERGED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:8:5-11:52
-MERGED from [:TapMoment_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/9d81f569705acda46e18aea80c8102ad/TapMoment_3.18.5/AndroidManifest.xml:8:5-10:41
-MERGED from [:TapMoment_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/9d81f569705acda46e18aea80c8102ad/TapMoment_3.18.5/AndroidManifest.xml:8:5-10:41
-MERGED from [:AntiAddictionUI_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/ff2daa0d0dc16bb86b1f5715fccaef85/AntiAddictionUI_3.18.5/AndroidManifest.xml:7:5-9:41
-MERGED from [:AntiAddictionUI_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/ff2daa0d0dc16bb86b1f5715fccaef85/AntiAddictionUI_3.18.5/AndroidManifest.xml:7:5-9:41
+MERGED from [:AntiAddictionUI_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/9dcab725782a5c083a749a157df6fcd2/AntiAddictionUI_3.19.0/AndroidManifest.xml:7:5-9:41
+MERGED from [:AntiAddictionUI_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/9dcab725782a5c083a749a157df6fcd2/AntiAddictionUI_3.19.0/AndroidManifest.xml:7:5-9:41
+MERGED from [:TapLogin_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b3d0caa6961c74d4a4dd71065be2aa04/TapLogin_3.19.0/AndroidManifest.xml:7:5-9:41
+MERGED from [:TapLogin_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b3d0caa6961c74d4a4dd71065be2aa04/TapLogin_3.19.0/AndroidManifest.xml:7:5-9:41
+MERGED from [:TapMoment_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/539ab121a2ef359ac6b142bb3ed3f997/TapMoment_3.19.0/AndroidManifest.xml:8:5-10:41
+MERGED from [:TapMoment_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/539ab121a2ef359ac6b142bb3ed3f997/TapMoment_3.19.0/AndroidManifest.xml:8:5-10:41
 MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
 MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
 INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
 INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:11:9-49
+		ADDED from [:TapDB_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6fb1e832d70e2def8fa0fae6566e4f76/TapDB_3.19.0/AndroidManifest.xml:11:9-49
 	android:targetSdkVersion
 		INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
 		ADDED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
@@ -127,28 +127,28 @@ ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-D
 		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:14:9-55
 uses-permission#android.permission.INTERNET
 ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:17:5-67
-MERGED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/TapCommon_3.18.5/AndroidManifest.xml:11:5-67
-MERGED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/TapCommon_3.18.5/AndroidManifest.xml:11:5-67
-MERGED from [:TapBillboard_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/06d458ffe48dcec3f08e77be3a067aee/TapBillboard_3.18.5/AndroidManifest.xml:11:5-67
-MERGED from [:TapBillboard_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/06d458ffe48dcec3f08e77be3a067aee/TapBillboard_3.18.5/AndroidManifest.xml:11:5-67
-MERGED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:13:5-67
-MERGED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:13:5-67
-MERGED from [:TapMoment_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/9d81f569705acda46e18aea80c8102ad/TapMoment_3.18.5/AndroidManifest.xml:12:5-67
-MERGED from [:TapMoment_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/9d81f569705acda46e18aea80c8102ad/TapMoment_3.18.5/AndroidManifest.xml:12:5-67
+MERGED from [:TapCommon_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/becae0ac76dffde132a21f2624aa1531/TapCommon_3.19.0/AndroidManifest.xml:11:5-67
+MERGED from [:TapCommon_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/becae0ac76dffde132a21f2624aa1531/TapCommon_3.19.0/AndroidManifest.xml:11:5-67
+MERGED from [:TapBillboard_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/53ef749399d4f01b13aac07b0dec05af/TapBillboard_3.19.0/AndroidManifest.xml:11:5-67
+MERGED from [:TapBillboard_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/53ef749399d4f01b13aac07b0dec05af/TapBillboard_3.19.0/AndroidManifest.xml:11:5-67
+MERGED from [:TapDB_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6fb1e832d70e2def8fa0fae6566e4f76/TapDB_3.19.0/AndroidManifest.xml:13:5-67
+MERGED from [:TapDB_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6fb1e832d70e2def8fa0fae6566e4f76/TapDB_3.19.0/AndroidManifest.xml:13:5-67
+MERGED from [:TapMoment_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/539ab121a2ef359ac6b142bb3ed3f997/TapMoment_3.19.0/AndroidManifest.xml:12:5-67
+MERGED from [:TapMoment_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/539ab121a2ef359ac6b142bb3ed3f997/TapMoment_3.19.0/AndroidManifest.xml:12:5-67
 MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-67
 MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-67
 	android:name
 		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:17:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:18:5-79
-MERGED from [:TapBillboard_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/06d458ffe48dcec3f08e77be3a067aee/TapBillboard_3.18.5/AndroidManifest.xml:12:5-79
-MERGED from [:TapBillboard_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/06d458ffe48dcec3f08e77be3a067aee/TapBillboard_3.18.5/AndroidManifest.xml:12:5-79
-MERGED from [:AntiAddiction_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/51654fc15e2e7c0d21365bea1f691540/AntiAddiction_3.18.5/AndroidManifest.xml:11:5-79
-MERGED from [:AntiAddiction_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/51654fc15e2e7c0d21365bea1f691540/AntiAddiction_3.18.5/AndroidManifest.xml:11:5-79
-MERGED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:16:5-79
-MERGED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:16:5-79
-MERGED from [:TapMoment_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/9d81f569705acda46e18aea80c8102ad/TapMoment_3.18.5/AndroidManifest.xml:16:5-79
-MERGED from [:TapMoment_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/9d81f569705acda46e18aea80c8102ad/TapMoment_3.18.5/AndroidManifest.xml:16:5-79
+MERGED from [:AntiAddiction_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6af14990d92f8f70862964df25878f8e/AntiAddiction_3.19.0/AndroidManifest.xml:11:5-79
+MERGED from [:AntiAddiction_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6af14990d92f8f70862964df25878f8e/AntiAddiction_3.19.0/AndroidManifest.xml:11:5-79
+MERGED from [:TapBillboard_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/53ef749399d4f01b13aac07b0dec05af/TapBillboard_3.19.0/AndroidManifest.xml:12:5-79
+MERGED from [:TapBillboard_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/53ef749399d4f01b13aac07b0dec05af/TapBillboard_3.19.0/AndroidManifest.xml:12:5-79
+MERGED from [:TapDB_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6fb1e832d70e2def8fa0fae6566e4f76/TapDB_3.19.0/AndroidManifest.xml:16:5-79
+MERGED from [:TapDB_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6fb1e832d70e2def8fa0fae6566e4f76/TapDB_3.19.0/AndroidManifest.xml:16:5-79
+MERGED from [:TapMoment_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/539ab121a2ef359ac6b142bb3ed3f997/TapMoment_3.19.0/AndroidManifest.xml:16:5-79
+MERGED from [:TapMoment_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/539ab121a2ef359ac6b142bb3ed3f997/TapMoment_3.19.0/AndroidManifest.xml:16:5-79
 MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-79
 MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-79
 	android:name
@@ -240,111 +240,111 @@ ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-D
 	android:name
 		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:66:13-40
 activity#com.tds.common.oauth.TapTapEntryActivity
-ADDED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/TapCommon_3.18.5/AndroidManifest.xml:14:9-18:86
+ADDED from [:TapCommon_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/becae0ac76dffde132a21f2624aa1531/TapCommon_3.19.0/AndroidManifest.xml:14:9-18:86
 	android:exported
-		ADDED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/TapCommon_3.18.5/AndroidManifest.xml:17:13-37
+		ADDED from [:TapCommon_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/becae0ac76dffde132a21f2624aa1531/TapCommon_3.19.0/AndroidManifest.xml:17:13-37
 	android:configChanges
-		ADDED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/TapCommon_3.18.5/AndroidManifest.xml:16:13-96
+		ADDED from [:TapCommon_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/becae0ac76dffde132a21f2624aa1531/TapCommon_3.19.0/AndroidManifest.xml:16:13-96
 	android:theme
-		ADDED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/TapCommon_3.18.5/AndroidManifest.xml:18:13-83
+		ADDED from [:TapCommon_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/becae0ac76dffde132a21f2624aa1531/TapCommon_3.19.0/AndroidManifest.xml:18:13-83
 	android:name
-		ADDED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/TapCommon_3.18.5/AndroidManifest.xml:15:13-68
+		ADDED from [:TapCommon_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/becae0ac76dffde132a21f2624aa1531/TapCommon_3.19.0/AndroidManifest.xml:15:13-68
 provider#com.tds.common.provider.CurrentConfigProvider
-ADDED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/TapCommon_3.18.5/AndroidManifest.xml:20:9-23:40
+ADDED from [:TapCommon_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/becae0ac76dffde132a21f2624aa1531/TapCommon_3.19.0/AndroidManifest.xml:20:9-23:40
 	android:authorities
-		ADDED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/TapCommon_3.18.5/AndroidManifest.xml:22:13-71
+		ADDED from [:TapCommon_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/becae0ac76dffde132a21f2624aa1531/TapCommon_3.19.0/AndroidManifest.xml:22:13-71
 	android:exported
-		ADDED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/TapCommon_3.18.5/AndroidManifest.xml:23:13-37
+		ADDED from [:TapCommon_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/becae0ac76dffde132a21f2624aa1531/TapCommon_3.19.0/AndroidManifest.xml:23:13-37
 	android:name
-		ADDED from [:TapCommon_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/939f73740b7f95603dbd08eab6751505/TapCommon_3.18.5/AndroidManifest.xml:21:13-73
-activity#com.taptap.sdk.ui.TapTapActivity
-ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:12:9-16:86
-	android:exported
-		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:15:13-37
-	android:configChanges
-		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:14:13-96
-	android:theme
-		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:16:13-83
-	android:name
-		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:13:13-60
-activity#com.taptap.sdk.TapLoginHelperActivity
-ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:17:9-21:86
-	android:exported
-		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:20:13-37
-	android:configChanges
-		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:19:13-96
-	android:theme
-		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:21:13-83
-	android:name
-		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:18:13-65
-provider#com.taptap.sdk.internal.user.CurrentUserProvider
-ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:23:9-26:40
-	android:authorities
-		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:25:13-69
-	android:exported
-		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:26:13-37
-	android:name
-		ADDED from [:TapLogin_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3c429e96676f14a0df146b65d397bc69/TapLogin_3.18.5/AndroidManifest.xml:24:13-76
+		ADDED from [:TapCommon_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/becae0ac76dffde132a21f2624aa1531/TapCommon_3.19.0/AndroidManifest.xml:21:13-73
 meta-data#com.tapsdk.billboard.loader
-ADDED from [:TapBillboard_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/06d458ffe48dcec3f08e77be3a067aee/TapBillboard_3.18.5/AndroidManifest.xml:15:9-17:36
+ADDED from [:TapBillboard_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/53ef749399d4f01b13aac07b0dec05af/TapBillboard_3.19.0/AndroidManifest.xml:15:9-17:36
 	android:value
-		ADDED from [:TapBillboard_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/06d458ffe48dcec3f08e77be3a067aee/TapBillboard_3.18.5/AndroidManifest.xml:17:13-33
+		ADDED from [:TapBillboard_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/53ef749399d4f01b13aac07b0dec05af/TapBillboard_3.19.0/AndroidManifest.xml:17:13-33
 	android:name
-		ADDED from [:TapBillboard_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/06d458ffe48dcec3f08e77be3a067aee/TapBillboard_3.18.5/AndroidManifest.xml:16:13-55
-meta-data#com.tapsdk.achievement.loader
-ADDED from [:TapAchievement_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/fd06c7727b61ced401a4a54f62f99d5c/TapAchievement_3.18.5/AndroidManifest.xml:12:9-14:36
-	android:value
-		ADDED from [:TapAchievement_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/fd06c7727b61ced401a4a54f62f99d5c/TapAchievement_3.18.5/AndroidManifest.xml:14:13-33
-	android:name
-		ADDED from [:TapAchievement_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/fd06c7727b61ced401a4a54f62f99d5c/TapAchievement_3.18.5/AndroidManifest.xml:13:13-57
-uses-permission#android.permission.REORDER_TASKS
-ADDED from [:TapLicense_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3563765e9e705e7b6416f14c7e1391db/TapLicense_3.18.5/AndroidManifest.xml:11:5-72
-	android:name
-		ADDED from [:TapLicense_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3563765e9e705e7b6416f14c7e1391db/TapLicense_3.18.5/AndroidManifest.xml:11:22-69
+		ADDED from [:TapBillboard_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/53ef749399d4f01b13aac07b0dec05af/TapBillboard_3.19.0/AndroidManifest.xml:16:13-55
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:14:5-75
+ADDED from [:TapDB_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6fb1e832d70e2def8fa0fae6566e4f76/TapDB_3.19.0/AndroidManifest.xml:14:5-75
 	android:name
-		ADDED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:14:22-72
+		ADDED from [:TapDB_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6fb1e832d70e2def8fa0fae6566e4f76/TapDB_3.19.0/AndroidManifest.xml:14:22-72
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:15:5-76
+ADDED from [:TapDB_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6fb1e832d70e2def8fa0fae6566e4f76/TapDB_3.19.0/AndroidManifest.xml:15:5-76
 MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-76
 MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-76
 	android:name
-		ADDED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:15:22-73
+		ADDED from [:TapDB_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6fb1e832d70e2def8fa0fae6566e4f76/TapDB_3.19.0/AndroidManifest.xml:15:22-73
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:17:5-80
+ADDED from [:TapDB_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6fb1e832d70e2def8fa0fae6566e4f76/TapDB_3.19.0/AndroidManifest.xml:17:5-80
 	android:name
-		ADDED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:17:22-77
+		ADDED from [:TapDB_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6fb1e832d70e2def8fa0fae6566e4f76/TapDB_3.19.0/AndroidManifest.xml:17:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:18:5-81
-MERGED from [:TapMoment_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/9d81f569705acda46e18aea80c8102ad/TapMoment_3.18.5/AndroidManifest.xml:13:5-15:40
-MERGED from [:TapMoment_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/9d81f569705acda46e18aea80c8102ad/TapMoment_3.18.5/AndroidManifest.xml:13:5-15:40
+ADDED from [:TapDB_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6fb1e832d70e2def8fa0fae6566e4f76/TapDB_3.19.0/AndroidManifest.xml:18:5-81
+MERGED from [:TapMoment_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/539ab121a2ef359ac6b142bb3ed3f997/TapMoment_3.19.0/AndroidManifest.xml:13:5-15:40
+MERGED from [:TapMoment_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/539ab121a2ef359ac6b142bb3ed3f997/TapMoment_3.19.0/AndroidManifest.xml:13:5-15:40
 MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:17:5-81
 MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:17:5-81
 	tools:ignore
-		ADDED from [:TapMoment_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/9d81f569705acda46e18aea80c8102ad/TapMoment_3.18.5/AndroidManifest.xml:15:9-37
+		ADDED from [:TapMoment_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/539ab121a2ef359ac6b142bb3ed3f997/TapMoment_3.19.0/AndroidManifest.xml:15:9-37
 	android:name
-		ADDED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:18:22-78
+		ADDED from [:TapDB_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6fb1e832d70e2def8fa0fae6566e4f76/TapDB_3.19.0/AndroidManifest.xml:18:22-78
 meta-data#com.tapsdk.tapdb.loader
-ADDED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:23:9-25:36
+ADDED from [:TapDB_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6fb1e832d70e2def8fa0fae6566e4f76/TapDB_3.19.0/AndroidManifest.xml:23:9-25:36
 	android:value
-		ADDED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:25:13-33
+		ADDED from [:TapDB_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6fb1e832d70e2def8fa0fae6566e4f76/TapDB_3.19.0/AndroidManifest.xml:25:13-33
 	android:name
-		ADDED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:24:13-51
+		ADDED from [:TapDB_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6fb1e832d70e2def8fa0fae6566e4f76/TapDB_3.19.0/AndroidManifest.xml:24:13-51
 provider#com.tds.tapdb.internal.device.DeviceProvider
-ADDED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:27:9-30:40
+ADDED from [:TapDB_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6fb1e832d70e2def8fa0fae6566e4f76/TapDB_3.19.0/AndroidManifest.xml:27:9-30:40
 	android:authorities
-		ADDED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:29:13-67
+		ADDED from [:TapDB_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6fb1e832d70e2def8fa0fae6566e4f76/TapDB_3.19.0/AndroidManifest.xml:29:13-67
 	android:exported
-		ADDED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:30:13-37
+		ADDED from [:TapDB_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6fb1e832d70e2def8fa0fae6566e4f76/TapDB_3.19.0/AndroidManifest.xml:30:13-37
 	android:name
-		ADDED from [:TapDB_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f2088c25a8ab9e1016cebf4396586497/TapDB_3.18.5/AndroidManifest.xml:28:13-72
-meta-data#com.tapsdk.moment.loader
-ADDED from [:TapMoment_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/9d81f569705acda46e18aea80c8102ad/TapMoment_3.18.5/AndroidManifest.xml:19:9-21:36
+		ADDED from [:TapDB_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6fb1e832d70e2def8fa0fae6566e4f76/TapDB_3.19.0/AndroidManifest.xml:28:13-72
+meta-data#com.tapsdk.achievement.loader
+ADDED from [:TapAchievement_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/866047a5b1f1e86d14bd03fc6b97204d/TapAchievement_3.19.0/AndroidManifest.xml:12:9-14:36
 	android:value
-		ADDED from [:TapMoment_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/9d81f569705acda46e18aea80c8102ad/TapMoment_3.18.5/AndroidManifest.xml:21:13-33
+		ADDED from [:TapAchievement_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/866047a5b1f1e86d14bd03fc6b97204d/TapAchievement_3.19.0/AndroidManifest.xml:14:13-33
 	android:name
-		ADDED from [:TapMoment_3.18.5:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/9d81f569705acda46e18aea80c8102ad/TapMoment_3.18.5/AndroidManifest.xml:20:13-52
+		ADDED from [:TapAchievement_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/866047a5b1f1e86d14bd03fc6b97204d/TapAchievement_3.19.0/AndroidManifest.xml:13:13-57
+uses-permission#android.permission.REORDER_TASKS
+ADDED from [:TapLicense_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/ece5268b48ca065bbcebc53cfbc6be06/TapLicense_3.19.0/AndroidManifest.xml:11:5-72
+	android:name
+		ADDED from [:TapLicense_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/ece5268b48ca065bbcebc53cfbc6be06/TapLicense_3.19.0/AndroidManifest.xml:11:22-69
+activity#com.taptap.sdk.ui.TapTapActivity
+ADDED from [:TapLogin_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b3d0caa6961c74d4a4dd71065be2aa04/TapLogin_3.19.0/AndroidManifest.xml:12:9-16:86
+	android:exported
+		ADDED from [:TapLogin_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b3d0caa6961c74d4a4dd71065be2aa04/TapLogin_3.19.0/AndroidManifest.xml:15:13-37
+	android:configChanges
+		ADDED from [:TapLogin_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b3d0caa6961c74d4a4dd71065be2aa04/TapLogin_3.19.0/AndroidManifest.xml:14:13-96
+	android:theme
+		ADDED from [:TapLogin_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b3d0caa6961c74d4a4dd71065be2aa04/TapLogin_3.19.0/AndroidManifest.xml:16:13-83
+	android:name
+		ADDED from [:TapLogin_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b3d0caa6961c74d4a4dd71065be2aa04/TapLogin_3.19.0/AndroidManifest.xml:13:13-60
+activity#com.taptap.sdk.TapLoginHelperActivity
+ADDED from [:TapLogin_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b3d0caa6961c74d4a4dd71065be2aa04/TapLogin_3.19.0/AndroidManifest.xml:17:9-21:86
+	android:exported
+		ADDED from [:TapLogin_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b3d0caa6961c74d4a4dd71065be2aa04/TapLogin_3.19.0/AndroidManifest.xml:20:13-37
+	android:configChanges
+		ADDED from [:TapLogin_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b3d0caa6961c74d4a4dd71065be2aa04/TapLogin_3.19.0/AndroidManifest.xml:19:13-96
+	android:theme
+		ADDED from [:TapLogin_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b3d0caa6961c74d4a4dd71065be2aa04/TapLogin_3.19.0/AndroidManifest.xml:21:13-83
+	android:name
+		ADDED from [:TapLogin_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b3d0caa6961c74d4a4dd71065be2aa04/TapLogin_3.19.0/AndroidManifest.xml:18:13-65
+provider#com.taptap.sdk.internal.user.CurrentUserProvider
+ADDED from [:TapLogin_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b3d0caa6961c74d4a4dd71065be2aa04/TapLogin_3.19.0/AndroidManifest.xml:23:9-26:40
+	android:authorities
+		ADDED from [:TapLogin_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b3d0caa6961c74d4a4dd71065be2aa04/TapLogin_3.19.0/AndroidManifest.xml:25:13-69
+	android:exported
+		ADDED from [:TapLogin_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b3d0caa6961c74d4a4dd71065be2aa04/TapLogin_3.19.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [:TapLogin_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b3d0caa6961c74d4a4dd71065be2aa04/TapLogin_3.19.0/AndroidManifest.xml:24:13-76
+meta-data#com.tapsdk.moment.loader
+ADDED from [:TapMoment_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/539ab121a2ef359ac6b142bb3ed3f997/TapMoment_3.19.0/AndroidManifest.xml:19:9-21:36
+	android:value
+		ADDED from [:TapMoment_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/539ab121a2ef359ac6b142bb3ed3f997/TapMoment_3.19.0/AndroidManifest.xml:21:13-33
+	android:name
+		ADDED from [:TapMoment_3.19.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/539ab121a2ef359ac6b142bb3ed3f997/TapMoment_3.19.0/AndroidManifest.xml:20:13-52
 uses-permission#android.permission.RECORD_AUDIO
 ADDED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-71
 	android:name

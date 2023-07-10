@@ -4,34 +4,7 @@
             "outputFile": "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ja/values-ja.xml",
             "map": [
                 {
-                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/fd06c7727b61ced401a4a54f62f99d5c/TapAchievement_3.18.5/res/values-ja/values-ja.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,136,231,329,409,499,570,633,705,775,846,923,994",
-                        "endColumns": "80,94,97,79,89,70,62,71,69,70,76,70,62",
-                        "endOffsets": "131,226,324,404,494,565,628,700,770,841,918,989,1052"
-                    },
-                    "to": {
-                        "startLines": "26,27,28,29,30,31,32,33,34,35,36,37,38",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "1604,1685,1780,1878,1958,2048,2119,2182,2254,2324,2395,2472,2543",
-                        "endColumns": "80,94,97,79,89,70,62,71,69,70,76,70,62",
-                        "endOffsets": "1680,1775,1873,1953,2043,2114,2177,2249,2319,2390,2467,2538,2601"
-                    }
-                },
-                {
-                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/06d458ffe48dcec3f08e77be3a067aee/TapBillboard_3.18.5/res/values-ja/values-ja.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,107",
-                        "endColumns": "51,89",
-                        "endOffsets": "102,192"
-                    }
-                },
-                {
-                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/9d81f569705acda46e18aea80c8102ad/TapMoment_3.18.5/res/values-ja/values-ja.xml",
+                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/539ab121a2ef359ac6b142bb3ed3f997/TapMoment_3.19.0/res/values-ja/values-ja.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -48,7 +21,34 @@
                     }
                 },
                 {
-                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3563765e9e705e7b6416f14c7e1391db/TapLicense_3.18.5/res/values-ja/values-ja.xml",
+                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/866047a5b1f1e86d14bd03fc6b97204d/TapAchievement_3.19.0/res/values-ja/values-ja.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,136,231,329,409,499,570,633,705,775,846,923,994",
+                        "endColumns": "80,94,97,79,89,70,62,71,69,70,76,70,62",
+                        "endOffsets": "131,226,324,404,494,565,628,700,770,841,918,989,1052"
+                    },
+                    "to": {
+                        "startLines": "26,27,28,29,30,31,32,33,34,35,36,37,38",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1604,1685,1780,1878,1958,2048,2119,2182,2254,2324,2395,2472,2543",
+                        "endColumns": "80,94,97,79,89,70,62,71,69,70,76,70,62",
+                        "endOffsets": "1680,1775,1873,1953,2043,2114,2177,2249,2319,2390,2467,2538,2601"
+                    }
+                },
+                {
+                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/53ef749399d4f01b13aac07b0dec05af/TapBillboard_3.19.0/res/values-ja/values-ja.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,107",
+                        "endColumns": "51,89",
+                        "endOffsets": "102,192"
+                    }
+                },
+                {
+                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/ece5268b48ca065bbcebc53cfbc6be06/TapLicense_3.19.0/res/values-ja/values-ja.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

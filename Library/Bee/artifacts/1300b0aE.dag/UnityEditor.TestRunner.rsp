@@ -335,6 +335,7 @@
 -r:"/Applications/Unity/Hub/Editor/2021.3.7f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/System.Numerics.Vectors.dll"
 -r:"/Applications/Unity/Hub/Editor/2021.3.7f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/System.Runtime.Serialization.dll"
 -r:"/Applications/Unity/Hub/Editor/2021.3.7f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/System.Transactions.dll"
+-r:"/Applications/Unity/Hub/Editor/2021.3.7f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/System.Web.dll"
 -r:"/Applications/Unity/Hub/Editor/2021.3.7f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/System.Xml.dll"
 -r:"/Applications/Unity/Hub/Editor/2021.3.7f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/System.Xml.Linq.dll"
 -r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"

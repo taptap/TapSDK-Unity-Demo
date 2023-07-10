@@ -1,0 +1,15 @@
+{
+    "name": "TapTap.RTC",
+    "references": [
+        "GUID:0b3f64ec33f5b4da98a17367a35b82f2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
