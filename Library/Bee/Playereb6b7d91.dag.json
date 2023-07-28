@@ -582,277 +582,277 @@
       "DebugActionIndex": 5
     },
     {
-      "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/AntiAddiction_3.19.0.aar",
+      "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/TapBillboard_3.19.1.aar",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PackageCache/com.tapsdk.antiaddiction@da8f4db095/Plugins/Android/AntiAddiction_3.19.0.aar"
+        "Library/PackageCache/com.taptap.tds.billboard@69bb022fdf/Plugins/Android/libs/TapBillboard_3.19.1.aar"
       ],
       "Outputs": [
-        "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/AntiAddiction_3.19.0.aar"
+        "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/TapBillboard_3.19.1.aar"
       ],
       "DebugActionIndex": 6
     },
     {
-      "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/TapCommon_3.19.0.aar",
+      "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/TapAchievement_3.19.1.aar",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PackageCache/com.taptap.tds.common@1739e815c6/Plugins/Android/libs/TapCommon_3.19.0.aar"
+        "Library/PackageCache/com.taptap.tds.achievement@293e3e9350/Plugins/Android/libs/TapAchievement_3.19.1.aar"
       ],
       "Outputs": [
-        "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/TapCommon_3.19.0.aar"
+        "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/TapAchievement_3.19.1.aar"
       ],
       "DebugActionIndex": 7
     },
     {
-      "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/TapBillboard_3.19.0.aar",
+      "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/AntiAddictionUI_3.19.1.aar",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PackageCache/com.taptap.tds.billboard@4178e8d952/Plugins/Android/libs/TapBillboard_3.19.0.aar"
+        "Library/PackageCache/com.tapsdk.antiaddiction@bd9bb8a6d4/Plugins/Android/AntiAddictionUI_3.19.1.aar"
       ],
       "Outputs": [
-        "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/TapBillboard_3.19.0.aar"
+        "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/AntiAddictionUI_3.19.1.aar"
       ],
       "DebugActionIndex": 8
-    },
-    {
-      "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/TapDB_3.19.0.aar",
-      "ActionType": "CopyFiles",
-      "Inputs": [
-        "Library/PackageCache/com.taptap.tds.tapdb@9619db644c/Plugins/Android/libs/TapDB_3.19.0.aar"
-      ],
-      "Outputs": [
-        "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/TapDB_3.19.0.aar"
-      ],
-      "DebugActionIndex": 9
     },
     {
       "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PackageCache/com.taptap.tds.rtc@94f19fe36d/Plugins/Android/Opensdk.plugin/AndroidManifest.xml"
+        "Library/PackageCache/com.taptap.tds.rtc@f5d5a7a57a/Plugins/Android/Opensdk.plugin/AndroidManifest.xml"
       ],
       "Outputs": [
         "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/AndroidManifest.xml"
       ],
-      "DebugActionIndex": 10
+      "DebugActionIndex": 9
     },
     {
       "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/project.properties",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PackageCache/com.taptap.tds.rtc@94f19fe36d/Plugins/Android/Opensdk.plugin/project.properties"
+        "Library/PackageCache/com.taptap.tds.rtc@f5d5a7a57a/Plugins/Android/Opensdk.plugin/project.properties"
       ],
       "Outputs": [
         "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/project.properties"
       ],
-      "DebugActionIndex": 11
+      "DebugActionIndex": 10
     },
     {
       "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/gmesdk.jar",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PackageCache/com.taptap.tds.rtc@94f19fe36d/Plugins/Android/Opensdk.plugin/libs/gmesdk.jar"
+        "Library/PackageCache/com.taptap.tds.rtc@f5d5a7a57a/Plugins/Android/Opensdk.plugin/libs/gmesdk.jar"
       ],
       "Outputs": [
         "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/gmesdk.jar"
       ],
-      "DebugActionIndex": 12
+      "DebugActionIndex": 11
     },
     {
       "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/armeabi-v7a/libtraeimp.so",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PackageCache/com.taptap.tds.rtc@94f19fe36d/Plugins/Android/Opensdk.plugin/libs/armeabi-v7a/libtraeimp.so"
+        "Library/PackageCache/com.taptap.tds.rtc@f5d5a7a57a/Plugins/Android/Opensdk.plugin/libs/armeabi-v7a/libtraeimp.so"
       ],
       "Outputs": [
         "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/armeabi-v7a/libtraeimp.so"
       ],
-      "DebugActionIndex": 13
+      "DebugActionIndex": 12
     },
     {
       "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/armeabi-v7a/libgmecodec.so",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PackageCache/com.taptap.tds.rtc@94f19fe36d/Plugins/Android/Opensdk.plugin/libs/armeabi-v7a/libgmecodec.so"
+        "Library/PackageCache/com.taptap.tds.rtc@f5d5a7a57a/Plugins/Android/Opensdk.plugin/libs/armeabi-v7a/libgmecodec.so"
       ],
       "Outputs": [
         "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/armeabi-v7a/libgmecodec.so"
       ],
-      "DebugActionIndex": 14
+      "DebugActionIndex": 13
     },
     {
       "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/armeabi-v7a/libsilk.so",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PackageCache/com.taptap.tds.rtc@94f19fe36d/Plugins/Android/Opensdk.plugin/libs/armeabi-v7a/libsilk.so"
+        "Library/PackageCache/com.taptap.tds.rtc@f5d5a7a57a/Plugins/Android/Opensdk.plugin/libs/armeabi-v7a/libsilk.so"
       ],
       "Outputs": [
         "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/armeabi-v7a/libsilk.so"
       ],
-      "DebugActionIndex": 15
+      "DebugActionIndex": 14
     },
     {
       "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/armeabi-v7a/libgmesdk.so",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PackageCache/com.taptap.tds.rtc@94f19fe36d/Plugins/Android/Opensdk.plugin/libs/armeabi-v7a/libgmesdk.so"
+        "Library/PackageCache/com.taptap.tds.rtc@f5d5a7a57a/Plugins/Android/Opensdk.plugin/libs/armeabi-v7a/libgmesdk.so"
       ],
       "Outputs": [
         "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/armeabi-v7a/libgmesdk.so"
       ],
-      "DebugActionIndex": 16
+      "DebugActionIndex": 15
     },
     {
       "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/x86/libtraeimp.so",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PackageCache/com.taptap.tds.rtc@94f19fe36d/Plugins/Android/Opensdk.plugin/libs/x86/libtraeimp.so"
+        "Library/PackageCache/com.taptap.tds.rtc@f5d5a7a57a/Plugins/Android/Opensdk.plugin/libs/x86/libtraeimp.so"
       ],
       "Outputs": [
         "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/x86/libtraeimp.so"
       ],
-      "DebugActionIndex": 17
+      "DebugActionIndex": 16
     },
     {
       "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/x86/libgmecodec.so",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PackageCache/com.taptap.tds.rtc@94f19fe36d/Plugins/Android/Opensdk.plugin/libs/x86/libgmecodec.so"
+        "Library/PackageCache/com.taptap.tds.rtc@f5d5a7a57a/Plugins/Android/Opensdk.plugin/libs/x86/libgmecodec.so"
       ],
       "Outputs": [
         "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/x86/libgmecodec.so"
       ],
-      "DebugActionIndex": 18
+      "DebugActionIndex": 17
     },
     {
       "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/x86/libsilk.so",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PackageCache/com.taptap.tds.rtc@94f19fe36d/Plugins/Android/Opensdk.plugin/libs/x86/libsilk.so"
+        "Library/PackageCache/com.taptap.tds.rtc@f5d5a7a57a/Plugins/Android/Opensdk.plugin/libs/x86/libsilk.so"
       ],
       "Outputs": [
         "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/x86/libsilk.so"
       ],
-      "DebugActionIndex": 19
+      "DebugActionIndex": 18
     },
     {
       "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/x86/libgmesdk.so",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PackageCache/com.taptap.tds.rtc@94f19fe36d/Plugins/Android/Opensdk.plugin/libs/x86/libgmesdk.so"
+        "Library/PackageCache/com.taptap.tds.rtc@f5d5a7a57a/Plugins/Android/Opensdk.plugin/libs/x86/libgmesdk.so"
       ],
       "Outputs": [
         "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/x86/libgmesdk.so"
       ],
-      "DebugActionIndex": 20
+      "DebugActionIndex": 19
     },
     {
       "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/arm64-v8a/libtraeimp.so",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PackageCache/com.taptap.tds.rtc@94f19fe36d/Plugins/Android/Opensdk.plugin/libs/arm64-v8a/libtraeimp.so"
+        "Library/PackageCache/com.taptap.tds.rtc@f5d5a7a57a/Plugins/Android/Opensdk.plugin/libs/arm64-v8a/libtraeimp.so"
       ],
       "Outputs": [
         "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/arm64-v8a/libtraeimp.so"
       ],
-      "DebugActionIndex": 21
+      "DebugActionIndex": 20
     },
     {
       "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/arm64-v8a/libgmecodec.so",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PackageCache/com.taptap.tds.rtc@94f19fe36d/Plugins/Android/Opensdk.plugin/libs/arm64-v8a/libgmecodec.so"
+        "Library/PackageCache/com.taptap.tds.rtc@f5d5a7a57a/Plugins/Android/Opensdk.plugin/libs/arm64-v8a/libgmecodec.so"
       ],
       "Outputs": [
         "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/arm64-v8a/libgmecodec.so"
       ],
-      "DebugActionIndex": 22
+      "DebugActionIndex": 21
     },
     {
       "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/arm64-v8a/libsilk.so",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PackageCache/com.taptap.tds.rtc@94f19fe36d/Plugins/Android/Opensdk.plugin/libs/arm64-v8a/libsilk.so"
+        "Library/PackageCache/com.taptap.tds.rtc@f5d5a7a57a/Plugins/Android/Opensdk.plugin/libs/arm64-v8a/libsilk.so"
       ],
       "Outputs": [
         "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/arm64-v8a/libsilk.so"
       ],
-      "DebugActionIndex": 23
+      "DebugActionIndex": 22
     },
     {
       "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/arm64-v8a/libgmesdk.so",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PackageCache/com.taptap.tds.rtc@94f19fe36d/Plugins/Android/Opensdk.plugin/libs/arm64-v8a/libgmesdk.so"
+        "Library/PackageCache/com.taptap.tds.rtc@f5d5a7a57a/Plugins/Android/Opensdk.plugin/libs/arm64-v8a/libgmesdk.so"
       ],
       "Outputs": [
         "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/arm64-v8a/libgmesdk.so"
       ],
-      "DebugActionIndex": 24
+      "DebugActionIndex": 23
     },
     {
       "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/x86_64/libtraeimp.so",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PackageCache/com.taptap.tds.rtc@94f19fe36d/Plugins/Android/Opensdk.plugin/libs/x86_64/libtraeimp.so"
+        "Library/PackageCache/com.taptap.tds.rtc@f5d5a7a57a/Plugins/Android/Opensdk.plugin/libs/x86_64/libtraeimp.so"
       ],
       "Outputs": [
         "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/x86_64/libtraeimp.so"
       ],
-      "DebugActionIndex": 25
+      "DebugActionIndex": 24
     },
     {
       "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/x86_64/libgmecodec.so",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PackageCache/com.taptap.tds.rtc@94f19fe36d/Plugins/Android/Opensdk.plugin/libs/x86_64/libgmecodec.so"
+        "Library/PackageCache/com.taptap.tds.rtc@f5d5a7a57a/Plugins/Android/Opensdk.plugin/libs/x86_64/libgmecodec.so"
       ],
       "Outputs": [
         "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/x86_64/libgmecodec.so"
       ],
-      "DebugActionIndex": 26
+      "DebugActionIndex": 25
     },
     {
       "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/x86_64/libsilk.so",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PackageCache/com.taptap.tds.rtc@94f19fe36d/Plugins/Android/Opensdk.plugin/libs/x86_64/libsilk.so"
+        "Library/PackageCache/com.taptap.tds.rtc@f5d5a7a57a/Plugins/Android/Opensdk.plugin/libs/x86_64/libsilk.so"
       ],
       "Outputs": [
         "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/x86_64/libsilk.so"
       ],
-      "DebugActionIndex": 27
+      "DebugActionIndex": 26
     },
     {
       "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/x86_64/libgmesdk.so",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PackageCache/com.taptap.tds.rtc@94f19fe36d/Plugins/Android/Opensdk.plugin/libs/x86_64/libgmesdk.so"
+        "Library/PackageCache/com.taptap.tds.rtc@f5d5a7a57a/Plugins/Android/Opensdk.plugin/libs/x86_64/libgmesdk.so"
       ],
       "Outputs": [
         "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/libs/x86_64/libgmesdk.so"
       ],
+      "DebugActionIndex": 27
+    },
+    {
+      "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/TapLicense_3.19.1.aar",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PackageCache/com.taptap.tds.dlc@e25bffc86b/Plugins/Android/libs/TapLicense_3.19.1.aar"
+      ],
+      "Outputs": [
+        "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/TapLicense_3.19.1.aar"
+      ],
       "DebugActionIndex": 28
     },
     {
-      "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/TapAchievement_3.19.0.aar",
+      "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/TapCommon_3.19.1.aar",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PackageCache/com.taptap.tds.achievement@c77b8a228c/Plugins/Android/libs/TapAchievement_3.19.0.aar"
+        "Library/PackageCache/com.taptap.tds.common@df6dafc63f/Plugins/Android/libs/TapCommon_3.19.1.aar"
       ],
       "Outputs": [
-        "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/TapAchievement_3.19.0.aar"
+        "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/TapCommon_3.19.1.aar"
       ],
       "DebugActionIndex": 29
     },
     {
-      "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/TapLicense_3.19.0.aar",
+      "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/TapLogin_3.19.1.aar",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PackageCache/com.taptap.tds.dlc@01e29c3ba9/Plugins/Android/libs/TapLicense_3.19.0.aar"
+        "Library/PackageCache/com.taptap.tds.login@fa9e703462/Plugins/Android/libs/TapLogin_3.19.1.aar"
       ],
       "Outputs": [
-        "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/TapLicense_3.19.0.aar"
+        "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/TapLogin_3.19.1.aar"
       ],
       "DebugActionIndex": 30
     },
@@ -868,35 +868,35 @@
       "DebugActionIndex": 31
     },
     {
-      "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/AntiAddictionUI_3.19.0.aar",
+      "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/TapDB_3.19.1.aar",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PackageCache/com.tapsdk.antiaddiction@da8f4db095/Plugins/Android/AntiAddictionUI_3.19.0.aar"
+        "Library/PackageCache/com.taptap.tds.tapdb@c50cf15043/Plugins/Android/libs/TapDB_3.19.1.aar"
       ],
       "Outputs": [
-        "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/AntiAddictionUI_3.19.0.aar"
+        "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/TapDB_3.19.1.aar"
       ],
       "DebugActionIndex": 32
     },
     {
-      "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/TapLogin_3.19.0.aar",
+      "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/AntiAddiction_3.19.1.aar",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PackageCache/com.taptap.tds.login@5d91333e11/Plugins/Android/libs/TapLogin_3.19.0.aar"
+        "Library/PackageCache/com.tapsdk.antiaddiction@bd9bb8a6d4/Plugins/Android/AntiAddiction_3.19.1.aar"
       ],
       "Outputs": [
-        "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/TapLogin_3.19.0.aar"
+        "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/AntiAddiction_3.19.1.aar"
       ],
       "DebugActionIndex": 33
     },
     {
-      "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/TapMoment_3.19.0.aar",
+      "Annotation": "CopyFiles /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/TapMoment_3.19.1.aar",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "Library/PackageCache/com.taptap.tds.moment@e398ea8854/Plugins/Android/libs/TapMoment_3.19.0.aar"
+        "Library/PackageCache/com.taptap.tds.moment@57fbebe0a9/Plugins/Android/libs/TapMoment_3.19.1.aar"
       ],
       "Outputs": [
-        "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/TapMoment_3.19.0.aar"
+        "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/TapMoment_3.19.1.aar"
       ],
       "DebugActionIndex": 34
     },
@@ -13292,7 +13292,7 @@
     {
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/build.gradle_p48s.info",
       "ActionType": "WriteTextFile",
-      "WriteTextFilePayload": "{\"AndroidPlayerBuildProgram.Actions.ActionGenerateProjectFiles+Arguments\":{\"ProjectPath\":\"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle\",\"Architectures\":\"ARMv7\",\"BuildSystem\":\"Gradle\",\"GradleProjectCreateInfo\":{\"HostPlatform\":\"OSX\",\"ApplicationType\":\"APK\",\"BuildType\":\"Release\",\"AndroidSDKPath\":\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/SDK\",\"AndroidNDKPath\":\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/NDK\",\"PreferredHeapSizeForJVM\":4096,\"UnityLibraryTemplatePath\":\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/mainTemplate.gradle\",\"LauncherTemplatePath\":\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/launcherTemplate.gradle\",\"BaseProjectTemplatePath\":\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/baseProjectTemplate.gradle\",\"GradlePropertiesTemplatePath\":\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/gradleTemplate.properties\",\"GradleLibraryTemplatePath\":\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/libTemplate.gradle\",\"ProguardUserPath\":\"\",\"SettingsTemplatePath\":\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/settingsTemplate.gradle\",\"BuildTools\":\"30.0.2\",\"TargetSDKVersion\":30,\"MinSDKVersion\":22,\"PackageName\":\"com.tds.demo\",\"Architectures\":\"ARMv7\",\"BuildApkPerCpuArchitecture\":false,\"VersionCode\":1,\"VersionName\":\"0.1\",\"Minify\":0,\"NoCompressOptions\":{\"RelativeFilePaths\":[],\"FileExtensions\":[\".json\"]},\"UseCustomKeystore\":true,\"KeystorePath\":\"/Users/yuwenjian/Desktop/unity_Project/mysign.keystore\",\"KeystoreName\":\"mysign.keystore\",\"KeystorePassword\":\"mysign\",\"KeystoreAliasName\":\"mysign\",\"KeystoreAliasPassword\":\"mysign\",\"ScriptingImplementation\":\"Mono\",\"AndroidLibraries\":[\"Library/PackageCache/com.taptap.tds.rtc@94f19fe36d/Plugins/Android/Opensdk.plugin\"],\"AARFiles\":[\"Library/PackageCache/com.tapsdk.antiaddiction@da8f4db095/Plugins/Android/AntiAddiction_3.19.0.aar\",\"Library/PackageCache/com.taptap.tds.common@1739e815c6/Plugins/Android/libs/TapCommon_3.19.0.aar\",\"Library/PackageCache/com.taptap.tds.billboard@4178e8d952/Plugins/Android/libs/TapBillboard_3.19.0.aar\",\"Library/PackageCache/com.taptap.tds.tapdb@9619db644c/Plugins/Android/libs/TapDB_3.19.0.aar\",\"Library/PackageCache/com.taptap.tds.achievement@c77b8a228c/Plugins/Android/libs/TapAchievement_3.19.0.aar\",\"Library/PackageCache/com.taptap.tds.dlc@01e29c3ba9/Plugins/Android/libs/TapLicense_3.19.0.aar\",\"TapSDKToast/Plugins/Android/com.UnityNative.Toasts-v1.0.4.aar\",\"Library/PackageCache/com.tapsdk.antiaddiction@da8f4db095/Plugins/Android/AntiAddictionUI_3.19.0.aar\",\"Library/PackageCache/com.taptap.tds.login@5d91333e11/Plugins/Android/libs/TapLogin_3.19.0.aar\",\"Library/PackageCache/com.taptap.tds.moment@e398ea8854/Plugins/Android/libs/TapMoment_3.19.0.aar\"],\"BuiltinJavaSourcePaths\":[\"com/unity3d/player/UnityPlayerActivity.java\"],\"JavaSourcePaths\":[],\"KotlinSourcePaths\":[],\"PlayerPackage\":\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer\",\"PlayerPackageTools\":\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/Tools\",\"SymlinkSources\":false,\"InstallIntoBuildsFolder\":false,\"UnityPath\":\"\",\"UnityProjectPath\":\"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo\",\"Dependencies\":[]}},\"Bee.TundraBackend.CSharpActionInvocationInformation\":{\"typeFullName\":\"AndroidPlayerBuildProgram.Actions.ActionGenerateProjectFiles\",\"methodName\":\"Run\",\"assemblyLocation\":\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/AndroidPlayerBuildProgram.exe\",\"targets\":[\"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/build.gradle\",\"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build.gradle\",\"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build.gradle\",\"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/gradle.properties\",\"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/local.properties\",\"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/settings.gradle\",\"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build.gradle\"],\"inputs\":[\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/mainTemplate.gradle\",\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/launcherTemplate.gradle\",\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/baseProjectTemplate.gradle\",\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/gradleTemplate.properties\",\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/libTemplate.gradle\",\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/settingsTemplate.gradle\"],\"targetDirectories\":[]}}",
+      "WriteTextFilePayload": "{\"AndroidPlayerBuildProgram.Actions.ActionGenerateProjectFiles+Arguments\":{\"ProjectPath\":\"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle\",\"Architectures\":\"ARMv7\",\"BuildSystem\":\"Gradle\",\"GradleProjectCreateInfo\":{\"HostPlatform\":\"OSX\",\"ApplicationType\":\"APK\",\"BuildType\":\"Release\",\"AndroidSDKPath\":\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/SDK\",\"AndroidNDKPath\":\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/NDK\",\"PreferredHeapSizeForJVM\":4096,\"UnityLibraryTemplatePath\":\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/mainTemplate.gradle\",\"LauncherTemplatePath\":\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/launcherTemplate.gradle\",\"BaseProjectTemplatePath\":\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/baseProjectTemplate.gradle\",\"GradlePropertiesTemplatePath\":\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/gradleTemplate.properties\",\"GradleLibraryTemplatePath\":\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/libTemplate.gradle\",\"ProguardUserPath\":\"\",\"SettingsTemplatePath\":\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/settingsTemplate.gradle\",\"BuildTools\":\"30.0.2\",\"TargetSDKVersion\":30,\"MinSDKVersion\":22,\"PackageName\":\"com.tds.demo\",\"Architectures\":\"ARMv7\",\"BuildApkPerCpuArchitecture\":false,\"VersionCode\":1,\"VersionName\":\"0.1\",\"Minify\":0,\"NoCompressOptions\":{\"RelativeFilePaths\":[],\"FileExtensions\":[\".json\"]},\"UseCustomKeystore\":true,\"KeystorePath\":\"/Users/yuwenjian/Desktop/unity_Project/mysign.keystore\",\"KeystoreName\":\"mysign.keystore\",\"KeystorePassword\":\"mysign\",\"KeystoreAliasName\":\"mysign\",\"KeystoreAliasPassword\":\"mysign\",\"ScriptingImplementation\":\"Mono\",\"AndroidLibraries\":[\"Library/PackageCache/com.taptap.tds.rtc@f5d5a7a57a/Plugins/Android/Opensdk.plugin\"],\"AARFiles\":[\"Library/PackageCache/com.taptap.tds.billboard@69bb022fdf/Plugins/Android/libs/TapBillboard_3.19.1.aar\",\"Library/PackageCache/com.taptap.tds.achievement@293e3e9350/Plugins/Android/libs/TapAchievement_3.19.1.aar\",\"Library/PackageCache/com.tapsdk.antiaddiction@bd9bb8a6d4/Plugins/Android/AntiAddictionUI_3.19.1.aar\",\"Library/PackageCache/com.taptap.tds.dlc@e25bffc86b/Plugins/Android/libs/TapLicense_3.19.1.aar\",\"Library/PackageCache/com.taptap.tds.common@df6dafc63f/Plugins/Android/libs/TapCommon_3.19.1.aar\",\"Library/PackageCache/com.taptap.tds.login@fa9e703462/Plugins/Android/libs/TapLogin_3.19.1.aar\",\"TapSDKToast/Plugins/Android/com.UnityNative.Toasts-v1.0.4.aar\",\"Library/PackageCache/com.taptap.tds.tapdb@c50cf15043/Plugins/Android/libs/TapDB_3.19.1.aar\",\"Library/PackageCache/com.tapsdk.antiaddiction@bd9bb8a6d4/Plugins/Android/AntiAddiction_3.19.1.aar\",\"Library/PackageCache/com.taptap.tds.moment@57fbebe0a9/Plugins/Android/libs/TapMoment_3.19.1.aar\"],\"BuiltinJavaSourcePaths\":[\"com/unity3d/player/UnityPlayerActivity.java\"],\"JavaSourcePaths\":[],\"KotlinSourcePaths\":[],\"PlayerPackage\":\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer\",\"PlayerPackageTools\":\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/Tools\",\"SymlinkSources\":false,\"InstallIntoBuildsFolder\":false,\"UnityPath\":\"\",\"UnityProjectPath\":\"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo\",\"Dependencies\":[]}},\"Bee.TundraBackend.CSharpActionInvocationInformation\":{\"typeFullName\":\"AndroidPlayerBuildProgram.Actions.ActionGenerateProjectFiles\",\"methodName\":\"Run\",\"assemblyLocation\":\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/AndroidPlayerBuildProgram.exe\",\"targets\":[\"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/build.gradle\",\"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build.gradle\",\"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build.gradle\",\"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/gradle.properties\",\"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/local.properties\",\"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/settings.gradle\",\"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build.gradle\"],\"inputs\":[\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/mainTemplate.gradle\",\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/launcherTemplate.gradle\",\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/baseProjectTemplate.gradle\",\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/gradleTemplate.properties\",\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/libTemplate.gradle\",\"/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/settingsTemplate.gradle\"],\"targetDirectories\":[]}}",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/csharpactions/build.gradle_p48s.info"
@@ -14668,37 +14668,37 @@
       "File": "Library/Bee/Playereb6b7d91-inputdata.json"
     },
     {
-      "File": "Library/PackageCache/com.tapsdk.antiaddiction@da8f4db095/Plugins/Android/AntiAddictionUI_3.19.0.aar"
+      "File": "Library/PackageCache/com.tapsdk.antiaddiction@bd9bb8a6d4/Plugins/Android/AntiAddictionUI_3.19.1.aar"
     },
     {
-      "File": "Library/PackageCache/com.tapsdk.antiaddiction@da8f4db095/Plugins/Android/AntiAddiction_3.19.0.aar"
+      "File": "Library/PackageCache/com.tapsdk.antiaddiction@bd9bb8a6d4/Plugins/Android/AntiAddiction_3.19.1.aar"
     },
     {
-      "File": "Library/PackageCache/com.taptap.tds.achievement@c77b8a228c/Plugins/Android/libs/TapAchievement_3.19.0.aar"
+      "File": "Library/PackageCache/com.taptap.tds.achievement@293e3e9350/Plugins/Android/libs/TapAchievement_3.19.1.aar"
     },
     {
-      "File": "Library/PackageCache/com.taptap.tds.billboard@4178e8d952/Plugins/Android/libs/TapBillboard_3.19.0.aar"
+      "File": "Library/PackageCache/com.taptap.tds.billboard@69bb022fdf/Plugins/Android/libs/TapBillboard_3.19.1.aar"
     },
     {
-      "File": "Library/PackageCache/com.taptap.tds.common@1739e815c6/Plugins/Android/libs/TapCommon_3.19.0.aar"
+      "File": "Library/PackageCache/com.taptap.tds.common@df6dafc63f/Plugins/Android/libs/TapCommon_3.19.1.aar"
     },
     {
-      "File": "Library/PackageCache/com.taptap.tds.dlc@01e29c3ba9/Plugins/Android/libs/TapLicense_3.19.0.aar"
+      "File": "Library/PackageCache/com.taptap.tds.dlc@e25bffc86b/Plugins/Android/libs/TapLicense_3.19.1.aar"
     },
     {
-      "File": "Library/PackageCache/com.taptap.tds.login@5d91333e11/Plugins/Android/libs/TapLogin_3.19.0.aar"
+      "File": "Library/PackageCache/com.taptap.tds.login@fa9e703462/Plugins/Android/libs/TapLogin_3.19.1.aar"
     },
     {
-      "File": "Library/PackageCache/com.taptap.tds.moment@e398ea8854/Plugins/Android/libs/TapMoment_3.19.0.aar"
+      "File": "Library/PackageCache/com.taptap.tds.moment@57fbebe0a9/Plugins/Android/libs/TapMoment_3.19.1.aar"
     },
     {
-      "File": "Library/PackageCache/com.taptap.tds.rtc@94f19fe36d/Plugins/Android/Opensdk.plugin"
+      "File": "Library/PackageCache/com.taptap.tds.rtc@f5d5a7a57a/Plugins/Android/Opensdk.plugin"
     },
     {
-      "File": "Library/PackageCache/com.taptap.tds.rtc@94f19fe36d/Plugins/Android/Opensdk.plugin/build.gradle"
+      "File": "Library/PackageCache/com.taptap.tds.rtc@f5d5a7a57a/Plugins/Android/Opensdk.plugin/build.gradle"
     },
     {
-      "File": "Library/PackageCache/com.taptap.tds.tapdb@9619db644c/Plugins/Android/libs/TapDB_3.19.0.aar"
+      "File": "Library/PackageCache/com.taptap.tds.tapdb@c50cf15043/Plugins/Android/libs/TapDB_3.19.1.aar"
     },
     {
       "File": "TapSDKToast/Plugins/Android/com.UnityNative.Toasts-v1.0.4.aar"
@@ -14818,7 +14818,7 @@
       "Recurse": 1
     },
     {
-      "Path": "Library/PackageCache/com.taptap.tds.rtc@94f19fe36d/Plugins/Android/Opensdk.plugin",
+      "Path": "Library/PackageCache/com.taptap.tds.rtc@f5d5a7a57a/Plugins/Android/Opensdk.plugin",
       "Recurse": 1
     },
     {

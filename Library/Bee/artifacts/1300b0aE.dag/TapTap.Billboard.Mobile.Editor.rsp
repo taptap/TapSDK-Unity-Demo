@@ -345,7 +345,7 @@
 -r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.leancloud.storage@beef2954fb/Plugins/LC.Newtonsoft.Json.dll"
 -r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.leancloud.storage@beef2954fb/Plugins/Storage.dll"
 -r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.leancloud.storage@beef2954fb/Plugins/Storage.Unity.dll"
--r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.login@5d91333e11/Plugins/zxing.unity.dll"
+-r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.login@fa9e703462/Plugins/zxing.unity.dll"
 -r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.unity.collab-proxy@1.17.1/Lib/Editor/PlasticSCM/log4netPlastic.dll"
 -r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.unity.collab-proxy@1.17.1/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll"
 -r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.unity.collab-proxy@1.17.1/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll"
@@ -362,8 +362,8 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
-"Library/PackageCache/com.taptap.tds.billboard@4178e8d952/Mobile/Editor/TapBillboardMobileProcessBuild.cs"
-"Library/PackageCache/com.taptap.tds.billboard@4178e8d952/Mobile/Editor/TapBillboardOSProcessor.cs"
+"Library/PackageCache/com.taptap.tds.billboard@69bb022fdf/Mobile/Editor/TapBillboardMobileProcessBuild.cs"
+"Library/PackageCache/com.taptap.tds.billboard@69bb022fdf/Mobile/Editor/TapBillboardOSProcessor.cs"
 -langversion:9.0
 
 /deterministic

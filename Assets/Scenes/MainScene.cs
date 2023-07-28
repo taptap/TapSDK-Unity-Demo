@@ -54,7 +54,6 @@ public class MainScene : MonoBehaviour
             .TapBillboardConfig(dimensionSet, templateType, billboardServerUrl)
             .ConfigBuilder();
 
-
         TapBootstrap.Init(config);
 
 
