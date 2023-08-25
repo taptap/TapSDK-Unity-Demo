@@ -633,6 +633,7 @@ drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
 drawable cancel
+drawable cancel_pressed
 drawable error_background
 drawable ic_achievement_card_bg
 drawable ic_achievement_card_placeholder_bg
@@ -667,6 +668,7 @@ drawable ic_close
 drawable ic_refresh
 drawable ic_tap
 drawable ic_tap_logo
+drawable ic_webview_close
 drawable icon_back
 drawable icon_close
 drawable icon_triangle
@@ -694,6 +696,7 @@ drawable tds_billboard_marquee_background
 drawable tds_common_alert_negative_gray_bg
 drawable tds_common_alert_positive_bg
 drawable tds_common_authorize_cancel
+drawable tds_common_authorize_cancel_pressed
 drawable tds_common_bg_gray_radius_8dp
 drawable tds_common_bg_loading
 drawable tds_common_bg_toast
@@ -707,6 +710,7 @@ drawable tds_common_permission_alert_bg
 drawable tds_common_permission_close
 drawable tds_common_permission_negative_bg
 drawable tds_common_permission_positive_bg
+drawable tds_common_webview_close
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable ttos_moment_action_sheet
@@ -789,6 +793,7 @@ id close
 id closeButton
 id container
 id containerFrameLayout
+id containerFrameLayoutRoot
 id content
 id contentPanel
 id custom
@@ -910,7 +915,6 @@ id title
 id titleDividerNoCustom
 id title_template
 id topPanel
-id trickView
 id tv_agree_use_button
 id tv_alert_button_container
 id tv_alert_content

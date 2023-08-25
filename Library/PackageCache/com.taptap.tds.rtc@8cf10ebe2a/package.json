@@ -1,0 +1,8 @@
+{
+  "name": "com.taptap.tds.rtc",
+  "displayName": "TapTap RTC",
+  "description": "TapTap Develop Service",
+  "version": "3.19.3",
+  "unity": "2018.3",
+  "license": "MIT"
+}

@@ -33,6 +33,7 @@ drawable bg_dialog_open
 drawable bg_divider
 drawable bg_loading
 drawable cancel
+drawable cancel_pressed
 drawable error_background
 drawable ic_achievement_card_bg
 drawable ic_achievement_card_placeholder_bg
@@ -67,6 +68,7 @@ drawable ic_close
 drawable ic_refresh
 drawable ic_tap
 drawable ic_tap_logo
+drawable ic_webview_close
 drawable icon_back
 drawable icon_close
 drawable icon_triangle
@@ -82,6 +84,7 @@ drawable tds_billboard_marquee_background
 drawable tds_common_alert_negative_gray_bg
 drawable tds_common_alert_positive_bg
 drawable tds_common_authorize_cancel
+drawable tds_common_authorize_cancel_pressed
 drawable tds_common_bg_gray_radius_8dp
 drawable tds_common_bg_loading
 drawable tds_common_bg_toast
@@ -95,6 +98,7 @@ drawable tds_common_permission_alert_bg
 drawable tds_common_permission_close
 drawable tds_common_permission_negative_bg
 drawable tds_common_permission_positive_bg
+drawable tds_common_webview_close
 drawable ttos_moment_action_sheet
 drawable ttos_moment_alert_bg
 drawable ttos_moment_alert_close
@@ -115,6 +119,7 @@ id close
 id closeButton
 id container
 id containerFrameLayout
+id containerFrameLayoutRoot
 id dialog_choose_cn_iv
 id dialog_choose_cn_tv
 id dialog_choose_container
@@ -158,7 +163,6 @@ id sdk_fg_container
 id taptap_sdk_container
 id tds_common_tag_unhandled_key_event_manager
 id tds_common_tag_unhandled_key_listeners
-id trickView
 id tv_agree_use_button
 id tv_alert_button_container
 id tv_alert_content

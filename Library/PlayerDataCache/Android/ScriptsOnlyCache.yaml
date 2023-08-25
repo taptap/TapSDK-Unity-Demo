@@ -94,7 +94,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 8990}
+      Script: {instanceID: 9034}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -121,7 +121,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 3310}
+      Script: {instanceID: 3318}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -148,7 +148,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 2760}
+      Script: {instanceID: 2768}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -175,7 +175,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 8840}
+      Script: {instanceID: 8882}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -202,7 +202,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 6530}
+      Script: {instanceID: 6556}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -229,7 +229,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 6782}
+      Script: {instanceID: 6810}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -256,7 +256,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 7724}
+      Script: {instanceID: 7758}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -283,7 +283,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 6486}
+      Script: {instanceID: 6512}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -306,7 +306,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 4730}
+      Script: {instanceID: 4740}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -329,7 +329,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 5992}
+      Script: {instanceID: 6016}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -356,7 +356,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 3740}
+      Script: {instanceID: 3750}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -401,51 +401,51 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1756}
     - Class: 114
-      Script: {instanceID: 1908}
+      Script: {instanceID: 1912}
     - Class: 114
-      Script: {instanceID: 2498}
+      Script: {instanceID: 2504}
     - Class: 114
-      Script: {instanceID: 2586}
+      Script: {instanceID: 2592}
     - Class: 114
-      Script: {instanceID: 3012}
+      Script: {instanceID: 3022}
     - Class: 114
-      Script: {instanceID: 3080}
+      Script: {instanceID: 3090}
     - Class: 114
-      Script: {instanceID: 3138}
+      Script: {instanceID: 3146}
     - Class: 114
-      Script: {instanceID: 3410}
+      Script: {instanceID: 3418}
     - Class: 114
-      Script: {instanceID: 3608}
+      Script: {instanceID: 3618}
     - Class: 114
-      Script: {instanceID: 4246}
+      Script: {instanceID: 4256}
     - Class: 114
-      Script: {instanceID: 4314}
+      Script: {instanceID: 4326}
     - Class: 114
-      Script: {instanceID: 4386}
+      Script: {instanceID: 4396}
     - Class: 114
-      Script: {instanceID: 4814}
+      Script: {instanceID: 4826}
     - Class: 114
-      Script: {instanceID: 5318}
+      Script: {instanceID: 5336}
     - Class: 114
-      Script: {instanceID: 5646}
+      Script: {instanceID: 5666}
     - Class: 114
-      Script: {instanceID: 6654}
+      Script: {instanceID: 6680}
     - Class: 114
-      Script: {instanceID: 6998}
+      Script: {instanceID: 7034}
     - Class: 114
-      Script: {instanceID: 7092}
+      Script: {instanceID: 7128}
     - Class: 114
-      Script: {instanceID: 7140}
+      Script: {instanceID: 7176}
     - Class: 114
-      Script: {instanceID: 7454}
+      Script: {instanceID: 7490}
     - Class: 114
-      Script: {instanceID: 7766}
+      Script: {instanceID: 7802}
     - Class: 114
-      Script: {instanceID: 7844}
+      Script: {instanceID: 7882}
     - Class: 114
-      Script: {instanceID: 8188}
+      Script: {instanceID: 8230}
     - Class: 114
-      Script: {instanceID: 9006}
+      Script: {instanceID: 9050}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -484,7 +484,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 5790}
+      Script: {instanceID: 5810}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -511,7 +511,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 5626}
+      Script: {instanceID: 5646}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -915,6 +915,12 @@ ScriptsOnlyBuild:
     assemblyName: TapTap.Achievement.Standalone.Runtime.dll
     namespaceName: TapTap.Achievement.Standalone
     className: TapAchievementItem
+  - hash:
+      serializedVersion: 2
+      Hash: 55cb176a7821dabfd9ab5fb1c539d4d0
+    assemblyName: TapTap.Common.Runtime.dll
+    namespaceName: TapTap.UI
+    className: TipPanelController
   - hash:
       serializedVersion: 2
       Hash: aba7b2852ef61d175dd9602e7723d5e5
@@ -1398,6 +1404,12 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: TapTap.Common.Runtime.dll
+    namespaceName: TapTap.Common
+    className: UnityMonobehaviorWrapper
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnMoveMessageListener
@@ -1519,4 +1531,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/RTCScene.unity
   - Assets/Scenes/FriendScene.unity
   - Assets/GiftScene.unity
-  playerPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/tds_demo.apk
+  playerPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Tapsdk-demo.apk

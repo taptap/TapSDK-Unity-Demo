@@ -7,7 +7,7 @@ using System;
 using TapTap.Common;
 using TapTap.Login;
 using LeanCloud;
-
+using System.IO;
 
 public class GamesavesScene : MonoBehaviour
 {
@@ -71,6 +71,7 @@ public class GamesavesScene : MonoBehaviour
 
 		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "创建存档", style))
 		{
+
            var gameSave = new TapGameSave
             {
                 Name = "云存档名称",
@@ -78,8 +79,8 @@ public class GamesavesScene : MonoBehaviour
                 ModifiedAt = DateTime.Now.ToLocalTime(),
                 PlayedTime = 60000L, // ms
                 ProgressValue = 100,
-                // CoverFilePath = "",
-                GameFilePath = "sdcard/Android/qwer.csv"
+                CoverFilePath = "sdcard/Android/qwer.png",
+                GameFilePath = "sdcard/Android/qwer.csv",
             };
             await gameSave.Save();
         }
@@ -89,15 +90,25 @@ public class GamesavesScene : MonoBehaviour
              var collection = await TapGameSave.GetCurrentUserGameSaves();
 
             foreach(var gameSave in collection){
-                var summary = gameSave.Summary;
-                var modifiedAt = gameSave.ModifiedAt;
-                var playedTime = gameSave.PlayedTime;
-                var progressValue = gameSave.ProgressValue;
-                var coverFile = gameSave.Cover;
-                var gameFile = gameSave.GameFile;
-                var gameFileUrl = gameFile.Url;
+                if (gameSave != null){
+                    
+                    var summary = gameSave.Summary;
+                    var modifiedAt = gameSave.ModifiedAt;
+                    var playedTime = gameSave.PlayedTime;
+                    var progressValue = gameSave.ProgressValue;
+                    var coverFile = gameSave.Cover;
+                    var gameFile = gameSave.GameFile;
+                    var gameFileUrl = gameFile.Url;
 
-                Debug.Log($"云存档: {gameSave.ToString()}");
+                    Debug.Log("==="+ gameFileUrl);
+
+
+                }else{
+
+                    Debug.Log("为 null");
+
+                }
+
 
             }
 

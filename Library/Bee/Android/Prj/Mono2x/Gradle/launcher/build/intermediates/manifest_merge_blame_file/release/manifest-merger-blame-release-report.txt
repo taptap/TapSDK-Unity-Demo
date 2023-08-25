@@ -61,196 +61,199 @@
 35-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:28:9-33
 36
 37    <uses-permission android:name="android.permission.REORDER_TASKS" />
-37-->[:TapLicense_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f1abb9aa881969f55d4a9342e1fea417/TapLicense_3.19.1/AndroidManifest.xml:11:5-72
-37-->[:TapLicense_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f1abb9aa881969f55d4a9342e1fea417/TapLicense_3.19.1/AndroidManifest.xml:11:22-69
+37-->[:TapLicense_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/1b88f3884ddf7a1852d596bf6b25ddf5/TapLicense_3.20.0/AndroidManifest.xml:11:5-72
+37-->[:TapLicense_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/1b88f3884ddf7a1852d596bf6b25ddf5/TapLicense_3.20.0/AndroidManifest.xml:11:22-69
 38    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-38-->[:TapDB_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/c3c9baf541b7e14e4c096d316d54c542/TapDB_3.19.1/AndroidManifest.xml:14:5-75
-38-->[:TapDB_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/c3c9baf541b7e14e4c096d316d54c542/TapDB_3.19.1/AndroidManifest.xml:14:22-72
+38-->[:TapDB_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/e6c1acd5f6ab3937bc45512230d3fe01/jetified-TapDB_3.20.0/AndroidManifest.xml:14:5-75
+38-->[:TapDB_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/e6c1acd5f6ab3937bc45512230d3fe01/jetified-TapDB_3.20.0/AndroidManifest.xml:14:22-72
 39    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-39-->[:TapDB_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/c3c9baf541b7e14e4c096d316d54c542/TapDB_3.19.1/AndroidManifest.xml:15:5-76
-39-->[:TapDB_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/c3c9baf541b7e14e4c096d316d54c542/TapDB_3.19.1/AndroidManifest.xml:15:22-73
+39-->[:TapDB_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/e6c1acd5f6ab3937bc45512230d3fe01/jetified-TapDB_3.20.0/AndroidManifest.xml:15:5-76
+39-->[:TapDB_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/e6c1acd5f6ab3937bc45512230d3fe01/jetified-TapDB_3.20.0/AndroidManifest.xml:15:22-73
 40    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-40-->[:TapDB_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/c3c9baf541b7e14e4c096d316d54c542/TapDB_3.19.1/AndroidManifest.xml:17:5-80
-40-->[:TapDB_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/c3c9baf541b7e14e4c096d316d54c542/TapDB_3.19.1/AndroidManifest.xml:17:22-77
+40-->[:TapDB_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/e6c1acd5f6ab3937bc45512230d3fe01/jetified-TapDB_3.20.0/AndroidManifest.xml:17:5-80
+40-->[:TapDB_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/e6c1acd5f6ab3937bc45512230d3fe01/jetified-TapDB_3.20.0/AndroidManifest.xml:17:22-77
 41    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-41-->[:TapDB_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/c3c9baf541b7e14e4c096d316d54c542/TapDB_3.19.1/AndroidManifest.xml:18:5-81
-41-->[:TapDB_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/c3c9baf541b7e14e4c096d316d54c542/TapDB_3.19.1/AndroidManifest.xml:18:22-78
-42    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-42-->[:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-71
-42-->[:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:11:22-68
-43    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
-43-->[:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-80
-43-->[:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:15:22-77
-44    <uses-permission android:name="android.permission.BLUETOOTH" />
-44-->[:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:16:5-68
-44-->[:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:16:22-65
-45
-46    <application
-46-->/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:3-83
-47        android:extractNativeLibs="true"
-47-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:30:18-50
-48        android:icon="@mipmap/app_icon"
-48-->/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:49-80
-49        android:label="@string/app_name"
-49-->/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:16-48
-50        android:usesCleartextTraffic="true" >
-50-->[:TapDB_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/c3c9baf541b7e14e4c096d316d54c542/TapDB_3.19.1/AndroidManifest.xml:21:9-44
-51        <activity
-51-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:31:9-51:20
-52            android:name="com.unity3d.player.UnityPlayerActivity"
-52-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:32:13-66
-53            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
-53-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:33:13-194
-54            android:hardwareAccelerated="false"
-54-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:34:13-48
-55            android:launchMode="singleTask"
-55-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:35:13-44
-56            android:resizeableActivity="false"
-56-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:36:13-47
-57            android:screenOrientation="fullUser"
-57-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:37:13-49
-58            android:theme="@style/UnityThemeSelector" >
-58-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:38:13-54
-59            <intent-filter>
-59-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:39:13-43:29
-60                <action android:name="android.intent.action.MAIN" />
-60-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:40:17-69
-60-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:40:25-66
-61
-62                <category android:name="android.intent.category.LAUNCHER" />
-62-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:42:17-77
-62-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:42:27-74
-63            </intent-filter>
-64
-65            <meta-data
-65-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:45:13-47:40
-66                android:name="unityplayer.UnityActivity"
-66-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:46:17-57
-67                android:value="true" />
-67-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:47:17-37
-68            <meta-data
-68-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:48:13-50:40
-69                android:name="android.notch_support"
-69-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:49:17-53
-70                android:value="true" />
-70-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:50:17-37
-71        </activity>
-72
-73        <meta-data
-73-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:53:9-55:33
-74            android:name="unity.splash-mode"
-74-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:54:13-45
-75            android:value="0" />
-75-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:55:13-30
-76        <meta-data
-76-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:56:9-58:36
-77            android:name="unity.splash-enable"
-77-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:57:13-47
-78            android:value="True" />
-78-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:58:13-33
-79        <meta-data
-79-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:59:9-61:36
-80            android:name="unity.launch-fullscreen"
-80-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:60:13-51
-81            android:value="True" />
-81-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:61:13-33
-82        <meta-data
-82-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:62:9-64:37
-83            android:name="unity.allow-resizable-window"
-83-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:63:13-56
-84            android:value="False" />
-84-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:64:13-34
-85        <meta-data
-85-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:65:9-67:50
-86            android:name="notch.config"
-86-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:66:13-40
-87            android:value="portrait|landscape" />
-87-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:67:13-47
-88        <meta-data
-88-->[:TapBillboard_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/73154ad35425b4e43bf6f872bcfa3b6b/TapBillboard_3.19.1/AndroidManifest.xml:15:9-17:36
-89            android:name="com.tapsdk.billboard.loader"
-89-->[:TapBillboard_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/73154ad35425b4e43bf6f872bcfa3b6b/TapBillboard_3.19.1/AndroidManifest.xml:16:13-55
-90            android:value="true" />
-90-->[:TapBillboard_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/73154ad35425b4e43bf6f872bcfa3b6b/TapBillboard_3.19.1/AndroidManifest.xml:17:13-33
-91        <meta-data
-91-->[:TapAchievement_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/d1299f97ad94209da5b1cb863d719f89/TapAchievement_3.19.1/AndroidManifest.xml:12:9-14:36
-92            android:name="com.tapsdk.achievement.loader"
-92-->[:TapAchievement_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/d1299f97ad94209da5b1cb863d719f89/TapAchievement_3.19.1/AndroidManifest.xml:13:13-57
-93            android:value="true" />
-93-->[:TapAchievement_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/d1299f97ad94209da5b1cb863d719f89/TapAchievement_3.19.1/AndroidManifest.xml:14:13-33
-94
-95        <activity
-95-->[:TapCommon_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/fec49b0ad6891567ae200023866d0828/TapCommon_3.19.1/AndroidManifest.xml:14:9-18:86
-96            android:name="com.tds.common.oauth.TapTapEntryActivity"
-96-->[:TapCommon_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/fec49b0ad6891567ae200023866d0828/TapCommon_3.19.1/AndroidManifest.xml:15:13-68
-97            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
-97-->[:TapCommon_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/fec49b0ad6891567ae200023866d0828/TapCommon_3.19.1/AndroidManifest.xml:16:13-96
-98            android:exported="false"
-98-->[:TapCommon_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/fec49b0ad6891567ae200023866d0828/TapCommon_3.19.1/AndroidManifest.xml:17:13-37
-99            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
-99-->[:TapCommon_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/fec49b0ad6891567ae200023866d0828/TapCommon_3.19.1/AndroidManifest.xml:18:13-83
-100
-101        <provider
-101-->[:TapCommon_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/fec49b0ad6891567ae200023866d0828/TapCommon_3.19.1/AndroidManifest.xml:20:9-23:40
-102            android:name="com.tds.common.provider.CurrentConfigProvider"
-102-->[:TapCommon_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/fec49b0ad6891567ae200023866d0828/TapCommon_3.19.1/AndroidManifest.xml:21:13-73
-103            android:authorities="com.tds.demo.tap_config.provider"
-103-->[:TapCommon_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/fec49b0ad6891567ae200023866d0828/TapCommon_3.19.1/AndroidManifest.xml:22:13-71
-104            android:exported="false" />
-104-->[:TapCommon_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/fec49b0ad6891567ae200023866d0828/TapCommon_3.19.1/AndroidManifest.xml:23:13-37
-105
-106        <activity
-106-->[:TapLogin_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3334cec92f4b60b8cf3557efebcb013b/TapLogin_3.19.1/AndroidManifest.xml:12:9-16:86
-107            android:name="com.taptap.sdk.ui.TapTapActivity"
-107-->[:TapLogin_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3334cec92f4b60b8cf3557efebcb013b/TapLogin_3.19.1/AndroidManifest.xml:13:13-60
-108            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
-108-->[:TapLogin_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3334cec92f4b60b8cf3557efebcb013b/TapLogin_3.19.1/AndroidManifest.xml:14:13-96
-109            android:exported="false"
-109-->[:TapLogin_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3334cec92f4b60b8cf3557efebcb013b/TapLogin_3.19.1/AndroidManifest.xml:15:13-37
-110            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
-110-->[:TapLogin_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3334cec92f4b60b8cf3557efebcb013b/TapLogin_3.19.1/AndroidManifest.xml:16:13-83
-111        <activity
-111-->[:TapLogin_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3334cec92f4b60b8cf3557efebcb013b/TapLogin_3.19.1/AndroidManifest.xml:17:9-21:86
-112            android:name="com.taptap.sdk.TapLoginHelperActivity"
-112-->[:TapLogin_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3334cec92f4b60b8cf3557efebcb013b/TapLogin_3.19.1/AndroidManifest.xml:18:13-65
-113            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
-113-->[:TapLogin_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3334cec92f4b60b8cf3557efebcb013b/TapLogin_3.19.1/AndroidManifest.xml:19:13-96
-114            android:exported="false"
-114-->[:TapLogin_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3334cec92f4b60b8cf3557efebcb013b/TapLogin_3.19.1/AndroidManifest.xml:20:13-37
-115            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
-115-->[:TapLogin_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3334cec92f4b60b8cf3557efebcb013b/TapLogin_3.19.1/AndroidManifest.xml:21:13-83
-116
-117        <provider
-117-->[:TapLogin_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3334cec92f4b60b8cf3557efebcb013b/TapLogin_3.19.1/AndroidManifest.xml:23:9-26:40
-118            android:name="com.taptap.sdk.internal.user.CurrentUserProvider"
-118-->[:TapLogin_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3334cec92f4b60b8cf3557efebcb013b/TapLogin_3.19.1/AndroidManifest.xml:24:13-76
-119            android:authorities="com.tds.demo.tap_user.provider"
-119-->[:TapLogin_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3334cec92f4b60b8cf3557efebcb013b/TapLogin_3.19.1/AndroidManifest.xml:25:13-69
-120            android:exported="false" />
-120-->[:TapLogin_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3334cec92f4b60b8cf3557efebcb013b/TapLogin_3.19.1/AndroidManifest.xml:26:13-37
-121
-122        <meta-data
-122-->[:TapDB_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/c3c9baf541b7e14e4c096d316d54c542/TapDB_3.19.1/AndroidManifest.xml:23:9-25:36
-123            android:name="com.tapsdk.tapdb.loader"
-123-->[:TapDB_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/c3c9baf541b7e14e4c096d316d54c542/TapDB_3.19.1/AndroidManifest.xml:24:13-51
-124            android:value="true" />
-124-->[:TapDB_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/c3c9baf541b7e14e4c096d316d54c542/TapDB_3.19.1/AndroidManifest.xml:25:13-33
-125
-126        <provider
-126-->[:TapDB_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/c3c9baf541b7e14e4c096d316d54c542/TapDB_3.19.1/AndroidManifest.xml:27:9-30:40
-127            android:name="com.tds.tapdb.internal.device.DeviceProvider"
-127-->[:TapDB_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/c3c9baf541b7e14e4c096d316d54c542/TapDB_3.19.1/AndroidManifest.xml:28:13-72
-128            android:authorities="com.tds.demo.device.provider"
-128-->[:TapDB_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/c3c9baf541b7e14e4c096d316d54c542/TapDB_3.19.1/AndroidManifest.xml:29:13-67
-129            android:exported="false" />
-129-->[:TapDB_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/c3c9baf541b7e14e4c096d316d54c542/TapDB_3.19.1/AndroidManifest.xml:30:13-37
-130
-131        <meta-data
-131-->[:TapMoment_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/d34cc5a562ee11a9b77f48d823b3d958/TapMoment_3.19.1/AndroidManifest.xml:19:9-21:36
-132            android:name="com.tapsdk.moment.loader"
-132-->[:TapMoment_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/d34cc5a562ee11a9b77f48d823b3d958/TapMoment_3.19.1/AndroidManifest.xml:20:13-52
-133            android:value="true" />
-133-->[:TapMoment_3.19.1:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/d34cc5a562ee11a9b77f48d823b3d958/TapMoment_3.19.1/AndroidManifest.xml:21:13-33
-134    </application>
-135
-136</manifest>
+41-->[:TapDB_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/e6c1acd5f6ab3937bc45512230d3fe01/jetified-TapDB_3.20.0/AndroidManifest.xml:18:5-81
+41-->[:TapDB_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/e6c1acd5f6ab3937bc45512230d3fe01/jetified-TapDB_3.20.0/AndroidManifest.xml:18:22-78
+42    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+42-->[:TapMoment_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/2a98279e723ed0aaabb7477a5dacdc93/TapMoment_3.20.0/AndroidManifest.xml:16:5-76
+42-->[:TapMoment_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/2a98279e723ed0aaabb7477a5dacdc93/TapMoment_3.20.0/AndroidManifest.xml:16:22-73
+43    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+43-->[:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-71
+43-->[:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:11:22-68
+44    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+44-->[:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-80
+44-->[:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:15:22-77
+45    <uses-permission android:name="android.permission.BLUETOOTH" />
+45-->[:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:16:5-68
+45-->[:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:16:22-65
+46
+47    <application
+47-->/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:3-83
+48        android:extractNativeLibs="true"
+48-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:30:18-50
+49        android:icon="@mipmap/app_icon"
+49-->/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:49-80
+50        android:label="@string/app_name"
+50-->/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:16-48
+51        android:usesCleartextTraffic="true" >
+51-->[:TapDB_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/e6c1acd5f6ab3937bc45512230d3fe01/jetified-TapDB_3.20.0/AndroidManifest.xml:21:9-44
+52        <activity
+52-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:31:9-51:20
+53            android:name="com.unity3d.player.UnityPlayerActivity"
+53-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:32:13-66
+54            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+54-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:33:13-194
+55            android:hardwareAccelerated="false"
+55-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:34:13-48
+56            android:launchMode="singleTask"
+56-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:35:13-44
+57            android:resizeableActivity="false"
+57-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:36:13-47
+58            android:screenOrientation="fullUser"
+58-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:37:13-49
+59            android:theme="@style/UnityThemeSelector" >
+59-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:38:13-54
+60            <intent-filter>
+60-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:39:13-43:29
+61                <action android:name="android.intent.action.MAIN" />
+61-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:40:17-69
+61-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:40:25-66
+62
+63                <category android:name="android.intent.category.LAUNCHER" />
+63-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:42:17-77
+63-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:42:27-74
+64            </intent-filter>
+65
+66            <meta-data
+66-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:45:13-47:40
+67                android:name="unityplayer.UnityActivity"
+67-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:46:17-57
+68                android:value="true" />
+68-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:47:17-37
+69            <meta-data
+69-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:48:13-50:40
+70                android:name="android.notch_support"
+70-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:49:17-53
+71                android:value="true" />
+71-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:50:17-37
+72        </activity>
+73
+74        <meta-data
+74-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:53:9-55:33
+75            android:name="unity.splash-mode"
+75-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:54:13-45
+76            android:value="0" />
+76-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:55:13-30
+77        <meta-data
+77-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:56:9-58:36
+78            android:name="unity.splash-enable"
+78-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:57:13-47
+79            android:value="True" />
+79-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:58:13-33
+80        <meta-data
+80-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:59:9-61:36
+81            android:name="unity.launch-fullscreen"
+81-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:60:13-51
+82            android:value="True" />
+82-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:61:13-33
+83        <meta-data
+83-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:62:9-64:37
+84            android:name="unity.allow-resizable-window"
+84-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:63:13-56
+85            android:value="False" />
+85-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:64:13-34
+86        <meta-data
+86-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:65:9-67:50
+87            android:name="notch.config"
+87-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:66:13-40
+88            android:value="portrait|landscape" />
+88-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:67:13-47
+89        <meta-data
+89-->[:TapBillboard_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/4db1d8a6552e3612462128dfc5819c6d/TapBillboard_3.20.0/AndroidManifest.xml:15:9-17:36
+90            android:name="com.tapsdk.billboard.loader"
+90-->[:TapBillboard_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/4db1d8a6552e3612462128dfc5819c6d/TapBillboard_3.20.0/AndroidManifest.xml:16:13-55
+91            android:value="true" />
+91-->[:TapBillboard_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/4db1d8a6552e3612462128dfc5819c6d/TapBillboard_3.20.0/AndroidManifest.xml:17:13-33
+92        <meta-data
+92-->[:TapAchievement_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/fadc34542c5754d9ca4c10b145bc37ed/TapAchievement_3.20.0/AndroidManifest.xml:12:9-14:36
+93            android:name="com.tapsdk.achievement.loader"
+93-->[:TapAchievement_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/fadc34542c5754d9ca4c10b145bc37ed/TapAchievement_3.20.0/AndroidManifest.xml:13:13-57
+94            android:value="true" />
+94-->[:TapAchievement_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/fadc34542c5754d9ca4c10b145bc37ed/TapAchievement_3.20.0/AndroidManifest.xml:14:13-33
+95
+96        <activity
+96-->[:TapCommon_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6872febf4d68499726d9e360fefa3d94/jetified-TapCommon_3.20.0/AndroidManifest.xml:14:9-18:86
+97            android:name="com.tds.common.oauth.TapTapEntryActivity"
+97-->[:TapCommon_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6872febf4d68499726d9e360fefa3d94/jetified-TapCommon_3.20.0/AndroidManifest.xml:15:13-68
+98            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+98-->[:TapCommon_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6872febf4d68499726d9e360fefa3d94/jetified-TapCommon_3.20.0/AndroidManifest.xml:16:13-96
+99            android:exported="false"
+99-->[:TapCommon_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6872febf4d68499726d9e360fefa3d94/jetified-TapCommon_3.20.0/AndroidManifest.xml:17:13-37
+100            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+100-->[:TapCommon_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6872febf4d68499726d9e360fefa3d94/jetified-TapCommon_3.20.0/AndroidManifest.xml:18:13-83
+101
+102        <provider
+102-->[:TapCommon_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6872febf4d68499726d9e360fefa3d94/jetified-TapCommon_3.20.0/AndroidManifest.xml:20:9-23:40
+103            android:name="com.tds.common.provider.CurrentConfigProvider"
+103-->[:TapCommon_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6872febf4d68499726d9e360fefa3d94/jetified-TapCommon_3.20.0/AndroidManifest.xml:21:13-73
+104            android:authorities="com.tds.demo.tap_config.provider"
+104-->[:TapCommon_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6872febf4d68499726d9e360fefa3d94/jetified-TapCommon_3.20.0/AndroidManifest.xml:22:13-71
+105            android:exported="false" />
+105-->[:TapCommon_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/6872febf4d68499726d9e360fefa3d94/jetified-TapCommon_3.20.0/AndroidManifest.xml:23:13-37
+106
+107        <activity
+107-->[:TapLogin_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/a432e7c2fa325e8d9d92af822df24e2f/jetified-TapLogin_3.20.0/AndroidManifest.xml:12:9-16:86
+108            android:name="com.taptap.sdk.ui.TapTapActivity"
+108-->[:TapLogin_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/a432e7c2fa325e8d9d92af822df24e2f/jetified-TapLogin_3.20.0/AndroidManifest.xml:13:13-60
+109            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+109-->[:TapLogin_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/a432e7c2fa325e8d9d92af822df24e2f/jetified-TapLogin_3.20.0/AndroidManifest.xml:14:13-96
+110            android:exported="false"
+110-->[:TapLogin_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/a432e7c2fa325e8d9d92af822df24e2f/jetified-TapLogin_3.20.0/AndroidManifest.xml:15:13-37
+111            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+111-->[:TapLogin_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/a432e7c2fa325e8d9d92af822df24e2f/jetified-TapLogin_3.20.0/AndroidManifest.xml:16:13-83
+112        <activity
+112-->[:TapLogin_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/a432e7c2fa325e8d9d92af822df24e2f/jetified-TapLogin_3.20.0/AndroidManifest.xml:17:9-21:86
+113            android:name="com.taptap.sdk.TapLoginHelperActivity"
+113-->[:TapLogin_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/a432e7c2fa325e8d9d92af822df24e2f/jetified-TapLogin_3.20.0/AndroidManifest.xml:18:13-65
+114            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+114-->[:TapLogin_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/a432e7c2fa325e8d9d92af822df24e2f/jetified-TapLogin_3.20.0/AndroidManifest.xml:19:13-96
+115            android:exported="false"
+115-->[:TapLogin_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/a432e7c2fa325e8d9d92af822df24e2f/jetified-TapLogin_3.20.0/AndroidManifest.xml:20:13-37
+116            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+116-->[:TapLogin_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/a432e7c2fa325e8d9d92af822df24e2f/jetified-TapLogin_3.20.0/AndroidManifest.xml:21:13-83
+117
+118        <provider
+118-->[:TapLogin_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/a432e7c2fa325e8d9d92af822df24e2f/jetified-TapLogin_3.20.0/AndroidManifest.xml:23:9-26:40
+119            android:name="com.taptap.sdk.internal.user.CurrentUserProvider"
+119-->[:TapLogin_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/a432e7c2fa325e8d9d92af822df24e2f/jetified-TapLogin_3.20.0/AndroidManifest.xml:24:13-76
+120            android:authorities="com.tds.demo.tap_user.provider"
+120-->[:TapLogin_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/a432e7c2fa325e8d9d92af822df24e2f/jetified-TapLogin_3.20.0/AndroidManifest.xml:25:13-69
+121            android:exported="false" />
+121-->[:TapLogin_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/a432e7c2fa325e8d9d92af822df24e2f/jetified-TapLogin_3.20.0/AndroidManifest.xml:26:13-37
+122
+123        <meta-data
+123-->[:TapDB_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/e6c1acd5f6ab3937bc45512230d3fe01/jetified-TapDB_3.20.0/AndroidManifest.xml:23:9-25:36
+124            android:name="com.tapsdk.tapdb.loader"
+124-->[:TapDB_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/e6c1acd5f6ab3937bc45512230d3fe01/jetified-TapDB_3.20.0/AndroidManifest.xml:24:13-51
+125            android:value="true" />
+125-->[:TapDB_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/e6c1acd5f6ab3937bc45512230d3fe01/jetified-TapDB_3.20.0/AndroidManifest.xml:25:13-33
+126
+127        <provider
+127-->[:TapDB_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/e6c1acd5f6ab3937bc45512230d3fe01/jetified-TapDB_3.20.0/AndroidManifest.xml:27:9-30:40
+128            android:name="com.tds.tapdb.internal.device.DeviceProvider"
+128-->[:TapDB_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/e6c1acd5f6ab3937bc45512230d3fe01/jetified-TapDB_3.20.0/AndroidManifest.xml:28:13-72
+129            android:authorities="com.tds.demo.device.provider"
+129-->[:TapDB_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/e6c1acd5f6ab3937bc45512230d3fe01/jetified-TapDB_3.20.0/AndroidManifest.xml:29:13-67
+130            android:exported="false" />
+130-->[:TapDB_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/e6c1acd5f6ab3937bc45512230d3fe01/jetified-TapDB_3.20.0/AndroidManifest.xml:30:13-37
+131
+132        <meta-data
+132-->[:TapMoment_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/2a98279e723ed0aaabb7477a5dacdc93/TapMoment_3.20.0/AndroidManifest.xml:20:9-22:36
+133            android:name="com.tapsdk.moment.loader"
+133-->[:TapMoment_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/2a98279e723ed0aaabb7477a5dacdc93/TapMoment_3.20.0/AndroidManifest.xml:21:13-52
+134            android:value="true" />
+134-->[:TapMoment_3.20.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/2a98279e723ed0aaabb7477a5dacdc93/TapMoment_3.20.0/AndroidManifest.xml:22:13-33
+135    </application>
+136
+137</manifest>
