@@ -16,8 +16,8 @@ android {
         }
     }
 
-    compileSdkVersion 30
-    buildToolsVersion '30.0.2'
+    compileSdkVersion 33
+    buildToolsVersion '30.0.3'
     defaultConfig {
         targetSdkVersion 19
     }

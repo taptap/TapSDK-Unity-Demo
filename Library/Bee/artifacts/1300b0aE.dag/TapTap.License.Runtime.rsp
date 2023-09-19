@@ -338,7 +338,7 @@
 -r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.leancloud.storage@beef2954fb/Plugins/LC.Newtonsoft.Json.dll"
 -r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.leancloud.storage@beef2954fb/Plugins/Storage.dll"
 -r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.leancloud.storage@beef2954fb/Plugins/Storage.Unity.dll"
--r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.login@9899f1f374/Plugins/zxing.unity.dll"
+-r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.login@55ab327e94/Plugins/zxing.unity.dll"
 -r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.unity.collab-proxy@1.17.1/Lib/Editor/PlasticSCM/log4netPlastic.dll"
 -r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.unity.collab-proxy@1.17.1/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll"
 -r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.unity.collab-proxy@1.17.1/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll"
@@ -352,11 +352,11 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/TapTap.Common.Runtime.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
-"Library/PackageCache/com.taptap.tds.dlc@523939809b/Runtime/Internal/ITapLicenseBridge.cs"
-"Library/PackageCache/com.taptap.tds.dlc@523939809b/Runtime/Public/ITapDlcCallback.cs"
-"Library/PackageCache/com.taptap.tds.dlc@523939809b/Runtime/Public/ITapLicenseCallback.cs"
-"Library/PackageCache/com.taptap.tds.dlc@523939809b/Runtime/Public/TapLicense.cs"
-"Library/PackageCache/com.taptap.tds.dlc@523939809b/Runtime/Public/TapLicenseCode.cs"
+"Library/PackageCache/com.taptap.tds.dlc@abed5b49d5/Runtime/Internal/ITapLicenseBridge.cs"
+"Library/PackageCache/com.taptap.tds.dlc@abed5b49d5/Runtime/Public/ITapDlcCallback.cs"
+"Library/PackageCache/com.taptap.tds.dlc@abed5b49d5/Runtime/Public/ITapLicenseCallback.cs"
+"Library/PackageCache/com.taptap.tds.dlc@abed5b49d5/Runtime/Public/TapLicense.cs"
+"Library/PackageCache/com.taptap.tds.dlc@abed5b49d5/Runtime/Public/TapLicenseCode.cs"
 -langversion:9.0
 
 /deterministic

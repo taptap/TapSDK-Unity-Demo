@@ -1,0 +1,14 @@
+{
+  "name": "com.taptap.tds.bootstrap",
+  "displayName": "TapTap Bootstrap",
+  "description": "TapTap Develop Service",
+  "version": "3.21.0",
+  "unity": "2018.3",
+  "license": "MIT",
+  "dependencies": {
+    "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#3.21.0",
+    "com.taptap.tds.login": "https://github.com/TapTap/TapLogin-Unity.git#3.21.0",
+    "com.leancloud.realtime": "https://github.com/leancloud/csharp-sdk-upm.git#realtime-0.10.14",
+    "com.leancloud.storage": "https://github.com/leancloud/csharp-sdk-upm.git#storage-0.10.14"
+  }
+}

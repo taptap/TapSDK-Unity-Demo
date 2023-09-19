@@ -9,6 +9,7 @@ using TapTap.Common; // 命名空间
 using System;
 using TapTap.Billboard;
 using LeanCloud;
+using TapTap.Bootstrap; // 命名空间
 
 
 public class MainScene : MonoBehaviour
@@ -52,6 +53,7 @@ public class MainScene : MonoBehaviour
             .ServerURL("https://hskcocvs.cloud.tds1.tapapis.cn") // TapDC 后台获取
             .RegionType(RegionType.CN)  // 非必须，默认 CN 表示国内
             .TapBillboardConfig(dimensionSet, templateType, billboardServerUrl)
+            .TapDBConfig(true, "gameChannel", "gameVersion", true)  // TapDB 会根据 TapConfig 的配置进行自动初始化
             .ConfigBuilder();
 
         TapBootstrap.Init(config);

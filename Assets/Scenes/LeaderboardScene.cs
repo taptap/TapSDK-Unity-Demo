@@ -141,14 +141,18 @@ public class LeaderboardScene : MonoBehaviour
         }
          if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "查询测试", style))
 		{
-            var leaderboard = LCLeaderboard.CreateWithoutData("entity_word", LCLeaderboard.ENTITY_MEMBER_TYPE);
-            var rankings = await leaderboard.GetResults(aroundEntity: "entity_006", limit: 3);
+           
 
+            var leaderboardData = await LCLeaderboard.GetLeaderboard("word");
 
-        //    var rankings =  await leaderboard.GetResults(limit: 50);
-            Debug.Log("==================");
+            var tapRankings = await leaderboardData.GetResults(limit: 10, selectKeys: new List<string>{ "nickname", "avatar", "todo" });
 
-            Debug.Log(">>>>>>>>>> >>>>>> "+rankings.ToString());
+            foreach (var item in tapRankings)
+            {
+
+             Debug.Log($"ranking profile: {item.User}");
+
+            }
 
 
         }

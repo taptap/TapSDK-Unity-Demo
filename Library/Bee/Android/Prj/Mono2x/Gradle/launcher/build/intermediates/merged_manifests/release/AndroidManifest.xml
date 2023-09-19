@@ -7,7 +7,7 @@
 
     <uses-sdk
         android:minSdkVersion="22"
-        android:targetSdkVersion="30" />
+        android:targetSdkVersion="33" />
 
     <supports-screens
         android:anyDensity="true"
@@ -52,6 +52,7 @@
         <activity
             android:name="com.unity3d.player.UnityPlayerActivity"
             android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+            android:exported="true"
             android:hardwareAccelerated="false"
             android:launchMode="singleTask"
             android:resizeableActivity="false"

@@ -1,0 +1,12 @@
+{
+  "name": "com.taptap.tds.common",
+  "displayName": "TapTap Common",
+  "description": "TapTap Develop Service",
+  "version": "3.21.0",
+  "unity": "2018.3",
+  "dependencies": {
+    "com.unity.modules.ui": "1.0.0",
+    "com.leancloud.storage": "https://github.com/leancloud/csharp-sdk-upm.git#storage-0.10.14"
+  },
+  "license": "MIT"
+}

@@ -16,7 +16,6 @@ using LeanCloud.LiveQuery;
 using System.Collections.ObjectModel;
 using System.IO;
 
-
 public class StorageScene : MonoBehaviour
 {
     public GUISkin demoSkin;
@@ -256,6 +255,8 @@ public class StorageScene : MonoBehaviour
         // 将对象保存到云端
         await todo.Save();
         UnityNativeToastsHelper.ShowShortText("保存对象成功！");
+
+
         
     }
 
@@ -272,9 +273,6 @@ public class StorageScene : MonoBehaviour
         DateTime createdAt = todo.CreatedAt;
         UnityNativeToastsHelper.ShowShortText("查询对象成功："+ title +"--" + priority);
         Debug.Log("查询对象成功=="+objectId+" == "+ title);
-
-
-
 
 
      
