@@ -19,6 +19,8 @@ public class MainScene : MonoBehaviour
     void Start()
     {
 
+
+
         LCLogger.LogDelegate = (LCLogLevel level, string info) => {
         switch (level) {
             case LCLogLevel.Debug:
@@ -36,28 +38,34 @@ public class MainScene : MonoBehaviour
         }
     };
 
+        // 判断初始化状态
+        bool isInit = InitSpace.InitUnitl.isInit;
 
-        // 初始化 公告系统需要
-        var dimensionSet = new HashSet<KeyValuePair<string, string>>();
-        KeyValuePair<string, string> platformPair = new KeyValuePair<string, string>("platform", "TapTap");
-        KeyValuePair<string, string> locationPair = new KeyValuePair<string, string>("location", "CN");
-        dimensionSet.Add(platformPair);
-        dimensionSet.Add(locationPair);
-        var templateType = "navigate"; // 可选
-        var billboardServerUrl = "https://tdsdemo.weijiash.cn"; // 开发者中心 > 你的游戏 > 游戏服务 > 应用配置 > 域名配置 > 公告
+        if(!isInit){
+            // 初始化 公告系统需要
+            var dimensionSet = new HashSet<KeyValuePair<string, string>>();
+            KeyValuePair<string, string> platformPair = new KeyValuePair<string, string>("platform", "TapTap");
+            KeyValuePair<string, string> locationPair = new KeyValuePair<string, string>("location", "CN");
+            dimensionSet.Add(platformPair);
+            dimensionSet.Add(locationPair);
+            var templateType = "navigate"; // 可选
+            var billboardServerUrl = "https://tdsdemo.weijiash.cn"; // 开发者中心 > 你的游戏 > 游戏服务 > 应用配置 > 域名配置 > 公告
 
 
-        var config =  new TapConfig.Builder()
-            .ClientID("hskcocvse6x1cgkklm")  // 必须，开发者中心对应 Client ID
-            .ClientToken("XQuOYJZ5Oo2wHXf7J5pK1yEtRWH59Tp9AdfMpwOf")  // 必须，开发者中心对应 Client Token
-            .ServerURL("https://hskcocvs.cloud.tds1.tapapis.cn") // TapDC 后台获取
-            .RegionType(RegionType.CN)  // 非必须，默认 CN 表示国内
-            .TapBillboardConfig(dimensionSet, templateType, billboardServerUrl)
-            .TapDBConfig(true, "gameChannel", "gameVersion", true)  // TapDB 会根据 TapConfig 的配置进行自动初始化
-            .ConfigBuilder();
+            var config =  new TapConfig.Builder()
+                .ClientID("hskcocvse6x1cgkklm")  // 必须，开发者中心对应 Client ID
+                .ClientToken("XQuOYJZ5Oo2wHXf7J5pK1yEtRWH59Tp9AdfMpwOf")  // 必须，开发者中心对应 Client Token
+                .ServerURL("https://hskcocvs.cloud.tds1.tapapis.cn") // TapDC 后台获取
+                .RegionType(RegionType.CN)  // 非必须，默认 CN 表示国内
+                .TapBillboardConfig(dimensionSet, templateType, billboardServerUrl)
+                .TapDBConfig(true, "gameChannel", "gameVersion", true)  // TapDB 会根据 TapConfig 的配置进行自动初始化
+                .ConfigBuilder();
 
-        TapBootstrap.Init(config);
+            TapBootstrap.Init(config);
 
+            // 设置初始化状态
+            InitSpace.InitUnitl.isInit = true;
+        }
 
     
     }
@@ -194,4 +202,6 @@ public class MainScene : MonoBehaviour
 
 
     }
+
+
 }

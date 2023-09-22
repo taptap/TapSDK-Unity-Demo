@@ -1,4 +1,4 @@
-Using template '/Applications/Unity/Hub/Editor/2021.3.7f1/PlaybackEngines/AndroidPlayer/Apk/UnityManifest.xml'
+Using template 'Assets/Plugins/Android/AndroidManifest.xml'
 
 android.hardware.vulkan.version was added because:
 	One of the graphics devices was Vulkan
@@ -26,6 +26,8 @@ android.permission.INTERNET was added because:
 android.permission.ACCESS_NETWORK_STATE was added because:
 	UnityEngine.Application::get_internetReachability was present in:
 		Unity.Services.Core.Telemetry-FeaturesChecked.txt
+android.permission.WRITE_EXTERNAL_STORAGE was added because:
+	Force SDCard Permission
 android.hardware.touchscreen.multitouch, android.hardware.touchscreen.multitouch.distinct were enabled because:
 	UnityEngine.Input::GetTouch was present in:
 		UnityEngine.UI-FeaturesChecked.txt
