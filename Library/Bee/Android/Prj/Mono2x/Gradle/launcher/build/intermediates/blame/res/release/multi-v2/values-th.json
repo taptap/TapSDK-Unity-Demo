@@ -4,7 +4,17 @@
             "outputFile": "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-th/values-th.xml",
             "map": [
                 {
-                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/fadc34542c5754d9ca4c10b145bc37ed/TapAchievement_3.20.0/res/values-th/values-th.xml",
+                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/560827bfb27405687e6e687a508e5a02/TapBillboard_3.21.0/res/values-th/values-th.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,117",
+                        "endColumns": "61,107",
+                        "endOffsets": "112,220"
+                    }
+                },
+                {
+                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b7c2324ab606a92d6be6abc8fee96e7d/TapAchievement_3.21.0/res/values-th/values-th.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,17 +31,7 @@
                     }
                 },
                 {
-                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/4db1d8a6552e3612462128dfc5819c6d/TapBillboard_3.20.0/res/values-th/values-th.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,117",
-                        "endColumns": "61,107",
-                        "endOffsets": "112,220"
-                    }
-                },
-                {
-                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/2a98279e723ed0aaabb7477a5dacdc93/TapMoment_3.20.0/res/values-th/values-th.xml",
+                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/80774ba989e8f3c0d1eca382afb34d85/TapMoment_3.21.0/res/values-th/values-th.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",

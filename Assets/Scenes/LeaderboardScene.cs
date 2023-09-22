@@ -139,6 +139,23 @@ public class LeaderboardScene : MonoBehaviour
 
         
         }
+         if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "查询测试", style))
+		{
+           
+
+            var leaderboardData = await LCLeaderboard.GetLeaderboard("word");
+
+            var tapRankings = await leaderboardData.GetResults(limit: 10, selectKeys: new List<string>{ "nickname", "avatar", "todo" });
+
+            foreach (var item in tapRankings)
+            {
+
+             Debug.Log($"ranking profile: {item.User}");
+
+            }
+
+
+        }
 
         
         

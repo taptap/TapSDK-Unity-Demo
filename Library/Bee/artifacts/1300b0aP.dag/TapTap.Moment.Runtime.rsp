@@ -303,16 +303,16 @@
 -r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.leancloud.storage@beef2954fb/Plugins/LC.Newtonsoft.Json.dll"
 -r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.leancloud.storage@beef2954fb/Plugins/Storage.dll"
 -r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.leancloud.storage@beef2954fb/Plugins/Storage.Unity.dll"
--r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.login@9899f1f374/Plugins/zxing.unity.dll"
+-r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.login@9142b7161e/Plugins/zxing.unity.dll"
 -r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/AOT/Newtonsoft.Json.dll"
 -r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/TapTap.Common.Runtime.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/UnityEngine.UI.ref.dll"
-"Library/PackageCache/com.taptap.tds.moment@8d0a76fdab/Runtime/Internal/Init/MomentInitTask.cs"
-"Library/PackageCache/com.taptap.tds.moment@8d0a76fdab/Runtime/Internal/ITapMomentBridge.cs"
-"Library/PackageCache/com.taptap.tds.moment@8d0a76fdab/Runtime/Public/Orientation.cs"
-"Library/PackageCache/com.taptap.tds.moment@8d0a76fdab/Runtime/Public/TapMoment.cs"
-"Library/PackageCache/com.taptap.tds.moment@8d0a76fdab/Runtime/Public/TapMomentConfig.cs"
+"Library/PackageCache/com.taptap.tds.moment@0ef80fee49/Runtime/Internal/Init/MomentInitTask.cs"
+"Library/PackageCache/com.taptap.tds.moment@0ef80fee49/Runtime/Internal/ITapMomentBridge.cs"
+"Library/PackageCache/com.taptap.tds.moment@0ef80fee49/Runtime/Public/Orientation.cs"
+"Library/PackageCache/com.taptap.tds.moment@0ef80fee49/Runtime/Public/TapMoment.cs"
+"Library/PackageCache/com.taptap.tds.moment@0ef80fee49/Runtime/Public/TapMomentConfig.cs"
 -langversion:9.0
 
 /deterministic

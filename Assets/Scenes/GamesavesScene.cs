@@ -8,6 +8,7 @@ using TapTap.Common;
 using TapTap.Login;
 using LeanCloud;
 using System.IO;
+using UnityEngine.Android;
 
 public class GamesavesScene : MonoBehaviour
 {
@@ -33,6 +34,13 @@ public class GamesavesScene : MonoBehaviour
                 break;
         }
     };
+
+
+     if (!Permission.HasUserAuthorizedPermission(Permission.ExternalStorageRead) || !Permission.HasUserAuthorizedPermission(Permission.ExternalStorageWrite))
+        {
+            Permission.RequestUserPermission(Permission.ExternalStorageRead);
+            Permission.RequestUserPermission(Permission.ExternalStorageWrite);
+        }
         
     }
 
@@ -72,17 +80,20 @@ public class GamesavesScene : MonoBehaviour
 		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "创建存档", style))
 		{
 
-           var gameSave = new TapGameSave
-            {
-                Name = "云存档名称",
-                Summary = "这是云存档描述",
-                ModifiedAt = DateTime.Now.ToLocalTime(),
-                PlayedTime = 60000L, // ms
-                ProgressValue = 100,
-                CoverFilePath = "sdcard/Android/qwer.png",
-                GameFilePath = "sdcard/Android/qwer.csv",
-            };
-            await gameSave.Save();
+
+                var gameSave = new TapGameSave
+                    {
+                        Name = "云存档名称",
+                        Summary = "这是云存档描述",
+                        ModifiedAt = DateTime.Now.ToLocalTime(),
+                        PlayedTime = 60000L, // ms
+                        ProgressValue = 100,
+                        CoverFilePath = "sdcard/Android/qwer.png",
+                        GameFilePath = "sdcard/Android/qwer.csv",
+                    };
+                    await gameSave.Save();
+         
+
         }
 
         if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "查询用户存档", style))
