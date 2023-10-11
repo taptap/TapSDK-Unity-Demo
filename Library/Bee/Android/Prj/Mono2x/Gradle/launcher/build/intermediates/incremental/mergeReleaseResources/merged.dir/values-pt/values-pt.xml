@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tap_connect_copy_success">Copiado</string>
+    <string name="tap_connect_fun_moment">Atualizações de jogo</string>
+    <string name="tap_connect_fun_review">Fazer análise do jogo</string>
+    <string name="tap_connect_fun_share">Compartilhar</string>
+    <string name="tap_connect_share_url_tip">Link copiado. Compartilhe com os seus amigos!</string>
+</resources>

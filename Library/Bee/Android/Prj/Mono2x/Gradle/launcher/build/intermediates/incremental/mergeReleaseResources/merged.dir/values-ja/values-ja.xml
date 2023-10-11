@@ -19,6 +19,11 @@
     <string name="save_fail">保存に失敗しました。</string>
     <string name="save_image">画像を保存する</string>
     <string name="save_success">保存しました。</string>
+    <string name="tap_connect_copy_success">コピーしました</string>
+    <string name="tap_connect_fun_moment">ゲームの最新情報</string>
+    <string name="tap_connect_fun_review">ゲームレビュー</string>
+    <string name="tap_connect_fun_share">シェア</string>
+    <string name="tap_connect_share_url_tip">リンクをコピーしました。友達とシェアしましょう！</string>
     <string name="taptap_alert_download_taptap">最新バージョンTapTapサービスが必要です。最新バージョンTapTapをダウンロードしてください</string>
     <string name="taptap_alert_license_no">まだアクティブにしていません。TapTapで購入してください</string>
     <string name="taptap_string_checking_license">購入詳細を確認中...</string>

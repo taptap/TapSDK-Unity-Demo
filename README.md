@@ -1,4 +1,4 @@
-## TapSDK - 3.21.1 For Unity Demo；
+## TapSDK - 3.21.2 For Unity Demo；
 
 ## 运行示例程序
 
@@ -8,8 +8,9 @@
 
 2、配置自己的签名信息，签名打包测试；
 
-3、安卓可以下载项目中的 [TapSDK_demo.apk](https://lc-buhezimj.cn-e1.lcfile.com/EzLQJjx9jEqis8Thf4RnYEpn1uCEouQi/tds_demo.apk) 或扫描如下二维码进行下载体验；
-![Demo 下载图片](https://lc-buhezimj.cn-e1.lcfile.com/VnYxl9RVS8PwV9H6hw7x2eBRPs0EiCoL/1_990084431_171_85_3_716603810_d0d86f08088d9e6f0d4bae99de6385ed.png)
+3、安卓可以下载项目中的 [TapSDK_demo.apk](https://capacity-files.lcfile.com/5yNGk2gdsDtGke5rT1JEK1T4wKkGi6hw/Tds_demo.apk) 或扫描如下二维码进行下载体验；
+
+![Demo 下载图片](https://capacity-files.lcfile.com/qoLkprIYYYnYkkVTkcFhem7lyfTcDFWp/1_998511691_171_85_3_756532431_1317364d26b580b6923644a28fd00c64.png)
 
 4、关于 TapSDK 更多详情请参考[官方文档](https://developer.taptap.com/docs/sdk/)。
 

@@ -4,23 +4,6 @@
             "outputFile": "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rCN/values-zh-rCN.xml",
             "map": [
                 {
-                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/80774ba989e8f3c0d1eca382afb34d85/TapMoment_3.21.0/res/values-zh-rCN/values-zh-rCN.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,100,146,199,243,298,355,441,501,555,632,684,727,771",
-                        "endColumns": "44,45,52,43,54,56,85,59,53,76,51,42,43,45",
-                        "endOffsets": "95,141,194,238,293,350,436,496,550,627,679,722,766,812"
-                    },
-                    "to": {
-                        "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,277,323,376,420,475,532,618,678,732,809,861,904,948",
-                        "endColumns": "44,45,52,43,54,56,85,59,53,76,51,42,43,45",
-                        "endOffsets": "95,318,371,415,470,527,613,673,727,804,856,899,943,989"
-                    }
-                },
-                {
                     "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b7c2324ab606a92d6be6abc8fee96e7d/TapAchievement_3.21.0/res/values-zh-rCN/values-zh-rCN.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
@@ -52,6 +35,23 @@
                         "startOffsets": "100,158,218,994,1084,1157,1228,1295",
                         "endColumns": "57,59,58,89,72,70,66,62",
                         "endOffsets": "153,213,272,1079,1152,1223,1290,1353"
+                    }
+                },
+                {
+                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/49dc8ba7ee95b39d878917c0d7476873/TapMoment_3.21.0/res/values-zh-rCN/values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,146,199,243,298,355,441,501,555,632,684,727,771",
+                        "endColumns": "44,45,52,43,54,56,85,59,53,76,51,42,43,45",
+                        "endOffsets": "95,141,194,238,293,350,436,496,550,627,679,722,766,812"
+                    },
+                    "to": {
+                        "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,277,323,376,420,475,532,618,678,732,809,861,904,948",
+                        "endColumns": "44,45,52,43,54,56,85,59,53,76,51,42,43,45",
+                        "endOffsets": "95,318,371,415,470,527,613,673,727,804,856,899,943,989"
                     }
                 }
             ]

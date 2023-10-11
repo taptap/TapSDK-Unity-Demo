@@ -47,4 +47,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/GiftScene.unity
     guid: 5220b8ed866ce4847a0d1dc2bba0014c
+  - enabled: 1
+    path: Assets/Scenes/AwokenUpdateScene.unity
+    guid: 6a828fb48b3d94742acc748735969aca
   m_configObjects: {}

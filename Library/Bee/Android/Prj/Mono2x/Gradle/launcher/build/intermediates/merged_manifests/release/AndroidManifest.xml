@@ -107,6 +107,9 @@
             android:name="com.tapsdk.moment.loader"
             android:value="true" />
         <meta-data
+            android:name="com.tapsdk.tapconnect.loader"
+            android:value="true" />
+        <meta-data
             android:name="com.tapsdk.achievement.loader"
             android:value="true" />
         <meta-data

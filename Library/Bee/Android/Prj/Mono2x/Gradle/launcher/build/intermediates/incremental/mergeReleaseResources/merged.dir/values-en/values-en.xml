@@ -19,6 +19,11 @@
     <string name="save_fail">Saving Failed</string>
     <string name="save_image">Save Image</string>
     <string name="save_success">Saved</string>
+    <string name="tap_connect_copy_success">Copied</string>
+    <string name="tap_connect_fun_moment">Game updates</string>
+    <string name="tap_connect_fun_review">Review the game</string>
+    <string name="tap_connect_fun_share">Share</string>
+    <string name="tap_connect_share_url_tip">Link copied. Share it with your friends!</string>
     <string name="taptap_alert_download_taptap">This game requires the latest TapTap service support, please download the latest TapTap version</string>
     <string name="taptap_alert_license_no">Game not activated, please buy this game from TapTap</string>
     <string name="taptap_string_checking_license">Checking purchase information...</string>

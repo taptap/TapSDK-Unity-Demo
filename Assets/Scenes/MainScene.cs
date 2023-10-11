@@ -9,7 +9,7 @@ using TapTap.Common; // 命名空间
 using System;
 using TapTap.Billboard;
 using LeanCloud;
-using TapTap.Bootstrap; // 命名空间
+using TapTap.Connect; // 命名空间
 
 
 public class MainScene : MonoBehaviour
@@ -63,8 +63,12 @@ public class MainScene : MonoBehaviour
 
             TapBootstrap.Init(config);
 
+            TapConnect.SetEntryVisible(true);
+
             // 设置初始化状态
             InitSpace.InitUnitl.isInit = true;
+
+
         }
 
     
@@ -198,6 +202,12 @@ public class MainScene : MonoBehaviour
             UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(13);
 
         }
+
+          if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "唤起更新", style))
+		{
+			UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(14);
+
+		}
 
 
 
