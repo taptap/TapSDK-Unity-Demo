@@ -338,7 +338,7 @@
 -r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.leancloud.storage@beef2954fb/Plugins/LC.Newtonsoft.Json.dll"
 -r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.leancloud.storage@beef2954fb/Plugins/Storage.dll"
 -r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.leancloud.storage@beef2954fb/Plugins/Storage.Unity.dll"
--r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.login@9142b7161e/Plugins/zxing.unity.dll"
+-r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.login@9650fdef45/Plugins/zxing.unity.dll"
 -r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.unity.collab-proxy@1.17.1/Lib/Editor/PlasticSCM/log4netPlastic.dll"
 -r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.unity.collab-proxy@1.17.1/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll"
 -r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.unity.collab-proxy@1.17.1/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll"
@@ -352,12 +352,12 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/TapTap.Common.Runtime.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
-"Library/PackageCache/com.taptap.tds.billboard@70d27a82bc/Runtime/Internal/Init/BillboardInitTask.cs"
-"Library/PackageCache/com.taptap.tds.billboard@70d27a82bc/Runtime/Internal/Platform/ITapBillboard.cs"
-"Library/PackageCache/com.taptap.tds.billboard@70d27a82bc/Runtime/Public/BadgeDetails.cs"
-"Library/PackageCache/com.taptap.tds.billboard@70d27a82bc/Runtime/Public/OutputStateListener.cs"
-"Library/PackageCache/com.taptap.tds.billboard@70d27a82bc/Runtime/Public/TapBillboard.cs"
-"Library/PackageCache/com.taptap.tds.billboard@70d27a82bc/Runtime/Public/TapBillboardConfig.cs"
+"Library/PackageCache/com.taptap.tds.billboard@86980ebbd3/Runtime/Internal/Init/BillboardInitTask.cs"
+"Library/PackageCache/com.taptap.tds.billboard@86980ebbd3/Runtime/Internal/Platform/ITapBillboard.cs"
+"Library/PackageCache/com.taptap.tds.billboard@86980ebbd3/Runtime/Public/BadgeDetails.cs"
+"Library/PackageCache/com.taptap.tds.billboard@86980ebbd3/Runtime/Public/OutputStateListener.cs"
+"Library/PackageCache/com.taptap.tds.billboard@86980ebbd3/Runtime/Public/TapBillboard.cs"
+"Library/PackageCache/com.taptap.tds.billboard@86980ebbd3/Runtime/Public/TapBillboardConfig.cs"
 -langversion:9.0
 
 /deterministic

@@ -1,0 +1,6 @@
+framework module TapConnectSDK {
+  umbrella header "TapConnectSDK.h"
+
+  export *
+  module * { export * }
+}

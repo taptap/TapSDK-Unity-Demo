@@ -4,6 +4,7 @@ ScriptsOnlyBuild:
     - APIClient
     - AchievementScene
     - AntiaddictionScene
+    - AwokenUpdateScene
     - BillboardScene
     - FriendScene
     - GamesavesScene
@@ -89,12 +90,14 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9046}
+      Script: {instanceID: 9050}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -115,6 +118,8 @@ ScriptsOnlyBuild:
     - Class: 48
       Script: {instanceID: 0}
     - Class: 81
+      Script: {instanceID: 0}
+    - Class: 89
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
@@ -143,12 +148,43 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
       Script: {instanceID: 2766}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    Assets/Scenes/AwokenUpdateScene.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 5374}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -170,12 +206,14 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 8894}
+      Script: {instanceID: 8898}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -197,12 +235,14 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 6572}
+      Script: {instanceID: 6576}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -224,12 +264,14 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 6826}
+      Script: {instanceID: 6830}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -251,12 +293,14 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 7768}
+      Script: {instanceID: 7772}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -278,12 +322,14 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 6528}
+      Script: {instanceID: 6532}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -306,7 +352,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 4754}
+      Script: {instanceID: 4756}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -329,7 +375,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 6030}
+      Script: {instanceID: 6034}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -351,12 +397,14 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 3754}
+      Script: {instanceID: 3756}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -381,6 +429,8 @@ ScriptsOnlyBuild:
     - Class: 74
       Script: {instanceID: 0}
     - Class: 81
+      Script: {instanceID: 0}
+    - Class: 89
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
@@ -415,37 +465,37 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3420}
     - Class: 114
-      Script: {instanceID: 3618}
+      Script: {instanceID: 3620}
     - Class: 114
-      Script: {instanceID: 4264}
+      Script: {instanceID: 4266}
     - Class: 114
-      Script: {instanceID: 4334}
+      Script: {instanceID: 4336}
     - Class: 114
-      Script: {instanceID: 4408}
+      Script: {instanceID: 4410}
     - Class: 114
-      Script: {instanceID: 4842}
+      Script: {instanceID: 4844}
     - Class: 114
-      Script: {instanceID: 5352}
+      Script: {instanceID: 5354}
     - Class: 114
-      Script: {instanceID: 5680}
+      Script: {instanceID: 5684}
     - Class: 114
-      Script: {instanceID: 6696}
+      Script: {instanceID: 6700}
     - Class: 114
-      Script: {instanceID: 7044}
+      Script: {instanceID: 7048}
     - Class: 114
-      Script: {instanceID: 7138}
+      Script: {instanceID: 7142}
     - Class: 114
-      Script: {instanceID: 7186}
+      Script: {instanceID: 7190}
     - Class: 114
-      Script: {instanceID: 7500}
+      Script: {instanceID: 7504}
     - Class: 114
-      Script: {instanceID: 7812}
+      Script: {instanceID: 7816}
     - Class: 114
-      Script: {instanceID: 7890}
+      Script: {instanceID: 7894}
     - Class: 114
-      Script: {instanceID: 8238}
+      Script: {instanceID: 8242}
     - Class: 114
-      Script: {instanceID: 9062}
+      Script: {instanceID: 9066}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -479,12 +529,14 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 5824}
+      Script: {instanceID: 5828}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -506,12 +558,14 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 5660}
+      Script: {instanceID: 5664}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -1061,6 +1115,12 @@ ScriptsOnlyBuild:
     className: GridLayoutGroup
   - hash:
       serializedVersion: 2
+      Hash: 1fbfc8f5d9759ad810c770cd2bab537a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AwokenUpdateScene
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
@@ -1531,4 +1591,5 @@ ScriptsOnlyBuild:
   - Assets/Scenes/RTCScene.unity
   - Assets/Scenes/FriendScene.unity
   - Assets/GiftScene.unity
+  - Assets/Scenes/AwokenUpdateScene.unity
   playerPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Tds_demo.apk

@@ -1,0 +1,11 @@
+{
+  "name": "com.taptap.tds.connect",
+  "displayName": "TapTap Connect",
+  "description": "TapTap Connect Service",
+  "version": "3.21.0",
+  "unity": "2018.3",
+  "dependencies": {
+    "com.taptap.tds.moment": "https://github.com/TapTap/TapMoment-Unity.git#3.20.0"
+  },
+  "license": "MIT"
+}

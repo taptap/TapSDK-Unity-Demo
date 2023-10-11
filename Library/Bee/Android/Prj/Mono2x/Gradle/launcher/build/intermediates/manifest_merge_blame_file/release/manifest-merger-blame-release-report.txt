@@ -68,8 +68,8 @@
 38-->[:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:31:9-33
 39
 40    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
-40-->[:TapMoment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/80774ba989e8f3c0d1eca382afb34d85/TapMoment_3.21.0/AndroidManifest.xml:16:5-76
-40-->[:TapMoment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/80774ba989e8f3c0d1eca382afb34d85/TapMoment_3.21.0/AndroidManifest.xml:16:22-73
+40-->[:TapMoment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/49dc8ba7ee95b39d878917c0d7476873/TapMoment_3.21.0/AndroidManifest.xml:16:5-76
+40-->[:TapMoment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/49dc8ba7ee95b39d878917c0d7476873/TapMoment_3.21.0/AndroidManifest.xml:16:22-73
 41    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
 41-->[:TapDB_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/85c6d911d4244b9e8fed53dfba4f56a8/TapDB_3.21.0/AndroidManifest.xml:14:5-75
 41-->[:TapDB_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/85c6d911d4244b9e8fed53dfba4f56a8/TapDB_3.21.0/AndroidManifest.xml:14:22-72
@@ -200,62 +200,68 @@
 105            android:value="true" />
 105-->[:TapBillboard_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/560827bfb27405687e6e687a508e5a02/TapBillboard_3.21.0/AndroidManifest.xml:17:13-33
 106        <meta-data
-106-->[:TapMoment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/80774ba989e8f3c0d1eca382afb34d85/TapMoment_3.21.0/AndroidManifest.xml:20:9-22:36
+106-->[:TapMoment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/49dc8ba7ee95b39d878917c0d7476873/TapMoment_3.21.0/AndroidManifest.xml:20:9-22:36
 107            android:name="com.tapsdk.moment.loader"
-107-->[:TapMoment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/80774ba989e8f3c0d1eca382afb34d85/TapMoment_3.21.0/AndroidManifest.xml:21:13-52
+107-->[:TapMoment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/49dc8ba7ee95b39d878917c0d7476873/TapMoment_3.21.0/AndroidManifest.xml:21:13-52
 108            android:value="true" />
-108-->[:TapMoment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/80774ba989e8f3c0d1eca382afb34d85/TapMoment_3.21.0/AndroidManifest.xml:22:13-33
+108-->[:TapMoment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/49dc8ba7ee95b39d878917c0d7476873/TapMoment_3.21.0/AndroidManifest.xml:22:13-33
 109        <meta-data
-109-->[:TapAchievement_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b7c2324ab606a92d6be6abc8fee96e7d/TapAchievement_3.21.0/AndroidManifest.xml:12:9-14:36
-110            android:name="com.tapsdk.achievement.loader"
-110-->[:TapAchievement_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b7c2324ab606a92d6be6abc8fee96e7d/TapAchievement_3.21.0/AndroidManifest.xml:13:13-57
+109-->[:TapConnect_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/0955f7f1c57b4ede15b641d7a337e3e0/TapConnect_3.21.0/AndroidManifest.xml:10:9-12:36
+110            android:name="com.tapsdk.tapconnect.loader"
+110-->[:TapConnect_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/0955f7f1c57b4ede15b641d7a337e3e0/TapConnect_3.21.0/AndroidManifest.xml:11:13-56
 111            android:value="true" />
-111-->[:TapAchievement_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b7c2324ab606a92d6be6abc8fee96e7d/TapAchievement_3.21.0/AndroidManifest.xml:14:13-33
+111-->[:TapConnect_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/0955f7f1c57b4ede15b641d7a337e3e0/TapConnect_3.21.0/AndroidManifest.xml:12:13-33
 112        <meta-data
-112-->[:TapDB_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/85c6d911d4244b9e8fed53dfba4f56a8/TapDB_3.21.0/AndroidManifest.xml:23:9-25:36
-113            android:name="com.tapsdk.tapdb.loader"
-113-->[:TapDB_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/85c6d911d4244b9e8fed53dfba4f56a8/TapDB_3.21.0/AndroidManifest.xml:24:13-51
+112-->[:TapAchievement_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b7c2324ab606a92d6be6abc8fee96e7d/TapAchievement_3.21.0/AndroidManifest.xml:12:9-14:36
+113            android:name="com.tapsdk.achievement.loader"
+113-->[:TapAchievement_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b7c2324ab606a92d6be6abc8fee96e7d/TapAchievement_3.21.0/AndroidManifest.xml:13:13-57
 114            android:value="true" />
-114-->[:TapDB_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/85c6d911d4244b9e8fed53dfba4f56a8/TapDB_3.21.0/AndroidManifest.xml:25:13-33
-115
-116        <provider
-116-->[:TapDB_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/85c6d911d4244b9e8fed53dfba4f56a8/TapDB_3.21.0/AndroidManifest.xml:27:9-30:40
-117            android:name="com.tds.tapdb.internal.device.DeviceProvider"
-117-->[:TapDB_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/85c6d911d4244b9e8fed53dfba4f56a8/TapDB_3.21.0/AndroidManifest.xml:28:13-72
-118            android:authorities="com.tds.demo.device.provider"
-118-->[:TapDB_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/85c6d911d4244b9e8fed53dfba4f56a8/TapDB_3.21.0/AndroidManifest.xml:29:13-67
-119            android:exported="false" />
-119-->[:TapDB_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/85c6d911d4244b9e8fed53dfba4f56a8/TapDB_3.21.0/AndroidManifest.xml:30:13-37
-120
-121        <activity
-121-->[:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/24f041637b9d9509d807f4b5b3581be0/TapLogin_3.21.0/AndroidManifest.xml:12:9-16:86
-122            android:name="com.taptap.sdk.ui.TapTapActivity"
-122-->[:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/24f041637b9d9509d807f4b5b3581be0/TapLogin_3.21.0/AndroidManifest.xml:13:13-60
-123            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
-123-->[:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/24f041637b9d9509d807f4b5b3581be0/TapLogin_3.21.0/AndroidManifest.xml:14:13-96
-124            android:exported="false"
-124-->[:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/24f041637b9d9509d807f4b5b3581be0/TapLogin_3.21.0/AndroidManifest.xml:15:13-37
-125            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
-125-->[:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/24f041637b9d9509d807f4b5b3581be0/TapLogin_3.21.0/AndroidManifest.xml:16:13-83
-126        <activity
-126-->[:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/24f041637b9d9509d807f4b5b3581be0/TapLogin_3.21.0/AndroidManifest.xml:17:9-21:86
-127            android:name="com.taptap.sdk.TapLoginHelperActivity"
-127-->[:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/24f041637b9d9509d807f4b5b3581be0/TapLogin_3.21.0/AndroidManifest.xml:18:13-65
-128            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
-128-->[:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/24f041637b9d9509d807f4b5b3581be0/TapLogin_3.21.0/AndroidManifest.xml:19:13-96
-129            android:exported="false"
-129-->[:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/24f041637b9d9509d807f4b5b3581be0/TapLogin_3.21.0/AndroidManifest.xml:20:13-37
-130            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
-130-->[:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/24f041637b9d9509d807f4b5b3581be0/TapLogin_3.21.0/AndroidManifest.xml:21:13-83
-131
-132        <provider
-132-->[:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/24f041637b9d9509d807f4b5b3581be0/TapLogin_3.21.0/AndroidManifest.xml:23:9-26:40
-133            android:name="com.taptap.sdk.internal.user.CurrentUserProvider"
-133-->[:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/24f041637b9d9509d807f4b5b3581be0/TapLogin_3.21.0/AndroidManifest.xml:24:13-76
-134            android:authorities="com.tds.demo.tap_user.provider"
-134-->[:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/24f041637b9d9509d807f4b5b3581be0/TapLogin_3.21.0/AndroidManifest.xml:25:13-69
-135            android:exported="false" />
-135-->[:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/24f041637b9d9509d807f4b5b3581be0/TapLogin_3.21.0/AndroidManifest.xml:26:13-37
-136    </application>
-137
-138</manifest>
+114-->[:TapAchievement_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b7c2324ab606a92d6be6abc8fee96e7d/TapAchievement_3.21.0/AndroidManifest.xml:14:13-33
+115        <meta-data
+115-->[:TapDB_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/85c6d911d4244b9e8fed53dfba4f56a8/TapDB_3.21.0/AndroidManifest.xml:23:9-25:36
+116            android:name="com.tapsdk.tapdb.loader"
+116-->[:TapDB_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/85c6d911d4244b9e8fed53dfba4f56a8/TapDB_3.21.0/AndroidManifest.xml:24:13-51
+117            android:value="true" />
+117-->[:TapDB_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/85c6d911d4244b9e8fed53dfba4f56a8/TapDB_3.21.0/AndroidManifest.xml:25:13-33
+118
+119        <provider
+119-->[:TapDB_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/85c6d911d4244b9e8fed53dfba4f56a8/TapDB_3.21.0/AndroidManifest.xml:27:9-30:40
+120            android:name="com.tds.tapdb.internal.device.DeviceProvider"
+120-->[:TapDB_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/85c6d911d4244b9e8fed53dfba4f56a8/TapDB_3.21.0/AndroidManifest.xml:28:13-72
+121            android:authorities="com.tds.demo.device.provider"
+121-->[:TapDB_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/85c6d911d4244b9e8fed53dfba4f56a8/TapDB_3.21.0/AndroidManifest.xml:29:13-67
+122            android:exported="false" />
+122-->[:TapDB_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/85c6d911d4244b9e8fed53dfba4f56a8/TapDB_3.21.0/AndroidManifest.xml:30:13-37
+123
+124        <activity
+124-->[:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/24f041637b9d9509d807f4b5b3581be0/TapLogin_3.21.0/AndroidManifest.xml:12:9-16:86
+125            android:name="com.taptap.sdk.ui.TapTapActivity"
+125-->[:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/24f041637b9d9509d807f4b5b3581be0/TapLogin_3.21.0/AndroidManifest.xml:13:13-60
+126            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+126-->[:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/24f041637b9d9509d807f4b5b3581be0/TapLogin_3.21.0/AndroidManifest.xml:14:13-96
+127            android:exported="false"
+127-->[:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/24f041637b9d9509d807f4b5b3581be0/TapLogin_3.21.0/AndroidManifest.xml:15:13-37
+128            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+128-->[:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/24f041637b9d9509d807f4b5b3581be0/TapLogin_3.21.0/AndroidManifest.xml:16:13-83
+129        <activity
+129-->[:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/24f041637b9d9509d807f4b5b3581be0/TapLogin_3.21.0/AndroidManifest.xml:17:9-21:86
+130            android:name="com.taptap.sdk.TapLoginHelperActivity"
+130-->[:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/24f041637b9d9509d807f4b5b3581be0/TapLogin_3.21.0/AndroidManifest.xml:18:13-65
+131            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+131-->[:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/24f041637b9d9509d807f4b5b3581be0/TapLogin_3.21.0/AndroidManifest.xml:19:13-96
+132            android:exported="false"
+132-->[:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/24f041637b9d9509d807f4b5b3581be0/TapLogin_3.21.0/AndroidManifest.xml:20:13-37
+133            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+133-->[:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/24f041637b9d9509d807f4b5b3581be0/TapLogin_3.21.0/AndroidManifest.xml:21:13-83
+134
+135        <provider
+135-->[:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/24f041637b9d9509d807f4b5b3581be0/TapLogin_3.21.0/AndroidManifest.xml:23:9-26:40
+136            android:name="com.taptap.sdk.internal.user.CurrentUserProvider"
+136-->[:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/24f041637b9d9509d807f4b5b3581be0/TapLogin_3.21.0/AndroidManifest.xml:24:13-76
+137            android:authorities="com.tds.demo.tap_user.provider"
+137-->[:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/24f041637b9d9509d807f4b5b3581be0/TapLogin_3.21.0/AndroidManifest.xml:25:13-69
+138            android:exported="false" />
+138-->[:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/24f041637b9d9509d807f4b5b3581be0/TapLogin_3.21.0/AndroidManifest.xml:26:13-37
+139    </application>
+140
+141</manifest>

@@ -19,6 +19,11 @@
     <string name="save_fail">저장 실패</string>
     <string name="save_image">그림 저장</string>
     <string name="save_success">저장 성공</string>
+    <string name="tap_connect_copy_success">복사 완료</string>
+    <string name="tap_connect_fun_moment">게임 업데이트</string>
+    <string name="tap_connect_fun_review">리뷰 작성</string>
+    <string name="tap_connect_fun_share">공유</string>
+    <string name="tap_connect_share_url_tip">링크를 복사했습니다. 친구와 공유하세요!</string>
     <string name="taptap_alert_download_taptap">본 게임은 TapTap 최신버전에서 지원됩니다. TapTap 최신 버전을 다운로드해주세요</string>
     <string name="taptap_alert_license_no">활성화되지않은 게임입니다. TapTap에서 게임을 구매하세요</string>
     <string name="taptap_string_checking_license">구매 기록 확인 중...</string>
