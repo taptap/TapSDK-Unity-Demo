@@ -42,6 +42,11 @@
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
     <uses-permission android:name="android.permission.REORDER_TASKS" />
+
+    <queries>
+        <package android:name="com.tencent.mm" />
+    </queries>
+
     <uses-permission android:name="android.permission.RECORD_AUDIO" />
     <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
     <uses-permission android:name="android.permission.BLUETOOTH" />
@@ -137,6 +142,25 @@
             android:name="com.taptap.sdk.internal.user.CurrentUserProvider"
             android:authorities="com.tds.demo.tap_user.provider"
             android:exported="false" />
+
+        <meta-data
+            android:name="com.tapsdk.payment.loader"
+            android:value="true" />
+
+        <activity
+            android:name="com.tapsdk.payment.impl.alipay.AlipayTaskActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+        <activity
+            android:name="com.tapsdk.payment.impl.wechat.WXPayEntryActivity"
+            android:exported="true"
+            android:launchMode="singleTop"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <activity-alias
+            android:name="com.tds.demo.wxapi.WXPayEntryActivity"
+            android:exported="true"
+            android:targetActivity="com.tapsdk.payment.impl.wechat.WXPayEntryActivity" />
     </application>
 
 </manifest>

@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638325919490000000
-    m_Hash: 111588519
+      ticks: 638326797600000000
+    m_Hash: 3391531864
   m_LockFileStatus:
     m_FilePath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638325919540000000
-    m_Hash: 3686176282
+      ticks: 638326797680000000
+    m_Hash: 3633405209
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -877,6 +877,65 @@ m_ResolvedPackages:
   - name: com.unity.modules.ui
     version: 1.0.0
   - name: com.leancloud.storage
+    version: 1.0.2
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+- packageId: com.taptap.tds.payment@https://github.com/TapTap/TapPayment-Unity.git#3.21.2
+  testable: 0
+  isDirectDependency: 1
+  version: 3.21.2
+  source: 5
+  resolvedPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.payment@4ed3fa5860
+  assetPath: Packages/com.taptap.tds.payment
+  name: com.taptap.tds.payment
+  displayName: TapTap Payment
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: TapTap Develop Service
+  status: 4
+  errors: []
+  versions:
+    all: []
+    compatible: []
+    verified: 
+  dependencies:
+  - name: com.taptap.tds.bootstrap
+    version: https://github.com/TapTap/TapBootstrap-Unity.git#3.21.2
+  resolvedDependencies:
+  - name: com.taptap.tds.bootstrap
+    version: 3.21.2
+  - name: com.taptap.tds.common
+    version: 3.21.2
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.leancloud.storage
+    version: 1.0.2
+  - name: com.taptap.tds.login
+    version: 3.21.2
+  - name: com.leancloud.realtime
     version: 1.0.2
   keywords: []
   registry:

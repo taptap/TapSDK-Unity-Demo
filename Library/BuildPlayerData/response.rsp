@@ -42,6 +42,8 @@
 -a="/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PlayerScriptAssemblies/Unity.Services.Core.Device.dll"
 -a="/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PlayerScriptAssemblies/TapTap.Connect.Mobile.Runtime.dll"
 -a="/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PlayerScriptAssemblies/TapTap.Connect.Runtime.dll"
+-a="/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PlayerScriptAssemblies/TapTap.Payment.Mobile.Runtime.dll"
+-a="/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PlayerScriptAssemblies/TapTap.Payment.Runtime.dll"
 -a="/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/AOT/Newtonsoft.Json.dll"
 -a="/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.unity.testtools.codecoverage@1.0.1/lib/ReportGenerator/ReportGeneratorMerged.dll"
 -a="/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.leancloud.storage@beef2954fb/Plugins/Common.dll"

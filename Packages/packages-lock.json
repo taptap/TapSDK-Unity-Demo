@@ -116,6 +116,15 @@
       },
       "hash": "fd861212afd9be29454863afb6a5e7d8e35b5bc8"
     },
+    "com.taptap.tds.payment": {
+      "version": "https://github.com/TapTap/TapPayment-Unity.git#3.21.2",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.taptap.tds.bootstrap": "https://github.com/TapTap/TapBootstrap-Unity.git#3.21.2"
+      },
+      "hash": "4ed3fa586099295ba826997bb8d98505c91b421c"
+    },
     "com.taptap.tds.rtc": {
       "version": "https://github.com/TapTap/TapRTC-Unity.git#3.19.3",
       "depth": 0,

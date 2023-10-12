@@ -16,6 +16,7 @@ MERGED from [:com.UnityNative.Toasts-v1.0.4:] /Users/yuwenjian/.gradle/caches/tr
 MERGED from [:TapDB_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/85c6d911d4244b9e8fed53dfba4f56a8/TapDB_3.21.0/AndroidManifest.xml:2:1-33:12
 MERGED from [:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/24f041637b9d9509d807f4b5b3581be0/TapLogin_3.21.0/AndroidManifest.xml:2:1-29:12
 MERGED from [:TapLicense_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/aa90aaa3dc0d51df3f2ef4551adefa3f/TapLicense_3.21.0/AndroidManifest.xml:2:1-13:12
+MERGED from [:TapPayment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b5f2916155bd5f746d7499161b5e8937/TapPayment_3.21.0/AndroidManifest.xml:2:1-34:12
 MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-19:12
 INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
 INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
@@ -68,6 +69,8 @@ MERGED from [:TapDB_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-
 MERGED from [:TapDB_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/85c6d911d4244b9e8fed53dfba4f56a8/TapDB_3.21.0/AndroidManifest.xml:20:5-31:19
 MERGED from [:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/24f041637b9d9509d807f4b5b3581be0/TapLogin_3.21.0/AndroidManifest.xml:11:5-27:19
 MERGED from [:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/24f041637b9d9509d807f4b5b3581be0/TapLogin_3.21.0/AndroidManifest.xml:11:5-27:19
+MERGED from [:TapPayment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b5f2916155bd5f746d7499161b5e8937/TapPayment_3.21.0/AndroidManifest.xml:13:5-32:19
+MERGED from [:TapPayment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b5f2916155bd5f746d7499161b5e8937/TapPayment_3.21.0/AndroidManifest.xml:13:5-32:19
 	android:extractNativeLibs
 		ADDED from [:unityLibrary] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:33:18-50
 	android:label
@@ -106,6 +109,8 @@ MERGED from [:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/fil
 MERGED from [:TapLogin_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/24f041637b9d9509d807f4b5b3581be0/TapLogin_3.21.0/AndroidManifest.xml:7:5-9:41
 MERGED from [:TapLicense_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/aa90aaa3dc0d51df3f2ef4551adefa3f/TapLicense_3.21.0/AndroidManifest.xml:7:5-9:41
 MERGED from [:TapLicense_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/aa90aaa3dc0d51df3f2ef4551adefa3f/TapLicense_3.21.0/AndroidManifest.xml:7:5-9:41
+MERGED from [:TapPayment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b5f2916155bd5f746d7499161b5e8937/TapPayment_3.21.0/AndroidManifest.xml:5:5-7:41
+MERGED from [:TapPayment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b5f2916155bd5f746d7499161b5e8937/TapPayment_3.21.0/AndroidManifest.xml:5:5-7:41
 MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
 MERGED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
 INJECTED from /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
@@ -366,6 +371,52 @@ uses-permission#android.permission.REORDER_TASKS
 ADDED from [:TapLicense_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/aa90aaa3dc0d51df3f2ef4551adefa3f/TapLicense_3.21.0/AndroidManifest.xml:11:5-72
 	android:name
 		ADDED from [:TapLicense_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/aa90aaa3dc0d51df3f2ef4551adefa3f/TapLicense_3.21.0/AndroidManifest.xml:11:22-69
+queries
+ADDED from [:TapPayment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b5f2916155bd5f746d7499161b5e8937/TapPayment_3.21.0/AndroidManifest.xml:9:5-11:15
+package#com.tencent.mm
+ADDED from [:TapPayment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b5f2916155bd5f746d7499161b5e8937/TapPayment_3.21.0/AndroidManifest.xml:10:9-50
+	android:name
+		ADDED from [:TapPayment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b5f2916155bd5f746d7499161b5e8937/TapPayment_3.21.0/AndroidManifest.xml:10:18-47
+meta-data#com.tapsdk.payment.loader
+ADDED from [:TapPayment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b5f2916155bd5f746d7499161b5e8937/TapPayment_3.21.0/AndroidManifest.xml:14:9-16:36
+	android:value
+		ADDED from [:TapPayment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b5f2916155bd5f746d7499161b5e8937/TapPayment_3.21.0/AndroidManifest.xml:16:13-33
+	android:name
+		ADDED from [:TapPayment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b5f2916155bd5f746d7499161b5e8937/TapPayment_3.21.0/AndroidManifest.xml:15:13-53
+activity#com.tapsdk.payment.impl.alipay.AlipayTaskActivity
+ADDED from [:TapPayment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b5f2916155bd5f746d7499161b5e8937/TapPayment_3.21.0/AndroidManifest.xml:18:9-21:86
+	android:configChanges
+		ADDED from [:TapPayment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b5f2916155bd5f746d7499161b5e8937/TapPayment_3.21.0/AndroidManifest.xml:20:13-96
+	android:theme
+		ADDED from [:TapPayment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b5f2916155bd5f746d7499161b5e8937/TapPayment_3.21.0/AndroidManifest.xml:21:13-83
+	android:name
+		ADDED from [:TapPayment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b5f2916155bd5f746d7499161b5e8937/TapPayment_3.21.0/AndroidManifest.xml:19:13-77
+activity#com.tapsdk.payment.impl.wechat.WXPayEntryActivity
+ADDED from [:TapPayment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b5f2916155bd5f746d7499161b5e8937/TapPayment_3.21.0/AndroidManifest.xml:22:9-26:75
+	android:launchMode
+		ADDED from [:TapPayment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b5f2916155bd5f746d7499161b5e8937/TapPayment_3.21.0/AndroidManifest.xml:25:13-43
+	android:exported
+		ADDED from [:TapPayment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b5f2916155bd5f746d7499161b5e8937/TapPayment_3.21.0/AndroidManifest.xml:24:13-36
+	android:theme
+		ADDED from [:TapPayment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b5f2916155bd5f746d7499161b5e8937/TapPayment_3.21.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [:TapPayment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b5f2916155bd5f746d7499161b5e8937/TapPayment_3.21.0/AndroidManifest.xml:23:13-77
+activity-alias#${applicationId}.wxapi.WXPayEntryActivity
+ADDED from [:TapPayment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b5f2916155bd5f746d7499161b5e8937/TapPayment_3.21.0/AndroidManifest.xml:28:9-31:90
+	android:exported
+		ADDED from [:TapPayment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b5f2916155bd5f746d7499161b5e8937/TapPayment_3.21.0/AndroidManifest.xml:30:13-36
+	android:targetActivity
+		ADDED from [:TapPayment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b5f2916155bd5f746d7499161b5e8937/TapPayment_3.21.0/AndroidManifest.xml:31:13-87
+	android:name
+		ADDED from [:TapPayment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b5f2916155bd5f746d7499161b5e8937/TapPayment_3.21.0/AndroidManifest.xml:29:13-69
+activity-alias#com.tds.demo.wxapi.WXPayEntryActivity
+ADDED from [:TapPayment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b5f2916155bd5f746d7499161b5e8937/TapPayment_3.21.0/AndroidManifest.xml:28:9-31:90
+	android:exported
+		ADDED from [:TapPayment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b5f2916155bd5f746d7499161b5e8937/TapPayment_3.21.0/AndroidManifest.xml:30:13-36
+	android:targetActivity
+		ADDED from [:TapPayment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b5f2916155bd5f746d7499161b5e8937/TapPayment_3.21.0/AndroidManifest.xml:31:13-87
+	android:name
+		ADDED from [:TapPayment_3.21.0:] /Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b5f2916155bd5f746d7499161b5e8937/TapPayment_3.21.0/AndroidManifest.xml:29:13-69
 uses-permission#android.permission.RECORD_AUDIO
 ADDED from [:unityLibrary:Opensdk.plugin] /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/Opensdk.plugin/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-71
 	android:name
