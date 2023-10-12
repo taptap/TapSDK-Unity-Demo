@@ -59,6 +59,11 @@ public class MainScene : MonoBehaviour
                 .RegionType(RegionType.CN)  // 非必须，默认 CN 表示国内
                 .TapBillboardConfig(dimensionSet, templateType, billboardServerUrl)
                 .TapDBConfig(true, "gameChannel", "gameVersion", true)  // TapDB 会根据 TapConfig 的配置进行自动初始化
+                .TapPaymentConfig(
+                    "CN",                  
+                    "zh_CN",              
+                    "https://tds-payment.tapapis.cn"
+                )
                 .ConfigBuilder();
 
             TapBootstrap.Init(config);
@@ -208,6 +213,15 @@ public class MainScene : MonoBehaviour
 			UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(14);
 
 		}
+
+         btnTop += btnHeight + 20 * scale;
+
+		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "支付系统", style))
+		{
+
+            UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(15);
+
+        }
 
 
 

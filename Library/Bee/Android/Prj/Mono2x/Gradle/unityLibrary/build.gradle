@@ -14,6 +14,7 @@ dependencies {
     implementation(name: 'TapDB_3.21.0', ext:'aar')
     implementation(name: 'TapLogin_3.21.0', ext:'aar')
     implementation(name: 'TapLicense_3.21.0', ext:'aar')
+    implementation(name: 'TapPayment_3.21.0', ext:'aar')
     implementation project('Opensdk.plugin')
 
 }

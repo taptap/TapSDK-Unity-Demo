@@ -13,6 +13,7 @@ ScriptsOnlyBuild:
     - LoginScene
     - MainScene
     - MomentScene
+    - PayScene
     - RTCScene
     - StorageScene
     - TapDBScene
@@ -376,6 +377,35 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 114
       Script: {instanceID: 6034}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    Assets/Scenes/PayScene.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 31056}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -1575,6 +1605,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 559f599ae905e2061d8a97549ef4dcee
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PayScene
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
@@ -1592,4 +1628,5 @@ ScriptsOnlyBuild:
   - Assets/Scenes/FriendScene.unity
   - Assets/GiftScene.unity
   - Assets/Scenes/AwokenUpdateScene.unity
+  - Assets/Scenes/PayScene.unity
   playerPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Tds_demo.apk

@@ -50,4 +50,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/AwokenUpdateScene.unity
     guid: 6a828fb48b3d94742acc748735969aca
+  - enabled: 1
+    path: Assets/Scenes/PayScene.unity
+    guid: 2685ac03b37e049c1ada519044a4ee66
   m_configObjects: {}

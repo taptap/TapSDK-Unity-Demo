@@ -16,6 +16,7 @@
     "com.taptap.tds.rtc":"https://github.com/TapTap/TapRTC-Unity.git#3.19.3",
     "com.taptap.tds.friends": "https://github.com/TapTap/TapFriends-Unity.git#3.21.2",
     "com.taptap.tds.connect":"https://github.com/TapTap/TapConnect-Unity.git#3.21.0",
+    "com.taptap.tds.payment":"https://github.com/TapTap/TapPayment-Unity.git#3.21.2",
     "com.unity.collab-proxy": "1.17.1",
     "com.unity.feature.development": "1.0.1",
     "com.unity.ide.rider": "3.0.15",
