@@ -1,3 +1,5 @@
 *.meta
 Temp
 unity_ios_demo
+Library
+Logs

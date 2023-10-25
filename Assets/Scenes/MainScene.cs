@@ -223,6 +223,12 @@ public class MainScene : MonoBehaviour
 
         }
 
+        if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "DLC 内购", style))
+		{
+			UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(16);
+
+		}
+
 
 
     }

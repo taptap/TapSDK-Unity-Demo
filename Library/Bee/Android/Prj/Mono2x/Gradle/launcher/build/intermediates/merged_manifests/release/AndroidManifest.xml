@@ -37,10 +37,11 @@
         android:name="android.hardware.touchscreen.multitouch.distinct"
         android:required="false" />
 
+    <uses-permission android:name="android.permission.REORDER_TASKS" />
     <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-    <uses-permission android:name="android.permission.REORDER_TASKS" />
 
     <queries>
         <package android:name="com.tencent.mm" />
@@ -93,38 +94,9 @@
         <meta-data
             android:name="notch.config"
             android:value="portrait|landscape" />
-
-        <activity
-            android:name="com.tds.common.oauth.TapTapEntryActivity"
-            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
-            android:exported="false"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
-
-        <provider
-            android:name="com.tds.common.provider.CurrentConfigProvider"
-            android:authorities="com.tds.demo.tap_config.provider"
-            android:exported="false" />
-
         <meta-data
-            android:name="com.tapsdk.billboard.loader"
-            android:value="true" />
-        <meta-data
-            android:name="com.tapsdk.moment.loader"
-            android:value="true" />
-        <meta-data
-            android:name="com.tapsdk.tapconnect.loader"
-            android:value="true" />
-        <meta-data
-            android:name="com.tapsdk.achievement.loader"
-            android:value="true" />
-        <meta-data
-            android:name="com.tapsdk.tapdb.loader"
-            android:value="true" />
-
-        <provider
-            android:name="com.tds.tapdb.internal.device.DeviceProvider"
-            android:authorities="com.tds.demo.device.provider"
-            android:exported="false" />
+            android:name="com.tds.login.config.antiaddiction"
+            android:value="com.tapsdk.antiaddictionui.AntiAddictionUIKit" />
 
         <activity
             android:name="com.taptap.sdk.ui.TapTapActivity"
@@ -140,6 +112,35 @@
         <provider
             android:name="com.taptap.sdk.internal.user.CurrentUserProvider"
             android:authorities="com.tds.demo.tap_user.provider"
+            android:exported="false" />
+
+        <meta-data
+            android:name="com.tapsdk.tapconnect.loader"
+            android:value="true" />
+        <meta-data
+            android:name="com.tapsdk.moment.loader"
+            android:value="true" />
+        <meta-data
+            android:name="com.tapsdk.billboard.loader"
+            android:value="true" />
+        <meta-data
+            android:name="com.tapsdk.tapdb.loader"
+            android:value="true" />
+
+        <provider
+            android:name="com.tds.tapdb.internal.device.DeviceProvider"
+            android:authorities="com.tds.demo.device.provider"
+            android:exported="false" />
+
+        <activity
+            android:name="com.tds.common.oauth.TapTapEntryActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+
+        <provider
+            android:name="com.tds.common.provider.CurrentConfigProvider"
+            android:authorities="com.tds.demo.tap_config.provider"
             android:exported="false" />
 
         <meta-data
@@ -160,6 +161,10 @@
             android:name="com.tds.demo.wxapi.WXPayEntryActivity"
             android:exported="true"
             android:targetActivity="com.tapsdk.payment.impl.wechat.WXPayEntryActivity" />
+
+        <meta-data
+            android:name="com.tapsdk.achievement.loader"
+            android:value="true" />
     </application>
 
 </manifest>

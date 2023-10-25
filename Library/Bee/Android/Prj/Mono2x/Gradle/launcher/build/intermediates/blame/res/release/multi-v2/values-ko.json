@@ -4,6 +4,16 @@
             "outputFile": "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ko/values-ko.xml",
             "map": [
                 {
+                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/090861b50b3503ad1793c0438dd7c171/TapAchievement_3.23.0/res/values-ko/values-ko.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,300,384,465,524,575,650,707,763,829,888",
+                        "endColumns": "69,83,90,83,80,58,50,74,56,55,65,58,51",
+                        "endOffsets": "120,204,295,379,460,519,570,645,702,758,824,883,935"
+                    }
+                },
+                {
                     "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/0955f7f1c57b4ede15b641d7a337e3e0/TapConnect_3.21.0/res/values-ko/values-ko.xml",
                     "from": {
                         "startLines": "2,3,4,5,6",
@@ -13,72 +23,79 @@
                         "endOffsets": "109,168,225,278,355"
                     },
                     "to": {
-                        "startLines": "21,22,23,24,25",
+                        "startLines": "40,41,42,43,44",
                         "startColumns": "4,4,4,4,4",
-                        "startOffsets": "1209,1268,1327,1384,1437",
+                        "startOffsets": "2665,2724,2783,2840,2893",
                         "endColumns": "58,58,56,52,76",
-                        "endOffsets": "1263,1322,1379,1432,1509"
+                        "endOffsets": "2719,2778,2835,2888,2965"
                     }
                 },
                 {
-                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/560827bfb27405687e6e687a508e5a02/TapBillboard_3.21.0/res/values-ko/values-ko.xml",
+                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/508a47cbb2fbe733c34f65fec81d109f/TapBillboard_3.23.0/res/values-ko/values-ko.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
                         "startOffsets": "55,107",
                         "endColumns": "51,86",
                         "endOffsets": "102,189"
-                    }
-                },
-                {
-                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b7c2324ab606a92d6be6abc8fee96e7d/TapAchievement_3.21.0/res/values-ko/values-ko.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,136,231,333,428,520,590,652,738,806,873,950,1020",
-                        "endColumns": "80,94,101,94,91,69,61,85,67,66,76,69,62",
-                        "endOffsets": "131,226,328,423,515,585,647,733,801,868,945,1015,1078"
                     },
                     "to": {
-                        "startLines": "31,32,33,34,35,36,37,38,39,40,41,42,43",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "1914,1995,2090,2192,2287,2379,2449,2511,2597,2665,2732,2809,2879",
-                        "endColumns": "80,94,101,94,91,69,61,85,67,66,76,69,62",
-                        "endOffsets": "1990,2085,2187,2282,2374,2444,2506,2592,2660,2727,2804,2874,2937"
+                        "startLines": "15,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "940,992",
+                        "endColumns": "51,86",
+                        "endOffsets": "987,1074"
                     }
                 },
                 {
-                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/aa90aaa3dc0d51df3f2ef4551adefa3f/TapLicense_3.21.0/res/values-ko/values-ko.xml",
+                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/50439082c7899bc4fb4e1896a0a80130/TapLogin_3.23.0/res/values-ko/values-ko.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "64",
+                        "endOffsets": "115"
+                    },
+                    "to": {
+                        "startLines": "25",
+                        "startColumns": "4",
+                        "startOffsets": "1667",
+                        "endColumns": "64",
+                        "endOffsets": "1727"
+                    }
+                },
+                {
+                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/0e0a0c3bee52905f2de039a40532cd05/TapLicense_3.23.0/res/values-ko/values-ko.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,113,173,235,342,428,501,571",
-                        "endColumns": "57,59,61,106,85,72,69,63",
-                        "endOffsets": "108,168,230,337,423,496,566,630"
+                        "startOffsets": "55,163,250,317,383,451,521,585",
+                        "endColumns": "107,86,66,65,67,69,63,57",
+                        "endOffsets": "158,245,312,378,446,516,580,638"
                     },
                     "to": {
-                        "startLines": "5,6,7,26,27,28,29,30",
+                        "startLines": "17,18,19,20,21,22,23,24",
                         "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "239,297,357,1514,1621,1707,1780,1850",
-                        "endColumns": "57,59,61,106,85,72,69,63",
-                        "endOffsets": "292,352,414,1616,1702,1775,1845,1909"
+                        "startOffsets": "1079,1187,1274,1341,1407,1475,1545,1609",
+                        "endColumns": "107,86,66,65,67,69,63,57",
+                        "endOffsets": "1182,1269,1336,1402,1470,1540,1604,1662"
                     }
                 },
                 {
-                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/49dc8ba7ee95b39d878917c0d7476873/TapMoment_3.21.0/res/values-ko/values-ko.xml",
+                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/155bdde375dbfcb541d816baa152747c/TapMoment_3.23.0/res/values-ko/values-ko.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,100,146,201,244,322,379,479,541,600,703,754,798,843",
-                        "endColumns": "44,45,54,42,77,56,99,61,58,102,50,43,44,46",
-                        "endOffsets": "95,141,196,239,317,374,474,536,595,698,749,793,838,885"
+                        "startOffsets": "55,107,160,222,272,357,421,528,597,663,773,831,882,934",
+                        "endColumns": "51,52,61,49,84,63,106,68,65,109,57,50,51,53",
+                        "endOffsets": "102,155,217,267,352,416,523,592,658,768,826,877,929,983"
                     },
                     "to": {
-                        "startLines": "4,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startLines": "26,27,28,29,30,31,32,33,34,35,36,37,38,39",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "194,419,465,520,563,641,698,798,860,919,1022,1073,1117,1162",
-                        "endColumns": "44,45,54,42,77,56,99,61,58,102,50,43,44,46",
-                        "endOffsets": "234,460,515,558,636,693,793,855,914,1017,1068,1112,1157,1204"
+                        "startOffsets": "1732,1784,1837,1899,1949,2034,2098,2205,2274,2340,2450,2508,2559,2611",
+                        "endColumns": "51,52,61,49,84,63,106,68,65,109,57,50,51,53",
+                        "endOffsets": "1779,1832,1894,1944,2029,2093,2200,2269,2335,2445,2503,2554,2606,2660"
                     }
                 }
             ]

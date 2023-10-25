@@ -106,7 +106,7 @@ public class AntiaddictionScene : MonoBehaviour
 		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "快速认证", style))
 		{
             string userIdentifier = "Player_unique_Identifier11289";
-            AntiAddictionUIKit.Startup(userIdentifier,true);
+            AntiAddictionUIKit.StartupWithTapTap(userIdentifier);
         }
 
          if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "登出", style))
@@ -116,8 +116,8 @@ public class AntiaddictionScene : MonoBehaviour
          btnTop += btnHeight + 20 * scale;
         if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "获取玩家年龄段", style))
 		{
-            int ageRange = AntiAddictionUIKit.AgeRange;
-            UnityNativeToastsHelper.ShowShortText($"玩家年龄段:{ageRange}");
+            
+             UnityNativeToastsHelper.ShowShortText("接口已移除");
 
         }
 
