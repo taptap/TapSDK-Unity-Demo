@@ -17,13 +17,14 @@ ScriptsOnlyBuild:
     - RTCScene
     - StorageScene
     - TapDBScene
+    - TdsDLCScene
     TapTap.Achievement.Standalone.Runtime.dll:
     - TapTap.Achievement.Standalone.TapAchievementDetailPanel
     - TapTap.Achievement.Standalone.TapAchievementItem
     - TapTap.Achievement.Standalone.TapAchievementPanel
     - TapTap.Achievement.Standalone.TapAchievementToast
     TapTap.AntiAddiction.dll:
-    - TapTap.AntiAddiction.Internal.TapTapChinaVerifyFinishPanelController
+    - TapTap.AntiAddiction.Internal.TapTapAntiAddictionQuickVerifyTipController
     - TapTap.AntiAddiction.Internal.TaptapAntiAddictionHealthPaymentController
     - TapTap.AntiAddiction.Internal.TaptapAntiAddictionHealthReminderController
     - TapTap.AntiAddiction.Internal.TaptapAntiAddictionIDInputController
@@ -33,7 +34,10 @@ ScriptsOnlyBuild:
     - TapTap.UI.AillieoTech.ScrollViewEx
     - TapTap.UI.GraphicRaycasterBugFixed
     - TapTap.UI.LoadingPanelController
-    - TapTap.UI.ToastPanelController
+    - TapTap.UI.ToastBlackPanelController
+    - TapTap.UI.ToastWhitePanelController
+    TapTap.Login.Standalone.Runtime.dll:
+    - TapTap.Login.Internal.ClientButtonListener
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     UnityEditor.TestRunner.dll:
@@ -52,8 +56,10 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Mask
     - UnityEngine.UI.RawImage
     - UnityEngine.UI.ScrollRect
+    - UnityEngine.UI.Shadow
     - UnityEngine.UI.Text
     - UnityEngine.UI.Toggle
+    - UnityEngine.UI.ToggleGroup
     - UnityEngine.UI.VerticalLayoutGroup
   serializedClasses:
     TapTap.Common.Runtime:
@@ -98,7 +104,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9050}
+      Script: {instanceID: 18752}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -127,7 +133,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 3318}
+      Script: {instanceID: 13114}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -156,7 +162,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 2766}
+      Script: {instanceID: 12578}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -185,7 +191,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 5374}
+      Script: {instanceID: 15116}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -214,7 +220,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 8898}
+      Script: {instanceID: 18602}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -243,7 +249,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 6576}
+      Script: {instanceID: 16298}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -272,7 +278,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 6830}
+      Script: {instanceID: 16556}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -301,7 +307,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 7772}
+      Script: {instanceID: 17496}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -330,7 +336,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 6532}
+      Script: {instanceID: 16256}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -353,7 +359,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 4756}
+      Script: {instanceID: 14506}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -376,7 +382,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 6034}
+      Script: {instanceID: 15764}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -405,7 +411,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 31056}
+      Script: {instanceID: 11488}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -434,7 +440,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 3756}
+      Script: {instanceID: 13536}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -469,63 +475,71 @@ ScriptsOnlyBuild:
     - Class: 111
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1622}
+      Script: {instanceID: 11512}
     - Class: 114
-      Script: {instanceID: 1624}
+      Script: {instanceID: 11594}
     - Class: 114
-      Script: {instanceID: 1626}
+      Script: {instanceID: 11730}
     - Class: 114
-      Script: {instanceID: 1628}
+      Script: {instanceID: 11748}
     - Class: 114
-      Script: {instanceID: 1630}
+      Script: {instanceID: 12324}
     - Class: 114
-      Script: {instanceID: 1760}
+      Script: {instanceID: 12412}
     - Class: 114
-      Script: {instanceID: 1914}
+      Script: {instanceID: 12820}
     - Class: 114
-      Script: {instanceID: 2504}
+      Script: {instanceID: 12888}
     - Class: 114
-      Script: {instanceID: 2592}
+      Script: {instanceID: 12942}
     - Class: 114
-      Script: {instanceID: 3020}
+      Script: {instanceID: 13194}
     - Class: 114
-      Script: {instanceID: 3088}
+      Script: {instanceID: 13212}
     - Class: 114
-      Script: {instanceID: 3144}
+      Script: {instanceID: 13410}
     - Class: 114
-      Script: {instanceID: 3420}
+      Script: {instanceID: 14034}
     - Class: 114
-      Script: {instanceID: 3620}
+      Script: {instanceID: 14104}
     - Class: 114
-      Script: {instanceID: 4266}
+      Script: {instanceID: 14592}
     - Class: 114
-      Script: {instanceID: 4336}
+      Script: {instanceID: 15096}
     - Class: 114
-      Script: {instanceID: 4410}
+      Script: {instanceID: 15348}
     - Class: 114
-      Script: {instanceID: 4844}
+      Script: {instanceID: 15420}
     - Class: 114
-      Script: {instanceID: 5354}
+      Script: {instanceID: 15822}
     - Class: 114
-      Script: {instanceID: 5684}
+      Script: {instanceID: 16186}
     - Class: 114
-      Script: {instanceID: 6700}
+      Script: {instanceID: 16426}
     - Class: 114
-      Script: {instanceID: 7048}
+      Script: {instanceID: 16774}
     - Class: 114
-      Script: {instanceID: 7142}
+      Script: {instanceID: 16866}
     - Class: 114
-      Script: {instanceID: 7190}
+      Script: {instanceID: 16914}
     - Class: 114
-      Script: {instanceID: 7504}
+      Script: {instanceID: 17226}
     - Class: 114
-      Script: {instanceID: 7816}
+      Script: {instanceID: 17542}
     - Class: 114
-      Script: {instanceID: 7894}
+      Script: {instanceID: 17616}
     - Class: 114
-      Script: {instanceID: 8242}
+      Script: {instanceID: 17956}
     - Class: 114
-      Script: {instanceID: 9066}
+      Script: {instanceID: 17970}
+    - Class: 114
+      Script: {instanceID: 18768}
+    - Class: 114
+      Script: {instanceID: 42774}
+    - Class: 114
+      Script: {instanceID: 44328}
+    - Class: 114
+      Script: {instanceID: 44334}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -566,7 +580,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 5828}
+      Script: {instanceID: 15560}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -595,7 +609,36 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 5664}
+      Script: {instanceID: 15400}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    Assets/Scenes/TdsDLCScene.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 47716}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -605,40 +648,22 @@ ScriptsOnlyBuild:
   scriptHashData:
   - hash:
       serializedVersion: 2
-      Hash: bcaee4c2a83047257b5f47d6ed264b75
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: UnityEngine.UI.dll
-    namespaceName: UnityEngine.UI
-    className: Toggle
+    namespaceName: UnityEngine.UIElements
+    className: PanelRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 559f599ae905e2061d8a97549ef4dcee
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PayScene
   - hash:
       serializedVersion: 2
       Hash: a6e561615949734e9f12f9b61661f43e
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: Image
-  - hash:
-      serializedVersion: 2
-      Hash: 699619b86d9359741a4f58540298c80b
-    assemblyName: UnityEngine.UI.dll
-    namespaceName: UnityEngine.UI
-    className: Text
-  - hash:
-      serializedVersion: 2
-      Hash: 040dd48e3a027d5424519a5fa2009df4
-    assemblyName: UnityEngine.UI.dll
-    namespaceName: UnityEngine.UI
-    className: ScrollRect
-  - hash:
-      serializedVersion: 2
-      Hash: a1aa98c78061c6f03a8c124cda576e67
-    assemblyName: UnityEngine.UI.dll
-    namespaceName: UnityEngine.UI
-    className: CanvasScaler
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: UnityEngine.UI.dll
-    namespaceName: UnityEngine.UIElements
-    className: PanelRaycaster
   - hash:
       serializedVersion: 2
       Hash: 7ae8cd48c89027257f70cfc95b4d4495
@@ -1097,10 +1122,10 @@ ScriptsOnlyBuild:
     className: TMP_SubMeshUI
   - hash:
       serializedVersion: 2
-      Hash: 5f4d11df1ce84741c9910bbb132b16ca
+      Hash: 0b4fb64d42ab2b1bc0951632b1470bc5
     assemblyName: TapTap.Common.Runtime.dll
     namespaceName: TapTap.UI
-    className: ToastPanelController
+    className: ToastBlackPanelController
   - hash:
       serializedVersion: 2
       Hash: fd68d84f33fad85aac38f2739c0ee270
@@ -1181,6 +1206,12 @@ ScriptsOnlyBuild:
     className: TMP_InputField
   - hash:
       serializedVersion: 2
+      Hash: bcaee4c2a83047257b5f47d6ed264b75
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Toggle
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
@@ -1253,10 +1284,22 @@ ScriptsOnlyBuild:
     className: UnityOnDeselectMessageListener
   - hash:
       serializedVersion: 2
+      Hash: 699619b86d9359741a4f58540298c80b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Text
+  - hash:
+      serializedVersion: 2
       Hash: 2574ac7d50617d23cdefe4ad22f5e1ad
     assemblyName: Unity.VisualScripting.State.dll
     namespaceName: Unity.VisualScripting
     className: StateGraphAsset
+  - hash:
+      serializedVersion: 2
+      Hash: a1aa98c78061c6f03a8c124cda576e67
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: CanvasScaler
   - hash:
       serializedVersion: 2
       Hash: 1fbfc8f5d9759ad810c770cd2bab537a
@@ -1349,7 +1392,7 @@ ScriptsOnlyBuild:
     className: BeforeAfterTestCommandState
   - hash:
       serializedVersion: 2
-      Hash: e348d75344259615226ba40242851d10
+      Hash: c115019d415316e56ba2f1058f658adf
     assemblyName: TapTap.AntiAddiction.dll
     namespaceName: TapTap.AntiAddiction.Internal
     className: TaptapAntiAddictionIDInputController
@@ -1523,6 +1566,12 @@ ScriptsOnlyBuild:
     className: TaptapAntiAddictionHealthPaymentController
   - hash:
       serializedVersion: 2
+      Hash: 040dd48e3a027d5424519a5fa2009df4
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ScrollRect
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
@@ -1607,10 +1656,28 @@ ScriptsOnlyBuild:
     className: UnityOnSliderValueChangedMessageListener
   - hash:
       serializedVersion: 2
-      Hash: 559f599ae905e2061d8a97549ef4dcee
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: TapTap.Login.Standalone.Runtime.dll
+    namespaceName: TapTap.Login.Internal
+    className: ClientButtonListener
+  - hash:
+      serializedVersion: 2
+      Hash: 788cc6b8d8621f7bf35601f782e0a70a
+    assemblyName: TapTap.Common.Runtime.dll
+    namespaceName: TapTap.UI
+    className: ToastWhitePanelController
+  - hash:
+      serializedVersion: 2
+      Hash: 6cf72022ab9928b14479928ef72b719d
+    assemblyName: TapTap.AntiAddiction.dll
+    namespaceName: TapTap.AntiAddiction.Internal
+    className: TapTapAntiAddictionQuickVerifyTipController
+  - hash:
+      serializedVersion: 2
+      Hash: 1fbfc8f5d9759ad810c770cd2bab537a
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: PayScene
+    className: TdsDLCScene
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
@@ -1629,4 +1696,5 @@ ScriptsOnlyBuild:
   - Assets/GiftScene.unity
   - Assets/Scenes/AwokenUpdateScene.unity
   - Assets/Scenes/PayScene.unity
+  - Assets/Scenes/TdsDLCScene.unity
   playerPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Tds_demo.apk

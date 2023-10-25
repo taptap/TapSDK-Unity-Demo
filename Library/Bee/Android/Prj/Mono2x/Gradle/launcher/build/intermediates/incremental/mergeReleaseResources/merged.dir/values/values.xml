@@ -61,32 +61,52 @@
     <string name="FreeformWindowSize_maximize"/>
     <string name="FreeformWindowSize_phone"/>
     <string name="FreeformWindowSize_tablet"/>
+    <string name="achievement_dialog_earned_date">- %s 获得 -</string>
+    <string name="achievement_dialog_percent">"有%.1f%%的玩家达成此项成就"</string>
+    <string name="achievement_dialog_percent_low">"只有不到0.1%的玩家达成此项成就"</string>
+    <string name="achievement_dialog_status">已解锁%1$s项成就，共%2$s项成就</string>
+    <string name="achievement_invisible_subtitle">继续玩下去就会知道了</string>
+    <string name="achievement_invisible_title">隐藏</string>
+    <string name="achievement_locked">未解锁</string>
+    <string name="achievement_pop_title">恭喜解锁新成就！</string>
+    <string name="achievement_rarity_common">普通</string>
+    <string name="achievement_rarity_rare">珍贵</string>
+    <string name="achievement_rarity_ultra_rare">极为珍贵</string>
+    <string name="achievement_rarity_uncommon">稀有</string>
+    <string name="achievement_unlocked">已解锁</string>
     <string name="antiaddictionui_dialog_tap_authorization_title" translatable="false">TapTap 快速认证服务</string>
     <string name="antiaddictionui_fetch_realname_fail" translatable="false">未查询到实名状态，防沉迷启动失败</string>
     <string name="antiaddictionui_network_error" translatable="false">网络异常，请稍后重试</string>
+    <string name="antiaddictionui_realname_success">您已在 TapTap 实名！</string>
     <string name="antiaddictionui_retry" translatable="false">重试</string>
     <string name="antiaddictionui_return_game">返回游戏</string>
     <string name="app_name">Tds-unity-demo</string>
     <string name="billboard_loading">加载中…</string>
     <string name="billboard_network_error_retry">页面加载失败，点击重试</string>
-    <string name="dialog_cancel">Cancel</string>
-    <string name="dialog_choose_tap_cn">TapTap中国</string>
-    <string name="dialog_choose_tap_global">TapTap</string>
-    <string name="dialog_choose_title">选择以下应用程序打开</string>
-    <string name="dialog_confirm">Confirm</string>
-    <string name="dialog_content">Go back to the game.</string>
-    <string name="dialog_title">Attention</string>
     <string name="game_view_content_description">Game view</string>
-    <string name="load_fail_hint">Loading failed. Try again.</string>
-    <string name="permission_intent_confirm">Allow</string>
-    <string name="permission_intent_reason">Allow the game to access your album so you can save or upload videos/images.</string>
-    <string name="permission_intent_title">Access to media</string>
-    <string name="permission_tip_confirm">Go to settings</string>
-    <string name="permission_tip_reason">Failed to access images/videos. Please go to Settings to allow access to the camera first.</string>
-    <string name="permission_tip_title">Attention</string>
-    <string name="save_fail">Saving Failed</string>
-    <string name="save_image">Save Image</string>
-    <string name="save_success">Saved</string>
+    <string name="license_alert_download_taptap">本游戏需要最新版TapTap服务支持，请下载最新版本TapTap</string>
+    <string name="license_alert_license_no">游戏未激活，请前往TapTap购买此游戏</string>
+    <string name="license_checking_license">正在查询购买信息...</string>
+    <string name="license_dialog_choose_tap_cn">TapTap中国</string>
+    <string name="license_dialog_choose_tap_global">TapTap</string>
+    <string name="license_dialog_choose_title">选择以下应用程序打开</string>
+    <string name="license_download_taptap">下载TapTap</string>
+    <string name="license_open_taptap">打开TapTap</string>
+    <string name="login_account_logged_tip">已登录账号：%s</string>
+    <string name="moment_dialog_cancel">Cancel</string>
+    <string name="moment_dialog_confirm">Confirm</string>
+    <string name="moment_dialog_content">Go back to the game.</string>
+    <string name="moment_dialog_title">Attention</string>
+    <string name="moment_load_fail_hint">Loading failed. Try again.</string>
+    <string name="moment_permission_intent_confirm">Allow</string>
+    <string name="moment_permission_intent_reason">Allow the game to access your album so you can save or upload videos/images.</string>
+    <string name="moment_permission_intent_title">Access to media</string>
+    <string name="moment_permission_tip_confirm">Go to settings</string>
+    <string name="moment_permission_tip_reason">Failed to access images/videos. Please go to Settings to allow access to the camera first.</string>
+    <string name="moment_permission_tip_title">Attention</string>
+    <string name="moment_save_fail">Saving Failed</string>
+    <string name="moment_save_image">Save Image</string>
+    <string name="moment_save_success">Saved</string>
     <string name="tap_connect_copy_success">复制成功</string>
     <string name="tap_connect_fun_moment">游戏动态</string>
     <string name="tap_connect_fun_review">评价游戏</string>
@@ -107,24 +127,6 @@
     <string name="tappayment_pay_error">支付失败</string>
     <string name="tappayment_show_more_payment_channel">其他支付方式</string>
     <string name="tappayment_wechat_not_installed">未安装微信应用无法支付</string>
-    <string name="taptap_alert_download_taptap">本游戏需要最新版TapTap服务支持，请下载最新版本TapTap</string>
-    <string name="taptap_alert_license_no">游戏未激活，请前往TapTap购买此游戏</string>
-    <string name="taptap_string_checking_license">正在查询购买信息...</string>
-    <string name="taptap_string_download_taptap">下载TapTap</string>
-    <string name="taptap_string_open_taptap">打开TapTap</string>
-    <string name="tds_achievement_string_dialog_earned_date">- Accomplished on %s -</string>
-    <string name="tds_achievement_string_dialog_percent">\'%.1f%% of players have this\'</string>
-    <string name="tds_achievement_string_dialog_percent_low">\'Fewer than 0.1% of players have achieved this\'</string>
-    <string name="tds_achievement_string_dialog_status">%1$s/%2$s Achievements</string>
-    <string name="tds_achievement_string_invisible_subtitle">Keep playing to find out</string>
-    <string name="tds_achievement_string_invisible_title">Hidden</string>
-    <string name="tds_achievement_string_locked">LOCKED</string>
-    <string name="tds_achievement_string_pop_title">Achievement unlocked!</string>
-    <string name="tds_achievement_string_rarity_common">Common</string>
-    <string name="tds_achievement_string_rarity_rare">Super Rare</string>
-    <string name="tds_achievement_string_rarity_ultra_rare">Ultra Rare</string>
-    <string name="tds_achievement_string_rarity_uncommon">Rare</string>
-    <string name="tds_achievement_string_unlocked">UNLOCKED</string>
     <style name="AlertDialogStyle" parent="@android:style/Theme.Dialog">
         <item name="android:windowBackground">@android:color/transparent</item>
         <item name="android:windowNoTitle">true</item>
@@ -208,5 +210,9 @@
         <item name="android:windowBackground">@android:color/transparent</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="tds_common_tap_toast">
+        <item name="android:windowEnterAnimation">@anim/tds_common_tap_toast_enter</item>
+        <item name="android:windowExitAnimation">@anim/tds_common_tap_toast_exit</item>
     </style>
 </resources>

@@ -3,42 +3,58 @@
 
 library {
   maven_library {
-    artifactId: "TapCommon_3.18.5"
+    artifactId: "TapCommon_3.21.0"
   }
   digests {
-    sha256: "\355\177\310\vlk=\370\311S\315\n\242\341\331\310\350\026\360pE\350\320\372\313}OB\275\210d\365"
+    sha256: "\363\216\370\262\243)W\230n\245\000^p\004\221\v\366\313W0h\345Q\370\236\\$]ia\325 "
   }
 }
 library {
   maven_library {
-    artifactId: "TapLogin_3.18.5"
+    artifactId: "TapBillboard_3.21.0"
   }
   digests {
-    sha256: "\213(\264\311#\032F\254\345\277\365\033eD\262\371\033\310j\276/\2123\a\332\\\217)\251\207\232\365"
+    sha256: "\025\212\207\263\377\240SxBu\023U&`\354\234\264Iu\332\246\266\330\236D\326+T\363\'\276K"
   }
 }
 library {
   maven_library {
-    artifactId: "TapBillboard_3.18.5"
+    artifactId: "AntiAddictionUI_3.21.0"
   }
   digests {
-    sha256: "\302%hK\333\365j\334\333\210l\236\203\241\206\'\260Z?\372/\237\254\230\030\251\304\342\347S\351\022"
+    sha256: "\232\207\235\351\036\346\032%\'\006Y\222\003M7d\203\024\326a\200m\323zY\212UN/]\235f"
   }
 }
 library {
   maven_library {
-    artifactId: "TapAchievement_3.18.5"
+    artifactId: "TapMoment_3.21.0"
   }
   digests {
-    sha256: "2\345\207\033\247B\341\331d\337g\v\322\354\fy\372\376|p\025\341\244\241\032}\340\261\303\203\353\312"
+    sha256: "\005w\322\303;\337\006\263#-\217\223Ws\003\313\226\245\347]\022\017/\240\260^\262,\000\344V\240"
   }
 }
 library {
   maven_library {
-    artifactId: "AntiAddiction_3.18.5"
+    artifactId: "TapConnect_3.21.0"
   }
   digests {
-    sha256: "j\375\343\035,\243\207K\324>\232\370\037\r\210\035y\253\302\360p\315#;)\002\330\207\3634\234\351"
+    sha256: "\303?\207\272g\314\033+\226B_\241\253\314WKKk\212,`\301\260\345D\270 ~\361\203\034\230"
+  }
+}
+library {
+  maven_library {
+    artifactId: "AntiAddiction_3.21.0"
+  }
+  digests {
+    sha256: "R3\275\203\253\200\323\201\250 \366\240o\340\3646@\235O{Yz\216\272G~qIIF\345\177"
+  }
+}
+library {
+  maven_library {
+    artifactId: "TapAchievement_3.21.0"
+  }
+  digests {
+    sha256: "=\311P@2\331\237\364\"\206\220\3574v\233\341\200\352\0047\022\372\032\350\'*\307]Za8p"
   }
 }
 library {
@@ -51,34 +67,34 @@ library {
 }
 library {
   maven_library {
-    artifactId: "TapLicense_3.18.5"
+    artifactId: "TapDB_3.21.0"
   }
   digests {
-    sha256: "\227\3153\206\214 \357\265qj\'|\002.$e\021\243\204\205\333\211\341r\022\251iBv^3g"
+    sha256: "\261\345%J\207\250\210\341\331\377\351\333\226|\307u\240\356~\266\335\232\341\212\301F\374\3466\\J\216"
   }
 }
 library {
   maven_library {
-    artifactId: "TapDB_3.18.5"
+    artifactId: "TapLogin_3.21.0"
   }
   digests {
-    sha256: "q\374\247\323l\233\255\270F\000y7[\n\370\206\343H?\336\211\\\3104]s\306\362\305\212\034\310"
+    sha256: "m-G\213u\016\312\365b@\034\322}\302\276\260F\315\266q\377UK\265B\314\\\031\354\364\337\363"
   }
 }
 library {
   maven_library {
-    artifactId: "TapMoment_3.18.5"
+    artifactId: "TapLicense_3.21.0"
   }
   digests {
-    sha256: "%X\023DRw4ak\323\347\004N9g\333X\n\"\342\251R*\201 \222\233\273\n\003!3"
+    sha256: "\v|\211\275\243\a \n\037i\373\307\232E\326\346\\\351H\346\211\3400OT\302\"\250\317\237\254\021"
   }
 }
 library {
   maven_library {
-    artifactId: "AntiAddictionUI_3.18.5"
+    artifactId: "TapPayment_3.21.0"
   }
   digests {
-    sha256: "\036\314\265\024\246\201\251\321<|dq\334\030\300\373\005\316\370\241\343\236.\266\375\313\204|\2440~\353"
+    sha256: "\350\267\374\023\033\r\205\212D$\336\260\344\234\301\351\344\253\256= \273\3774\204X&\231\017;\253q"
   }
 }
 library {
@@ -126,8 +142,14 @@ library_dependencies {
 library_dependencies {
   library_index: 11
 }
+library_dependencies {
+  library_index: 12
+}
+library_dependencies {
+  library_index: 13
+}
 module_dependencies {
   module_name: "base"
-  dependency_index: 10
-  dependency_index: 11
+  dependency_index: 12
+  dependency_index: 13
 }
