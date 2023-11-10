@@ -15,6 +15,11 @@
     <string name="achievement_unlocked">UNLOCKED</string>
     <string name="billboard_loading">Loading…</string>
     <string name="billboard_network_error_retry">Loading failed. Please try again.</string>
+    <string name="connect_copy_success">Copied</string>
+    <string name="connect_fun_moment">Game updates</string>
+    <string name="connect_fun_review">Review the game</string>
+    <string name="connect_fun_share">Share</string>
+    <string name="connect_share_url_tip">Link copied. Share it with your friends!</string>
     <string name="license_alert_download_taptap">This game requires the latest TapTap service support, please download the latest TapTap version</string>
     <string name="license_alert_license_no">Game not activated, please buy this game from TapTap</string>
     <string name="license_checking_license">Checking purchase information...</string>
@@ -38,9 +43,4 @@
     <string name="moment_save_fail">Saving Failed</string>
     <string name="moment_save_image">Save Image</string>
     <string name="moment_save_success">Saved</string>
-    <string name="tap_connect_copy_success">Copied</string>
-    <string name="tap_connect_fun_moment">Game updates</string>
-    <string name="tap_connect_fun_review">Review the game</string>
-    <string name="tap_connect_fun_share">Share</string>
-    <string name="tap_connect_share_url_tip">Link copied. Share it with your friends!</string>
 </resources>

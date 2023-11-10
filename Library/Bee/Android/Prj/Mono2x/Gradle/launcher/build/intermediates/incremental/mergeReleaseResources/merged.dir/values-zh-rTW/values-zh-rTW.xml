@@ -15,6 +15,11 @@
     <string name="achievement_unlocked">已解鎖</string>
     <string name="billboard_loading">載入中…</string>
     <string name="billboard_network_error_retry">頁面載入失敗，點擊重試</string>
+    <string name="connect_copy_success">已複製</string>
+    <string name="connect_fun_moment">遊戲最新消息</string>
+    <string name="connect_fun_review">評價遊戲</string>
+    <string name="connect_fun_share">分享</string>
+    <string name="connect_share_url_tip">已複製連結，快與好友分享吧！</string>
     <string name="license_alert_download_taptap">本遊戲需要最新版TapTap app方能遊玩，請下載最新版本TapTap</string>
     <string name="license_alert_license_no">遊戲尚未啟動，請前往TapTap購買此遊戲</string>
     <string name="license_checking_license">正在查詢購買資訊...</string>
@@ -24,6 +29,7 @@
     <string name="license_download_taptap">下載TapTap</string>
     <string name="license_open_taptap">開啟TapTap</string>
     <string name="login_account_logged_tip">已登入帳號：%s</string>
+    <string name="moment_browser_load_failed_message">頁面加載失敗，點擊重試</string>
     <string name="moment_dialog_cancel">取消</string>
     <string name="moment_dialog_confirm">確定</string>
     <string name="moment_dialog_content">返回遊戲。</string>
@@ -38,9 +44,6 @@
     <string name="moment_save_fail">保存失敗</string>
     <string name="moment_save_image">保存圖片</string>
     <string name="moment_save_success">保存成功</string>
-    <string name="tap_connect_copy_success">已複製</string>
-    <string name="tap_connect_fun_moment">遊戲最新消息</string>
-    <string name="tap_connect_fun_review">評價遊戲</string>
-    <string name="tap_connect_fun_share">分享</string>
-    <string name="tap_connect_share_url_tip">已複製連結，快與好友分享吧！</string>
+    <string name="moment_security_jump_alert_message">您將離開 TapTap 並跳轉到外部瀏覽器訪問鏈接：%s 可能有風險，請謹慎識別。</string>
+    <string name="moment_security_jump_alert_title">確認造訪該連結</string>
 </resources>

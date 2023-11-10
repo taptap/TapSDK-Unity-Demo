@@ -105,7 +105,7 @@ public class AntiaddictionScene : MonoBehaviour
         btnTop += btnHeight + 20 * scale;
 		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "快速认证", style))
 		{
-            string userIdentifier = "Player_unique_Identifier11289";
+            string userIdentifier = "Player_unique_Identifier112899999";
             AntiAddictionUIKit.StartupWithTapTap(userIdentifier);
         }
 
