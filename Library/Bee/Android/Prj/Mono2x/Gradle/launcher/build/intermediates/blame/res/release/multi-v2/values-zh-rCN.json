@@ -4,7 +4,7 @@
             "outputFile": "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rCN/values-zh-rCN.xml",
             "map": [
                 {
-                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/0e0a0c3bee52905f2de039a40532cd05/TapLicense_3.23.0/res/values-zh-rCN/values-zh-rCN.xml",
+                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/66861aed557483adad4513856188e602/TapLicense_3.24.0/res/values-zh-rCN/values-zh-rCN.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -21,30 +21,30 @@
                     }
                 },
                 {
-                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/155bdde375dbfcb541d816baa152747c/TapMoment_3.23.0/res/values-zh-rCN/values-zh-rCN.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,107,160,220,271,333,397,490,557,618,702,761,811,862",
-                        "endColumns": "51,52,59,50,61,63,92,66,60,83,58,49,50,52",
-                        "endOffsets": "102,155,215,266,328,392,485,552,613,697,756,806,857,910"
-                    },
-                    "to": {
-                        "startLines": "23,24,25,26,27,28,29,30,31,32,33,34,35,36",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "1430,1482,1535,1595,1646,1708,1772,1865,1932,1993,2077,2136,2186,2237",
-                        "endColumns": "51,52,59,50,61,63,92,66,60,83,58,49,50,52",
-                        "endOffsets": "1477,1530,1590,1641,1703,1767,1860,1927,1988,2072,2131,2181,2232,2285"
-                    }
-                },
-                {
-                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/090861b50b3503ad1793c0438dd7c171/TapAchievement_3.23.0/res/values-zh-rCN/values-zh-rCN.xml",
+                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/bfbcaf2995994f2288690310d05519c3/TapAchievement_3.24.0/res/values-zh-rCN/values-zh-rCN.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
                         "startOffsets": "55,124,200,281,355,425,484,535,594,651,706,769,828",
                         "endColumns": "68,75,80,73,69,58,50,58,56,54,62,58,52",
                         "endOffsets": "119,195,276,350,420,479,530,589,646,701,764,823,876"
+                    }
+                },
+                {
+                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3beabf4b7f4f754e8efca3a43cf774ba/TapMoment_3.24.0/res/values-zh-rCN/values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,130,182,235,295,346,408,472,565,632,693,777,836,886,937,990,1095",
+                        "endColumns": "74,51,52,59,50,61,63,92,66,60,83,58,49,50,52,104,68",
+                        "endOffsets": "125,177,230,290,341,403,467,560,627,688,772,831,881,932,985,1090,1159"
+                    },
+                    "to": {
+                        "startLines": "23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1430,1505,1557,1610,1670,1721,1783,1847,1940,2007,2068,2152,2211,2261,2312,2365,2470",
+                        "endColumns": "74,51,52,59,50,61,63,92,66,60,83,58,49,50,52,104,68",
+                        "endOffsets": "1500,1552,1605,1665,1716,1778,1842,1935,2002,2063,2147,2206,2256,2307,2360,2465,2534"
                     }
                 }
             ]

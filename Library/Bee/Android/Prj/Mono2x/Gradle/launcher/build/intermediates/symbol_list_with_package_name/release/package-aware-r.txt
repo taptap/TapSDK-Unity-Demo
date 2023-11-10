@@ -26,6 +26,9 @@ color float_ball_bg_bottom
 color float_ball_bg_top
 color fun_button_bg_bottom
 color fun_button_bg_top
+color moment_browser_load_failed_message
+color moment_security_jump_alert_message
+color moment_security_jump_alert_title
 color share_button_bg_bottom
 color share_button_bg_top_end
 color share_button_bg_top_start
@@ -59,6 +62,7 @@ dimen share_child_button_radius
 dimen share_game_child_padding_size
 dimen share_game_icon_size
 dimen share_game_split_size
+dimen ttos_moment_fragment_browser_button_margin
 dimen user_container_copy_height
 dimen user_container_copy_width
 dimen user_container_margin
@@ -127,6 +131,7 @@ drawable icon_back
 drawable icon_close
 drawable icon_copy
 drawable icon_default_float_ball
+drawable icon_default_user_avatar
 drawable icon_default_user_bg
 drawable icon_fun_moment
 drawable icon_fun_reviews
@@ -195,6 +200,10 @@ drawable ttos_moment_alert_close
 drawable ttos_moment_alert_negative_bg
 drawable ttos_moment_alert_positive_bg
 drawable ttos_moment_back
+drawable ttos_moment_browser_back
+drawable ttos_moment_browser_close
+drawable ttos_moment_browser_network_error
+drawable ttos_moment_browser_reload
 drawable ttos_moment_close
 drawable ttos_moment_close_normal
 drawable ttos_moment_close_pressed
@@ -203,6 +212,7 @@ drawable ttos_moment_indicator_bg
 drawable ttos_moment_loading
 drawable ttos_moment_permission_close
 drawable ttos_moment_permission_top
+drawable ttos_moment_security_jump_alert_content_close
 id appPayBottomPayButton
 id appPayBottomPriceTextView
 id appPayChannelLinearLayout
@@ -219,6 +229,7 @@ id appPaySKUTitleTextView
 id appPayShowMoreLinearLayout
 id appPaySpace
 id appPayTitleBarLayout
+id back
 id backButton
 id bt_permission_cancel
 id bt_permission_ok
@@ -264,7 +275,6 @@ id iv_tap_toast
 id iv_toast_loading
 id iv_user_avatar
 id iv_user_container_bg
-id iv_user_copy
 id iv_wx_pay_qr_code
 id license_dialog_choose_title_tv
 id ll_container
@@ -274,6 +284,7 @@ id ll_marquee_container
 id ll_root
 id ll_share_container
 id ll_use_tap_real_name_tips
+id loadFailedLayout
 id loading
 id moment_container
 id moment_fg_container
@@ -285,6 +296,9 @@ id preLoadingLinearLayout
 id progress
 id refreshAreaLinearLayout
 id refreshMessageTextView
+id reload
+id reloadIcon
+id reloadMessage
 id rl_error_container
 id rl_moment_container
 id rl_permission_top
@@ -296,8 +310,10 @@ id tappayment_web_title_fl
 id taptap_sdk_container
 id tds_common_tag_unhandled_key_event_manager
 id tds_common_tag_unhandled_key_listeners
+id titleBar
 id tv_agree_use_button
 id tv_alert_button_container
+id tv_alert_container
 id tv_alert_content
 id tv_alert_negative
 id tv_alert_positive
@@ -322,10 +338,10 @@ id tv_tap_toast
 id tv_title
 id tv_toast_message
 id tv_user_authorization_verifying_tips
-id tv_user_id
 id tv_user_nickname
 id unitySurfaceView
 id v_bottom_bg
+id webView
 id web_container
 id web_content
 id webview
@@ -364,7 +380,9 @@ layout tds_common_webview_authorize
 layout ttos_moment_activity_container
 layout ttos_moment_dialog_alert
 layout ttos_moment_dialog_bottom_sheet
+layout ttos_moment_fragment_browser
 layout ttos_moment_fragment_moment
+layout ttos_moment_security_jump_alert_content
 layout view_app_pay_channel
 mipmap app_icon
 mipmap app_icon_round
@@ -397,6 +415,11 @@ string antiaddictionui_return_game
 string app_name
 string billboard_loading
 string billboard_network_error_retry
+string connect_copy_success
+string connect_fun_moment
+string connect_fun_review
+string connect_fun_share
+string connect_share_url_tip
 string game_view_content_description
 string license_alert_download_taptap
 string license_alert_license_no
@@ -407,6 +430,7 @@ string license_dialog_choose_title
 string license_download_taptap
 string license_open_taptap
 string login_account_logged_tip
+string moment_browser_load_failed_message
 string moment_dialog_cancel
 string moment_dialog_confirm
 string moment_dialog_content
@@ -421,11 +445,8 @@ string moment_permission_tip_title
 string moment_save_fail
 string moment_save_image
 string moment_save_success
-string tap_connect_copy_success
-string tap_connect_fun_moment
-string tap_connect_fun_review
-string tap_connect_fun_share
-string tap_connect_share_url_tip
+string moment_security_jump_alert_message
+string moment_security_jump_alert_title
 string tappayment_alipay_not_installed
 string tappayment_app_pay_confirm
 string tappayment_app_pay_price_total
@@ -453,6 +474,7 @@ style UnityThemeSelector_Translucent
 style antiaddictionui_common_text_style
 style dialog
 style dialog_fragment_animation
+style layout_width_max_335dp
 style tds_common_DialogTheme
 style tds_common_animation_slideSheetDialog_landscape
 style tds_common_animation_slideSheetDialog_portrait

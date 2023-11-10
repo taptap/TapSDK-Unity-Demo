@@ -15,6 +15,11 @@
     <string name="achievement_unlocked">UNLOCKED</string>
     <string name="billboard_loading">Sedang memua…</string>
     <string name="billboard_network_error_retry">Gagal memuat halaman. Tekan untuk mencoba lagi.</string>
+    <string name="connect_copy_success">Disalin</string>
+    <string name="connect_fun_moment">Pembaruan game</string>
+    <string name="connect_fun_review">Review game ini</string>
+    <string name="connect_fun_share">Bagikan</string>
+    <string name="connect_share_url_tip">Tautan disalin. Bagikan kepada teman!</string>
     <string name="license_alert_download_taptap">Game ini memerlukan dukungan layanan TapTap terbaru, silakan unduh versi TapTap terbaru</string>
     <string name="license_alert_license_no">Game tidak diaktifkan, silakan beli game ini dari TapTap</string>
     <string name="license_checking_license">Memeriksa informasi pembelian ....</string>
@@ -24,6 +29,7 @@
     <string name="license_download_taptap">Unduh TapTap</string>
     <string name="license_open_taptap">Buka TapTap</string>
     <string name="login_account_logged_tip">Akun yang login: %s</string>
+    <string name="moment_browser_load_failed_message">Halaman gagal dimuat, klik untuk mencoba lagi</string>
     <string name="moment_dialog_cancel">Cancel</string>
     <string name="moment_dialog_confirm">Konfirmasi</string>
     <string name="moment_dialog_content">Kembali ke game.</string>
@@ -38,9 +44,6 @@
     <string name="moment_save_fail">Gagal simpan</string>
     <string name="moment_save_image">Simpan gambar</string>
     <string name="moment_save_success">Berhasil simpan</string>
-    <string name="tap_connect_copy_success">Disalin</string>
-    <string name="tap_connect_fun_moment">Pembaruan game</string>
-    <string name="tap_connect_fun_review">Review game ini</string>
-    <string name="tap_connect_fun_share">Bagikan</string>
-    <string name="tap_connect_share_url_tip">Tautan disalin. Bagikan kepada teman!</string>
+    <string name="moment_security_jump_alert_message">Anda akan meninggalkan TapTap dan beralih ke browser eksternal untuk mengakses tautan:%s mungkin ada risiko, harap berhati-hati dalam mengenalinya.</string>
+    <string name="moment_security_jump_alert_title">Konfirmasi akses ke tautan ini</string>
 </resources>

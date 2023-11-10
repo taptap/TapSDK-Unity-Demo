@@ -15,6 +15,11 @@
     <string name="achievement_unlocked">ปลดล็อก</string>
     <string name="billboard_loading">กำลังดาวน์โหลด…</string>
     <string name="billboard_network_error_retry">ดาวน์โหลดหน้าดังกล่าวล้มเหลว กรุณาลองใหม่อีกครั้ง</string>
+    <string name="connect_copy_success">คัดลอกแล้ว</string>
+    <string name="connect_fun_moment">การอัปเดตเกม</string>
+    <string name="connect_fun_review">เขียนรีวิวเกม</string>
+    <string name="connect_fun_share">แชร์</string>
+    <string name="connect_share_url_tip">คัดลอกลิงก์แล้ว แชร์กับเพื่อนของคุณเลย</string>
     <string name="license_alert_download_taptap">เกมนี้จำเป็นต้องมีการสนับสนุนบริการ TapTap ล่าสุด โปรดดาวน์โหลด TapTap เวอร์ชันล่าสุด</string>
     <string name="license_alert_license_no">เกมไม่ได้เปิดใช้งาน โปรดซื้อเกมนี้จาก TapTap</string>
     <string name="license_checking_license">กำลังตรวจสอบข้อมูลการซื้อ...</string>
@@ -24,6 +29,7 @@
     <string name="license_download_taptap">ดาวน์โหลด TapTap</string>
     <string name="license_open_taptap">เปิด TapTap</string>
     <string name="login_account_logged_tip">บัญชีที่ล็อกอิน: %s</string>
+    <string name="moment_browser_load_failed_message">ไม่สามารถโหลดหน้านี้ได้ คลิกเพื่อลองใหม่</string>
     <string name="moment_dialog_cancel">ยกเลิก</string>
     <string name="moment_dialog_confirm">ยืนยัน</string>
     <string name="moment_dialog_content">กลับไปที่เกม</string>
@@ -38,9 +44,6 @@
     <string name="moment_save_fail">บันทึกไม่สำเร็จ</string>
     <string name="moment_save_image">บันทึกรูปภาพ</string>
     <string name="moment_save_success">บันทึกสำเร็จ</string>
-    <string name="tap_connect_copy_success">คัดลอกแล้ว</string>
-    <string name="tap_connect_fun_moment">การอัปเดตเกม</string>
-    <string name="tap_connect_fun_review">เขียนรีวิวเกม</string>
-    <string name="tap_connect_fun_share">แชร์</string>
-    <string name="tap_connect_share_url_tip">คัดลอกลิงก์แล้ว แชร์กับเพื่อนของคุณเลย</string>
+    <string name="moment_security_jump_alert_message">คุณกำลังจะออกจาก TapTap และไปที่เบราว์เซอร์ภายนอกเพื่อเข้าถึงลิงค์ :%s อาจมีความเสี่ยง โปรดระบุอย่างระมัดระวัง</string>
+    <string name="moment_security_jump_alert_title">ยืนยันการเข้าถึงลิงค์นี้</string>
 </resources>

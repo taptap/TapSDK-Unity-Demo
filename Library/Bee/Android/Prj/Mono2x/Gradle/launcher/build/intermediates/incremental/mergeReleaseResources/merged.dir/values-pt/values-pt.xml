@@ -15,6 +15,11 @@
     <string name="achievement_unlocked">DESBLOQUEADO</string>
     <string name="billboard_loading">Carregando…</string>
     <string name="billboard_network_error_retry">Falha ao carregar. Por favor, tente novamente.</string>
+    <string name="connect_copy_success">Copiado</string>
+    <string name="connect_fun_moment">Atualizações de jogo</string>
+    <string name="connect_fun_review">Fazer análise do jogo</string>
+    <string name="connect_fun_share">Compartilhar</string>
+    <string name="connect_share_url_tip">Link copiado. Compartilhe com os seus amigos!</string>
     <string name="license_alert_download_taptap">Este jogo requer o suporte de serviço TapTap mais recente, faça o download da versão mais recente do TapTap</string>
     <string name="license_alert_license_no">Jogo não ativado, compre este jogo da TapTap</string>
     <string name="license_checking_license">Verificando informações de compra...</string>
@@ -24,6 +29,7 @@
     <string name="license_download_taptap">Baixar TapTap</string>
     <string name="license_open_taptap">Abrir TapTap</string>
     <string name="login_account_logged_tip">Conta conectada: %s</string>
+    <string name="moment_browser_load_failed_message">Falha ao carregar a página, clique para tentar novamente</string>
     <string name="moment_dialog_cancel">Cancelar</string>
     <string name="moment_dialog_confirm">Confirmar</string>
     <string name="moment_dialog_content">Voltar para o jogo.</string>
@@ -38,9 +44,6 @@
     <string name="moment_save_fail">Falha ao Salvar</string>
     <string name="moment_save_image">Salvar imagem</string>
     <string name="moment_save_success">Salvo</string>
-    <string name="tap_connect_copy_success">Copiado</string>
-    <string name="tap_connect_fun_moment">Atualizações de jogo</string>
-    <string name="tap_connect_fun_review">Fazer análise do jogo</string>
-    <string name="tap_connect_fun_share">Compartilhar</string>
-    <string name="tap_connect_share_url_tip">Link copiado. Compartilhe com os seus amigos!</string>
+    <string name="moment_security_jump_alert_message">Você está prestes a deixar o TapTap e ir para um navegador externo para acessar o link: %s, podem haver riscos, por favor identifique-os com cuidado.</string>
+    <string name="moment_security_jump_alert_title">Confirme o acesso a este link</string>
 </resources>

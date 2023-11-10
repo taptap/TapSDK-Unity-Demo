@@ -12,6 +12,9 @@
     <color name="float_ball_bg_top">#3C4151</color>
     <color name="fun_button_bg_bottom">#2d3241</color>
     <color name="fun_button_bg_top">#3c4151</color>
+    <color name="moment_browser_load_failed_message">#888888</color>
+    <color name="moment_security_jump_alert_message">#888888</color>
+    <color name="moment_security_jump_alert_title">#222222</color>
     <color name="share_button_bg_bottom">#382F92</color>
     <color name="share_button_bg_top_end">#414BAA</color>
     <color name="share_button_bg_top_start">#4237A9</color>
@@ -45,6 +48,7 @@
     <dimen name="share_game_child_padding_size">6dp</dimen>
     <dimen name="share_game_icon_size">20dp</dimen>
     <dimen name="share_game_split_size">4dp</dimen>
+    <dimen name="ttos_moment_fragment_browser_button_margin">10dp</dimen>
     <dimen name="user_container_copy_height">21dp</dimen>
     <dimen name="user_container_copy_width">26dp</dimen>
     <dimen name="user_container_margin">5dp</dimen>
@@ -83,6 +87,11 @@
     <string name="app_name">Tds-unity-demo</string>
     <string name="billboard_loading">加载中…</string>
     <string name="billboard_network_error_retry">页面加载失败，点击重试</string>
+    <string name="connect_copy_success">复制成功</string>
+    <string name="connect_fun_moment">游戏动态</string>
+    <string name="connect_fun_review">评价游戏</string>
+    <string name="connect_fun_share">分享</string>
+    <string name="connect_share_url_tip">链接已复制，快分享给好友吧</string>
     <string name="game_view_content_description">Game view</string>
     <string name="license_alert_download_taptap">本游戏需要最新版TapTap服务支持，请下载最新版本TapTap</string>
     <string name="license_alert_license_no">游戏未激活，请前往TapTap购买此游戏</string>
@@ -93,6 +102,7 @@
     <string name="license_download_taptap">下载TapTap</string>
     <string name="license_open_taptap">打开TapTap</string>
     <string name="login_account_logged_tip">已登录账号：%s</string>
+    <string name="moment_browser_load_failed_message">Page failed to load, click to retry</string>
     <string name="moment_dialog_cancel">Cancel</string>
     <string name="moment_dialog_confirm">Confirm</string>
     <string name="moment_dialog_content">Go back to the game.</string>
@@ -102,16 +112,13 @@
     <string name="moment_permission_intent_reason">Allow the game to access your album so you can save or upload videos/images.</string>
     <string name="moment_permission_intent_title">Access to media</string>
     <string name="moment_permission_tip_confirm">Go to settings</string>
-    <string name="moment_permission_tip_reason">Failed to access images/videos. Please go to Settings to allow access to the camera first.</string>
+    <string name="moment_permission_tip_reason">Failed to acess images/videos. Please go to Settings to allow access to the camera first.</string>
     <string name="moment_permission_tip_title">Attention</string>
     <string name="moment_save_fail">Saving Failed</string>
-    <string name="moment_save_image">Save Image</string>
+    <string name="moment_save_image">Save image</string>
     <string name="moment_save_success">Saved</string>
-    <string name="tap_connect_copy_success">复制成功</string>
-    <string name="tap_connect_fun_moment">游戏动态</string>
-    <string name="tap_connect_fun_review">评价游戏</string>
-    <string name="tap_connect_fun_share">分享</string>
-    <string name="tap_connect_share_url_tip">链接已复制，快分享给好友吧</string>
+    <string name="moment_security_jump_alert_message">You are about to leave TapTap and go to an external browser to access the link: %s, there may be risks, please identify them carefully.</string>
+    <string name="moment_security_jump_alert_title">Confirm access to this link</string>
     <string name="tappayment_alipay_not_installed">未安装支付宝应用无法支付</string>
     <string name="tappayment_app_pay_confirm">确认支付</string>
     <string name="tappayment_app_pay_price_total">总计 </string>
@@ -191,6 +198,9 @@
     <style name="dialog_fragment_animation">
         <item name="android:windowEnterAnimation">@anim/ttos_moment_in_bottom</item>
         <item name="android:windowExitAnimation">@anim/ttos_moment_out_bottom</item>
+    </style>
+    <style name="layout_width_max_335dp">
+        <item name="android:layout_width">match_parent</item>
     </style>
     <style name="tds_common_DialogTheme">
         <item name="android:windowFullscreen">true</item>

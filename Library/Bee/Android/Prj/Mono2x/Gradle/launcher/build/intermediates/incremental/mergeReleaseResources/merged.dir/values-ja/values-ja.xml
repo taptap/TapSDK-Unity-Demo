@@ -15,6 +15,11 @@
     <string name="achievement_unlocked">完了</string>
     <string name="billboard_loading">ロード中…</string>
     <string name="billboard_network_error_retry">ページの読み込みに失敗しました。再度タップしてお試しください。</string>
+    <string name="connect_copy_success">コピーしました</string>
+    <string name="connect_fun_moment">ゲームの最新情報</string>
+    <string name="connect_fun_review">ゲームレビュー</string>
+    <string name="connect_fun_share">シェア</string>
+    <string name="connect_share_url_tip">リンクをコピーしました。友達とシェアしましょう！</string>
     <string name="license_alert_download_taptap">最新バージョンTapTapサービスが必要です。最新バージョンTapTapをダウンロードしてください</string>
     <string name="license_alert_license_no">まだアクティブにしていません。TapTapで購入してください</string>
     <string name="license_checking_license">購入詳細を確認中...</string>
@@ -24,6 +29,7 @@
     <string name="license_download_taptap">TapTapをダウンロード</string>
     <string name="license_open_taptap">TapTapを起動</string>
     <string name="login_account_logged_tip">ログイン中のアカウント: %s</string>
+    <string name="moment_browser_load_failed_message">ページの読み込みに失敗しました、再試行をクリックしてください</string>
     <string name="moment_dialog_cancel">キャンセル</string>
     <string name="moment_dialog_confirm">OK</string>
     <string name="moment_dialog_content">ゲームに戻る。</string>
@@ -38,9 +44,6 @@
     <string name="moment_save_fail">保存に失敗しました。</string>
     <string name="moment_save_image">画像を保存する</string>
     <string name="moment_save_success">保存しました。</string>
-    <string name="tap_connect_copy_success">コピーしました</string>
-    <string name="tap_connect_fun_moment">ゲームの最新情報</string>
-    <string name="tap_connect_fun_review">ゲームレビュー</string>
-    <string name="tap_connect_fun_share">シェア</string>
-    <string name="tap_connect_share_url_tip">リンクをコピーしました。友達とシェアしましょう！</string>
+    <string name="moment_security_jump_alert_message">TapTapを離れて外部ブラウザにアクセスし、リンク：%sに移動しようとしています。リスクがある可能性がありますので、注意深く確認してください。</string>
+    <string name="moment_security_jump_alert_title">このリンクへのアクセスを確認します</string>
 </resources>

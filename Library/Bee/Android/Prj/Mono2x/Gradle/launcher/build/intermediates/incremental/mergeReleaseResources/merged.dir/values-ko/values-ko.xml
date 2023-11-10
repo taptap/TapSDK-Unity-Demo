@@ -15,6 +15,11 @@
     <string name="achievement_unlocked">해제</string>
     <string name="billboard_loading">로딩 중…</string>
     <string name="billboard_network_error_retry">페이지를 로드하지 못했습니다. 다시 시도해 주세요.</string>
+    <string name="connect_copy_success">복사 완료</string>
+    <string name="connect_fun_moment">게임 업데이트</string>
+    <string name="connect_fun_review">리뷰 작성</string>
+    <string name="connect_fun_share">공유</string>
+    <string name="connect_share_url_tip">링크를 복사했습니다. 친구와 공유하세요!</string>
     <string name="license_alert_download_taptap">본 게임은 TapTap 최신버전에서 지원됩니다. TapTap 최신 버전을 다운로드해주세요</string>
     <string name="license_alert_license_no">활성화되지않은 게임입니다. TapTap에서 게임을 구매하세요</string>
     <string name="license_checking_license">구매 기록 확인 중...</string>
@@ -24,6 +29,7 @@
     <string name="license_download_taptap">TapTap 다운로드</string>
     <string name="license_open_taptap">TapTap 열기</string>
     <string name="login_account_logged_tip">로그인한 계정: %s</string>
+    <string name="moment_browser_load_failed_message">페이지 로드 실패, 다시 시도하려면 클릭하세요</string>
     <string name="moment_dialog_cancel">취소</string>
     <string name="moment_dialog_confirm">확인</string>
     <string name="moment_dialog_content">게임으로 돌아갑니다.</string>
@@ -38,9 +44,6 @@
     <string name="moment_save_fail">저장 실패</string>
     <string name="moment_save_image">그림 저장</string>
     <string name="moment_save_success">저장 성공</string>
-    <string name="tap_connect_copy_success">복사 완료</string>
-    <string name="tap_connect_fun_moment">게임 업데이트</string>
-    <string name="tap_connect_fun_review">리뷰 작성</string>
-    <string name="tap_connect_fun_share">공유</string>
-    <string name="tap_connect_share_url_tip">링크를 복사했습니다. 친구와 공유하세요!</string>
+    <string name="moment_security_jump_alert_message">TapTap을 벗어나서 외부 브라우저로 이동하여 링크를 방문하려고 합니다.: %s 위험이 있을 수 있으니 주의 깊게 식별하십시오.</string>
+    <string name="moment_security_jump_alert_title">이 링크에 대한 액세스를 확인하십시오</string>
 </resources>
