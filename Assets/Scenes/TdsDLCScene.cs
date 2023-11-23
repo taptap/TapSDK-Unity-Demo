@@ -78,6 +78,14 @@ public class TdsDLCScene : MonoBehaviour
     {
         // 查询回调
         UnityNativeToastsHelper.ShowShortText("查询回调"+ code);
+         foreach (var kvp in queryList)
+        {
+            Console.WriteLine($"Key: {kvp.Key}, Value: {kvp.Value}");
+
+            // 获取值的数据类型
+            Type valueType = kvp.Value.GetType();
+            Console.WriteLine($"Value Type: {valueType}");
+        }
 
     }
 

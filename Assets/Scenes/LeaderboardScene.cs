@@ -145,7 +145,7 @@ public class LeaderboardScene : MonoBehaviour
 
             var leaderboardData = await LCLeaderboard.GetLeaderboard("word");
 
-            var tapRankings = await leaderboardData.GetResults(limit: 10, selectKeys: new List<string>{ "nickname", "avatar", "todo" });
+            var tapRankings = await leaderboardData.GetResults(limit: 10, selectKeys: new List<string>{ "nickname", "avatar"});
 
             foreach (var item in tapRankings)
             {

@@ -3,18 +3,18 @@ apply plugin: 'com.android.library'
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation(name: 'TapAchievement_3.24.0', ext:'aar')
+    implementation(name: 'TapPayment_3.24.0', ext:'aar')
+    implementation(name: 'TapLogin_3.24.0', ext:'aar')
+    implementation(name: 'TapMoment_3.24.0', ext:'aar')
+    implementation(name: 'TapCommon_3.24.0', ext:'aar')
+    implementation(name: 'TapDB_3.24.0', ext:'aar')
+    implementation(name: 'com.UnityNative.Toasts-v1.0.4', ext:'aar')
     implementation(name: 'TapLicense_3.24.0', ext:'aar')
     implementation(name: 'AntiAddiction_3.24.0', ext:'aar')
-    implementation(name: 'TapDB_3.24.0', ext:'aar')
-    implementation(name: 'TapConnect_3.24.0', ext:'aar')
-    implementation(name: 'AntiAddictionUI_3.24.0', ext:'aar')
-    implementation(name: 'TapMoment_3.24.0', ext:'aar')
-    implementation(name: 'TapLogin_3.24.0', ext:'aar')
-    implementation(name: 'com.UnityNative.Toasts-v1.0.4', ext:'aar')
-    implementation(name: 'TapPayment_3.24.0', ext:'aar')
-    implementation(name: 'TapCommon_3.24.0', ext:'aar')
     implementation(name: 'TapBillboard_3.24.0', ext:'aar')
-    implementation(name: 'TapAchievement_3.24.0', ext:'aar')
+    implementation(name: 'AntiAddictionUI_3.24.0', ext:'aar')
+    implementation(name: 'TapConnect_3.24.0', ext:'aar')
     implementation project('Opensdk.plugin')
 
 }
@@ -36,7 +36,7 @@ android {
         }
         versionCode 1
         versionName '0.1'
-        consumerProguardFiles 'proguard-unity.txt'
+        consumerProguardFiles 'proguard-unity.txt', 'proguard-user.txt'
     }
 
     lintOptions {
