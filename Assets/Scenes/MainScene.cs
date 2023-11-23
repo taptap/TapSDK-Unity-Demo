@@ -68,6 +68,7 @@ public class MainScene : MonoBehaviour
 
             TapBootstrap.Init(config);
 
+
             TapConnect.SetEntryVisible(true);
 
             // 设置初始化状态
@@ -228,6 +229,14 @@ public class MainScene : MonoBehaviour
 			UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(16);
 
 		}
+        btnTop += btnHeight + 20 * scale;
+
+		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "多人对战", style))
+		{
+
+            UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(17);
+
+        }
 
 
 
