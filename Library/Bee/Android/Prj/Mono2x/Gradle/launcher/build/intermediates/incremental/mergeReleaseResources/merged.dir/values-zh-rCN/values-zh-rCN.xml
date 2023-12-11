@@ -38,4 +38,5 @@
     <string name="moment_save_success">保存成功</string>
     <string name="moment_security_jump_alert_message">您即将离开 TapTap 并跳转外部浏览器访问链接：%s 可能存在风险请注意识别。</string>
     <string name="moment_security_jump_alert_title">确认访问该链接</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

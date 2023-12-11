@@ -46,4 +46,5 @@
     <string name="moment_save_success">Berhasil simpan</string>
     <string name="moment_security_jump_alert_message">Anda akan meninggalkan TapTap dan beralih ke browser eksternal untuk mengakses tautan:%s mungkin ada risiko, harap berhati-hati dalam mengenalinya.</string>
     <string name="moment_security_jump_alert_title">Konfirmasi akses ke tautan ini</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>
