@@ -38,8 +38,6 @@
         android:required="false" />
 
     <uses-permission android:name="android.permission.REORDER_TASKS" />
-    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
     <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
     <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
 
@@ -47,6 +45,8 @@
         <package android:name="com.tencent.mm" />
     </queries>
 
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
     <uses-permission android:name="android.permission.RECORD_AUDIO" />
     <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
     <uses-permission android:name="android.permission.BLUETOOTH" />
@@ -95,22 +95,7 @@
             android:name="notch.config"
             android:value="portrait|landscape" />
         <meta-data
-            android:name="com.tapsdk.tapdb.loader"
-            android:value="true" />
-
-        <provider
-            android:name="com.tds.tapdb.internal.device.DeviceProvider"
-            android:authorities="com.tds.demo.device.provider"
-            android:exported="false" />
-
-        <meta-data
             android:name="com.tapsdk.tapconnect.loader"
-            android:value="true" />
-        <meta-data
-            android:name="com.tds.login.config.antiaddiction"
-            android:value="com.tapsdk.antiaddictionui.AntiAddictionUIKit" />
-        <meta-data
-            android:name="com.tapsdk.moment.loader"
             android:value="true" />
 
         <activity
@@ -130,6 +115,24 @@
             android:exported="false" />
 
         <meta-data
+            android:name="com.tds.login.config.antiaddiction"
+            android:value="com.tapsdk.antiaddictionui.AntiAddictionUIKit" />
+        <meta-data
+            android:name="com.tapsdk.achievement.loader"
+            android:value="true" />
+
+        <provider
+            android:name="com.tds.common.provider.CurrentConfigProvider"
+            android:authorities="com.tds.demo.tap_config.provider"
+            android:exported="false" />
+
+        <meta-data
+            android:name="com.tapsdk.billboard.loader"
+            android:value="true" />
+        <meta-data
+            android:name="com.tapsdk.moment.loader"
+            android:value="true" />
+        <meta-data
             android:name="com.tapsdk.payment.loader"
             android:value="true" />
 
@@ -148,17 +151,14 @@
             android:exported="true"
             android:targetActivity="com.tapsdk.payment.impl.wechat.WXPayEntryActivity" />
 
-        <provider
-            android:name="com.tds.common.provider.CurrentConfigProvider"
-            android:authorities="com.tds.demo.tap_config.provider"
-            android:exported="false" />
+        <meta-data
+            android:name="com.tapsdk.tapdb.loader"
+            android:value="true" />
 
-        <meta-data
-            android:name="com.tapsdk.billboard.loader"
-            android:value="true" />
-        <meta-data
-            android:name="com.tapsdk.achievement.loader"
-            android:value="true" />
+        <provider
+            android:name="com.tds.tapdb.internal.device.DeviceProvider"
+            android:authorities="com.tds.demo.device.provider"
+            android:exported="false" />
     </application>
 
 </manifest>

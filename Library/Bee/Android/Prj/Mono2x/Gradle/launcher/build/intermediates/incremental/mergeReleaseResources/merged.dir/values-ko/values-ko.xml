@@ -46,4 +46,5 @@
     <string name="moment_save_success">저장 성공</string>
     <string name="moment_security_jump_alert_message">TapTap을 벗어나서 외부 브라우저로 이동하여 링크를 방문하려고 합니다.: %s 위험이 있을 수 있으니 주의 깊게 식별하십시오.</string>
     <string name="moment_security_jump_alert_title">이 링크에 대한 액세스를 확인하십시오</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

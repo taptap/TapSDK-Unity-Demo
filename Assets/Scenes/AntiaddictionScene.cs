@@ -116,8 +116,8 @@ public class AntiaddictionScene : MonoBehaviour
          btnTop += btnHeight + 20 * scale;
         if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "获取玩家年龄段", style))
 		{
-            
-             UnityNativeToastsHelper.ShowShortText("接口已移除");
+            int ageRange = AntiAddictionUIKit.AgeRange;
+            UnityNativeToastsHelper.ShowShortText("年龄段为："+ ageRange);
 
         }
 

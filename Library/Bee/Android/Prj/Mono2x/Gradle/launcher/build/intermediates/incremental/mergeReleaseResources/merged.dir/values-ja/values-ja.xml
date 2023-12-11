@@ -46,4 +46,5 @@
     <string name="moment_save_success">保存しました。</string>
     <string name="moment_security_jump_alert_message">TapTapを離れて外部ブラウザにアクセスし、リンク：%sに移動しようとしています。リスクがある可能性がありますので、注意深く確認してください。</string>
     <string name="moment_security_jump_alert_title">このリンクへのアクセスを確認します</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

@@ -46,4 +46,5 @@
     <string name="moment_save_success">Salvo</string>
     <string name="moment_security_jump_alert_message">Você está prestes a deixar o TapTap e ir para um navegador externo para acessar o link: %s, podem haver riscos, por favor identifique-os com cuidado.</string>
     <string name="moment_security_jump_alert_title">Confirme o acesso a este link</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

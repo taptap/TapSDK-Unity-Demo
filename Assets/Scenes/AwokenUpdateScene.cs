@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 using TapTap.Common;
+using TapTap.Update;
+using UnityNative.Toasts.Example;
 
 public class AwokenUpdateScene : MonoBehaviour
 {
@@ -60,8 +62,12 @@ public class AwokenUpdateScene : MonoBehaviour
 
     public async void toUpdate(){
 
-        // bool isSuccess = await TapCommon.UpdateGameAndFailToWebInTapTap("224274");
-        bool isSuccess = await TapCommon.UpdateGameAndFailToWebInTapTap("224274", "https://www.taptap.cn/app/224274");
+
+        TapTap.Update.TapUpdate.UpdateGame(() => {
+            // 取消更新的事件
+            UnityNativeToastsHelper.ShowShortText("取消更新");
+
+        });
 
 
     }
