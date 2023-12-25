@@ -16,11 +16,7 @@ public class AntiaddictionScene : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-         AntiAddictionConfig config_anti = new AntiAddictionConfig()
-        {
-            gameId = "hskcocvse6x1cgkklm",      // TapTap 开发者中心对应 Client ID
-            showSwitchAccount = true,      // 是否显示切换账号按钮
-        };         
+   
         
         Action<int, string> callback = (code, errorMsg) => {
            
@@ -70,7 +66,6 @@ public class AntiaddictionScene : MonoBehaviour
                 }
         };
 
-        AntiAddictionUIKit.Init(config_anti, callback);
     }
 
     // Update is called once per frame
@@ -105,8 +100,10 @@ public class AntiaddictionScene : MonoBehaviour
         btnTop += btnHeight + 20 * scale;
 		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "快速认证", style))
 		{
-            string userIdentifier = "Player_unique_Identifier112899999";
+            string userIdentifier = "Player_unique_Identifier11289999999";
             AntiAddictionUIKit.StartupWithTapTap(userIdentifier);
+
+
         }
 
          if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "登出", style))

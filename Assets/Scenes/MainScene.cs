@@ -57,6 +57,7 @@ public class MainScene : MonoBehaviour
                 .ClientToken("XQuOYJZ5Oo2wHXf7J5pK1yEtRWH59Tp9AdfMpwOf")  // 必须，开发者中心对应 Client Token
                 .ServerURL("https://hskcocvs.cloud.tds1.tapapis.cn") // TapDC 后台获取
                 .RegionType(RegionType.CN)  // 非必须，默认 CN 表示国内
+                .AntiAddictionConfig(true)  // 3.27.0 版本开始防沉迷支持 TapBootstrap 初始化
                 .TapBillboardConfig(dimensionSet, templateType, billboardServerUrl)
                 .TapDBConfig(true, "gameChannel", "gameVersion", true)  // TapDB 会根据 TapConfig 的配置进行自动初始化
                 .TapPaymentConfig(

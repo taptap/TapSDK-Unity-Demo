@@ -1,8 +1,10 @@
 ﻿<Properties StartupConfiguration="{87A19DC2-4F4D-388B-20D2-61B9C6831170}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/LoginScene.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/MainScene.cs">
     <Files>
-      <File FileName="Assets/Scenes/AwokenUpdateScene.cs" Line="8" Column="1" />
-      <File FileName="Assets/Scenes/LoginScene.cs" Line="40" Column="1" />
+      <File FileName="Assets/Scenes/AwokenUpdateScene.cs" Line="75" Column="1" />
+      <File FileName="Assets/Scenes/LoginScene.cs" Line="10" Column="1" />
+      <File FileName="Assets/Scenes/MainScene.cs" Line="61" Column="1" />
+      <File FileName="Assets/Scenes/AntiaddictionScene.cs" Line="75" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,7 +12,7 @@
           <Node name="TapSDK-Unity-Demo" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scenes" expanded="True">
-                <Node name="LoginScene.cs" selected="True" />
+                <Node name="MainScene.cs" selected="True" />
               </Node>
             </Node>
             <Node name="Packages" expanded="True" />
@@ -21,7 +23,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9f23c54d-a57f-4a22-8742-68b27f2863da" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e4928c6a-bf8f-457a-a141-9dba4b9f19b5" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
