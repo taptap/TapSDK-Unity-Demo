@@ -840,6 +840,7 @@ int drawable tapupdate_selector_func_button_positive 0x0
 int drawable tds_billboard_default_title_bg 0x0
 int drawable tds_billboard_error_container_bg 0x0
 int drawable tds_billboard_ic_close 0x0
+int drawable tds_billboard_ic_default_marquee 0x0
 int drawable tds_billboard_ic_loading 0x0
 int drawable tds_billboard_ic_refresh 0x0
 int drawable tds_billboard_loading 0x0

@@ -841,6 +841,7 @@ drawable tapupdate_selector_func_button_positive
 drawable tds_billboard_default_title_bg
 drawable tds_billboard_error_container_bg
 drawable tds_billboard_ic_close
+drawable tds_billboard_ic_default_marquee
 drawable tds_billboard_ic_loading
 drawable tds_billboard_ic_refresh
 drawable tds_billboard_loading
