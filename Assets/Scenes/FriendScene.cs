@@ -6,7 +6,10 @@ using System;
 using LeanCloud;
 using System.Collections.ObjectModel;
 using LeanCloud.Storage;
-
+using UnityNative.Toasts.Example;
+using TapTap.Common;
+using TapTap.Login;
+using TapTap.Bootstrap;
 
 
 
@@ -16,9 +19,10 @@ public class FriendScene : MonoBehaviour
 {
 
     public GUISkin demoSkin;
+    private string label;
 
-    // Start is called before the first frame update
-   async void Start()
+
+    async void Start()
     {
         TDSFriends.FriendStatusChangedDelegate = new TDSFriendStatusChangedDelegate {
             // 新增好友（触发时机同「已发送的好友申请被接受」）
@@ -97,6 +101,10 @@ public class FriendScene : MonoBehaviour
 
 
     private string textArea = "请输入 shorid";
+    private string textArea2 = "请输入需要删除的好友的 objectId";
+    private string textArea3 = "请输入需要查询的 objectId";
+
+
 
     private async void OnGUI()
     {
@@ -116,9 +124,11 @@ public class FriendScene : MonoBehaviour
 
         var style = new GUIStyle(GUI.skin.button) { fontSize = 20 };
 
+
         GUIStyle labelStyle = new GUIStyle(GUI.skin.label);
         labelStyle.fontSize = 30;
         labelStyle.alignment = TextAnchor.MiddleLeft;
+        labelStyle.normal.textColor = Color.red;
 
         
         if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth /2, btnHeight), "返回", style))
@@ -126,6 +136,8 @@ public class FriendScene : MonoBehaviour
             UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(0);
 
         }
+
+
 
         btnTop += btnHeight + 20 * scale;
 
@@ -139,6 +151,8 @@ public class FriendScene : MonoBehaviour
 
 		if (GUI.Button(new Rect( btnWidth+ btnWidth/2+20, btnTop, btnWidth/2, btnHeight), "添加好友", style))
 		{
+            Debug.Log("需要添加的好友的 shortId: "+ textArea);
+
             await TDSFriends.AddFriendByShortCode(textArea);
 
         }
@@ -159,9 +173,81 @@ public class FriendScene : MonoBehaviour
             foreach(var item in requests)
             {
                  await TDSFriends.AcceptFriendshipRequest(item);
+
+                UnityNativeToastsHelper.ShowShortText("同意所有好友申请！");
+
             }
-            
+
         }
+
+        btnTop += btnHeight + 20 * scale;
+
+        GUIStyle inputStyle2 = new GUIStyle(GUI.skin.textArea);
+        inputStyle2.fontSize = 30;
+        inputStyle2.alignment = TextAnchor.MiddleCenter;
+
+        textArea2 = GUI.TextArea(new Rect(btnWidth / 2, btnTop, btnWidth+20, btnHeight), textArea2 , inputStyle2);
+        
+
+		if (GUI.Button(new Rect( btnWidth+ btnWidth/2+20, btnTop, btnWidth/2, btnHeight), "删除好友", style))
+		{
+            Debug.Log("需要删除的好友的 objectid: "+ textArea2);
+            await TDSFriends.DeleteFriend(textArea2);
+            UnityNativeToastsHelper.ShowShortText("删除好友成功！");
+
+        }
+
+
+        btnTop += btnHeight + 20 * scale;
+
+        GUIStyle inputStyle3 = new GUIStyle(GUI.skin.textArea);
+        inputStyle3.fontSize = 30;
+        inputStyle3.alignment = TextAnchor.MiddleCenter;
+
+        textArea3 = GUI.TextArea(new Rect(btnWidth / 2, btnTop, btnWidth+20, btnHeight), textArea3 , inputStyle3);
+        
+
+		if (GUI.Button(new Rect( btnWidth+ btnWidth/2+20, btnTop, btnWidth/2, btnHeight), "判断是否为好友", style))
+		{
+            Debug.Log("需要查询的好友的 objectid: "+ textArea3);
+            bool isFriend = await TDSFriends.CheckFriendship(textArea3);
+
+            UnityNativeToastsHelper.ShowShortText("查询好友的结果："+ isFriend);
+
+
+        }
+
+
+        btnTop += btnHeight + 20 * scale;
+
+        if (GUI.Button(new Rect(btnWidth + btnWidth / 2 + 20, btnTop, btnWidth / 2+40, btnHeight), "获取我的 shortId 和 ObjectId", style))
+        {
+
+            getUserInfo();
+        }
+
+        btnTop += btnHeight + 20 * scale;
+
+        GUI.Label(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, Screen.width / 5 * 4, Screen.height / 4), label, labelStyle);
+
+
+    }
+
+
+
+    public async void getUserInfo()
+    {
+       
+
+        var currentUser = await TDSUser.GetCurrent();
+
+        Debug.Log(currentUser["shortId"].ToString());
+        Debug.Log("我的 shortId："+currentUser["shortId"].ToString() +"我的 objectId: "+ currentUser.ObjectId.ToString() );
+
+      
+
+
+        label = "我的 shortId:"  +currentUser["shortId"].ToString() +"\n"+ "我的 objectId: "+ currentUser.ObjectId.ToString() ;
 
 
     }
