@@ -159,14 +159,14 @@ public class MainScene : MonoBehaviour
 
          btnTop += btnHeight + 20 * scale;
 
-		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "公告系统", style))
+		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "数据存储", style))
 		{
 
             UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(7);
 
         }
 
-         if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "数据存储", style))
+         if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "云存档", style))
 		{
 			UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(8);
 
@@ -174,14 +174,14 @@ public class MainScene : MonoBehaviour
 
         btnTop += btnHeight + 20 * scale;
 
-		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "云存档", style))
+		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "排行榜", style))
 		{
 
             UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(9);
 
         }
 
-         if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "排行榜", style))
+         if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "实时语音", style))
 		{
 			UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(10);
 
@@ -189,28 +189,28 @@ public class MainScene : MonoBehaviour
 
          btnTop += btnHeight + 20 * scale;
 
-		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "实时语音", style))
+		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "游戏好友", style))
 		{
 
             UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(11);
 
         }
 
-         if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "游戏好友", style))
+         if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "礼包系统", style))
 		{
 			UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(12);
 
 		}
         btnTop += btnHeight + 20 * scale;
 
-		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "礼包系统", style))
+		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "唤起更新", style))
 		{
 
             UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(13);
 
         }
 
-          if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "唤起更新", style))
+          if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "支付系统", style))
 		{
 			UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(14);
 
@@ -218,26 +218,19 @@ public class MainScene : MonoBehaviour
 
          btnTop += btnHeight + 20 * scale;
 
-		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "支付系统", style))
+		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "DLC 内购", style))
 		{
 
             UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(15);
 
         }
 
-        if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "DLC 内购", style))
+        if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "多人对战", style))
 		{
 			UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(16);
 
 		}
-        btnTop += btnHeight + 20 * scale;
-
-		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "多人对战", style))
-		{
-
-            UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(17);
-
-        }
+      
 
 
 
