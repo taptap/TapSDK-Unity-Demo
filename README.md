@@ -8,7 +8,7 @@
 
 2、配置自己的签名信息，签名打包测试；
 
-3、安卓可以下载项目中的 [TapSDK_demo.apk](https://capacity-files.lcfile.com/N5vVlsEQcsSbiSFqa74GQiHVtVamwNcd/Tds_demo.apk) 或扫描如下二维码进行下载体验；
+3、安卓可以下载项目中的 [TapSDK_demo.apk](https://capacity-files.lcfile.com/wUdUEryl4FFIawoKTiyzYP4pzHHgO8V6/Tds_demo.apk) 或扫描如下二维码进行下载体验；
 
 ![Demo 下载图片](tapsdk_unity.png)
 
