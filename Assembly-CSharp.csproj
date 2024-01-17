@@ -75,7 +75,6 @@
     <Compile Include="Assets/Scenes/GamesavesScene.cs" />
     <Compile Include="Assets/Scenes/TdsDLCScene.cs" />
     <Compile Include="Assets/Scenes/InsideAccoundScene.cs" />
-    <Compile Include="Assets/Scenes/BillboardScene.cs" />
     <Compile Include="Assets/Scenes/APIClient.cs" />
     <Compile Include="Assets/Scenes/MainScene.cs" />
   </ItemGroup>

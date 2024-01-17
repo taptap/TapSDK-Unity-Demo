@@ -12,9 +12,6 @@ using TapTap.Login;
 using TapTap.Bootstrap;
 
 
-
-// ptwpjq
-
 public class FriendScene : MonoBehaviour
 {
 
@@ -179,6 +176,27 @@ public class FriendScene : MonoBehaviour
             }
 
         }
+
+        btnTop += btnHeight + 20 * scale;
+
+        if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "查询好友列表", style))
+		{
+            var from = 0;
+            var limit = 100;
+            ReadOnlyCollection<TDSFriendInfo> friendInfos = await TDSFriends.QueryFriendList(from, limit);
+            foreach (TDSFriendInfo info in friendInfos) {
+                // 玩家信息
+                TDSUser user = info.User;
+                
+                // 好友是否在线
+                bool online = info.Online;
+
+                Debug.Log("好友列表-好友昵称："+user["nickname"] + "  好友的 objectid: "+ user.ObjectId + "  好友的 shortId："+ user["shortId"].ToString());
+
+            }
+
+        }
+
 
         btnTop += btnHeight + 20 * scale;
 
