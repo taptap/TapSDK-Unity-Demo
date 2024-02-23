@@ -143,18 +143,18 @@ public class LeaderboardScene : MonoBehaviour
 		{
            
 
-            // var leaderboardData = await LCLeaderboard.GetLeaderboard("word");
+            var leaderboardData = await LCLeaderboard.GetLeaderboard("word");
 
-            // var tapRankings = await leaderboardData.GetResults(limit: 10, selectKeys: new List<string>{ "nickname", "avatar"});
+            var tapRankings = await leaderboardData.GetResults(limit: 10, selectKeys: new List<string>{ "nickname", "avatar"});
 
-            // foreach (var item in tapRankings)
-            // {
+            foreach (var item in tapRankings)
+            {
 
-            //  Debug.Log($"ranking profile: {item.User}");
+             Debug.Log($"ranking profile: {item.User["avatar"]}");
 
-            // }
+            }
 
-           var otherUser = LCObject.CreateWithoutData(TDSUser.CLASS_NAME, "64c1dd77203d933a5876a2b9");
+        //    var otherUser = LCObject.CreateWithoutData(TDSUser.CLASS_NAME, "64c1dd77203d933a5876a2b9");
             // var statistics = await LCLeaderboard.GetStatistics(otherUser);
             // Debug.Log($"======: "+ statistics.ToString());
             // foreach(var statistic in statistics) {
@@ -163,18 +163,19 @@ public class LeaderboardScene : MonoBehaviour
             // }
 
 
-            var leaderboard = LCLeaderboard.CreateWithoutData("word");
 
-            var rankings = await leaderboard.GetResults(otherUser, limit: 1, selectKeys: new List<string> { "username" });
+            // var leaderboard = LCLeaderboard.CreateWithoutData("word");
 
-            Debug.Log($"======: "+ rankings.ToString());
+            // var rankings = await leaderboard.GetResults(otherUser, limit: 1, selectKeys: new List<string> { "username" });
 
-            foreach(var ranking in rankings) {
+            // Debug.Log($"======: "+ rankings.ToString());
 
-                Debug.Log("-------》》》 "+ ranking.Rank);
+            // foreach(var ranking in rankings) {
+
+            //     Debug.Log("-------》》》 "+ ranking.Rank);
 
 
-            }   
+            // }   
 
 
 
