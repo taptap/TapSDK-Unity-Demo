@@ -230,8 +230,6 @@ public class MainScene : MonoBehaviour
 			UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(16);
 
 		}
-      
-
 
 
     }

@@ -7,6 +7,7 @@ using System;
 using TapTap.Common;
 using TapTap.AntiAddiction;
 using TapTap.AntiAddiction.Model;
+using TapTap.Login;
 
 public class AntiaddictionScene : MonoBehaviour
 {
@@ -17,9 +18,12 @@ public class AntiaddictionScene : MonoBehaviour
     void Start()
     {
    
-        
+        AntiAddictionUIKit.SetTestEnvironment(true);
+
+
         Action<int, string> callback = (code, errorMsg) => {
-           
+               UnityEngine.Debug.LogFormat($"code: {code} error Message: {errorMsg}");
+
            if (code == 500)
                 {
                     AntiAddictionUIKit.EnterGame();
@@ -100,10 +104,9 @@ public class AntiaddictionScene : MonoBehaviour
         btnTop += btnHeight + 20 * scale;
 		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "快速认证", style))
 		{
-            string userIdentifier = "Player_unique_Identifier11289999999";
-            AntiAddictionUIKit.StartupWithTapTap(userIdentifier);
+        
 
-
+            toAnti();
         }
 
          if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "登出", style))
@@ -147,4 +150,15 @@ public class AntiaddictionScene : MonoBehaviour
 
 
     }
+
+
+    public async void toAnti(){
+
+            // string userIdentifier = "Player_unique_Identifier11289999999";
+           var profile = await TapLogin.FetchProfile();
+
+            Debug.Log("unionID==: "+profile.unionid);
+            AntiAddictionUIKit.StartupWithTapTap(profile.unionid);
+    }
+       
 }
