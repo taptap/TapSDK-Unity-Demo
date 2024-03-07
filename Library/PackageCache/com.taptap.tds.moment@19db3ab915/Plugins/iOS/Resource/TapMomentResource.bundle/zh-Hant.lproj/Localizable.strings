@@ -1,0 +1,17 @@
+"moment_permission_intent_title" = "媒體存取";
+"moment_permission_intent_reason" = "允許遊戲存取你的相簿，你就能儲存或上傳影片／相片。";
+"moment_permission_intent_confirm" = "允許";
+"moment_permission_tip_title" = "提示";
+"moment_permission_tip_reason" = "無法存取相片／影片。請先前往設定允許存取相機。";
+"moment_permission_tip_confirm" = "前往設定";
+"moment_save_image" = "保存圖片";
+"moment_dialog_title" = "提示";
+"moment_dialog_content" = "返回遊戲。";
+"moment_dialog_confirm" = "確定";
+"moment_dialog_cancel" = "取消";
+"moment_save_success" = "保存成功";
+"moment_save_fail" = "保存失敗";
+"moment_load_fail_hint" = "數據載入失敗，點擊重試";
+"moment_security_jump_alert_title" = "確認造訪該連結";
+"moment_security_jump_alert_message" = "您將離開 TapTap 並跳轉到外部瀏覽器訪問鏈接：%s 可能有風險，請謹慎識別。";
+"moment_browser_load_failed_message" = "頁面加載失敗，點擊重試";

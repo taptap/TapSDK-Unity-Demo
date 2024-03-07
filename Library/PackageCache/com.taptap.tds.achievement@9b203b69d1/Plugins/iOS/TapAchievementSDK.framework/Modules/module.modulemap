@@ -1,0 +1,6 @@
+framework module TapAchievementSDK {
+  umbrella header "TapAchievementSDK.h"
+
+  export *
+  module * { export * }
+}

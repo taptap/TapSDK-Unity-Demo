@@ -1,0 +1,17 @@
+"moment_permission_intent_title" = "Zugang zu Medien";
+"moment_permission_intent_reason" = "Erlaube dem Spiel den Zugang zu deinem Album, sodass du Videos/Bilder speichern oder hochladen kannst.";
+"moment_permission_intent_confirm" = "Erlauben";
+"moment_permission_tip_title" = "Achtung";
+"moment_permission_tip_reason" = "Der Zugang zu Bildern/Videos ist fehlgeschlagen. Gehe bitte zu den Einstellungen, um den Zugang zur Kamera zu gewähren.";
+"moment_permission_tip_confirm" = "Geh zu den Einstellungen";
+"moment_save_image" = "Bild speichern";
+"moment_dialog_title" = "Achtung";
+"moment_dialog_content" = "Gehe zum Spiel zurück.";
+"moment_dialog_confirm" = "Bestätigen";
+"moment_dialog_cancel" = "Abbrechen";
+"moment_save_success" = "Gesichert";
+"moment_save_fail" = "Speichern fehlgeschlagen";
+"moment_load_fail_hint" = "Das Laden ist fehlgeschlagen. Probiere es noch einmal.";
+"moment_security_jump_alert_title" = "Bestätigen Sie den Zugriff auf diesen Link";
+"moment_security_jump_alert_message" = "Sie sind dabei, TapTap zu verlassen und auf einen externen Browser zuzugreifen, um den Link zu öffnen: %s. Es können Risiken bestehen, bitte identifizieren Sie sie sorgfältig.";
+"moment_browser_load_failed_message" = "Seite konnte nicht geladen werden, klicken Sie, um es erneut zu versuchen";

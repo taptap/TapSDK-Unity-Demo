@@ -1,0 +1,19 @@
+{
+    "name": "TapTap.AntiAddiction",
+    "references": [
+        "GUID:0b3f64ec33f5b4da98a17367a35b82f2",
+        "GUID:e8754b6153389406c963cd52996cc80f",
+        "GUID:7a400ff9720ed4ff3ab2d2ef3c6b8a86"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "LC.Newtonsoft.Json.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

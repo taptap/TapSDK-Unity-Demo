@@ -1,0 +1,13 @@
+"achievement_pop_title" = "Mở Thành tựu!";
+"achievement_rarity_ultra_rare" = "Cực Hiếm";
+"achievement_rarity_rare" = "Siêu Hiếm";
+"achievement_rarity_uncommon" = "Hiếm";
+"achievement_rarity_common" = "Thường";
+"achievement_locked" = "KHÓA";
+"achievement_unlocked" = "MỞ";
+"achievement_invisible_subtitle" = "Chơi tiếp để tìm hiểu";
+"achievement_invisible_title" = "Ẩn";
+"achievement_dialog_earned_date" = "- %@ đã nhận được -";
+"achievement_dialog_percent_low" = "'Ít hơn 0.1% người chơi đạt được thành tựu này'";
+"achievement_dialog_percent" = "'%.1f%% người có cái này'";
+"achievement_dialog_status" = "%1$@/%2$@ Thành tựu";

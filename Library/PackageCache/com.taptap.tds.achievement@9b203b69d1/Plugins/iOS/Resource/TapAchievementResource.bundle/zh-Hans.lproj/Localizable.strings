@@ -1,0 +1,13 @@
+"achievement_pop_title" = "恭喜解锁新成就！";
+"achievement_rarity_ultra_rare" = "极为珍贵";
+"achievement_rarity_rare" = "珍贵";
+"achievement_rarity_uncommon" = "稀有";
+"achievement_rarity_common" = "普通";
+"achievement_locked" = "未解锁";
+"achievement_unlocked" = "已解锁";
+"achievement_invisible_subtitle" = "继续玩下去就会知道了";
+"achievement_invisible_title" = "隐藏";
+"achievement_dialog_earned_date" = "- %@ 获得 -";
+"achievement_dialog_percent_low" = "\"只有不到0.1%的玩家达成此项成就\"";
+"achievement_dialog_percent" = "\"有%.1f%%的玩家达成此项成就\"";
+"achievement_dialog_status" = "已解锁%1$@项成就，共%2$@项成就";

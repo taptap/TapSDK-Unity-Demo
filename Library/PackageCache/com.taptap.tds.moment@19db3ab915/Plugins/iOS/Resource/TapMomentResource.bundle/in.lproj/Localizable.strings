@@ -1,0 +1,17 @@
+"moment_permission_intent_title" = "Akses ke media";
+"moment_permission_intent_reason" = "Izinkan game mengakses album agar kamu bisa menyimpan atau mengupload video/gambar.";
+"moment_permission_intent_confirm" = "Izinkan";
+"moment_permission_tip_title" = "Tips";
+"moment_permission_tip_reason" = "Gagal mengakses gambar/video. Silakan buka Setting untuk mengizinkan akses ke kamera terlebih dahulu.";
+"moment_permission_tip_confirm" = "Buka setting";
+"moment_save_image" = "Simpan gambar";
+"moment_dialog_title" = "Tips";
+"moment_dialog_content" = "Kembali ke game.";
+"moment_dialog_confirm" = "Konfirmasi";
+"moment_dialog_cancel" = "Cancel";
+"moment_save_success" = "Berhasil simpan";
+"moment_save_fail" = "Gagal simpan";
+"moment_load_fail_hint" = "Loading gagal. Harap coba lagi";
+"moment_security_jump_alert_title" = "Konfirmasi akses ke tautan ini";
+"moment_security_jump_alert_message" = "Anda akan meninggalkan TapTap dan beralih ke browser eksternal untuk mengakses tautan:%s mungkin ada risiko, harap berhati-hati dalam mengenalinya.";
+"moment_browser_load_failed_message" = "Halaman gagal dimuat, klik untuk mencoba lagi";

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="layout_width_max_335dp">
+        <item name="android:layout_width">335dp</item>
+    </style>
+</resources>

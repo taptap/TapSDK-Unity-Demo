@@ -1,0 +1,22 @@
+{
+    "name": "TapTap.AntiAddiction.Mobile.Runtime",
+    "references": [
+        "GUID:9b1c19877f4294a9cb33ff38fc9f1c83",
+        "GUID:0b3f64ec33f5b4da98a17367a35b82f2",
+        "GUID:43c632eee0a6f42cdaf21080b154f3a1"
+    ],
+    "includePlatforms": [
+        "Android",
+        "iOS"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        "TapTap.Common.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

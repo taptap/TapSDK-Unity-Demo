@@ -1,0 +1,17 @@
+"moment_permission_intent_title" = "多媒体访问权限";
+"moment_permission_intent_reason" = "保存或上传视频/图片需要获取访问相册权限，允许本游戏使用您的相册";
+"moment_permission_intent_confirm" = "允许";
+"moment_permission_tip_title" = "提示";
+"moment_permission_tip_reason" = "无法获取本地图片/视频，请前往系统设置里开启相册权限";
+"moment_permission_tip_confirm" = "前往";
+"moment_save_image" = "保存图片";
+"moment_dialog_title" = "提示";
+"moment_dialog_content" = "匹配成功，进入游戏";
+"moment_dialog_confirm" = "确认";
+"moment_dialog_cancel" = "取消";
+"moment_save_success" = "保存成功";
+"moment_save_fail" = "保存失败";
+"moment_load_fail_hint" = "数据加载失败，点击重试";
+"moment_security_jump_alert_title" = "确认访问该链接";
+"moment_security_jump_alert_message" = "您即将离开 TapTap 并跳转外部浏览器访问链接：%s 可能存在风险请注意识别。";
+"moment_browser_load_failed_message" = "页面加载失败，点击重试";

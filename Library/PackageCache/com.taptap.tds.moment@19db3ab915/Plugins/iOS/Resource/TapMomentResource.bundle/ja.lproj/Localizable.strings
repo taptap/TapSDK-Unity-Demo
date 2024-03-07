@@ -1,0 +1,17 @@
+"moment_permission_intent_title" = "メディアへのアクセス";
+"moment_permission_intent_reason" = "動画/画像を保存またはアップロードできるように、アルバムへのアクセス権限をゲームに許可する。";
+"moment_permission_intent_confirm" = "許可";
+"moment_permission_tip_title" = "ご注意";
+"moment_permission_tip_reason" = "画像/動画にアクセスできません。設定からカメラへのアクセス権限を許可してください。";
+"moment_permission_tip_confirm" = "設定へ移動";
+"moment_save_image" = "画像を保存する";
+"moment_dialog_title" = "ご注意";
+"moment_dialog_content" = "ゲームに戻る。";
+"moment_dialog_confirm" = "OK";
+"moment_dialog_cancel" = "キャンセル";
+"moment_save_success" = "保存しました。";
+"moment_save_fail" = "保存に失敗しました。";
+"moment_load_fail_hint" = "読み込みに失敗しました。再試行してください。";
+"moment_security_jump_alert_title" = "このリンクへのアクセスを確認します";
+"moment_security_jump_alert_message" = "TapTapを離れて外部ブラウザにアクセスし、リンク：%sに移動しようとしています。リスクがある可能性がありますので、注意深く確認してください。";
+"moment_browser_load_failed_message" = "ページの読み込みに失敗しました、再試行をクリックしてください";

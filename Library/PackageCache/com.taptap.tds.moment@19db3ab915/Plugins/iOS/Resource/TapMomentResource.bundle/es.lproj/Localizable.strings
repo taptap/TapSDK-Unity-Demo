@@ -1,0 +1,17 @@
+"moment_permission_intent_title" = "Acceso a galería";
+"moment_permission_intent_reason" = "Permite que el juego acceda a tu álbum para que puedas guardar o subir vídeos/imágenes.";
+"moment_permission_intent_confirm" = "Permitir";
+"moment_permission_tip_title" = "Atención";
+"moment_permission_tip_reason" = "No se ha podido acceder a las imágenes/vídeos. Por favor, primero ve a Ajustes para permitir el acceso a la cámara.";
+"moment_permission_tip_confirm" = "Ir a ajustes";
+"moment_save_image" = "Guardar imagen";
+"moment_dialog_title" = "Atención";
+"moment_dialog_content" = "Vuelve al juego.";
+"moment_dialog_confirm" = "Confirmar";
+"moment_dialog_cancel" = "Cancelar";
+"moment_save_success" = "Guardado";
+"moment_save_fail" = "Error al guardar";
+"moment_load_fail_hint" = "La carga ha fallado. Inténtelo de nuevo.";
+"moment_security_jump_alert_title" = "Confirma el acceso a este enlace";
+"moment_security_jump_alert_message" = "Estás a punto de salir de TapTap y acceder a un navegador externo para acceder al enlace: %s, puede haber riesgos, por favor identifícalos con cuidado.";
+"moment_browser_load_failed_message" = "Falló la carga de la página, haga clic para volver a intentarlo";

@@ -1,0 +1,17 @@
+"moment_permission_intent_title" = "Доступ к медиа";
+"moment_permission_intent_reason" = "Разрешите игре получить доступ к вашему альбому, чтобы вы могли сохранять или загружать видео/изображения.";
+"moment_permission_intent_confirm" = "Разрешить";
+"moment_permission_tip_title" = "Внимание";
+"moment_permission_tip_reason" = "Не удалось получить доступ к изображениям/видео. Пожалуйста, сначала перейдите в настройки, чтобы разрешить доступ к камере.";
+"moment_permission_tip_confirm" = "Перейти в настройки";
+"moment_save_image" = "Сохранить изображение";
+"moment_dialog_title" = "Внимание";
+"moment_dialog_content" = "Вернуться в игру.";
+"moment_dialog_confirm" = "Подтвердить";
+"moment_dialog_cancel" = "Отменить";
+"moment_save_success" = "Сохранено";
+"moment_save_fail" = "Не удалось сохранить";
+"moment_load_fail_hint" = "Не удалось загрузить. Попробуйте снова.";
+"moment_security_jump_alert_title" = "Подтвердите доступ к этой ссылке";
+"moment_security_jump_alert_message" = "Вы собираетесь покинуть TapTap и перейти на внешний браузер для доступа к ссылке :%s, может существовать риск, будьте внимательны при его определении.";
+"moment_browser_load_failed_message" = "Страница не загружается, нажмите, чтобы попробовать снова";

@@ -1,0 +1,13 @@
+"achievement_pop_title" = "Leistung freigeschaltet!";
+"achievement_rarity_ultra_rare" = "Ultra Selten";
+"achievement_rarity_rare" = "Sehr selten";
+"achievement_rarity_uncommon" = "Selten";
+"achievement_rarity_common" = "Normal";
+"achievement_locked" = "GESPERRT";
+"achievement_unlocked" = "ENTSPERRT";
+"achievement_invisible_subtitle" = "Spiele weiter, um es herauszufinden";
+"achievement_invisible_title" = "Verborgen";
+"achievement_dialog_earned_date" = "- Abgeschlossen am %@ -";
+"achievement_dialog_percent_low" = "'Weniger als 0.1% Spieler haben das erreicht'";
+"achievement_dialog_percent" = "'%.1f%% der Spieler haben dies erreicht'";
+"achievement_dialog_status" = "%1$@/%2$@ Leistungen";

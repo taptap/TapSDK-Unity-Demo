@@ -1,0 +1,25 @@
+{
+    "name": "TapTap.AntiAddiction.Standalone.Runtime",
+    "references": [
+        "GUID:9b1c19877f4294a9cb33ff38fc9f1c83",
+        "GUID:0b3f64ec33f5b4da98a17367a35b82f2",
+        "GUID:e8754b6153389406c963cd52996cc80f",
+        "GUID:7a400ff9720ed4ff3ab2d2ef3c6b8a86"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "macOSStandalone",
+        "WindowsStandalone32",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        "TapTap.Common.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

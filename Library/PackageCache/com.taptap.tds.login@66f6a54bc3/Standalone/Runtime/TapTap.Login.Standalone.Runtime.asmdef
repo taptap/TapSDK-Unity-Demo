@@ -1,0 +1,22 @@
+{
+    "name": "TapTap.Login.Standalone.Runtime",
+    "references": [
+        "GUID:e8754b6153389406c963cd52996cc80f",
+        "GUID:0b3f64ec33f5b4da98a17367a35b82f2"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "LinuxStandalone64",
+        "macOSStandalone",
+        "WindowsStandalone32",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

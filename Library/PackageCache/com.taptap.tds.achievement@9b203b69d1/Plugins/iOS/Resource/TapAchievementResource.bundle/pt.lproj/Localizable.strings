@@ -1,0 +1,13 @@
+"achievement_pop_title" = "Conquista desbloqueada!";
+"achievement_rarity_ultra_rare" = "Ultra Raro";
+"achievement_rarity_rare" = "Super Raro";
+"achievement_rarity_uncommon" = "Raro";
+"achievement_rarity_common" = "Comum";
+"achievement_locked" = "BLOQUEADO";
+"achievement_unlocked" = "DESBLOQUEADO";
+"achievement_invisible_subtitle" = "Continue jogando para descobrir";
+"achievement_invisible_title" = "Oculto";
+"achievement_dialog_earned_date" = "- Realizado em %@ -";
+"achievement_dialog_percent_low" = "'Menos de 0.1% dos jogadores realizaram isso'";
+"achievement_dialog_percent" = "'%.1f%% dos jogadores possui isso'";
+"achievement_dialog_status" = "%1$@/%2$@ Conquistas";

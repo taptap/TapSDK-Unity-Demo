@@ -1,0 +1,13 @@
+"achievement_pop_title" = "項目達成おめでとう！";
+"achievement_rarity_ultra_rare" = "エクストリーム";
+"achievement_rarity_rare" = "スーパーハード";
+"achievement_rarity_uncommon" = "ハード";
+"achievement_rarity_common" = "ノーマル";
+"achievement_locked" = "ロック中";
+"achievement_unlocked" = "完了";
+"achievement_invisible_subtitle" = "もう少しプレイしたら明らかになりますよ";
+"achievement_invisible_title" = "非表示";
+"achievement_dialog_earned_date" = "- 獲得： %@ -";
+"achievement_dialog_percent_low" = "\"この項目を達成したプレイヤーは0.1％未満です\"";
+"achievement_dialog_percent" = "\"%.1f%%のプレイヤーがこの項目を達成しました\"";
+"achievement_dialog_status" = "%1$@/%2$@　達成項目";

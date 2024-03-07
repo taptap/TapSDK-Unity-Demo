@@ -1,0 +1,12 @@
+{
+  "name": "com.taptap.tds.update",
+  "displayName": "TapTap Update",
+  "description": "TapTap Develop Service",
+  "version": "3.28.0",
+  "unity": "2019.4",
+  "license": "MIT",
+  "dependencies": {
+    "com.taptap.tds.common": "3.28.0",
+    "com.tapsdk.androiddependencyresolver": "1.2.0"
+  }
+}

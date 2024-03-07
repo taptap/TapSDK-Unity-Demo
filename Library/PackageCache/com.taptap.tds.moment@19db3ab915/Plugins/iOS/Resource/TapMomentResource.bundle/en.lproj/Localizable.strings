@@ -1,0 +1,17 @@
+"moment_permission_intent_title" = "Access to media";
+"moment_permission_intent_reason" = "Allow the game to access your album so you can save or upload videos/images.";
+"moment_permission_intent_confirm" = "Allow";
+"moment_permission_tip_title" = "Attention";
+"moment_permission_tip_reason" = "Failed to acess images/videos. Please go to Settings to allow access to the camera first.";
+"moment_permission_tip_confirm" = "Go to settings";
+"moment_save_image" = "Save image";
+"moment_dialog_title" = "Attention";
+"moment_dialog_content" = "Go back to the game.";
+"moment_dialog_confirm" = "Confirm";
+"moment_dialog_cancel" = "Cancel";
+"moment_save_success" = "Saved";
+"moment_save_fail" = "Saving Failed";
+"moment_load_fail_hint" = "Loading failed. Try again.";
+"moment_security_jump_alert_title" = "Confirm access to this link";
+"moment_security_jump_alert_message" = "You are about to leave TapTap and go to an external browser to access the link: %s, there may be risks, please identify them carefully.";
+"moment_browser_load_failed_message" = "Page failed to load, click to retry";

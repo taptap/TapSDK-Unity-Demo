@@ -1,0 +1,13 @@
+"achievement_pop_title" = "Достижение открыто!";
+"achievement_rarity_ultra_rare" = "Ультра редк.";
+"achievement_rarity_rare" = "Очень редк.";
+"achievement_rarity_uncommon" = "Редк.";
+"achievement_rarity_common" = "Обыч.";
+"achievement_locked" = "ЗАКРЫТО";
+"achievement_unlocked" = "ОТКРЫТО";
+"achievement_invisible_subtitle" = "Продолжайте играть, чтобы узнать";
+"achievement_invisible_title" = "Скрыто";
+"achievement_dialog_earned_date" = "- Достигнуто %@ -";
+"achievement_dialog_percent_low" = "'Менее 0,1% игроков достигли этого'";
+"achievement_dialog_percent" = "'Менее %.1f%% игроков приобрели это'";
+"achievement_dialog_status" = "%1$@/%2$@ достижения";

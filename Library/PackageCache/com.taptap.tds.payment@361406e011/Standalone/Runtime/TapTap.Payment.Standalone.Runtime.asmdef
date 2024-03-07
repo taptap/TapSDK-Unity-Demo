@@ -1,0 +1,22 @@
+{
+    "name": "TapTap.Payment.Standalone.Runtime",
+    "references": [
+        "GUID:dbf1f72222b5446c6a41cdd259c2dbaa",
+        "GUID:0b3f64ec33f5b4da98a17367a35b82f2"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "LinuxStandalone64",
+        "macOSStandalone",
+        "WindowsStandalone32",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

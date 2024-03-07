@@ -1,0 +1,17 @@
+"moment_permission_intent_title" = "เข้าถึงสื่อ";
+"moment_permission_intent_reason" = "อนุญาตให้เกมเข้าถึงอัลบั้มของคุณ เพื่อให้คุณสามารถบันทึกหรืออัปโหลดวิดีโอ/รูปภาพได้";
+"moment_permission_intent_confirm" = "อนุญาต";
+"moment_permission_tip_title" = "ทิปส์";
+"moment_permission_tip_reason" = "ไม่สามารถเข้าถึงรูปภาพ/วิดีโอได้ โปรดไปที่การตั้งค่าเพื่ออนุญาตการเข้าถึงกล้องก่อน";
+"moment_permission_tip_confirm" = "ไปที่การตั้งค่า";
+"moment_save_image" = "บันทึกรูปภาพ";
+"moment_dialog_title" = "ทิปส์";
+"moment_dialog_content" = "กลับไปที่เกม";
+"moment_dialog_confirm" = "ยืนยัน";
+"moment_dialog_cancel" = "ยกเลิก";
+"moment_save_success" = "บันทึกสำเร็จ";
+"moment_save_fail" = "บันทึกไม่สำเร็จ";
+"moment_load_fail_hint" = "การโหลดล้มเหลว โปรดลองใหม่ภายหลัง";
+"moment_security_jump_alert_title" = "ยืนยันการเข้าถึงลิงค์นี้";
+"moment_security_jump_alert_message" = "คุณกำลังจะออกจาก TapTap และไปที่เบราว์เซอร์ภายนอกเพื่อเข้าถึงลิงค์ :%s อาจมีความเสี่ยง โปรดระบุอย่างระมัดระวัง";
+"moment_browser_load_failed_message" = "ไม่สามารถโหลดหน้านี้ได้ คลิกเพื่อลองใหม่";

@@ -1,0 +1,70 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-de/values-de.xml",
+            "map": [
+                {
+                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/bfbcaf2995994f2288690310d05519c3/TapAchievement_3.24.0/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,138,234,339,414,509,575,631,706,767,831,902,965",
+                        "endColumns": "82,95,104,74,94,65,55,74,60,63,70,62,58",
+                        "endOffsets": "133,229,334,409,504,570,626,701,762,826,897,960,1019"
+                    }
+                },
+                {
+                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/66861aed557483adad4513856188e602/TapLicense_3.24.0/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,232,338,419,489,557,662,735",
+                        "endColumns": "176,105,80,69,67,104,72,60",
+                        "endOffsets": "227,333,414,484,552,657,730,791"
+                    },
+                    "to": {
+                        "startLines": "17,18,19,20,21,22,23,24",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "1197,1374,1480,1561,1631,1699,1804,1877",
+                        "endColumns": "176,105,80,69,67,104,72,60",
+                        "endOffsets": "1369,1475,1556,1626,1694,1799,1872,1933"
+                    }
+                },
+                {
+                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3beabf4b7f4f754e8efca3a43cf774ba/TapMoment_3.24.0/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,192,251,312,385,441,546,616,779,855,938,1115,1179,1249,1310,1368,1607",
+                        "endColumns": "136,58,60,72,55,104,69,162,75,82,176,63,69,60,57,238,103",
+                        "endOffsets": "187,246,307,380,436,541,611,774,850,933,1110,1174,1244,1305,1363,1602,1706"
+                    },
+                    "to": {
+                        "startLines": "25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1938,2075,2134,2195,2268,2324,2429,2499,2662,2738,2821,2998,3062,3132,3193,3251,3490",
+                        "endColumns": "136,58,60,72,55,104,69,162,75,82,176,63,69,60,57,238,103",
+                        "endOffsets": "2070,2129,2190,2263,2319,2424,2494,2657,2733,2816,2993,3057,3127,3188,3246,3485,3589"
+                    }
+                },
+                {
+                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/8f51d0027e132b9d5be2c8f2e7d51ed8/TapBillboard_3.24.0/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,108",
+                        "endColumns": "52,119",
+                        "endOffsets": "103,223"
+                    },
+                    "to": {
+                        "startLines": "15,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "1024,1077",
+                        "endColumns": "52,119",
+                        "endOffsets": "1072,1192"
+                    }
+                }
+            ]
+        }
+    ]
+}

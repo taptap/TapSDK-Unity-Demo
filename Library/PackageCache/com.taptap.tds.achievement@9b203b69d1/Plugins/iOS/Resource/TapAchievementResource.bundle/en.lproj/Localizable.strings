@@ -1,0 +1,13 @@
+"achievement_pop_title" = "Achievement unlocked!";
+"achievement_rarity_ultra_rare" = "Ultra Rare";
+"achievement_rarity_rare" = "Super Rare";
+"achievement_rarity_uncommon" = "Rare";
+"achievement_rarity_common" = "Common";
+"achievement_locked" = "LOCKED";
+"achievement_unlocked" = "UNLOCKED";
+"achievement_invisible_subtitle" = "Keep playing to find out";
+"achievement_invisible_title" = "Hidden";
+"achievement_dialog_earned_date" = "- Accomplished on %@ -";
+"achievement_dialog_percent_low" = "'Fewer than 0.1% of players have achieved this'";
+"achievement_dialog_percent" = "'%.1f%% of players have this'";
+"achievement_dialog_status" = "%1$@/%2$@ Achievements";

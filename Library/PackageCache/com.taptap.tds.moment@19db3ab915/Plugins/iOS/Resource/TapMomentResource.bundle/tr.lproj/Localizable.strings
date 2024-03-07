@@ -1,0 +1,17 @@
+"moment_permission_intent_title" = "Medya Erişimi";
+"moment_permission_intent_reason" = "Video/görsel kaydetmek veya yüklemek için oyunun albümüne erişmesine izin ver.";
+"moment_permission_intent_confirm" = "İzin Ver";
+"moment_permission_tip_title" = "Dikkat";
+"moment_permission_tip_reason" = "Görsellere/videolara erişilemiyor. Lütfen önce Ayarlar'a giderek kamera erişimine izin verin.";
+"moment_permission_tip_confirm" = "Ayarlar'a Git";
+"moment_save_image" = "Görseli Kaydet";
+"moment_dialog_title" = "Dikkat";
+"moment_dialog_content" = "Oyuna geri dön.";
+"moment_dialog_confirm" = "Onayla";
+"moment_dialog_cancel" = "İptal Et";
+"moment_save_success" = "Kaydedildi";
+"moment_save_fail" = "Kaydedilemedi";
+"moment_load_fail_hint" = "Yüklenemedi. Tekrar dene.";
+"moment_security_jump_alert_title" = "Bu bağlantıya erişimi onaylayın";
+"moment_security_jump_alert_message" = "TapTap'ı terk etmek üzeresiniz ve harici bir tarayıcıya erişmek için linki ziyaret edeceksiniz: %s, riskler olabilir, lütfen dikkatli bir şekilde tanımlayın.";
+"moment_browser_load_failed_message" = "Sayfa yüklenemedi, yeniden denemek için tıklayınız";

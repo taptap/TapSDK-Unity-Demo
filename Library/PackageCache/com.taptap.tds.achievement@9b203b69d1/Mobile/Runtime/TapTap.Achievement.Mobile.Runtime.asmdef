@@ -1,0 +1,21 @@
+{
+    "name": "TapTap.Achievement.Mobile.Runtime",
+    "references": [
+        "GUID:93f19dce2f7c14970ada84bd47468070",
+        "GUID:0ab0f87386c0640798a09051c047d4ab",
+        "GUID:0b3f64ec33f5b4da98a17367a35b82f2",
+        "GUID:43c632eee0a6f42cdaf21080b154f3a1"
+    ],
+    "includePlatforms": [
+        "Android",
+        "iOS"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

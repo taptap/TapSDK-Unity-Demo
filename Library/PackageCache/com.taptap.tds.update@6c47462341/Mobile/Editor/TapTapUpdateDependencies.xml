@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dependencies>
+    <androidPackages>
+        <androidPackage spec="com.squareup.okhttp3:okhttp:3.12.1" />
+        <androidPackage spec="androidx.core:core:1.6.0" />
+        <androidPackage spec="com.google.android.flexbox:flexbox:3.0.0" />
+    </androidPackages>
+</dependencies>

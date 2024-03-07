@@ -1,0 +1,12 @@
+{
+  "name": "com.tapsdk.androiddependencyresolver",
+  "version": "1.2.0",
+  "displayName": "TapTap Android Dependency Resolver",
+  "description": "TapTap Android Dependency Resolver",
+  "unity": "2018.4",
+  "license": "MIT",
+  "dependencies": {
+    "com.leancloud.storage": "2.3.0"
+  },
+  "author": "TapTap"
+}

@@ -1,0 +1,13 @@
+"achievement_pop_title" = "Başarının kilidi açıldı!";
+"achievement_rarity_ultra_rare" = "İstisnai";
+"achievement_rarity_rare" = "Nadir";
+"achievement_rarity_uncommon" = "Seyrek";
+"achievement_rarity_common" = "Yaygın";
+"achievement_locked" = "KİLİTLİ";
+"achievement_unlocked" = "KİLİDİ AÇILDI";
+"achievement_invisible_subtitle" = "Öğrenmek için oynamaya devam et";
+"achievement_invisible_title" = "Gizli";
+"achievement_dialog_earned_date" = "- %@ tarihinde başarıldı -";
+"achievement_dialog_percent_low" = "'Oyuncuların %0,1'inden daha azı bunu başardı'";
+"achievement_dialog_percent" = "'Buna sahip olan oyuncuların oranı: %.1f%%'";
+"achievement_dialog_status" = "%1$@/%2$@ Başarı";

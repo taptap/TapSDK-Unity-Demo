@@ -1,0 +1,116 @@
+{
+    "items": {
+        "Zhs": {
+            "NetError": "网络异常，请稍后重试",
+            "NoVerification": "未查询到实名状态，防沉迷启动失败",
+            "EnterGame": "进入游戏",
+            "ExitGame": "退出游戏",
+            "Retry": "重试",
+            "OnVerified": "您已在 TapTap 实名！"
+        },
+        "En": {
+            "NetError": "Network error,please try again",
+            "NoVerification": "No Verification",
+            "EnterGame": "Enter",
+            "ExitGame": "Exit",
+            "Retry": "Retry",
+            "OnVerified": "You have verified on TapTap!"
+        },
+        "Id": {
+            "NetError": "Network error,please try again",
+            "NoVerification": "No Verification",
+            "EnterGame": "Enter",
+            "ExitGame": "Exit",
+            "Retry": "Retry",
+            "OnVerified": "Anda telah diverifikasi di TapTap!"
+        },
+        "Ja": {
+            "NetError": "ネットワークエラー、再試行してください",
+            "NoVerification": "認証なし",
+            "EnterGame": "入る",
+            "ExitGame": "出る",
+            "Retry": "リトライ",
+            "OnVerified": "TapTapで認証されました！"
+        },
+        "Ko": {
+            "NetError": "네트워크 오류, 다시 시도하십시오",
+            "NoVerification": "인증되지 않음",
+            "EnterGame": "입장",
+            "ExitGame": "종료",
+            "Retry": "재시도",
+            "OnVerified": "TapTap에서 인증되었습니다!"
+        },
+        "Th": {
+            "NetError": "ข้อผิดพลาดของเครือข่าย โปรดลองอีกครั้ง",
+            "NoVerification": "ไม่มีการยืนยัน",
+            "EnterGame": "เข้าสู่เกม",
+            "ExitGame": "ออกจากเกม",
+            "Retry": "ลองใหม่",
+            "OnVerified": "คุณได้รับการตรวจสอบบน TapTap!"
+        },
+        "Zht": {
+            "NetError": "網絡異常，請稍後重試",
+            "NoVerification": "未查詢到實名狀態，防沉迷啟動失敗",
+            "EnterGame": "進入遊戲",
+            "ExitGame": "退出遊戲",
+            "Retry": "重試",
+            "OnVerified": "您已在 TapTap 實名！"
+        },
+        "De": {
+            "NetError": "Netzwerkfehler, bitte erneut versuchen",
+            "NoVerification": "Keine Verifizierung",
+            "EnterGame": "Spiel betreten",
+            "ExitGame": "Spiel verlassen",
+            "Retry": "Wiederholen",
+            "OnVerified": "Sie wurden auf TapTap verifiziert!"
+        },
+        "Es": {
+            "NetError": "Error de red, inténtelo de nuevo",
+            "NoVerification": "Sin verificación",
+            "EnterGame": "Entrar",
+            "ExitGame": "Salir",
+            "Retry": "Reintentar",
+            "OnVerified": "¡Has sido verificado en TapTap!"
+        },
+        "Fr": {
+            "NetError": "Erreur réseau, veuillez réessayer",
+            "NoVerification": "Aucune vérification",
+            "EnterGame": "Entrer",
+            "ExitGame": "Quitter",
+            "Retry": "Réessayer",
+            "OnVerified": "Vous avez été vérifié sur TapTap!"
+        },
+        "Pt": {
+            "NetError": "Erro de rede, tente novamente",
+            "NoVerification": "Sem verificação",
+            "EnterGame": "Entrar",
+            "ExitGame": "Sair",
+            "Retry": "Tentar novamente",
+            "OnVerified": "Você foi verificado no TapTap!"
+        },
+        "Ru": {
+            "NetError": "Ошибка сети, попробуйте снова",
+            "NoVerification": "Без верификации",
+            "EnterGame": "Войти",
+            "ExitGame": "Выйти",
+            "Retry": "Повторить",
+            "OnVerified": "Вы прошли проверку на TapTap!"
+        },
+        "Tr": {
+            "NetError": "Ağ hatası, lütfen tekrar deneyin",
+            "NoVerification": "Doğrulama yok",
+            "EnterGame": "Oyuna gir",
+            "ExitGame": "Oyundan çık",
+            "Retry": "Tekrar dene",
+            "OnVerified": "TapTap’te doğrulandınız!"
+        },
+        "Vi": {
+            "NetError": "Lỗi mạng, vui lòng thử lại",
+            "NoVerification": "Không có xác minh",
+            "EnterGame": "Vào game",
+            "ExitGame": "Thoát game",
+            "Retry": "Thử lại",
+            "OnVerified": "Bạn đã được xác minh trên TapTap!"
+        }
+    }
+}

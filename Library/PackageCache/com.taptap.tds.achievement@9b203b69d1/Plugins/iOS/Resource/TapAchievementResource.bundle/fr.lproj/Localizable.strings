@@ -1,0 +1,13 @@
+"achievement_pop_title" = "Réalisation débloquée !";
+"achievement_rarity_ultra_rare" = "Ultra rare";
+"achievement_rarity_rare" = "Super rare";
+"achievement_rarity_uncommon" = "Rare";
+"achievement_rarity_common" = "Commun";
+"achievement_locked" = "VERROUILLÉ";
+"achievement_unlocked" = "DÉBLOQUÉ";
+"achievement_invisible_subtitle" = "Continuez à jouer pour le découvrir";
+"achievement_invisible_title" = "Caché";
+"achievement_dialog_earned_date" = "- Accompli le %@ -";
+"achievement_dialog_percent_low" = "'Moins de 0,1 % des joueurs y sont parvenus'";
+"achievement_dialog_percent" = "'%.1f%% des joueurs ont ceci'";
+"achievement_dialog_status" = "%1$@/%2$@ Réalisations";

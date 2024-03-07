@@ -1,0 +1,17 @@
+"moment_permission_intent_title" = "Accéder aux Médias";
+"moment_permission_intent_reason" = "Autorisez le jeu à accéder à votre album pour que vous puissiez sauvegarder ou télécharger des vidéos/images.";
+"moment_permission_intent_confirm" = "Permettre";
+"moment_permission_tip_title" = "Prudence";
+"moment_permission_tip_reason" = "Échec de l'accès aux images/vidéos. Veuillez d'abord aller dans les paramètres pour autoriser l'accès à l'appareil photo.";
+"moment_permission_tip_confirm" = "Accéder aux options";
+"moment_save_image" = "Sauvegarder l'image";
+"moment_dialog_title" = "Prudence";
+"moment_dialog_content" = "Retournez en jeu.";
+"moment_dialog_confirm" = "Confirmez";
+"moment_dialog_cancel" = "Annuler";
+"moment_save_success" = "Sauvegardé";
+"moment_save_fail" = "Sauvegarde Échouée";
+"moment_load_fail_hint" = "Chargement échoué. Réessayez.";
+"moment_security_jump_alert_title" = "Confirmez l'accès à ce lien";
+"moment_security_jump_alert_message" = "Vous êtes sur le point de quitter TapTap et d'accéder à un navigateur externe pour accéder au lien : %s, il peut y avoir des risques, veuillez les identifier avec soin.";
+"moment_browser_load_failed_message" = "Échec de chargement de la page, cliquez pour réessayer";

@@ -1,0 +1,6 @@
+framework module TapMomentSDK {
+  umbrella header "TapMomentSDK.h"
+
+  export *
+  module * { export * }
+}
