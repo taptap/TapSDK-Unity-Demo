@@ -3,42 +3,214 @@
 
 library {
   maven_library {
-    artifactId: "TapCommon_3.18.5"
+    groupId: "com.google.android.flexbox"
+    artifactId: "flexbox"
+    version: "3.0.0"
   }
   digests {
-    sha256: "\355\177\310\vlk=\370\311S\315\n\242\341\331\310\350\026\360pE\350\320\372\313}OB\275\210d\365"
+    sha256: "^\031P\004\206\375|\216.\214z\255k\273\251\310\320\255\247\005|k2\271\265\306\0249\201Nut"
   }
 }
 library {
   maven_library {
-    artifactId: "TapLogin_3.18.5"
+    groupId: "org.jetbrains.kotlin"
+    artifactId: "kotlin-stdlib"
+    version: "1.4.32"
   }
   digests {
-    sha256: "\213(\264\311#\032F\254\345\277\365\033eD\262\371\033\310j\276/\2123\a\332\\\217)\251\207\232\365"
+    sha256: "\023\351\375>i\334r0\316\017\310s\251*N]R\035\027\233\317\033\357u\246p[\252\303\277\354\272"
   }
 }
 library {
   maven_library {
-    artifactId: "TapBillboard_3.18.5"
+    groupId: "org.jetbrains.kotlin"
+    artifactId: "kotlin-stdlib-common"
+    version: "1.4.32"
   }
   digests {
-    sha256: "\302%hK\333\365j\334\333\210l\236\203\241\206\'\260Z?\372/\237\254\230\030\251\304\342\347S\351\022"
+    sha256: "\341\377oU\356\236u\221\334\3063\367u{\254%\247\355\261\314\177s\2137\354e/\020\366jAE"
   }
 }
 library {
   maven_library {
-    artifactId: "TapAchievement_3.18.5"
+    groupId: "org.jetbrains"
+    artifactId: "annotations"
+    version: "13.0"
   }
   digests {
-    sha256: "2\345\207\033\247B\341\331d\337g\v\322\354\fy\372\376|p\025\341\244\241\032}\340\261\303\203\353\312"
+    sha256: "\254\342\241\r\310\342\325\3754\222^\312\300>I\210\262\300\370Qe\f\224\270\316\364\233\241\275\021\024x"
   }
 }
 library {
   maven_library {
-    artifactId: "AntiAddiction_3.18.5"
+    groupId: "androidx.core"
+    artifactId: "core"
+    version: "1.6.0"
   }
   digests {
-    sha256: "j\375\343\035,\243\207K\324>\232\370\037\r\210\035y\253\302\360p\315#;)\002\330\207\3634\234\351"
+    sha256: "\207]\276\310\210\311\033\005R\025u\375\030\f\300\210$\322\304\321+\020\260&\033O\235h%!N\361"
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.annotation"
+    artifactId: "annotation"
+    version: "1.2.0"
+  }
+  digests {
+    sha256: "\220)&+\335\316\021nm\002\276I\236J\375\272!\362L#\220\207\267k;W\327\351\213I\n6"
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.annotation"
+    artifactId: "annotation-experimental"
+    version: "1.1.0"
+  }
+  digests {
+    sha256: "\001W\336a\242\006@G\211j\005\200\200\363\375g\272W\255\232\224\205{?z66`$>?\220"
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.lifecycle"
+    artifactId: "lifecycle-runtime"
+    version: "2.0.0"
+  }
+  digests {
+    sha256: "\344\257\311\3466\030?o>\016\337\034\364a!\244\222\377\322\306s\a[\260\177U\307\251\235\324<\373"
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.versionedparcelable"
+    artifactId: "versionedparcelable"
+    version: "1.1.1"
+  }
+  digests {
+    sha256: "W\350\3312`\321\215[\220\a\311\356\323\306J\321Y\336\220\310`\236\277\307J4|\275QE5\244"
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.collection"
+    artifactId: "collection"
+    version: "1.0.0"
+  }
+  digests {
+    sha256: "\234\215\021{\\+\301 \241\315\376\270W\340[I[\026\303`\023W\003r\247\b\367\202~:\311\371"
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.lifecycle"
+    artifactId: "lifecycle-common"
+    version: "2.0.0"
+  }
+  digests {
+    sha256: "{\255z\030\210\004\255\352o\241\363]^\371\233p_ \275\223\354\255\336HG`\377\206\2655\376\374"
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.arch.core"
+    artifactId: "core-common"
+    version: "2.0.0"
+  }
+  digests {
+    sha256: "K\200\2637w\233Rnd\260\356\f\251\340\337C\270\b4M\024_\216\233\034B\2414\332\305z\330"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.squareup.okhttp3"
+    artifactId: "okhttp"
+    version: "3.12.1"
+  }
+  digests {
+    sha256: "\a\303\330,\247\352\364r/\000\262\332\200}\307\206\017ai\256`\317\355\317]@!\217\220\210\nF"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.squareup.okio"
+    artifactId: "okio"
+    version: "1.15.0"
+  }
+  digests {
+    sha256: "i?\243\031\247\350\2043\000`+ @#\267gO\020n\274\265w\362\335X\a!+f\021\213\322"
+  }
+}
+library {
+  maven_library {
+    artifactId: "TapConnect_3.24.1"
+  }
+  digests {
+    sha256: "\353\323@\331\017\241~[\213\323\315\304\253GwF\257*\252k,\2367-\273w\366O\201k\t\355"
+  }
+}
+library {
+  maven_library {
+    artifactId: "TapLogin_3.24.1"
+  }
+  digests {
+    sha256: "\251\340\177V\367\374\313\217o\207\354\347\302_1\\\ax\327A\376\240PN\253\304\246\200\017n\271a"
+  }
+}
+library {
+  maven_library {
+    artifactId: "TapUpdate_3.24.1"
+  }
+  digests {
+    sha256: "\227\'\2226\366\342G\320\t\354\326\357\334\365\t\256\225\2014\305\2444RT\317\036\346\232,\r~\313"
+  }
+}
+library {
+  maven_library {
+    artifactId: "AntiAddiction_3.24.1"
+  }
+  digests {
+    sha256: "\215\326\213\355\\\350%\372\222\321E\230$8I\225\205 \302\377\253f\201\257s\337\366\210\317\t\322,"
+  }
+}
+library {
+  maven_library {
+    artifactId: "AntiAddictionUI_3.24.1"
+  }
+  digests {
+    sha256: "\361B\"t\202\374\360\375\213\377^\f\312\a\333\275\325\372\r4\332z\023\333T\224\317\232_\036\246\241"
+  }
+}
+library {
+  maven_library {
+    artifactId: "TapLicense_3.24.1"
+  }
+  digests {
+    sha256: "3\364&Mt@K\230\207\210\347;\272-\022w7\340\363\306\340\274\231\341\236\326\372\256\254\321TF"
+  }
+}
+library {
+  maven_library {
+    artifactId: "TapAchievement_3.24.1"
+  }
+  digests {
+    sha256: "br:\204\033\307(\323Xq\2203\004\255\034\217\222\235QN\034k\332\001\241\275\323\b\303\300}\354"
+  }
+}
+library {
+  maven_library {
+    artifactId: "TapCommon_3.24.1"
+  }
+  digests {
+    sha256: "\250\307\275\312\340\303\236W\353h\227!J \354\032h\"\031\023\227\021\352Y\376\330z\225\254\263\030\216"
+  }
+}
+library {
+  maven_library {
+    artifactId: "TapBillboard_3.24.1"
+  }
+  digests {
+    sha256: "\370$\302\340\372C&\020\324dD\221x\237\307\001O\260\337\233*\"W)a\213\240\374\020\365\367\355"
   }
 }
 library {
@@ -51,34 +223,26 @@ library {
 }
 library {
   maven_library {
-    artifactId: "TapLicense_3.18.5"
+    artifactId: "TapMoment_3.24.1"
   }
   digests {
-    sha256: "\227\3153\206\214 \357\265qj\'|\002.$e\021\243\204\205\333\211\341r\022\251iBv^3g"
+    sha256: "\332w;pf`8\306\232\310TZ\376\003K\243\377)yr\245v/\264\376\374\362\241.\204\311B"
   }
 }
 library {
   maven_library {
-    artifactId: "TapDB_3.18.5"
+    artifactId: "TapPayment_3.24.1"
   }
   digests {
-    sha256: "q\374\247\323l\233\255\270F\000y7[\n\370\206\343H?\336\211\\\3104]s\306\362\305\212\034\310"
+    sha256: "U\265\327\256\246\256\347ct%jYg\353\2358\251\307\n\314\023-r\204!\035\336\260?\311|\023"
   }
 }
 library {
   maven_library {
-    artifactId: "TapMoment_3.18.5"
+    artifactId: "TapDB_3.24.1"
   }
   digests {
-    sha256: "%X\023DRw4ak\323\347\004N9g\333X\n\"\342\251R*\201 \222\233\273\n\003!3"
-  }
-}
-library {
-  maven_library {
-    artifactId: "AntiAddictionUI_3.18.5"
-  }
-  digests {
-    sha256: "\036\314\265\024\246\201\251\321<|dq\334\030\300\373\005\316\370\241\343\236.\266\375\313\204|\2440~\353"
+    sha256: "b\"j\240`\341\3474\335\023O\230\234-\0220\3206\317AG\342\300\365\325q\375\026\276\330\004H"
   }
 }
 library {
@@ -92,42 +256,56 @@ library {
   }
 }
 library_dependencies {
+  library_dep_index: 1
 }
 library_dependencies {
   library_index: 1
-}
-library_dependencies {
-  library_index: 2
-}
-library_dependencies {
-  library_index: 3
+  library_dep_index: 2
+  library_dep_index: 3
 }
 library_dependencies {
   library_index: 4
-}
-library_dependencies {
-  library_index: 5
-}
-library_dependencies {
-  library_index: 6
+  library_dep_index: 5
+  library_dep_index: 6
+  library_dep_index: 7
+  library_dep_index: 8
+  library_dep_index: 9
 }
 library_dependencies {
   library_index: 7
-}
-library_dependencies {
-  library_index: 8
-}
-library_dependencies {
-  library_index: 9
+  library_dep_index: 10
+  library_dep_index: 11
+  library_dep_index: 5
 }
 library_dependencies {
   library_index: 10
+  library_dep_index: 5
 }
 library_dependencies {
   library_index: 11
+  library_dep_index: 5
+}
+library_dependencies {
+  library_index: 8
+  library_dep_index: 5
+  library_dep_index: 9
+}
+library_dependencies {
+  library_index: 9
+  library_dep_index: 5
+}
+library_dependencies {
+  library_index: 12
+  library_dep_index: 13
+}
+library_dependencies {
+  library_index: 27
+}
+library_dependencies {
+  library_index: 28
 }
 module_dependencies {
   module_name: "base"
-  dependency_index: 10
-  dependency_index: 11
+  dependency_index: 27
+  dependency_index: 28
 }

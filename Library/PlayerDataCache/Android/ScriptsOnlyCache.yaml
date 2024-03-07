@@ -5,7 +5,6 @@ ScriptsOnlyBuild:
     - AchievementScene
     - AntiaddictionScene
     - AwokenUpdateScene
-    - BillboardScene
     - FriendScene
     - GamesavesScene
     - InsideAccoundScene
@@ -13,17 +12,19 @@ ScriptsOnlyBuild:
     - LoginScene
     - MainScene
     - MomentScene
+    - MultiplayerScene
     - PayScene
     - RTCScene
     - StorageScene
     - TapDBScene
+    - TdsDLCScene
     TapTap.Achievement.Standalone.Runtime.dll:
     - TapTap.Achievement.Standalone.TapAchievementDetailPanel
     - TapTap.Achievement.Standalone.TapAchievementItem
     - TapTap.Achievement.Standalone.TapAchievementPanel
     - TapTap.Achievement.Standalone.TapAchievementToast
     TapTap.AntiAddiction.dll:
-    - TapTap.AntiAddiction.Internal.TapTapChinaVerifyFinishPanelController
+    - TapTap.AntiAddiction.Internal.TapTapAntiAddictionQuickVerifyTipController
     - TapTap.AntiAddiction.Internal.TaptapAntiAddictionHealthPaymentController
     - TapTap.AntiAddiction.Internal.TaptapAntiAddictionHealthReminderController
     - TapTap.AntiAddiction.Internal.TaptapAntiAddictionIDInputController
@@ -33,7 +34,10 @@ ScriptsOnlyBuild:
     - TapTap.UI.AillieoTech.ScrollViewEx
     - TapTap.UI.GraphicRaycasterBugFixed
     - TapTap.UI.LoadingPanelController
-    - TapTap.UI.ToastPanelController
+    - TapTap.UI.ToastBlackPanelController
+    - TapTap.UI.ToastWhitePanelController
+    TapTap.Login.Standalone.Runtime.dll:
+    - TapTap.Login.Internal.ClientButtonListener
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     UnityEditor.TestRunner.dll:
@@ -52,8 +56,10 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Mask
     - UnityEngine.UI.RawImage
     - UnityEngine.UI.ScrollRect
+    - UnityEngine.UI.Shadow
     - UnityEngine.UI.Text
     - UnityEngine.UI.Toggle
+    - UnityEngine.UI.ToggleGroup
     - UnityEngine.UI.VerticalLayoutGroup
   serializedClasses:
     TapTap.Common.Runtime:
@@ -98,7 +104,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9050}
+      Script: {instanceID: 9210}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -127,7 +133,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 3318}
+      Script: {instanceID: 3364}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -156,7 +162,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 2766}
+      Script: {instanceID: 2802}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -185,36 +191,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 5374}
-    - Class: 115
-      Script: {instanceID: 0}
-    - Class: 157
-      Script: {instanceID: 0}
-    - Class: 196
-      Script: {instanceID: 0}
-    Assets/Scenes/BillboardScene.unity:
-    - Class: 1
-      Script: {instanceID: 0}
-    - Class: 4
-      Script: {instanceID: 0}
-    - Class: 20
-      Script: {instanceID: 0}
-    - Class: 21
-      Script: {instanceID: 0}
-    - Class: 28
-      Script: {instanceID: 0}
-    - Class: 48
-      Script: {instanceID: 0}
-    - Class: 81
-      Script: {instanceID: 0}
-    - Class: 89
-      Script: {instanceID: 0}
-    - Class: 104
-      Script: {instanceID: 0}
-    - Class: 108
-      Script: {instanceID: 0}
-    - Class: 114
-      Script: {instanceID: 8898}
+      Script: {instanceID: 5454}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -243,7 +220,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 6576}
+      Script: {instanceID: 6686}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -272,7 +249,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 6830}
+      Script: {instanceID: 6948}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -301,7 +278,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 7772}
+      Script: {instanceID: 7914}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -330,7 +307,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 6532}
+      Script: {instanceID: 6642}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -353,7 +330,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 4756}
+      Script: {instanceID: 4826}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -376,7 +353,36 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 6034}
+      Script: {instanceID: 6144}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    Assets/Scenes/MultiplayerScene.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 5812}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -405,7 +411,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 31056}
+      Script: {instanceID: 1686}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -434,7 +440,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 3756}
+      Script: {instanceID: 3816}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -469,63 +475,71 @@ ScriptsOnlyBuild:
     - Class: 111
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1622}
+      Script: {instanceID: 1646}
     - Class: 114
-      Script: {instanceID: 1624}
+      Script: {instanceID: 1648}
     - Class: 114
-      Script: {instanceID: 1626}
+      Script: {instanceID: 1650}
     - Class: 114
-      Script: {instanceID: 1628}
+      Script: {instanceID: 1652}
     - Class: 114
-      Script: {instanceID: 1630}
+      Script: {instanceID: 1654}
     - Class: 114
-      Script: {instanceID: 1760}
+      Script: {instanceID: 1656}
     - Class: 114
-      Script: {instanceID: 1914}
+      Script: {instanceID: 1658}
     - Class: 114
-      Script: {instanceID: 2504}
+      Script: {instanceID: 1794}
     - Class: 114
-      Script: {instanceID: 2592}
+      Script: {instanceID: 1932}
     - Class: 114
-      Script: {instanceID: 3020}
+      Script: {instanceID: 1950}
     - Class: 114
-      Script: {instanceID: 3088}
+      Script: {instanceID: 2624}
     - Class: 114
-      Script: {instanceID: 3144}
+      Script: {instanceID: 3062}
     - Class: 114
-      Script: {instanceID: 3420}
+      Script: {instanceID: 3130}
     - Class: 114
-      Script: {instanceID: 3620}
+      Script: {instanceID: 3188}
     - Class: 114
-      Script: {instanceID: 4266}
+      Script: {instanceID: 3452}
     - Class: 114
-      Script: {instanceID: 4336}
+      Script: {instanceID: 3680}
     - Class: 114
-      Script: {instanceID: 4410}
+      Script: {instanceID: 4332}
     - Class: 114
-      Script: {instanceID: 4844}
+      Script: {instanceID: 4404}
     - Class: 114
-      Script: {instanceID: 5354}
+      Script: {instanceID: 4860}
     - Class: 114
-      Script: {instanceID: 5684}
+      Script: {instanceID: 4918}
     - Class: 114
-      Script: {instanceID: 6700}
+      Script: {instanceID: 5434}
     - Class: 114
-      Script: {instanceID: 7048}
+      Script: {instanceID: 5774}
     - Class: 114
-      Script: {instanceID: 7142}
+      Script: {instanceID: 6816}
     - Class: 114
-      Script: {instanceID: 7190}
+      Script: {instanceID: 7172}
     - Class: 114
-      Script: {instanceID: 7504}
+      Script: {instanceID: 7188}
     - Class: 114
-      Script: {instanceID: 7816}
+      Script: {instanceID: 7250}
     - Class: 114
-      Script: {instanceID: 7894}
+      Script: {instanceID: 7272}
     - Class: 114
-      Script: {instanceID: 8242}
+      Script: {instanceID: 7320}
     - Class: 114
-      Script: {instanceID: 9066}
+      Script: {instanceID: 7640}
+    - Class: 114
+      Script: {instanceID: 7960}
+    - Class: 114
+      Script: {instanceID: 8040}
+    - Class: 114
+      Script: {instanceID: 8396}
+    - Class: 114
+      Script: {instanceID: 9226}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -566,7 +580,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 5828}
+      Script: {instanceID: 5924}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -595,7 +609,36 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 5664}
+      Script: {instanceID: 5754}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    Assets/Scenes/TdsDLCScene.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 7750}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -605,16 +648,28 @@ ScriptsOnlyBuild:
   scriptHashData:
   - hash:
       serializedVersion: 2
+      Hash: a6e561615949734e9f12f9b61661f43e
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Image
+  - hash:
+      serializedVersion: 2
+      Hash: 69415240821be7986b27e72bf9609a30
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Button
+  - hash:
+      serializedVersion: 2
       Hash: bcaee4c2a83047257b5f47d6ed264b75
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: Toggle
   - hash:
       serializedVersion: 2
-      Hash: a6e561615949734e9f12f9b61661f43e
+      Hash: 040dd48e3a027d5424519a5fa2009df4
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
-    className: Image
+    className: ScrollRect
   - hash:
       serializedVersion: 2
       Hash: 699619b86d9359741a4f58540298c80b
@@ -623,10 +678,10 @@ ScriptsOnlyBuild:
     className: Text
   - hash:
       serializedVersion: 2
-      Hash: 040dd48e3a027d5424519a5fa2009df4
+      Hash: c1d728126ff1918728036c59106d32b2
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
-    className: ScrollRect
+    className: RawImage
   - hash:
       serializedVersion: 2
       Hash: a1aa98c78061c6f03a8c124cda576e67
@@ -639,6 +694,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UIElements
     className: PanelRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 559f599ae905e2061d8a97549ef4dcee
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PayScene
   - hash:
       serializedVersion: 2
       Hash: 7ae8cd48c89027257f70cfc95b4d4495
@@ -729,12 +790,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnJointBreakMessageListener
-  - hash:
-      serializedVersion: 2
-      Hash: c1d728126ff1918728036c59106d32b2
-    assemblyName: UnityEngine.UI.dll
-    namespaceName: UnityEngine.UI
-    className: RawImage
   - hash:
       serializedVersion: 2
       Hash: ed9146c22c1fc8eebbea1a8da76a7761
@@ -873,12 +928,6 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: ToggleGroup
-  - hash:
-      serializedVersion: 2
-      Hash: 69415240821be7986b27e72bf9609a30
-    assemblyName: UnityEngine.UI.dll
-    namespaceName: UnityEngine.UI
-    className: Button
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -1091,16 +1140,22 @@ ScriptsOnlyBuild:
     className: LoginScene
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: TapTap.Login.Standalone.Runtime.dll
+    namespaceName: TapTap.Login.Internal
+    className: ClientButtonListener
+  - hash:
+      serializedVersion: 2
       Hash: 6980e81ddc615a861309d2d659cc3760
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_SubMeshUI
   - hash:
       serializedVersion: 2
-      Hash: 5f4d11df1ce84741c9910bbb132b16ca
+      Hash: 0b4fb64d42ab2b1bc0951632b1470bc5
     assemblyName: TapTap.Common.Runtime.dll
     namespaceName: TapTap.UI
-    className: ToastPanelController
+    className: ToastBlackPanelController
   - hash:
       serializedVersion: 2
       Hash: fd68d84f33fad85aac38f2739c0ee270
@@ -1205,6 +1260,12 @@ ScriptsOnlyBuild:
     className: HorizontalLayoutGroup
   - hash:
       serializedVersion: 2
+      Hash: 1fbfc8f5d9759ad810c770cd2bab537a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MultiplayerScene
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
@@ -1295,7 +1356,7 @@ ScriptsOnlyBuild:
     className: TextMeshProUGUI
   - hash:
       serializedVersion: 2
-      Hash: 97649f95d78b20fc51cee20fbf858a1e
+      Hash: 01a687d08c9c548205f3c99728d36bc2
     assemblyName: TapTap.AntiAddiction.dll
     namespaceName: TapTap.AntiAddiction.Internal
     className: TaptapAntiAddictionHealthReminderController
@@ -1343,13 +1404,25 @@ ScriptsOnlyBuild:
     className: MarkerTrack
   - hash:
       serializedVersion: 2
+      Hash: 788cc6b8d8621f7bf35601f782e0a70a
+    assemblyName: TapTap.Common.Runtime.dll
+    namespaceName: TapTap.UI
+    className: ToastWhitePanelController
+  - hash:
+      serializedVersion: 2
       Hash: 8e6ceabfd38a184413d69b7db56c89cc
     assemblyName: UnityEngine.TestRunner.dll
     namespaceName: UnityEngine.TestTools
     className: BeforeAfterTestCommandState
   - hash:
       serializedVersion: 2
-      Hash: e348d75344259615226ba40242851d10
+      Hash: 3455f62eb94622acb4bd3869230d053f
+    assemblyName: TapTap.AntiAddiction.dll
+    namespaceName: TapTap.AntiAddiction.Internal
+    className: TapTapAntiAddictionQuickVerifyTipController
+  - hash:
+      serializedVersion: 2
+      Hash: 3828919a0b0ee1f290335f6f22f779c5
     assemblyName: TapTap.AntiAddiction.dll
     namespaceName: TapTap.AntiAddiction.Internal
     className: TaptapAntiAddictionIDInputController
@@ -1401,6 +1474,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnCollisionExitMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 1fbfc8f5d9759ad810c770cd2bab537a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TdsDLCScene
   - hash:
       serializedVersion: 2
       Hash: 18c222bef9ae745ce69ddde9b74337ca
@@ -1517,7 +1596,7 @@ ScriptsOnlyBuild:
     className: ControlTrack
   - hash:
       serializedVersion: 2
-      Hash: d0e6a21fdc00e02c8e7840647f294ae5
+      Hash: cd08546050dfae475a4633c8e17c2a88
     assemblyName: TapTap.AntiAddiction.dll
     namespaceName: TapTap.AntiAddiction.Internal
     className: TaptapAntiAddictionHealthPaymentController
@@ -1557,12 +1636,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_ScrollbarEventHandler
-  - hash:
-      serializedVersion: 2
-      Hash: 1fbfc8f5d9759ad810c770cd2bab537a
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: BillboardScene
   - hash:
       serializedVersion: 2
       Hash: 8220b46879dc5e37db1b940c938f5744
@@ -1605,12 +1678,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
-  - hash:
-      serializedVersion: 2
-      Hash: 559f599ae905e2061d8a97549ef4dcee
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: PayScene
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
@@ -1620,7 +1687,6 @@ ScriptsOnlyBuild:
   - Assets/Scenes/AntiaddictionScene.unity
   - Assets/Scenes/InsideAccoundScene.unity
   - Assets/Scenes/AchievementScene.unity
-  - Assets/Scenes/BillboardScene.unity
   - Assets/Scenes/StorageScene.unity
   - Assets/Scenes/GamesavesScene.unity
   - Assets/Scenes/LeaderboardScene.unity
@@ -1629,4 +1695,6 @@ ScriptsOnlyBuild:
   - Assets/GiftScene.unity
   - Assets/Scenes/AwokenUpdateScene.unity
   - Assets/Scenes/PayScene.unity
+  - Assets/Scenes/TdsDLCScene.unity
+  - Assets/Scenes/MultiplayerScene.unity
   playerPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Tds_demo.apk

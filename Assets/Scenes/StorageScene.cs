@@ -262,17 +262,8 @@ public class StorageScene : MonoBehaviour
 
     public async void searchObject(){
         LCQuery<LCObject> query = new LCQuery<LCObject>("Todo");
-        LCObject todo = await query.Get("64b9eda53d92abed054dc76678");
-        // todo 就是 ObjectId 为 637f4066ba896540ba264dc2 的 Todo 实例
-        string title = todo["title"] as string;
-        int priority = (int)(todo["priority"]);
-
-        // 获取内置属性
-        string objectId = todo.ObjectId;
-        DateTime updatedAt = todo.UpdatedAt;
-        DateTime createdAt = todo.CreatedAt;
-        UnityNativeToastsHelper.ShowShortText("查询对象成功："+ title +"--" + priority);
-        Debug.Log("查询对象成功=="+objectId+" == "+ title);
+        query.WhereEqualTo("Uidc", "9f598b7f");
+        LCObject todo = await query.First();
 
 
      

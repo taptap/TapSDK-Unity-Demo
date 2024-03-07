@@ -4,54 +4,47 @@
             "outputFile": "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rCN/values-zh-rCN.xml",
             "map": [
                 {
-                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/b7c2324ab606a92d6be6abc8fee96e7d/TapAchievement_3.21.0/res/values-zh-rCN/values-zh-rCN.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,135,222,314,399,480,550,612,682,750,816,890,960",
-                        "endColumns": "79,86,91,84,80,69,61,69,67,65,73,69,63",
-                        "endOffsets": "130,217,309,394,475,545,607,677,745,811,885,955,1019"
-                    },
-                    "to": {
-                        "startLines": "24,25,26,27,28,29,30,31,32,33,34,35,36",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "1358,1438,1525,1617,1702,1783,1853,1915,1985,2053,2119,2193,2263",
-                        "endColumns": "79,86,91,84,80,69,61,69,67,65,73,69,63",
-                        "endOffsets": "1433,1520,1612,1697,1778,1848,1910,1980,2048,2114,2188,2258,2322"
-                    }
-                },
-                {
-                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/aa90aaa3dc0d51df3f2ef4551adefa3f/TapLicense_3.21.0/res/values-zh-rCN/values-zh-rCN.xml",
+                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/66861aed557483adad4513856188e602/TapLicense_3.24.0/res/values-zh-rCN/values-zh-rCN.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,113,173,232,322,395,466,533",
-                        "endColumns": "57,59,58,89,72,70,66,62",
-                        "endOffsets": "108,168,227,317,390,461,528,591"
+                        "startOffsets": "55,146,220,285,351,419,486,547",
+                        "endColumns": "90,73,64,65,67,66,60,56",
+                        "endOffsets": "141,215,280,346,414,481,542,599"
                     },
                     "to": {
-                        "startLines": "3,4,5,19,20,21,22,23",
+                        "startLines": "15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "100,158,218,994,1084,1157,1228,1295",
-                        "endColumns": "57,59,58,89,72,70,66,62",
-                        "endOffsets": "153,213,272,1079,1152,1223,1290,1353"
+                        "startOffsets": "881,972,1046,1111,1177,1245,1312,1373",
+                        "endColumns": "90,73,64,65,67,66,60,56",
+                        "endOffsets": "967,1041,1106,1172,1240,1307,1368,1425"
                     }
                 },
                 {
-                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/49dc8ba7ee95b39d878917c0d7476873/TapMoment_3.21.0/res/values-zh-rCN/values-zh-rCN.xml",
+                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/bfbcaf2995994f2288690310d05519c3/TapAchievement_3.24.0/res/values-zh-rCN/values-zh-rCN.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,100,146,199,243,298,355,441,501,555,632,684,727,771",
-                        "endColumns": "44,45,52,43,54,56,85,59,53,76,51,42,43,45",
-                        "endOffsets": "95,141,194,238,293,350,436,496,550,627,679,722,766,812"
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,200,281,355,425,484,535,594,651,706,769,828",
+                        "endColumns": "68,75,80,73,69,58,50,58,56,54,62,58,52",
+                        "endOffsets": "119,195,276,350,420,479,530,589,646,701,764,823,876"
+                    }
+                },
+                {
+                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/3beabf4b7f4f754e8efca3a43cf774ba/TapMoment_3.24.0/res/values-zh-rCN/values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,130,182,235,295,346,408,472,565,632,693,777,836,886,937,990,1095",
+                        "endColumns": "74,51,52,59,50,61,63,92,66,60,83,58,49,50,52,104,68",
+                        "endOffsets": "125,177,230,290,341,403,467,560,627,688,772,831,881,932,985,1090,1159"
                     },
                     "to": {
-                        "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,277,323,376,420,475,532,618,678,732,809,861,904,948",
-                        "endColumns": "44,45,52,43,54,56,85,59,53,76,51,42,43,45",
-                        "endOffsets": "95,318,371,415,470,527,613,673,727,804,856,899,943,989"
+                        "startLines": "23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1430,1505,1557,1610,1670,1721,1783,1847,1940,2007,2068,2152,2211,2261,2312,2365,2470",
+                        "endColumns": "74,51,52,59,50,61,63,92,66,60,83,58,49,50,52,104,68",
+                        "endOffsets": "1500,1552,1605,1665,1716,1778,1842,1935,2002,2063,2147,2206,2256,2307,2360,2465,2534"
                     }
                 }
             ]

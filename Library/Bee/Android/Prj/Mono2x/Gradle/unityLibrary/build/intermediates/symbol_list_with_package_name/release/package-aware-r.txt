@@ -34,6 +34,8 @@ anim tds_common_slide_sheet_land_slide_in
 anim tds_common_slide_sheet_land_slide_out
 anim tds_common_slide_sheet_port_slide_in
 anim tds_common_slide_sheet_port_slide_out
+anim tds_common_tap_toast_enter
+anim tds_common_tap_toast_exit
 anim ttos_moment_in_bottom
 anim ttos_moment_out_bottom
 attr actionBarDivider
@@ -74,6 +76,8 @@ attr alertDialogButtonGroupStyle
 attr alertDialogCenterButtons
 attr alertDialogStyle
 attr alertDialogTheme
+attr alignContent
+attr alignItems
 attr allowStacking
 attr alpha
 attr alphabeticModifiers
@@ -138,6 +142,9 @@ attr dialogPreferredPadding
 attr dialogTheme
 attr displayOptions
 attr divider
+attr dividerDrawable
+attr dividerDrawableHorizontal
+attr dividerDrawableVertical
 attr dividerHorizontal
 attr dividerPadding
 attr dividerVertical
@@ -158,7 +165,14 @@ attr editTextColor
 attr editTextStyle
 attr elevation
 attr expandActivityOverflowButtonDrawable
+attr fastScrollEnabled
+attr fastScrollHorizontalThumbDrawable
+attr fastScrollHorizontalTrackDrawable
+attr fastScrollVerticalThumbDrawable
+attr fastScrollVerticalTrackDrawable
 attr firstBaselineToTopHeight
+attr flexDirection
+attr flexWrap
 attr font
 attr fontFamily
 attr fontProviderAuthority
@@ -167,6 +181,7 @@ attr fontProviderFetchStrategy
 attr fontProviderFetchTimeout
 attr fontProviderPackage
 attr fontProviderQuery
+attr fontProviderSystemFontFamily
 attr fontStyle
 attr fontVariationSettings
 attr fontWeight
@@ -185,8 +200,20 @@ attr indeterminateProgressStyle
 attr initialActivityCount
 attr isLightTheme
 attr itemPadding
+attr justifyContent
 attr lastBaselineToBottomHeight
 attr layout
+attr layoutManager
+attr layout_alignSelf
+attr layout_flexBasisPercent
+attr layout_flexGrow
+attr layout_flexShrink
+attr layout_maxHeight
+attr layout_maxWidth
+attr layout_minHeight
+attr layout_minWidth
+attr layout_order
+attr layout_wrapBefore
 attr lineHeight
 attr listChoiceBackgroundIndicator
 attr listChoiceIndicatorMultipleAnimated
@@ -206,12 +233,14 @@ attr listPreferredItemPaddingStart
 attr logo
 attr logoDescription
 attr maxButtonHeight
+attr maxLine
 attr measureWithLargestChild
 attr menu
 attr multiChoiceItemLayout
 attr navigationContentDescription
 attr navigationIcon
 attr navigationMode
+attr nestedScrollViewStyle
 attr numericModifiers
 attr overlapAnchor
 attr paddingBottomNoButtons
@@ -229,26 +258,35 @@ attr progressBarPadding
 attr progressBarStyle
 attr queryBackground
 attr queryHint
+attr queryPatterns
 attr radioButtonStyle
 attr ratingBarStyle
 attr ratingBarStyleIndicator
 attr ratingBarStyleSmall
+attr recyclerViewStyle
+attr reverseLayout
 attr searchHintIcon
 attr searchIcon
 attr searchViewStyle
 attr seekBarStyle
 attr selectableItemBackground
 attr selectableItemBackgroundBorderless
+attr shortcutMatchRequired
 attr showAsAction
+attr showDivider
+attr showDividerHorizontal
+attr showDividerVertical
 attr showDividers
 attr showText
 attr showTitle
 attr singleChoiceItemLayout
+attr spanCount
 attr spinBars
 attr spinnerDropDownItemStyle
 attr spinnerStyle
 attr splitTrack
 attr srcCompat
+attr stackFromEnd
 attr state_above_anchor
 attr subMenuArrow
 attr submitBackground
@@ -343,6 +381,8 @@ color abc_tint_spinner
 color abc_tint_switch_track
 color accent_material_dark
 color accent_material_light
+color androidx_core_ripple_material_light
+color androidx_core_secondary_text_default_material_light
 color antiaddictionui_color_15c5ce
 color antiaddictionui_color_222222
 color antiaddictionui_color_888888
@@ -389,6 +429,9 @@ color material_grey_600
 color material_grey_800
 color material_grey_850
 color material_grey_900
+color moment_browser_load_failed_message
+color moment_security_jump_alert_message
+color moment_security_jump_alert_title
 color notification_action_color_filter
 color notification_icon_bg_color
 color primary_dark_material_dark
@@ -512,6 +555,9 @@ dimen compat_notification_large_icon_max_width
 dimen connect_dialog_bg_radius
 dimen disabled_alpha_material_dark
 dimen disabled_alpha_material_light
+dimen fastscroll_default_thickness
+dimen fastscroll_margin
+dimen fastscroll_minimum_range
 dimen float_ball_bg_height
 dimen float_ball_bg_radius
 dimen float_ball_bg_thickness
@@ -536,6 +582,9 @@ dimen hint_alpha_material_dark
 dimen hint_alpha_material_light
 dimen hint_pressed_alpha_material_dark
 dimen hint_pressed_alpha_material_light
+dimen item_touch_helper_max_drag_scroll_per_frame
+dimen item_touch_helper_swipe_escape_max_velocity
+dimen item_touch_helper_swipe_escape_velocity
 dimen notification_action_icon_size
 dimen notification_action_text_size
 dimen notification_big_circle_margin
@@ -563,6 +612,7 @@ dimen tooltip_precise_anchor_threshold
 dimen tooltip_vertical_padding
 dimen tooltip_y_offset_non_touch
 dimen tooltip_y_offset_touch
+dimen ttos_moment_fragment_browser_button_margin
 dimen user_container_copy_height
 dimen user_container_copy_width
 dimen user_container_margin
@@ -725,6 +775,7 @@ drawable icon_back
 drawable icon_close
 drawable icon_copy
 drawable icon_default_float_ball
+drawable icon_default_user_avatar
 drawable icon_default_user_bg
 drawable icon_fun_moment
 drawable icon_fun_reviews
@@ -772,9 +823,25 @@ drawable tappayment_button_close
 drawable tappayment_button_refresh
 drawable tappayment_img_network_err
 drawable tappayment_img_web_loading_err
+drawable tapupdate_bg_dialog_update
+drawable tapupdate_bg_download_progress
+drawable tapupdate_bg_loading
+drawable tapupdate_download_progress_bar
+drawable tapupdate_icon_close
+drawable tapupdate_icon_close_pressed
+drawable tapupdate_icon_download_speed
+drawable tapupdate_icon_download_speed_triangle
+drawable tapupdate_icon_error
+drawable tapupdate_icon_loading
+drawable tapupdate_icon_retry
+drawable tapupdate_link_divider
+drawable tapupdate_selector_close_button
+drawable tapupdate_selector_func_button_negative
+drawable tapupdate_selector_func_button_positive
 drawable tds_billboard_default_title_bg
 drawable tds_billboard_error_container_bg
 drawable tds_billboard_ic_close
+drawable tds_billboard_ic_default_marquee
 drawable tds_billboard_ic_loading
 drawable tds_billboard_ic_refresh
 drawable tds_billboard_loading
@@ -785,6 +852,7 @@ drawable tds_common_authorize_cancel
 drawable tds_common_authorize_cancel_pressed
 drawable tds_common_bg_gray_radius_8dp
 drawable tds_common_bg_loading
+drawable tds_common_bg_tap_toast
 drawable tds_common_bg_toast
 drawable tds_common_bg_white_radius_8dp
 drawable tds_common_btn_close
@@ -796,6 +864,7 @@ drawable tds_common_permission_alert_bg
 drawable tds_common_permission_close
 drawable tds_common_permission_negative_bg
 drawable tds_common_permission_positive_bg
+drawable tds_common_tap_toast_avatar
 drawable tds_common_webview_close
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -805,6 +874,10 @@ drawable ttos_moment_alert_close
 drawable ttos_moment_alert_negative_bg
 drawable ttos_moment_alert_positive_bg
 drawable ttos_moment_back
+drawable ttos_moment_browser_back
+drawable ttos_moment_browser_close
+drawable ttos_moment_browser_network_error
+drawable ttos_moment_browser_reload
 drawable ttos_moment_close
 drawable ttos_moment_close_normal
 drawable ttos_moment_close_pressed
@@ -813,6 +886,7 @@ drawable ttos_moment_indicator_bg
 drawable ttos_moment_loading
 drawable ttos_moment_permission_close
 drawable ttos_moment_permission_top
+drawable ttos_moment_security_jump_alert_content_close
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
 id accessibility_custom_action_1
@@ -884,11 +958,15 @@ id appPayShowMoreLinearLayout
 id appPaySpace
 id appPayTitleBarLayout
 id async
+id auto
+id back
 id backButton
+id baseline
 id blocking
 id bt_permission_cancel
 id bt_permission_ok
 id buttonPanel
+id center
 id channelIcon
 id channelName
 id channelSelectImageView
@@ -898,6 +976,8 @@ id checked
 id chronometer
 id close
 id closeButton
+id column
+id column_reverse
 id container
 id containerFrameLayout
 id containerFrameLayoutRoot
@@ -909,6 +989,7 @@ id customPanel
 id decor_content_parent
 id default_activity_button
 id dialog_button
+id dialog_check_license_tv
 id dialog_choose_cn_iv
 id dialog_choose_cn_tv
 id dialog_choose_container
@@ -928,7 +1009,11 @@ id et_user_real_name
 id expand_activities_button
 id expanded_menu
 id fl_loading_root
+id fl_root_container
 id fl_toast_loading
+id flex_end
+id flex_link_container
+id flex_start
 id forever
 id group_divider
 id home
@@ -938,31 +1023,46 @@ id image
 id include_title_bar
 id info
 id italic
+id item_touch_helper_previous_elevation
 id iv_alert_close
 id iv_back
 id iv_close
+id iv_download_speed_triangle_1
+id iv_download_speed_triangle_2
 id iv_error_tip
 id iv_floatBall
 id iv_game_icon
+id iv_icon_retry
+id iv_loading
 id iv_moment
 id iv_permission_close
+id iv_request_error
 id iv_reviews
+id iv_tap_toast
 id iv_toast_loading
+id iv_update_cancel
 id iv_user_avatar
 id iv_user_container_bg
-id iv_user_copy
 id iv_wx_pay_qr_code
+id license_dialog_choose_title_tv
 id line1
 id line3
 id listMode
 id list_item
 id ll_container
 id ll_detail_tips
+id ll_download_container
 id ll_fun_container
+id ll_func_container
 id ll_marquee_container
+id ll_progress_container
+id ll_ready_container
+id ll_retry
 id ll_root
 id ll_share_container
+id ll_speed_triangle
 id ll_use_tap_real_name_tips
+id loadFailedLayout
 id loading
 id message
 id moment_container
@@ -977,9 +1077,11 @@ id normal
 id notification_background
 id notification_main_column
 id notification_main_column_container
+id nowrap
 id off
 id on
 id parentPanel
+id pb_download_progress
 id preLoadingLinearLayout
 id progress
 id progress_circular
@@ -987,6 +1089,9 @@ id progress_horizontal
 id radio
 id refreshAreaLinearLayout
 id refreshMessageTextView
+id reload
+id reloadIcon
+id reloadMessage
 id right_icon
 id right_side
 id rl_error_container
@@ -995,6 +1100,8 @@ id rl_permission_top
 id rl_reviews_container
 id rl_user_container
 id root
+id row
+id row_reverse
 id screen
 id scrollIndicatorDown
 id scrollIndicatorUp
@@ -1012,11 +1119,15 @@ id search_src_text
 id search_voice_btn
 id select_dialog_listview
 id shortcut
+id space_around
+id space_between
+id space_evenly
 id spacer
 id split_action_bar
 id src_atop
 id src_in
 id src_over
+id stretch
 id submenuarrow
 id submit_area
 id tabMode
@@ -1024,10 +1135,15 @@ id tag_accessibility_actions
 id tag_accessibility_clickable_spans
 id tag_accessibility_heading
 id tag_accessibility_pane_title
+id tag_on_apply_window_listener
+id tag_on_receive_content_listener
+id tag_on_receive_content_mime_types
 id tag_screen_reader_focusable
+id tag_state_description
 id tag_transition_group
 id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
+id tag_window_insets_animation_callback
 id tappayment_web_title_fl
 id taptap_sdk_container
 id tds_common_tag_unhandled_key_event_manager
@@ -1038,11 +1154,13 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id time
 id title
+id titleBar
 id titleDividerNoCustom
 id title_template
 id topPanel
 id tv_agree_use_button
 id tv_alert_button_container
+id tv_alert_container
 id tv_alert_content
 id tv_alert_negative
 id tv_alert_positive
@@ -1050,35 +1168,47 @@ id tv_alert_title
 id tv_bottom_cancel
 id tv_connect_share
 id tv_detail_information_tips
+id tv_developer_info
 id tv_disagree_use_button
+id tv_download_content_title
+id tv_download_speed
+id tv_error_tips
+id tv_func_button
+id tv_func_negative
+id tv_func_positive
+id tv_func_tips
 id tv_function_button
 id tv_game_name
 id tv_limit_tips
 id tv_moment
 id tv_negative
+id tv_other_tips
 id tv_permission_content
 id tv_permission_title
 id tv_positive
+id tv_ready_tips
 id tv_real_name_tips
 id tv_retry_load
 id tv_reviews
 id tv_switch_account_button
+id tv_tap_toast
 id tv_title
 id tv_toast_message
-id tv_use_tap_authorization_confirm_button
+id tv_update_title
 id tv_user_authorization_verifying_tips
-id tv_user_id
 id tv_user_nickname
 id unchecked
 id uniform
 id unitySurfaceView
 id up
 id v_bottom_bg
+id webView
 id web_container
 id web_content
-id web_user_real_name_info
 id webview
+id wrap
 id wrap_content
+id wrap_reverse
 id wv_third_close
 id wv_third_webview
 integer abc_config_activityDefaultDur
@@ -1153,8 +1283,12 @@ layout tappayment_app_pay
 layout tappayment_app_pay_main
 layout tappayment_app_pay_qr_code
 layout tappayment_web_pay
+layout tapupdate_dialog_confrim
+layout tapupdate_dialog_loading
+layout tapupdate_dialog_update
 layout tds_common_activity_oauth_entry
 layout tds_common_permission_forward_setting
+layout tds_common_tap_toast
 layout tds_common_view_alert
 layout tds_common_view_preloading
 layout tds_common_view_refresh_area
@@ -1164,7 +1298,9 @@ layout tds_common_webview_authorize
 layout ttos_moment_activity_container
 layout ttos_moment_dialog_alert
 layout ttos_moment_dialog_bottom_sheet
+layout ttos_moment_fragment_browser
 layout ttos_moment_fragment_moment
+layout ttos_moment_security_jump_alert_content
 layout view_app_pay_channel
 string FreeformWindowOrientation_landscape
 string FreeformWindowOrientation_portrait
@@ -1198,37 +1334,60 @@ string abc_searchview_description_voice
 string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
+string achievement_dialog_earned_date
+string achievement_dialog_percent
+string achievement_dialog_percent_low
+string achievement_dialog_status
+string achievement_invisible_subtitle
+string achievement_invisible_title
+string achievement_locked
+string achievement_pop_title
+string achievement_rarity_common
+string achievement_rarity_rare
+string achievement_rarity_ultra_rare
+string achievement_rarity_uncommon
+string achievement_unlocked
 string antiaddictionui_dialog_tap_authorization_title
 string antiaddictionui_fetch_realname_fail
 string antiaddictionui_network_error
+string antiaddictionui_realname_success
 string antiaddictionui_retry
 string antiaddictionui_return_game
 string billboard_loading
 string billboard_network_error_retry
-string dialog_cancel
-string dialog_choose_tap_cn
-string dialog_choose_tap_global
-string dialog_choose_title
-string dialog_confirm
-string dialog_content
-string dialog_title
-string load_fail_hint
-string permission_intent_confirm
-string permission_intent_reason
-string permission_intent_title
-string permission_tip_confirm
-string permission_tip_reason
-string permission_tip_title
-string save_fail
-string save_image
-string save_success
+string connect_copy_success
+string connect_fun_moment
+string connect_fun_review
+string connect_fun_share
+string connect_share_url_tip
+string license_alert_download_taptap
+string license_alert_license_no
+string license_checking_license
+string license_dialog_choose_tap_cn
+string license_dialog_choose_tap_global
+string license_dialog_choose_title
+string license_download_taptap
+string license_open_taptap
+string login_account_logged_tip
+string moment_browser_load_failed_message
+string moment_dialog_cancel
+string moment_dialog_confirm
+string moment_dialog_content
+string moment_dialog_title
+string moment_load_fail_hint
+string moment_permission_intent_confirm
+string moment_permission_intent_reason
+string moment_permission_intent_title
+string moment_permission_tip_confirm
+string moment_permission_tip_reason
+string moment_permission_tip_title
+string moment_save_fail
+string moment_save_image
+string moment_save_success
+string moment_security_jump_alert_message
+string moment_security_jump_alert_title
 string search_menu_title
 string status_bar_notification_info_overflow
-string tap_connect_copy_success
-string tap_connect_fun_moment
-string tap_connect_fun_review
-string tap_connect_fun_share
-string tap_connect_share_url_tip
 string tappayment_alipay_not_installed
 string tappayment_app_pay_confirm
 string tappayment_app_pay_price_total
@@ -1244,24 +1403,6 @@ string tappayment_pay_channel_wx_qr_code
 string tappayment_pay_error
 string tappayment_show_more_payment_channel
 string tappayment_wechat_not_installed
-string taptap_alert_download_taptap
-string taptap_alert_license_no
-string taptap_string_checking_license
-string taptap_string_download_taptap
-string taptap_string_open_taptap
-string tds_achievement_string_dialog_earned_date
-string tds_achievement_string_dialog_percent
-string tds_achievement_string_dialog_percent_low
-string tds_achievement_string_dialog_status
-string tds_achievement_string_invisible_subtitle
-string tds_achievement_string_invisible_title
-string tds_achievement_string_locked
-string tds_achievement_string_pop_title
-string tds_achievement_string_rarity_common
-string tds_achievement_string_rarity_rare
-string tds_achievement_string_rarity_ultra_rare
-string tds_achievement_string_rarity_uncommon
-string tds_achievement_string_unlocked
 style AlertDialogStyle
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
@@ -1623,10 +1764,12 @@ style Widget_Compat_NotificationActionText
 style antiaddictionui_common_text_style
 style dialog
 style dialog_fragment_animation
+style layout_width_max_335dp
 style tds_common_DialogTheme
 style tds_common_animation_slideSheetDialog_landscape
 style tds_common_animation_slideSheetDialog_portrait
 style tds_common_permission_dialog
+style tds_common_tap_toast
 styleable ActionBar background backgroundSplit backgroundStacked contentInsetEnd contentInsetEndWithActions contentInsetLeft contentInsetRight contentInsetStart contentInsetStartWithNavigation customNavigationLayout displayOptions divider elevation height hideOnContentScroll homeAsUpIndicator homeLayout icon indeterminateProgressStyle itemPadding logo navigationMode popupTheme progressBarPadding progressBarStyle subtitle subtitleTextStyle title titleTextStyle
 styleable ActionBarLayout android_layout_gravity
 styleable ActionMenuItemView android_minWidth
@@ -1642,10 +1785,13 @@ styleable AppCompatTextHelper android_drawableBottom android_drawableEnd android
 styleable AppCompatTextView android_textAppearance autoSizeMaxTextSize autoSizeMinTextSize autoSizePresetSizes autoSizeStepGranularity autoSizeTextType drawableBottomCompat drawableEndCompat drawableLeftCompat drawableRightCompat drawableStartCompat drawableTint drawableTintMode drawableTopCompat firstBaselineToTopHeight fontFamily fontVariationSettings lastBaselineToBottomHeight lineHeight textAllCaps textLocale
 styleable AppCompatTheme actionBarDivider actionBarItemBackground actionBarPopupTheme actionBarSize actionBarSplitStyle actionBarStyle actionBarTabBarStyle actionBarTabStyle actionBarTabTextStyle actionBarTheme actionBarWidgetTheme actionButtonStyle actionDropDownStyle actionMenuTextAppearance actionMenuTextColor actionModeBackground actionModeCloseButtonStyle actionModeCloseDrawable actionModeCopyDrawable actionModeCutDrawable actionModeFindDrawable actionModePasteDrawable actionModePopupWindowStyle actionModeSelectAllDrawable actionModeShareDrawable actionModeSplitBackground actionModeStyle actionModeWebSearchDrawable actionOverflowButtonStyle actionOverflowMenuStyle activityChooserViewStyle alertDialogButtonGroupStyle alertDialogCenterButtons alertDialogStyle alertDialogTheme android_windowAnimationStyle android_windowIsFloating autoCompleteTextViewStyle borderlessButtonStyle buttonBarButtonStyle buttonBarNegativeButtonStyle buttonBarNeutralButtonStyle buttonBarPositiveButtonStyle buttonBarStyle buttonStyle buttonStyleSmall checkboxStyle checkedTextViewStyle colorAccent colorBackgroundFloating colorButtonNormal colorControlActivated colorControlHighlight colorControlNormal colorError colorPrimary colorPrimaryDark colorSwitchThumbNormal controlBackground dialogCornerRadius dialogPreferredPadding dialogTheme dividerHorizontal dividerVertical dropDownListViewStyle dropdownListPreferredItemHeight editTextBackground editTextColor editTextStyle homeAsUpIndicator imageButtonStyle listChoiceBackgroundIndicator listChoiceIndicatorMultipleAnimated listChoiceIndicatorSingleAnimated listDividerAlertDialog listMenuViewStyle listPopupWindowStyle listPreferredItemHeight listPreferredItemHeightLarge listPreferredItemHeightSmall listPreferredItemPaddingEnd listPreferredItemPaddingLeft listPreferredItemPaddingRight listPreferredItemPaddingStart panelBackground panelMenuListTheme panelMenuListWidth popupMenuStyle popupWindowStyle radioButtonStyle ratingBarStyle ratingBarStyleIndicator ratingBarStyleSmall searchViewStyle seekBarStyle selectableItemBackground selectableItemBackgroundBorderless spinnerDropDownItemStyle spinnerStyle switchStyle textAppearanceLargePopupMenu textAppearanceListItem textAppearanceListItemSecondary textAppearanceListItemSmall textAppearancePopupMenuHeader textAppearanceSearchResultSubtitle textAppearanceSearchResultTitle textAppearanceSmallPopupMenu textColorAlertDialogListItem textColorSearchUrl toolbarNavigationButtonStyle toolbarStyle tooltipForegroundColor tooltipFrameBackground viewInflaterClass windowActionBar windowActionBarOverlay windowActionModeOverlay windowFixedHeightMajor windowFixedHeightMinor windowFixedWidthMajor windowFixedWidthMinor windowMinWidthMajor windowMinWidthMinor windowNoTitle
 styleable ButtonBarLayout allowStacking
+styleable Capability queryPatterns shortcutMatchRequired
 styleable ColorStateListItem alpha android_alpha android_color
 styleable CompoundButton android_button buttonCompat buttonTint buttonTintMode
 styleable DrawerArrowToggle arrowHeadLength arrowShaftLength barLength color drawableSize gapBetweenBars spinBars thickness
-styleable FontFamily fontProviderAuthority fontProviderCerts fontProviderFetchStrategy fontProviderFetchTimeout fontProviderPackage fontProviderQuery
+styleable FlexboxLayout alignContent alignItems dividerDrawable dividerDrawableHorizontal dividerDrawableVertical flexDirection flexWrap justifyContent maxLine showDivider showDividerHorizontal showDividerVertical
+styleable FlexboxLayout_Layout layout_alignSelf layout_flexBasisPercent layout_flexGrow layout_flexShrink layout_maxHeight layout_maxWidth layout_minHeight layout_minWidth layout_order layout_wrapBefore
+styleable FontFamily fontProviderAuthority fontProviderCerts fontProviderFetchStrategy fontProviderFetchTimeout fontProviderPackage fontProviderQuery fontProviderSystemFontFamily
 styleable FontFamilyFont android_font android_fontStyle android_fontVariationSettings android_fontWeight android_ttcIndex font fontStyle fontVariationSettings fontWeight ttcIndex
 styleable GradientColor android_centerColor android_centerX android_centerY android_endColor android_endX android_endY android_gradientRadius android_startColor android_startX android_startY android_tileMode android_type
 styleable GradientColorItem android_color android_offset
@@ -1658,6 +1804,7 @@ styleable MenuView android_headerBackground android_horizontalDivider android_it
 styleable PopupWindow android_popupAnimationStyle android_popupBackground overlapAnchor
 styleable PopupWindowBackgroundState state_above_anchor
 styleable RecycleListView paddingBottomNoButtons paddingTopNoTitle
+styleable RecyclerView android_clipToPadding android_descendantFocusability android_orientation fastScrollEnabled fastScrollHorizontalThumbDrawable fastScrollHorizontalTrackDrawable fastScrollVerticalThumbDrawable fastScrollVerticalTrackDrawable layoutManager reverseLayout spanCount stackFromEnd
 styleable SearchView android_focusable android_imeOptions android_inputType android_maxWidth closeIcon commitIcon defaultQueryHint goIcon iconifiedByDefault layout queryBackground queryHint searchHintIcon searchIcon submitBackground suggestionRowLayout voiceIcon
 styleable Spinner android_dropDownWidth android_entries android_popupBackground android_prompt popupTheme
 styleable StateListDrawable android_constantSize android_dither android_enterFadeDuration android_exitFadeDuration android_variablePadding android_visible
@@ -1668,3 +1815,4 @@ styleable Toolbar android_gravity android_minHeight buttonGravity collapseConten
 styleable View android_focusable android_theme paddingEnd paddingStart theme
 styleable ViewBackgroundHelper android_background backgroundTint backgroundTintMode
 styleable ViewStubCompat android_id android_inflatedId android_layout
+xml tapupdate_file_provider
