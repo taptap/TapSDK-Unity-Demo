@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="achievement_dialog_earned_date">- Accompli le %s -</string>
+    <string name="achievement_dialog_percent">\'%.1f%% des joueurs ont ceci\'</string>
+    <string name="achievement_dialog_percent_low">\'Moins de 0,1 % des joueurs y sont parvenus\'</string>
+    <string name="achievement_dialog_status">%1$s/%2$s Réalisations</string>
+    <string name="achievement_invisible_subtitle">Continuez à jouer pour le découvrir</string>
+    <string name="achievement_invisible_title">Caché</string>
+    <string name="achievement_locked">VERROUILLÉ</string>
+    <string name="achievement_pop_title">Réalisation débloquée !</string>
+    <string name="achievement_rarity_common">Commun</string>
+    <string name="achievement_rarity_rare">Super rare</string>
+    <string name="achievement_rarity_ultra_rare">Ultra rare</string>
+    <string name="achievement_rarity_uncommon">Rare</string>
+    <string name="achievement_unlocked">DÉBLOQUÉ</string>
+    <string name="billboard_loading">Chargement…</string>
+    <string name="billboard_network_error_retry">Chargement échoué. Veuillez réessayer.</string>
+    <string name="connect_copy_success">Mises à jour du jeu</string>
+    <string name="connect_fun_moment">Mises à jour du jeu</string>
+    <string name="connect_fun_review">Examiner le jeu</string>
+    <string name="connect_fun_share">Mises à jour du jeu</string>
+    <string name="connect_share_url_tip">Lien copié. Partagez-le avec vos amis!</string>
+    <string name="license_alert_download_taptap">Ce jeu nécessite la dernière version du service TapTap, veuillez télécharger la dernière version de TapTap</string>
+    <string name="license_alert_license_no">Jeu non activé, veuillez acheter ce jeu auprès de TapTap</string>
+    <string name="license_checking_license">Confirmer l\'information d\'achat...</string>
+    <string name="license_dialog_choose_tap_cn">TapTap China</string>
+    <string name="license_dialog_choose_tap_global">TapTap</string>
+    <string name="license_dialog_choose_title">Sélectionnez les applications suivantes à exécuter</string>
+    <string name="license_download_taptap">Télécharger TapTap</string>
+    <string name="license_open_taptap">Ouvrir TapTap</string>
+    <string name="login_account_logged_tip">Compte connecté : %s</string>
+    <string name="moment_browser_load_failed_message">Échec de chargement de la page, cliquez pour réessayer</string>
+    <string name="moment_dialog_cancel">Annuler</string>
+    <string name="moment_dialog_confirm">Confirmez</string>
+    <string name="moment_dialog_content">Retournez en jeu.</string>
+    <string name="moment_dialog_title">Prudence</string>
+    <string name="moment_load_fail_hint">Chargement échoué. Réessayez.</string>
+    <string name="moment_permission_intent_confirm">Permettre</string>
+    <string name="moment_permission_intent_reason">Autorisez le jeu à accéder à votre album pour que vous puissiez sauvegarder ou télécharger des vidéos/images.</string>
+    <string name="moment_permission_intent_title">Accéder aux Médias</string>
+    <string name="moment_permission_tip_confirm">Accéder aux options</string>
+    <string name="moment_permission_tip_reason">Échec de l\'accès aux images/vidéos. Veuillez d\'abord aller dans les paramètres pour autoriser l\'accès à l\'appareil photo.</string>
+    <string name="moment_permission_tip_title">Prudence</string>
+    <string name="moment_save_fail">Sauvegarde Échouée</string>
+    <string name="moment_save_image">Sauvegarder l\'image</string>
+    <string name="moment_save_success">Sauvegardé</string>
+    <string name="moment_security_jump_alert_message">Vous êtes sur le point de quitter TapTap et d\'accéder à un navigateur externe pour accéder au lien : %s, il peut y avoir des risques, veuillez les identifier avec soin.</string>
+    <string name="moment_security_jump_alert_title">Confirmez l\'accès à ce lien</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

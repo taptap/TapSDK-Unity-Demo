@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="achievement_dialog_earned_date">- Conseguido en %s -</string>
+    <string name="achievement_dialog_percent">%.1f%% de jugadores consiguieron esto\'</string>
+    <string name="achievement_dialog_percent_low">Menos del 0,1% de los jugadores lo consiguieron\'</string>
+    <string name="achievement_dialog_status">%1$s/%2$s Logros</string>
+    <string name="achievement_invisible_subtitle">Sigue jugando para descubrirlo</string>
+    <string name="achievement_invisible_title">Oculto</string>
+    <string name="achievement_locked">BLOQUEADO</string>
+    <string name="achievement_pop_title">¡Logro desbloqueado!</string>
+    <string name="achievement_rarity_common">Común</string>
+    <string name="achievement_rarity_rare">Súper raro</string>
+    <string name="achievement_rarity_ultra_rare">Ultra raro</string>
+    <string name="achievement_rarity_uncommon">Raro</string>
+    <string name="achievement_unlocked">DESBLOQUEADO</string>
+    <string name="billboard_loading">Cargando…</string>
+    <string name="billboard_network_error_retry">Error de carga. Por favor, inténtelo de nuevo.</string>
+    <string name="connect_copy_success">Actualizaciones del juego</string>
+    <string name="connect_fun_moment">Actualizaciones de juego</string>
+    <string name="connect_fun_review">Revisar el juego</string>
+    <string name="connect_fun_share">Actualizaciones de juego</string>
+    <string name="connect_share_url_tip">Enlace copiado. ¡Compártelo con tus amigos!</string>
+    <string name="license_alert_download_taptap">Este juego requiere el último servicio de TapTap, por favor descargue la última versión de TapTap</string>
+    <string name="license_alert_license_no">Juego no activado, por favor compre este juego en TapTap</string>
+    <string name="license_checking_license">Comprobando información de compra...</string>
+    <string name="license_dialog_choose_tap_cn">TapTap China</string>
+    <string name="license_dialog_choose_tap_global">TapTap</string>
+    <string name="license_dialog_choose_title">Seleccione las siguientes aplicaciones para ejecutar</string>
+    <string name="license_download_taptap">Descargar TapTap</string>
+    <string name="license_open_taptap">Abrir TapTap</string>
+    <string name="login_account_logged_tip">Cuenta iniciada: %s</string>
+    <string name="moment_browser_load_failed_message">Falló la carga de la página, haga clic para volver a intentarlo</string>
+    <string name="moment_dialog_cancel">Cancelar</string>
+    <string name="moment_dialog_confirm">Confirmar</string>
+    <string name="moment_dialog_content">Vuelve al juego.</string>
+    <string name="moment_dialog_title">Atención</string>
+    <string name="moment_load_fail_hint">La carga ha fallado. Inténtelo de nuevo.</string>
+    <string name="moment_permission_intent_confirm">Permitir</string>
+    <string name="moment_permission_intent_reason">Permite que el juego acceda a tu álbum para que puedas guardar o subir vídeos/imágenes.</string>
+    <string name="moment_permission_intent_title">Acceso a galería</string>
+    <string name="moment_permission_tip_confirm">Ir a ajustes</string>
+    <string name="moment_permission_tip_reason">No se ha podido acceder a las imágenes/vídeos. Por favor, primero ve a Ajustes para permitir el acceso a la cámara.</string>
+    <string name="moment_permission_tip_title">Atención</string>
+    <string name="moment_save_fail">Error al guardar</string>
+    <string name="moment_save_image">Guardar imagen</string>
+    <string name="moment_save_success">Guardado</string>
+    <string name="moment_security_jump_alert_message">Estás a punto de salir de TapTap y acceder a un navegador externo para acceder al enlace: %s, puede haber riesgos, por favor identifícalos con cuidado.</string>
+    <string name="moment_security_jump_alert_title">Confirma el acceso a este enlace</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

@@ -1,0 +1,121 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-tr/values-tr.xml",
+            "map": [
+                {
+                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/e3479cf55b94363ab0c66312a8159144/TapMoment_3.28.2/res/values-tr/values-tr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,169,227,284,350,405,481,551,690,763,836,988,1051,1110,1171,1230,1452",
+                        "endColumns": "113,57,56,65,54,75,69,138,72,72,151,62,58,60,58,221,92",
+                        "endOffsets": "164,222,279,345,400,476,546,685,758,831,983,1046,1105,1166,1225,1447,1540"
+                    },
+                    "to": {
+                        "startLines": "31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2331,2445,2503,2560,2626,2681,2757,2827,2966,3039,3112,3264,3327,3386,3447,3506,3728",
+                        "endColumns": "113,57,56,65,54,75,69,138,72,72,151,62,58,60,58,221,92",
+                        "endOffsets": "2440,2498,2555,2621,2676,2752,2822,2961,3034,3107,3259,3322,3381,3442,3501,3723,3816"
+                    }
+                },
+                {
+                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/dc750fa304e077b92fb6bf1ba7e432e3/TapLicense_3.28.2/res/values-tr/values-tr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,208,322,414,482,550,650,718",
+                        "endColumns": "152,113,91,67,67,99,67,60",
+                        "endOffsets": "203,317,409,477,545,645,713,774"
+                    },
+                    "to": {
+                        "startLines": "22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "1530,1683,1797,1889,1957,2025,2125,2193",
+                        "endColumns": "152,113,91,67,67,99,67,60",
+                        "endOffsets": "1678,1792,1884,1952,2020,2120,2188,2249"
+                    }
+                },
+                {
+                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/f915b3c150e0c8363da6df7739266965/TapBillboard_3.28.2/res/values-tr/values-tr.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,93",
+                        "endOffsets": "108,202"
+                    },
+                    "to": {
+                        "startLines": "15,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "1014,1072",
+                        "endColumns": "57,93",
+                        "endOffsets": "1067,1161"
+                    }
+                },
+                {
+                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/ffd590c5ebb0a1a5d4160cc2b486918a/TapLogin_3.28.2/res/values-tr/values-tr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "76",
+                        "endOffsets": "127"
+                    },
+                    "to": {
+                        "startLines": "30",
+                        "startColumns": "4",
+                        "startOffsets": "2254",
+                        "endColumns": "76",
+                        "endOffsets": "2326"
+                    }
+                },
+                {
+                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/4386fbfc0756f9f5bb699dbebd59709c/TapAchievement_3.28.2/res/values-tr/values-tr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,142,241,348,419,510,572,627,702,763,821,888,951",
+                        "endColumns": "86,98,106,70,90,61,54,74,60,57,66,62,62",
+                        "endOffsets": "137,236,343,414,505,567,622,697,758,816,883,946,1009"
+                    }
+                },
+                {
+                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/254f7b5172fe1f935aa2a178d9a33879/core-1.6.0/res/values-tr/values-tr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "48",
+                        "startColumns": "4",
+                        "startOffsets": "3821",
+                        "endColumns": "100",
+                        "endOffsets": "3917"
+                    }
+                },
+                {
+                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/767eec0638eb1658ffacabe84296299e/TapConnect_3.28.2/res/values-tr/values-tr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,124,191,259,325",
+                        "endColumns": "68,66,67,65,93",
+                        "endOffsets": "119,186,254,320,414"
+                    },
+                    "to": {
+                        "startLines": "17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "1166,1235,1302,1370,1436",
+                        "endColumns": "68,66,67,65,93",
+                        "endOffsets": "1230,1297,1365,1431,1525"
+                    }
+                }
+            ]
+        }
+    ]
+}

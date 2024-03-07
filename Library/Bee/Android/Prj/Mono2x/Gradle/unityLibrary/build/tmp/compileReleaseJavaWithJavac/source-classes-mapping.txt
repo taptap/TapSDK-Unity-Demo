@@ -1,0 +1,6 @@
+com/unity3d/player/BuildConfig.java
+ com.unity3d.player.BuildConfig
+com/unity3d/player/UnityPlayerActivity.java
+ com.unity3d.player.UnityPlayerActivity
+com/tds/common/bridge/CommonBridge.java
+ com.tds.common.bridge.CommonBridge

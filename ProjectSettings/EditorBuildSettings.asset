@@ -27,8 +27,8 @@ EditorBuildSettings:
     path: Assets/Scenes/AchievementScene.unity
     guid: fe73ee21673ca4fe38f100694ce0b713
   - enabled: 0
-    path: Assets/Scenes/BillboardScene.unity
-    guid: 05809a5956e4b4d2a882ff6b71388233
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/StorageScene.unity
     guid: 1cccb1fcc241a4710b0c2ad4c38205b4
@@ -38,10 +38,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LeaderboardScene.unity
     guid: b27c7d28072de438487913ecb44b27ba
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/RTCScene.unity
     guid: 9b6ad72b78ed349b2b8044d7a4950e49
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/FriendScene.unity
     guid: a0b3481dc5b494385aad1b511c081661
   - enabled: 1

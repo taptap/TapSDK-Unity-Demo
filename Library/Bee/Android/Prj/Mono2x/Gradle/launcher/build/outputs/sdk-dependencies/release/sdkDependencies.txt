@@ -143,74 +143,74 @@ library {
 }
 library {
   maven_library {
-    artifactId: "TapConnect_3.24.1"
+    artifactId: "TapDB_3.28.2"
   }
   digests {
-    sha256: "\353\323@\331\017\241~[\213\323\315\304\253GwF\257*\252k,\2367-\273w\366O\201k\t\355"
+    sha256: "^\217\347\331\222\251E\274ozS\336a\254s(g\373<=\272\327\022\031\366\372V{\225%\316b"
   }
 }
 library {
   maven_library {
-    artifactId: "TapLogin_3.24.1"
+    artifactId: "TapCommon_3.28.2"
   }
   digests {
-    sha256: "\251\340\177V\367\374\313\217o\207\354\347\302_1\\\ax\327A\376\240PN\253\304\246\200\017n\271a"
+    sha256: "uF\002V\371-n\200\243\256dlv4X\230X\272]\035\026\260\335\017O\253\304\242\301\275A\244"
   }
 }
 library {
   maven_library {
-    artifactId: "TapUpdate_3.24.1"
+    artifactId: "TapBillboard_3.28.2"
   }
   digests {
-    sha256: "\227\'\2226\366\342G\320\t\354\326\357\334\365\t\256\225\2014\305\2444RT\317\036\346\232,\r~\313"
+    sha256: "(\243)!\016)\033AM<\376\003\344\216\276\023\316?U+\233\023,S\251\301y\203\346/$r"
   }
 }
 library {
   maven_library {
-    artifactId: "AntiAddiction_3.24.1"
+    artifactId: "TapAchievement_3.28.2"
   }
   digests {
-    sha256: "\215\326\213\355\\\350%\372\222\321E\230$8I\225\205 \302\377\253f\201\257s\337\366\210\317\t\322,"
+    sha256: ":<\023\252\027\217\216|\320\024.\375pe\005\023]\256\037\3476\202\356%\237\234\247,\023\333\022\306"
   }
 }
 library {
   maven_library {
-    artifactId: "AntiAddictionUI_3.24.1"
+    artifactId: "TapLogin_3.28.2"
   }
   digests {
-    sha256: "\361B\"t\202\374\360\375\213\377^\f\312\a\333\275\325\372\r4\332z\023\333T\224\317\232_\036\246\241"
+    sha256: "\344;m\253v7\227\213?a$%\031~S\344\201\374\201)\331\372(\350\314?|U\346\305\"\016"
   }
 }
 library {
   maven_library {
-    artifactId: "TapLicense_3.24.1"
+    artifactId: "TapLicense_3.28.2"
   }
   digests {
-    sha256: "3\364&Mt@K\230\207\210\347;\272-\022w7\340\363\306\340\274\231\341\236\326\372\256\254\321TF"
+    sha256: "\367\236^\231\261\230\264)\221 \b\035\330\236\177\254\016.N\216q\226\322\216\006>&\000\242{\031\""
   }
 }
 library {
   maven_library {
-    artifactId: "TapAchievement_3.24.1"
+    artifactId: "TapPayment_3.28.2"
   }
   digests {
-    sha256: "br:\204\033\307(\323Xq\2203\004\255\034\217\222\235QN\034k\332\001\241\275\323\b\303\300}\354"
+    sha256: "\375\307\b\020\211\200\266%n\321\201p\021\005\327\263\207\342\222\3345\261\325\201\317B\203\304 \307m\330"
   }
 }
 library {
   maven_library {
-    artifactId: "TapCommon_3.24.1"
+    artifactId: "TapMoment_3.28.2"
   }
   digests {
-    sha256: "\250\307\275\312\340\303\236W\353h\227!J \354\032h\"\031\023\227\021\352Y\376\330z\225\254\263\030\216"
+    sha256: "[ 5\343\2158\036R\326\3072f\a\213nO\026a}\000\016\353\202\023\360\226\2466\314\253\206G"
   }
 }
 library {
   maven_library {
-    artifactId: "TapBillboard_3.24.1"
+    artifactId: "TapConnect_3.28.2"
   }
   digests {
-    sha256: "\370$\302\340\372C&\020\324dD\221x\237\307\001O\260\337\233*\"W)a\213\240\374\020\365\367\355"
+    sha256: "\213=}\307\031\221\257\254\b\301d\025\257\311\342\037\022\214\374^v\204D\303\223\a\305o/\242d\213"
   }
 }
 library {
@@ -223,31 +223,26 @@ library {
 }
 library {
   maven_library {
-    artifactId: "TapMoment_3.24.1"
+    artifactId: "TapUpdate_3.28.2"
   }
   digests {
-    sha256: "\332w;pf`8\306\232\310TZ\376\003K\243\377)yr\245v/\264\376\374\362\241.\204\311B"
+    sha256: "\225\336\242r\021\355\341X\371\241[\324\353#\364\v\250\326\032\250_\357S\362\277S\3410\223\001:\324"
   }
 }
 library {
   maven_library {
-    artifactId: "TapPayment_3.24.1"
+    artifactId: "AntiAddiction_3.28.2"
   }
   digests {
-    sha256: "U\265\327\256\246\256\347ct%jYg\353\2358\251\307\n\314\023-r\204!\035\336\260?\311|\023"
+    sha256: "\334\331:8B\263l\252~Jr\300\241\273d\365\227\200V\263\001\232\312\375\340\342?N\200\341!\361"
   }
 }
 library {
   maven_library {
-    artifactId: "TapDB_3.24.1"
+    artifactId: "AntiAddictionUI_3.28.2"
   }
   digests {
-    sha256: "b\"j\240`\341\3474\335\023O\230\234-\0220\3206\317AG\342\300\365\325q\375\026\276\330\004H"
-  }
-}
-library {
-  digests {
-    sha256: "\233\343\334\037\254\016E\277B`<\351\314\027v\177\273hP\025\240/\334\214\3640\215\036\021\342\2617"
+    sha256: "+\220VY{V\262u}i\212\270\320L\316\352xV\326\033\331\377;pUk\246\261\212Y\361\000"
   }
 }
 library {
@@ -301,11 +296,7 @@ library_dependencies {
 library_dependencies {
   library_index: 27
 }
-library_dependencies {
-  library_index: 28
-}
 module_dependencies {
   module_name: "base"
   dependency_index: 27
-  dependency_index: 28
 }

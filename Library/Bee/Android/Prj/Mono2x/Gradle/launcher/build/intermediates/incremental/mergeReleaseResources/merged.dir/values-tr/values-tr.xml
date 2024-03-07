@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="achievement_dialog_earned_date">- %s tarihinde başarıldı - </string>
+    <string name="achievement_dialog_percent">Buna sahip olan oyuncuların oranı: %%.1f%\'</string>
+    <string name="achievement_dialog_percent_low">Oyuncuların %0,1\'inden daha azı bunu başardı\'</string>
+    <string name="achievement_dialog_status">%1$s/%2$s Başarı</string>
+    <string name="achievement_invisible_subtitle">Öğrenmek için oynamaya devam et</string>
+    <string name="achievement_invisible_title">Gizli</string>
+    <string name="achievement_locked">KİLİTLİ</string>
+    <string name="achievement_pop_title">Başarının kilidi açıldı!</string>
+    <string name="achievement_rarity_common">Yaygın</string>
+    <string name="achievement_rarity_rare">Nadir</string>
+    <string name="achievement_rarity_ultra_rare">İstisnai</string>
+    <string name="achievement_rarity_uncommon">Seyrek</string>
+    <string name="achievement_unlocked">KİLİDİ AÇILDI</string>
+    <string name="billboard_loading">Yükleniyor…</string>
+    <string name="billboard_network_error_retry">Yüklenemedi. Lütfen tekrar deneyin.</string>
+    <string name="connect_copy_success">Oyun güncellemeleri</string>
+    <string name="connect_fun_moment">Oyun güncellemeleri</string>
+    <string name="connect_fun_review">Oyunu gözden geçirin</string>
+    <string name="connect_fun_share">Oyun güncellemeleri</string>
+    <string name="connect_share_url_tip">Bağlantı kopyalandı. Arkadaşlarınla paylaş!</string>
+    <string name="license_alert_download_taptap">Bu oyun için en yeni TapTap hizmet desteği gerekli, lütfen TapTap\'in en güncel sürümünü indir</string>
+    <string name="license_alert_license_no">Oyun etkinleştirilmedi, lütfen bu oyunu TapTap\'ten satın al</string>
+    <string name="license_checking_license">Satın alım bilgileri kontrol ediliyor…</string>
+    <string name="license_dialog_choose_tap_cn">TapTap Çin</string>
+    <string name="license_dialog_choose_tap_global">TapTap</string>
+    <string name="license_dialog_choose_title">Çalıştırmak için aşağıdaki uygulamaları seç</string>
+    <string name="license_download_taptap">TapTap\'i İndir</string>
+    <string name="license_open_taptap">TapTap\'i Aç</string>
+    <string name="login_account_logged_tip">Giriş yapılan hesap: %s</string>
+    <string name="moment_browser_load_failed_message">Sayfa yüklenemedi, yeniden denemek için tıklayınız</string>
+    <string name="moment_dialog_cancel">İptal Et</string>
+    <string name="moment_dialog_confirm">Onayla</string>
+    <string name="moment_dialog_content">Oyuna geri dön.</string>
+    <string name="moment_dialog_title">Dikkat</string>
+    <string name="moment_load_fail_hint">Yüklenemedi. Tekrar dene.</string>
+    <string name="moment_permission_intent_confirm">İzin Ver</string>
+    <string name="moment_permission_intent_reason">Video/görsel kaydetmek veya yüklemek için oyunun albümüne erişmesine izin ver.</string>
+    <string name="moment_permission_intent_title">Medya Erişimi</string>
+    <string name="moment_permission_tip_confirm">Ayarlar\'a Git</string>
+    <string name="moment_permission_tip_reason">Görsellere/videolara erişilemiyor. Lütfen önce Ayarlar\'a giderek kamera erişimine izin verin.</string>
+    <string name="moment_permission_tip_title">Dikkat</string>
+    <string name="moment_save_fail">Kaydedilemedi</string>
+    <string name="moment_save_image">Görseli Kaydet</string>
+    <string name="moment_save_success">Kaydedildi</string>
+    <string name="moment_security_jump_alert_message">TapTap\'ı terk etmek üzeresiniz ve harici bir tarayıcıya erişmek için linki ziyaret edeceksiniz: %s, riskler olabilir, lütfen dikkatli bir şekilde tanımlayın.</string>
+    <string name="moment_security_jump_alert_title">Bu bağlantıya erişimi onaylayın</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

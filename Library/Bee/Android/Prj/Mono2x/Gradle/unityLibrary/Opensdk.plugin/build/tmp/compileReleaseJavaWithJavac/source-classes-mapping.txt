@@ -1,0 +1,2 @@
+com/tencent/opensdk/lib/BuildConfig.java
+ com.tencent.opensdk.lib.BuildConfig
