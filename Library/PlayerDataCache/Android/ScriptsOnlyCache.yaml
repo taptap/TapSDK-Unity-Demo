@@ -5,7 +5,6 @@ ScriptsOnlyBuild:
     - AchievementScene
     - AntiaddictionScene
     - AwokenUpdateScene
-    - FriendScene
     - GamesavesScene
     - InsideAccoundScene
     - LeaderboardScene
@@ -14,7 +13,6 @@ ScriptsOnlyBuild:
     - MomentScene
     - MultiplayerScene
     - PayScene
-    - RTCScene
     - StorageScene
     - TapDBScene
     - TdsDLCScene
@@ -192,35 +190,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 114
       Script: {instanceID: 5440}
-    - Class: 115
-      Script: {instanceID: 0}
-    - Class: 157
-      Script: {instanceID: 0}
-    - Class: 196
-      Script: {instanceID: 0}
-    Assets/Scenes/FriendScene.unity:
-    - Class: 1
-      Script: {instanceID: 0}
-    - Class: 4
-      Script: {instanceID: 0}
-    - Class: 20
-      Script: {instanceID: 0}
-    - Class: 21
-      Script: {instanceID: 0}
-    - Class: 28
-      Script: {instanceID: 0}
-    - Class: 48
-      Script: {instanceID: 0}
-    - Class: 81
-      Script: {instanceID: 0}
-    - Class: 89
-      Script: {instanceID: 0}
-    - Class: 104
-      Script: {instanceID: 0}
-    - Class: 108
-      Script: {instanceID: 0}
-    - Class: 114
-      Script: {instanceID: 6676}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -412,35 +381,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 114
       Script: {instanceID: 1686}
-    - Class: 115
-      Script: {instanceID: 0}
-    - Class: 157
-      Script: {instanceID: 0}
-    - Class: 196
-      Script: {instanceID: 0}
-    Assets/Scenes/RTCScene.unity:
-    - Class: 1
-      Script: {instanceID: 0}
-    - Class: 4
-      Script: {instanceID: 0}
-    - Class: 20
-      Script: {instanceID: 0}
-    - Class: 21
-      Script: {instanceID: 0}
-    - Class: 28
-      Script: {instanceID: 0}
-    - Class: 48
-      Script: {instanceID: 0}
-    - Class: 81
-      Script: {instanceID: 0}
-    - Class: 89
-      Script: {instanceID: 0}
-    - Class: 104
-      Script: {instanceID: 0}
-    - Class: 108
-      Script: {instanceID: 0}
-    - Class: 114
-      Script: {instanceID: 3808}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -978,12 +918,6 @@ ScriptsOnlyBuild:
     className: UnityOnSelectMessageListener
   - hash:
       serializedVersion: 2
-      Hash: 1fbfc8f5d9759ad810c770cd2bab537a
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: RTCScene
-  - hash:
-      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: UnityEngine.TestRunner.dll
     namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
@@ -1344,12 +1278,6 @@ ScriptsOnlyBuild:
     className: AspectRatioFitter
   - hash:
       serializedVersion: 2
-      Hash: 1fbfc8f5d9759ad810c770cd2bab537a
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: FriendScene
-  - hash:
-      serializedVersion: 2
       Hash: 760787567e1b60d64a3e421ab83ee14a
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
@@ -1690,8 +1618,6 @@ ScriptsOnlyBuild:
   - Assets/Scenes/StorageScene.unity
   - Assets/Scenes/GamesavesScene.unity
   - Assets/Scenes/LeaderboardScene.unity
-  - Assets/Scenes/RTCScene.unity
-  - Assets/Scenes/FriendScene.unity
   - Assets/GiftScene.unity
   - Assets/Scenes/AwokenUpdateScene.unity
   - Assets/Scenes/PayScene.unity

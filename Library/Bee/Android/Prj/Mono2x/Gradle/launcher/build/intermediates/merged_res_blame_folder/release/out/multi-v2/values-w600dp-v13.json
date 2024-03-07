@@ -4,7 +4,7 @@
             "outputFile": "/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w600dp-v13/values-w600dp-v13.xml",
             "map": [
                 {
-                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/e98a4f514a927bb53d08a722dd05d490/TapCommon_3.27.1/res/values-w600dp-v13/values-w600dp-v13.xml",
+                    "source": "/Users/yuwenjian/.gradle/caches/transforms-2/files-2.1/7d07043f96ef8c3d2f7ffe15586ceea4/TapCommon_3.28.2/res/values-w600dp-v13/values-w600dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -46,13 +46,10 @@
 
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
     <uses-permission android:name="android.permission.REORDER_TASKS" />
     <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
     <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
-    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
-    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
 
     <application
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -110,25 +107,12 @@
             android:name="com.tds.common.provider.CurrentConfigProvider"
             android:authorities="com.tds.demo.tap_config.provider"
             android:exported="false" />
-        <provider
-            android:name="com.taptap.services.update.TapUpdateFileProvider"
-            android:authorities="com.tds.demo.com.taptap.services.update.fileProvider"
-            android:exported="false"
-            android:grantUriPermissions="true" >
-            <meta-data
-                android:name="android.support.FILE_PROVIDER_PATHS"
-                android:resource="@xml/tapupdate_file_provider" />
-        </provider>
-        <provider
-            android:name="com.taptap.services.update.download.OkDownloadProvider"
-            android:authorities="com.tds.demo.com.taptap.services.update.okdownload"
-            android:exported="false" />
 
         <meta-data
-            android:name="com.taptap.services.update.loader"
+            android:name="com.tapsdk.billboard.loader"
             android:value="true" />
         <meta-data
-            android:name="com.tapsdk.tapconnect.loader"
+            android:name="com.tapsdk.achievement.loader"
             android:value="true" />
 
         <activity
@@ -167,13 +151,28 @@
             android:targetActivity="com.tapsdk.payment.impl.wechat.WXPayEntryActivity" />
 
         <meta-data
-            android:name="com.tapsdk.billboard.loader"
-            android:value="true" />
-        <meta-data
             android:name="com.tapsdk.moment.loader"
             android:value="true" />
         <meta-data
-            android:name="com.tapsdk.achievement.loader"
+            android:name="com.tapsdk.tapconnect.loader"
+            android:value="true" />
+
+        <provider
+            android:name="com.taptap.services.update.TapUpdateFileProvider"
+            android:authorities="com.tds.demo.com.taptap.services.update.fileProvider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/tapupdate_file_provider" />
+        </provider>
+        <provider
+            android:name="com.taptap.services.update.download.OkDownloadProvider"
+            android:authorities="com.tds.demo.com.taptap.services.update.okdownload"
+            android:exported="false" />
+
+        <meta-data
+            android:name="com.taptap.services.update.loader"
             android:value="true" />
         <meta-data
             android:name="com.tapsdk.antiaddiction.loader"

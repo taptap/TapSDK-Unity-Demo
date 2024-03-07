@@ -339,7 +339,7 @@
 -r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.leancloud.storage@64fe9b06e2/Plugins/LC.Newtonsoft.Json.dll"
 -r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.leancloud.storage@64fe9b06e2/Plugins/Storage.dll"
 -r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.leancloud.storage@64fe9b06e2/Plugins/Storage.Unity.dll"
--r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.login@66f6a54bc3/Plugins/zxing.unity.dll"
+-r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.login@fde3200ee6/Plugins/zxing.unity.dll"
 -r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.unity.collab-proxy@1.17.1/Lib/Editor/PlasticSCM/log4netPlastic.dll"
 -r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.unity.collab-proxy@1.17.1/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll"
 -r:"/Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.unity.collab-proxy@1.17.1/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll"
@@ -353,9 +353,9 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/TapTap.Common.Runtime.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
-"Library/PackageCache/com.taptap.tds.update@6c47462341/Runtime/Internal/ITapUpdateBridge.cs"
-"Library/PackageCache/com.taptap.tds.update@6c47462341/Runtime/Internal/TapUpdateInitTask.cs"
-"Library/PackageCache/com.taptap.tds.update@6c47462341/Runtime/Public/TapUpdate.cs"
+"Library/PackageCache/com.taptap.tds.update@0e3797a4f3/Runtime/Internal/ITapUpdateBridge.cs"
+"Library/PackageCache/com.taptap.tds.update@0e3797a4f3/Runtime/Internal/TapUpdateInitTask.cs"
+"Library/PackageCache/com.taptap.tds.update@0e3797a4f3/Runtime/Public/TapUpdate.cs"
 -langversion:9.0
 
 /deterministic

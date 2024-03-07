@@ -181,7 +181,7 @@ public class MainScene : MonoBehaviour
 
         }
 
-         if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "实时语音", style))
+         if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "礼包系统", style))
 		{
 			UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(10);
 
@@ -189,45 +189,30 @@ public class MainScene : MonoBehaviour
 
          btnTop += btnHeight + 20 * scale;
 
-		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "游戏好友", style))
+		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "唤起更新", style))
 		{
 
             UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(11);
 
         }
 
-         if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "礼包系统", style))
+         if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "支付系统", style))
 		{
 			UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(12);
 
 		}
         btnTop += btnHeight + 20 * scale;
 
-		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "唤起更新", style))
+		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "DLC 内购", style))
 		{
 
             UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(13);
 
         }
 
-          if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "支付系统", style))
+          if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "多人对战", style))
 		{
 			UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(14);
-
-		}
-
-         btnTop += btnHeight + 20 * scale;
-
-		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "DLC 内购", style))
-		{
-
-            UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(15);
-
-        }
-
-        if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "多人对战", style))
-		{
-			UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(16);
 
 		}
 
