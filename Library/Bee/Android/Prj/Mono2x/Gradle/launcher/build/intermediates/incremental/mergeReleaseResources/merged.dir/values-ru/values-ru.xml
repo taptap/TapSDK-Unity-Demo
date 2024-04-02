@@ -13,8 +13,6 @@
     <string name="achievement_rarity_ultra_rare">Ультра редк.</string>
     <string name="achievement_rarity_uncommon">Редк.</string>
     <string name="achievement_unlocked">ОТКРЫТО</string>
-    <string name="billboard_loading">Загрузка…</string>
-    <string name="billboard_network_error_retry">Загрузка не удалась. Попробуйте снова.</string>
     <string name="connect_copy_success">Обновления игры</string>
     <string name="connect_fun_moment">Обновления игры</string>
     <string name="connect_fun_review">Обзор игры</string>

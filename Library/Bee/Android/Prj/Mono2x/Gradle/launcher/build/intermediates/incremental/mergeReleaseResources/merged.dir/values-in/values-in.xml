@@ -13,8 +13,6 @@
     <string name="achievement_rarity_ultra_rare">Ultra Rare</string>
     <string name="achievement_rarity_uncommon">Rare</string>
     <string name="achievement_unlocked">UNLOCKED</string>
-    <string name="billboard_loading">Sedang memua…</string>
-    <string name="billboard_network_error_retry">Gagal memuat halaman. Tekan untuk mencoba lagi.</string>
     <string name="connect_copy_success">Disalin</string>
     <string name="connect_fun_moment">Pembaruan game</string>
     <string name="connect_fun_review">Review game ini</string>

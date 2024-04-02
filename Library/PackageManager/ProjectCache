@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638453942850000000
-    m_Hash: 3755749051
+      ticks: 638476410580000000
+    m_Hash: 838475556
   m_LockFileStatus:
     m_FilePath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638453943540000000
-    m_Hash: 394928879
+      ticks: 638476405320000000
+    m_Hash: 1299289288
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -147,12 +147,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
-- packageId: com.taptap.tds.moment@https://github.com/TapTap/TapMoment-Unity.git#3.28.2
+- packageId: com.taptap.tds.moment@https://github.com/TapTap/TapMoment-Unity.git#3.28.3
   testable: 0
   isDirectDependency: 1
-  version: 3.28.2
+  version: 3.28.3
   source: 5
-  resolvedPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.moment@7a0cf97df6
+  resolvedPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.moment@2af6bbbc60
   assetPath: Packages/com.taptap.tds.moment
   name: com.taptap.tds.moment
   displayName: TapTap Moment
@@ -270,6 +270,7 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     compatible:
     - 0.0.1
     - 0.0.2
@@ -374,13 +375,14 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     verified: 
   dependencies:
   - name: com.taptap.tds.common
-    version: 3.28.2
+    version: 3.28.3
   resolvedDependencies:
   - name: com.taptap.tds.common
-    version: 3.28.2
+    version: 3.28.3
   - name: com.leancloud.storage
     version: 2.3.0
   keywords: []
@@ -407,12 +409,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
-- packageId: com.taptap.tds.tapdb@https://github.com/TapTap/TapDB-Unity.git#3.28.2
+- packageId: com.taptap.tds.tapdb@https://github.com/TapTap/TapDB-Unity.git#3.28.3
   testable: 0
   isDirectDependency: 1
-  version: 3.28.2
+  version: 3.28.3
   source: 5
-  resolvedPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.tapdb@dd5ac00bab
+  resolvedPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.tapdb@b40fc34794
   assetPath: Packages/com.taptap.tds.tapdb
   name: com.taptap.tds.tapdb
   displayName: TapTap TapDB
@@ -530,6 +532,7 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     compatible:
     - 0.0.1
     - 0.0.2
@@ -634,13 +637,14 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     verified: 
   dependencies:
   - name: com.taptap.tds.common
-    version: 3.28.2
+    version: 3.28.3
   resolvedDependencies:
   - name: com.taptap.tds.common
-    version: 3.28.2
+    version: 3.28.3
   - name: com.leancloud.storage
     version: 2.3.0
   keywords: []
@@ -667,12 +671,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
-- packageId: com.taptap.tds.dlc@https://github.com/TapTap/TapLicense-Unity.git#3.28.2
+- packageId: com.taptap.tds.dlc@https://github.com/TapTap/TapLicense-Unity.git#3.28.3
   testable: 0
   isDirectDependency: 1
-  version: 3.28.2
+  version: 3.28.3
   source: 5
-  resolvedPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.dlc@a3c2a06965
+  resolvedPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.dlc@d3cb465b23
   assetPath: Packages/com.taptap.tds.dlc
   name: com.taptap.tds.dlc
   displayName: TapTap Download Content
@@ -786,6 +790,7 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     compatible:
     - 0.0.1
     - 0.0.2
@@ -886,13 +891,14 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     verified: 
   dependencies:
   - name: com.taptap.tds.common
-    version: 3.28.2
+    version: 3.28.3
   resolvedDependencies:
   - name: com.taptap.tds.common
-    version: 3.28.2
+    version: 3.28.3
   - name: com.leancloud.storage
     version: 2.3.0
   keywords: []
@@ -919,12 +925,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
-- packageId: com.taptap.tds.login@https://github.com/TapTap/TapLogin-Unity.git#3.28.2
+- packageId: com.taptap.tds.login@https://github.com/TapTap/TapLogin-Unity.git#3.28.3
   testable: 0
   isDirectDependency: 1
-  version: 3.28.2
+  version: 3.28.3
   source: 5
-  resolvedPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.login@fde3200ee6
+  resolvedPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.login@c31638ce7b
   assetPath: Packages/com.taptap.tds.login
   name: com.taptap.tds.login
   displayName: TapTap Login
@@ -1040,6 +1046,7 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     compatible:
     - 0.0.1
     - 0.0.2
@@ -1142,13 +1149,14 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     verified: 
   dependencies:
   - name: com.taptap.tds.common
-    version: 3.28.2
+    version: 3.28.3
   resolvedDependencies:
   - name: com.taptap.tds.common
-    version: 3.28.2
+    version: 3.28.3
   - name: com.leancloud.storage
     version: 2.3.0
   keywords: []
@@ -1175,12 +1183,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
-- packageId: com.taptap.tds.common@https://github.com/TapTap/TapCommon-Unity.git#3.28.2
+- packageId: com.taptap.tds.common@https://github.com/TapTap/TapCommon-Unity.git#3.28.3
   testable: 0
   isDirectDependency: 1
-  version: 3.28.2
+  version: 3.28.3
   source: 5
-  resolvedPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.common@74f7198dcd
+  resolvedPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.common@201b00c500
   assetPath: Packages/com.taptap.tds.common
   name: com.taptap.tds.common
   displayName: TapTap Common
@@ -1300,6 +1308,7 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     compatible:
     - 0.0.1
     - 0.0.2
@@ -1406,6 +1415,7 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     verified: 
   dependencies:
   - name: com.leancloud.storage
@@ -1437,12 +1447,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
-- packageId: com.tapsdk.antiaddiction@https://github.com/taptap/TapAntiAddiction-Unity.git#3.28.2
+- packageId: com.tapsdk.antiaddiction@https://github.com/taptap/TapAntiAddiction-Unity.git#3.28.3
   testable: 0
   isDirectDependency: 1
-  version: 3.28.2
+  version: 3.28.3
   source: 5
-  resolvedPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.tapsdk.antiaddiction@beb5fa46c0
+  resolvedPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.tapsdk.antiaddiction@8e4176073a
   assetPath: Packages/com.tapsdk.antiaddiction
   name: com.tapsdk.antiaddiction
   displayName: AntiAddiction
@@ -1568,6 +1578,7 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     compatible:
     - 0.0.1
     - 0.0.2
@@ -1680,13 +1691,14 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     verified: 
   dependencies:
   - name: com.taptap.tds.common
-    version: 3.28.2
+    version: 3.28.3
   resolvedDependencies:
   - name: com.taptap.tds.common
-    version: 3.28.2
+    version: 3.28.3
   - name: com.leancloud.storage
     version: 2.3.0
   keywords: []
@@ -1713,12 +1725,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
-- packageId: com.taptap.tds.achievement@https://github.com/TapTap/TapAchievement-Unity.git#3.28.2
+- packageId: com.taptap.tds.achievement@https://github.com/TapTap/TapAchievement-Unity.git#3.28.3
   testable: 0
   isDirectDependency: 1
-  version: 3.28.2
+  version: 3.28.3
   source: 5
-  resolvedPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.achievement@d63ba8f6f4
+  resolvedPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.achievement@775d5ccd80
   assetPath: Packages/com.taptap.tds.achievement
   name: com.taptap.tds.achievement
   displayName: TapTap Achievement
@@ -1833,6 +1845,7 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     compatible:
     - 0.0.1
     - 0.0.2
@@ -1934,17 +1947,18 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     verified: 
   dependencies:
   - name: com.taptap.tds.bootstrap
-    version: 3.28.2
+    version: 3.28.3
   resolvedDependencies:
   - name: com.taptap.tds.bootstrap
-    version: 3.28.2
+    version: 3.28.3
   - name: com.taptap.tds.login
-    version: 3.28.2
+    version: 3.28.3
   - name: com.taptap.tds.common
-    version: 3.28.2
+    version: 3.28.3
   - name: com.leancloud.storage
     version: 2.3.0
   - name: com.leancloud.realtime
@@ -1973,12 +1987,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
-- packageId: com.taptap.tds.bootstrap@https://github.com/TapTap/TapBootstrap-Unity.git#3.28.2
+- packageId: com.taptap.tds.bootstrap@https://github.com/TapTap/TapBootstrap-Unity.git#3.28.3
   testable: 0
   isDirectDependency: 1
-  version: 3.28.2
+  version: 3.28.3
   source: 5
-  resolvedPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.bootstrap@92286c3695
+  resolvedPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.bootstrap@aea0c891ff
   assetPath: Packages/com.taptap.tds.bootstrap
   name: com.taptap.tds.bootstrap
   displayName: TapTap Bootstrap
@@ -2094,6 +2108,7 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     compatible:
     - 0.0.1
     - 0.0.2
@@ -2196,22 +2211,448 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     verified: 
   dependencies:
   - name: com.taptap.tds.login
-    version: 3.28.2
+    version: 3.28.3
   - name: com.leancloud.realtime
     version: 2.3.0
   resolvedDependencies:
   - name: com.taptap.tds.login
-    version: 3.28.2
+    version: 3.28.3
   - name: com.taptap.tds.common
-    version: 3.28.2
+    version: 3.28.3
   - name: com.leancloud.storage
     version: 2.3.0
   - name: com.leancloud.realtime
     version: 2.3.0
   keywords: []
+  registry:
+    id: scoped:TapSDK
+    name: TapSDK
+    url: https://nexus.tapsvc.com/repository/npm-registry
+    scopes:
+    - com.tapsdk
+    - com.taptap
+    - com.leancloud
+    isDefault: 0
+    capabilities: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+- packageId: com.taptap.tds.update@https://github.com/TapTap/TapUpdate-Unity.git#3.28.3
+  testable: 0
+  isDirectDependency: 1
+  version: 3.28.3
+  source: 5
+  resolvedPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.update@eee4e54bc5
+  assetPath: Packages/com.taptap.tds.update
+  name: com.taptap.tds.update
+  displayName: TapTap Update
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: TapTap Develop Service
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 3.23.0-internal1
+    - 3.23.0
+    - 3.24.0
+    - 3.24.1
+    - 3.25.0-dev.1
+    - 3.25.0-dev.2
+    - 3.25.0-dev.3
+    - 3.25.0-dev.4
+    - 3.25.0-dev.6
+    - 3.25.0
+    - 3.26.0
+    - 3.26.1
+    - 3.26.2
+    - 3.26.3
+    - 3.26.5
+    - 3.27.0
+    - 3.27.1
+    - 3.28.0
+    - 3.28.2
+    - 3.28.3
+    compatible:
+    - 3.23.0-internal1
+    - 3.23.0
+    - 3.24.0
+    - 3.24.1
+    - 3.25.0-dev.1
+    - 3.25.0-dev.2
+    - 3.25.0-dev.3
+    - 3.25.0-dev.4
+    - 3.25.0-dev.6
+    - 3.25.0
+    - 3.26.0
+    - 3.26.1
+    - 3.26.2
+    - 3.26.3
+    - 3.26.5
+    - 3.27.0
+    - 3.27.1
+    - 3.28.0
+    - 3.28.2
+    - 3.28.3
+    verified: 
+  dependencies:
+  - name: com.taptap.tds.common
+    version: 3.28.3
+  - name: com.tapsdk.androiddependencyresolver
+    version: 1.2.0
+  resolvedDependencies:
+  - name: com.taptap.tds.common
+    version: 3.28.3
+  - name: com.leancloud.storage
+    version: 2.3.0
+  - name: com.tapsdk.androiddependencyresolver
+    version: 1.2.0
+  keywords: []
+  registry:
+    id: scoped:TapSDK
+    name: TapSDK
+    url: https://nexus.tapsvc.com/repository/npm-registry
+    scopes:
+    - com.tapsdk
+    - com.taptap
+    - com.leancloud
+    isDefault: 0
+    capabilities: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+- packageId: com.taptap.tds.connect@https://github.com/TapTap/TapConnect-Unity.git#3.28.3
+  testable: 0
+  isDirectDependency: 1
+  version: 3.28.3
+  source: 5
+  resolvedPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.connect@a57984312f
+  assetPath: Packages/com.taptap.tds.connect
+  name: com.taptap.tds.connect
+  displayName: TapTap Connect
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: TapTap Connect Service
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.0.30
+    - 0.0.32
+    - 0.0.33
+    - 0.0.35
+    - 0.0.36
+    - 0.0.37
+    - 0.0.38
+    - 3.21.0
+    - 3.25.0-dev.1
+    - 3.25.0-dev.2
+    - 3.25.0-dev.3
+    - 3.25.0-dev.4
+    - 3.25.0-dev.6
+    - 3.25.0
+    - 3.26.0
+    - 3.26.1
+    - 3.26.2
+    - 3.26.3
+    - 3.26.5
+    - 3.27.0
+    - 3.27.1
+    - 3.28.0
+    - 3.28.2
+    - 3.28.3
+    compatible:
+    - 0.0.30
+    - 0.0.32
+    - 0.0.33
+    - 0.0.35
+    - 0.0.36
+    - 0.0.37
+    - 0.0.38
+    - 3.21.0
+    - 3.25.0-dev.1
+    - 3.25.0-dev.2
+    - 3.25.0-dev.3
+    - 3.25.0-dev.4
+    - 3.25.0-dev.6
+    - 3.25.0
+    - 3.26.0
+    - 3.26.1
+    - 3.26.2
+    - 3.26.3
+    - 3.26.5
+    - 3.27.0
+    - 3.27.1
+    - 3.28.0
+    - 3.28.2
+    - 3.28.3
+    verified: 
+  dependencies:
+  - name: com.taptap.tds.login
+    version: 3.28.3
+  - name: com.taptap.tds.moment
+    version: 3.28.3
+  resolvedDependencies:
+  - name: com.taptap.tds.login
+    version: 3.28.3
+  - name: com.taptap.tds.common
+    version: 3.28.3
+  - name: com.leancloud.storage
+    version: 2.3.0
+  - name: com.taptap.tds.moment
+    version: 3.28.3
+  keywords: []
+  registry:
+    id: scoped:TapSDK
+    name: TapSDK
+    url: https://nexus.tapsvc.com/repository/npm-registry
+    scopes:
+    - com.tapsdk
+    - com.taptap
+    - com.leancloud
+    isDefault: 0
+    capabilities: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+- packageId: com.taptap.tds.themis@https://github.com/taptap/TapThemis-Unity.git#3.1.7-6
+  testable: 0
+  isDirectDependency: 1
+  version: 3.1.7-6
+  source: 5
+  resolvedPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.themis@3d1f7c45c7
+  assetPath: Packages/com.taptap.tds.themis
+  name: com.taptap.tds.themis
+  displayName: TapTap Themis
+  author:
+    name: su10
+    email: 
+    url: 
+  category: 
+  type: 
+  description: Themis the object!
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.0.1
+    - 0.0.2
+    - 0.0.3
+    - 0.0.4
+    - 0.0.10
+    - 0.0.11
+    - 0.0.12
+    - 0.0.13
+    - 0.0.14
+    - 0.0.15
+    - 0.0.20
+    - 0.0.21
+    - 3.14.0
+    - 3.15.0
+    - 3.15.1
+    - 3.16.0
+    - 3.16.1
+    - 3.16.2
+    - 3.16.4
+    - 3.16.5
+    - 3.16.6
+    - 3.17.0-1
+    - 3.17.0-2
+    - 3.17.0
+    - 3.17.1
+    - 3.18.0
+    - 3.18.1
+    - 3.18.2-alpha1
+    - 3.18.2-dev1
+    - 3.18.2-dev2
+    - 3.18.2
+    - 3.18.3
+    - 3.18.4-1
+    - 3.18.4
+    - 3.18.5-1
+    - 3.18.5
+    - 3.18.6
+    compatible:
+    - 0.0.1
+    - 0.0.2
+    - 0.0.3
+    - 0.0.4
+    - 0.0.10
+    - 0.0.11
+    - 0.0.12
+    - 0.0.13
+    - 0.0.14
+    - 0.0.15
+    - 0.0.20
+    - 0.0.21
+    - 3.14.0
+    - 3.15.0
+    - 3.15.1
+    - 3.16.0
+    - 3.16.1
+    - 3.16.2
+    - 3.16.4
+    - 3.16.5
+    - 3.16.6
+    - 3.17.0-1
+    - 3.17.0-2
+    - 3.17.0
+    - 3.17.1
+    - 3.18.0
+    - 3.18.1
+    - 3.18.2-alpha1
+    - 3.18.2-dev1
+    - 3.18.2-dev2
+    - 3.18.2
+    - 3.18.3
+    - 3.18.4-1
+    - 3.18.4
+    - 3.18.5-1
+    - 3.18.5
+    - 3.18.6
+    verified: 
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - safearea
+  registry:
+    id: scoped:TapSDK
+    name: TapSDK
+    url: https://nexus.tapsvc.com/repository/npm-registry
+    scopes:
+    - com.tapsdk
+    - com.taptap
+    - com.leancloud
+    isDefault: 0
+    capabilities: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: https://github.com/taptap/TapThemis-Unity
+  hasRepository: 1
+  repository:
+    type: git
+    url: git+https://github.com/taptap/TapThemis-Unity.git
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+- packageId: com.leancloud.play@https://github.com/leancloud/csharp-sdk-upm.git#play-2.3.0
+  testable: 0
+  isDirectDependency: 1
+  version: 2.3.0
+  source: 5
+  resolvedPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.leancloud.play@d8c1c9fc9f
+  assetPath: Packages/com.leancloud.play
+  name: com.leancloud.play
+  displayName: LeanCloud Play
+  author:
+    name: LeanCloud
+    email: support@leancloud.rocks
+    url: https://leancloud.cn/
+  category: 
+  type: 
+  description: This is leancloud Play package
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.2
+    - 1.0.3
+    - 1.0.4
+    - 1.0.5
+    - 1.0.6
+    - 1.0.7
+    - 1.0.8
+    - 1.1.0
+    - 2.0.0
+    - 2.1.0
+    - 2.2.0
+    - 2.2.1
+    - 2.2.2-dev.2
+    - 2.2.2-dev.3
+    - 2.2.2
+    - 2.3.0
+    - 2.3.1
+    - 2.4.0
+    - 2.4.1
+    compatible:
+    - 1.0.2
+    - 1.0.3
+    - 1.0.4
+    - 1.0.5
+    - 1.0.6
+    - 1.0.7
+    - 1.0.8
+    - 1.1.0
+    - 2.0.0
+    - 2.1.0
+    - 2.2.0
+    - 2.2.1
+    - 2.2.2-dev.2
+    - 2.2.2-dev.3
+    - 2.2.2
+    - 2.3.0
+    - 2.3.1
+    - 2.4.0
+    - 2.4.1
+    verified: 
+  dependencies:
+  - name: com.leancloud.storage
+    version: 2.3.0
+  - name: com.leancloud.realtime
+    version: 2.3.0
+  resolvedDependencies:
+  - name: com.leancloud.storage
+    version: 2.3.0
+  - name: com.leancloud.realtime
+    version: 2.3.0
+  keywords:
+  - LeanCloud
+  - Play
   registry:
     id: scoped:TapSDK
     name: TapSDK
@@ -2472,786 +2913,6 @@ m_ResolvedPackages:
   keywords:
   - LeanCloud
   - Storage
-  registry:
-    id: scoped:TapSDK
-    name: TapSDK
-    url: https://nexus.tapsvc.com/repository/npm-registry
-    scopes:
-    - com.tapsdk
-    - com.taptap
-    - com.leancloud
-    isDefault: 0
-    capabilities: 0
-  hideInEditor: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
-  documentationUrl: 
-  hasRepository: 0
-  repository:
-    type: 
-    url: 
-    revision: 
-    path: 
-  unityLifecycle:
-    version: 
-    nextVersion: 
-- packageId: com.taptap.tds.billboard@https://github.com/TapTap/TapBillboard-Unity.git#3.28.2
-  testable: 0
-  isDirectDependency: 1
-  version: 3.28.2
-  source: 5
-  resolvedPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.billboard@401d4aa5bd
-  assetPath: Packages/com.taptap.tds.billboard
-  name: com.taptap.tds.billboard
-  displayName: TapTap Billboard
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: TapTap Develop Service
-  status: 4
-  errors: []
-  versions:
-    all:
-    - 0.0.1
-    - 0.0.2
-    - 0.0.3
-    - 0.0.4
-    - 0.0.5
-    - 0.0.6
-    - 0.0.7
-    - 0.0.8
-    - 0.0.10
-    - 0.0.11
-    - 0.0.12
-    - 0.0.13
-    - 0.0.14
-    - 0.0.15
-    - 0.0.20
-    - 0.0.21
-    - 0.0.30
-    - 0.0.32
-    - 0.0.33
-    - 0.0.35
-    - 0.0.36
-    - 0.0.37
-    - 0.0.38
-    - 3.12.0
-    - 3.12.1
-    - 3.13.0
-    - 3.14.0
-    - 3.15.0
-    - 3.15.1
-    - 3.16.0
-    - 3.16.1
-    - 3.16.2
-    - 3.16.4
-    - 3.16.5
-    - 3.16.6
-    - 3.17.0-1
-    - 3.17.0-2
-    - 3.17.0
-    - 3.17.1
-    - 3.18.0
-    - 3.18.1
-    - 3.18.2-alpha1
-    - 3.18.2-dev1
-    - 3.18.2-dev2
-    - 3.18.2
-    - 3.18.3
-    - 3.18.4-1
-    - 3.18.4
-    - 3.18.5-1
-    - 3.18.5
-    - 3.18.6
-    - 3.18.7-1
-    - 3.18.7-a1
-    - 3.18.7
-    - 3.18.8
-    - 3.18.9
-    - 3.19.0
-    - 3.19.1
-    - 3.19.2
-    - 3.19.3
-    - 3.20.0
-    - 3.20.1
-    - 3.21.0
-    - 3.21.1
-    - 3.21.2
-    - 3.21.3
-    - 3.22.0
-    - 3.22.1
-    - 3.22.2
-    - 3.22.3
-    - 3.23.0
-    - 3.24.0
-    - 3.24.1
-    - 3.25.0-dev.1
-    - 3.25.0-dev.2
-    - 3.25.0-dev.3
-    - 3.25.0-dev.4
-    - 3.25.0-dev.6
-    - 3.25.0
-    - 3.26.0
-    - 3.26.1
-    - 3.26.2
-    - 3.26.3
-    - 3.26.5
-    - 3.27.0
-    - 3.27.1
-    - 3.28.0
-    - 3.28.2
-    compatible:
-    - 0.0.1
-    - 0.0.2
-    - 0.0.3
-    - 0.0.4
-    - 0.0.5
-    - 0.0.6
-    - 0.0.7
-    - 0.0.8
-    - 0.0.10
-    - 0.0.11
-    - 0.0.12
-    - 0.0.13
-    - 0.0.14
-    - 0.0.15
-    - 0.0.20
-    - 0.0.21
-    - 0.0.30
-    - 0.0.32
-    - 0.0.33
-    - 0.0.35
-    - 0.0.36
-    - 0.0.37
-    - 0.0.38
-    - 3.12.0
-    - 3.12.1
-    - 3.13.0
-    - 3.14.0
-    - 3.15.0
-    - 3.15.1
-    - 3.16.0
-    - 3.16.1
-    - 3.16.2
-    - 3.16.4
-    - 3.16.5
-    - 3.16.6
-    - 3.17.0-1
-    - 3.17.0-2
-    - 3.17.0
-    - 3.17.1
-    - 3.18.0
-    - 3.18.1
-    - 3.18.2-alpha1
-    - 3.18.2-dev1
-    - 3.18.2-dev2
-    - 3.18.2
-    - 3.18.3
-    - 3.18.4-1
-    - 3.18.4
-    - 3.18.5-1
-    - 3.18.5
-    - 3.18.6
-    - 3.18.7-1
-    - 3.18.7-a1
-    - 3.18.7
-    - 3.18.8
-    - 3.18.9
-    - 3.19.0
-    - 3.19.1
-    - 3.19.2
-    - 3.19.3
-    - 3.20.0
-    - 3.20.1
-    - 3.21.0
-    - 3.21.1
-    - 3.21.2
-    - 3.21.3
-    - 3.22.0
-    - 3.22.1
-    - 3.22.2
-    - 3.22.3
-    - 3.23.0
-    - 3.24.0
-    - 3.24.1
-    - 3.25.0-dev.1
-    - 3.25.0-dev.2
-    - 3.25.0-dev.3
-    - 3.25.0-dev.4
-    - 3.25.0-dev.6
-    - 3.25.0
-    - 3.26.0
-    - 3.26.1
-    - 3.26.2
-    - 3.26.3
-    - 3.26.5
-    - 3.27.0
-    - 3.27.1
-    - 3.28.0
-    - 3.28.2
-    verified: 
-  dependencies:
-  - name: com.taptap.tds.common
-    version: 3.28.2
-  resolvedDependencies:
-  - name: com.taptap.tds.common
-    version: 3.28.2
-  - name: com.leancloud.storage
-    version: 2.3.0
-  keywords: []
-  registry:
-    id: scoped:TapSDK
-    name: TapSDK
-    url: https://nexus.tapsvc.com/repository/npm-registry
-    scopes:
-    - com.tapsdk
-    - com.taptap
-    - com.leancloud
-    isDefault: 0
-    capabilities: 0
-  hideInEditor: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
-  documentationUrl: 
-  hasRepository: 0
-  repository:
-    type: 
-    url: 
-    revision: 
-    path: 
-  unityLifecycle:
-    version: 
-    nextVersion: 
-- packageId: com.taptap.tds.connect@https://github.com/TapTap/TapConnect-Unity.git#3.28.2
-  testable: 0
-  isDirectDependency: 1
-  version: 3.28.2
-  source: 5
-  resolvedPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.connect@a3b870d8a6
-  assetPath: Packages/com.taptap.tds.connect
-  name: com.taptap.tds.connect
-  displayName: TapTap Connect
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: TapTap Connect Service
-  status: 4
-  errors: []
-  versions:
-    all:
-    - 0.0.30
-    - 0.0.32
-    - 0.0.33
-    - 0.0.35
-    - 0.0.36
-    - 0.0.37
-    - 0.0.38
-    - 3.21.0
-    - 3.25.0-dev.1
-    - 3.25.0-dev.2
-    - 3.25.0-dev.3
-    - 3.25.0-dev.4
-    - 3.25.0-dev.6
-    - 3.25.0
-    - 3.26.0
-    - 3.26.1
-    - 3.26.2
-    - 3.26.3
-    - 3.26.5
-    - 3.27.0
-    - 3.27.1
-    - 3.28.0
-    - 3.28.2
-    compatible:
-    - 0.0.30
-    - 0.0.32
-    - 0.0.33
-    - 0.0.35
-    - 0.0.36
-    - 0.0.37
-    - 0.0.38
-    - 3.21.0
-    - 3.25.0-dev.1
-    - 3.25.0-dev.2
-    - 3.25.0-dev.3
-    - 3.25.0-dev.4
-    - 3.25.0-dev.6
-    - 3.25.0
-    - 3.26.0
-    - 3.26.1
-    - 3.26.2
-    - 3.26.3
-    - 3.26.5
-    - 3.27.0
-    - 3.27.1
-    - 3.28.0
-    - 3.28.2
-    verified: 
-  dependencies:
-  - name: com.taptap.tds.login
-    version: 3.28.2
-  - name: com.taptap.tds.moment
-    version: 3.28.2
-  resolvedDependencies:
-  - name: com.taptap.tds.login
-    version: 3.28.2
-  - name: com.taptap.tds.common
-    version: 3.28.2
-  - name: com.leancloud.storage
-    version: 2.3.0
-  - name: com.taptap.tds.moment
-    version: 3.28.2
-  keywords: []
-  registry:
-    id: scoped:TapSDK
-    name: TapSDK
-    url: https://nexus.tapsvc.com/repository/npm-registry
-    scopes:
-    - com.tapsdk
-    - com.taptap
-    - com.leancloud
-    isDefault: 0
-    capabilities: 0
-  hideInEditor: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
-  documentationUrl: 
-  hasRepository: 0
-  repository:
-    type: 
-    url: 
-    revision: 
-    path: 
-  unityLifecycle:
-    version: 
-    nextVersion: 
-- packageId: com.taptap.tds.payment@https://github.com/TapTap/TapPayment-Unity.git#3.28.2
-  testable: 0
-  isDirectDependency: 1
-  version: 3.28.2
-  source: 5
-  resolvedPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.payment@71a1d5a9c2
-  assetPath: Packages/com.taptap.tds.payment
-  name: com.taptap.tds.payment
-  displayName: TapTap Payment
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: TapTap Develop Service
-  status: 4
-  errors: []
-  versions:
-    all:
-    - 0.0.1
-    - 0.0.2
-    - 0.0.3
-    - 0.0.4
-    - 0.0.5
-    - 0.0.6
-    - 0.0.7
-    - 0.0.8
-    - 0.0.10
-    - 0.0.11
-    - 0.0.12
-    - 0.0.13
-    - 0.0.14
-    - 0.0.15
-    - 0.0.21
-    - 0.0.30
-    - 0.0.32
-    - 0.0.33
-    - 0.0.35
-    - 0.0.36
-    - 0.0.37
-    - 0.0.38
-    - 3.9.0
-    - 3.10.0
-    - 3.11.0
-    - 3.11.1
-    - 3.12.0
-    - 3.12.1
-    - 3.13.0
-    - 3.14.0
-    - 3.15.0
-    - 3.15.1
-    - 3.16.0
-    - 3.16.1
-    - 3.16.2
-    - 3.16.4
-    - 3.16.5
-    - 3.16.6
-    - 3.17.0-1
-    - 3.17.0-2
-    - 3.17.0
-    - 3.17.1
-    - 3.18.0
-    - 3.18.1
-    - 3.18.2-alpha1
-    - 3.18.2-dev1
-    - 3.18.2-dev2
-    - 3.18.2
-    - 3.18.3
-    - 3.18.4-1
-    - 3.18.4
-    - 3.18.5-1
-    - 3.18.5
-    - 3.18.6
-    - 3.18.7-1
-    - 3.18.7-a1
-    - 3.18.7
-    - 3.18.8
-    - 3.18.9
-    - 3.19.0-alpha.1
-    - 3.19.0-alpha.2
-    - 3.19.0-alpha.3
-    - 3.19.0-alpha.4
-    - 3.19.0-alpha.5
-    - 3.19.0-alpha.6
-    - 3.19.0-alpha.7
-    - 3.19.0-alpha.8
-    - 3.19.0
-    - 3.19.1
-    - 3.19.2
-    - 3.19.3
-    - 3.20.0
-    - 3.20.1
-    - 3.21.0
-    - 3.21.1
-    - 3.21.2
-    - 3.21.3
-    - 3.22.0
-    - 3.22.1
-    - 3.22.2
-    - 3.22.3
-    - 3.23.0
-    - 3.24.0
-    - 3.24.1
-    - 3.25.0-dev.1
-    - 3.25.0-dev.2
-    - 3.25.0-dev.3
-    - 3.25.0-dev.4
-    - 3.25.0-dev.6
-    - 3.25.0
-    - 3.26.0
-    - 3.26.1
-    - 3.26.2
-    - 3.26.3
-    - 3.26.5
-    - 3.27.0
-    - 3.27.1
-    - 3.28.0
-    - 3.28.2
-    compatible:
-    - 0.0.1
-    - 0.0.2
-    - 0.0.3
-    - 0.0.4
-    - 0.0.5
-    - 0.0.6
-    - 0.0.7
-    - 0.0.8
-    - 0.0.10
-    - 0.0.11
-    - 0.0.12
-    - 0.0.13
-    - 0.0.14
-    - 0.0.15
-    - 0.0.21
-    - 0.0.30
-    - 0.0.32
-    - 0.0.33
-    - 0.0.35
-    - 0.0.36
-    - 0.0.37
-    - 0.0.38
-    - 3.9.0
-    - 3.10.0
-    - 3.11.0
-    - 3.11.1
-    - 3.12.0
-    - 3.12.1
-    - 3.13.0
-    - 3.14.0
-    - 3.15.0
-    - 3.15.1
-    - 3.16.0
-    - 3.16.1
-    - 3.16.2
-    - 3.16.4
-    - 3.16.5
-    - 3.16.6
-    - 3.17.0-1
-    - 3.17.0-2
-    - 3.17.0
-    - 3.17.1
-    - 3.18.0
-    - 3.18.1
-    - 3.18.2-alpha1
-    - 3.18.2-dev1
-    - 3.18.2-dev2
-    - 3.18.2
-    - 3.18.3
-    - 3.18.4-1
-    - 3.18.4
-    - 3.18.5-1
-    - 3.18.5
-    - 3.18.6
-    - 3.18.7-1
-    - 3.18.7-a1
-    - 3.18.7
-    - 3.18.8
-    - 3.18.9
-    - 3.19.0-alpha.1
-    - 3.19.0-alpha.2
-    - 3.19.0-alpha.3
-    - 3.19.0-alpha.4
-    - 3.19.0-alpha.5
-    - 3.19.0-alpha.6
-    - 3.19.0-alpha.7
-    - 3.19.0-alpha.8
-    - 3.19.0
-    - 3.19.1
-    - 3.19.2
-    - 3.19.3
-    - 3.20.0
-    - 3.20.1
-    - 3.21.0
-    - 3.21.1
-    - 3.21.2
-    - 3.21.3
-    - 3.22.0
-    - 3.22.1
-    - 3.22.2
-    - 3.22.3
-    - 3.23.0
-    - 3.24.0
-    - 3.24.1
-    - 3.25.0-dev.1
-    - 3.25.0-dev.2
-    - 3.25.0-dev.3
-    - 3.25.0-dev.4
-    - 3.25.0-dev.6
-    - 3.25.0
-    - 3.26.0
-    - 3.26.1
-    - 3.26.2
-    - 3.26.3
-    - 3.26.5
-    - 3.27.0
-    - 3.27.1
-    - 3.28.0
-    - 3.28.2
-    verified: 
-  dependencies:
-  - name: com.taptap.tds.common
-    version: 3.28.2
-  resolvedDependencies:
-  - name: com.taptap.tds.common
-    version: 3.28.2
-  - name: com.leancloud.storage
-    version: 2.3.0
-  keywords: []
-  registry:
-    id: scoped:TapSDK
-    name: TapSDK
-    url: https://nexus.tapsvc.com/repository/npm-registry
-    scopes:
-    - com.tapsdk
-    - com.taptap
-    - com.leancloud
-    isDefault: 0
-    capabilities: 0
-  hideInEditor: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
-  documentationUrl: 
-  hasRepository: 0
-  repository:
-    type: 
-    url: 
-    revision: 
-    path: 
-  unityLifecycle:
-    version: 
-    nextVersion: 
-- packageId: com.leancloud.play@https://github.com/leancloud/csharp-sdk-upm.git#play-2.3.0
-  testable: 0
-  isDirectDependency: 1
-  version: 2.3.0
-  source: 5
-  resolvedPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.leancloud.play@d8c1c9fc9f
-  assetPath: Packages/com.leancloud.play
-  name: com.leancloud.play
-  displayName: LeanCloud Play
-  author:
-    name: LeanCloud
-    email: support@leancloud.rocks
-    url: https://leancloud.cn/
-  category: 
-  type: 
-  description: This is leancloud Play package
-  status: 4
-  errors: []
-  versions:
-    all:
-    - 1.0.2
-    - 1.0.3
-    - 1.0.4
-    - 1.0.5
-    - 1.0.6
-    - 1.0.7
-    - 1.0.8
-    - 1.1.0
-    - 2.0.0
-    - 2.1.0
-    - 2.2.0
-    - 2.2.1
-    - 2.2.2-dev.2
-    - 2.2.2-dev.3
-    - 2.2.2
-    - 2.3.0
-    - 2.3.1
-    - 2.4.0
-    - 2.4.1
-    compatible:
-    - 1.0.2
-    - 1.0.3
-    - 1.0.4
-    - 1.0.5
-    - 1.0.6
-    - 1.0.7
-    - 1.0.8
-    - 1.1.0
-    - 2.0.0
-    - 2.1.0
-    - 2.2.0
-    - 2.2.1
-    - 2.2.2-dev.2
-    - 2.2.2-dev.3
-    - 2.2.2
-    - 2.3.0
-    - 2.3.1
-    - 2.4.0
-    - 2.4.1
-    verified: 
-  dependencies:
-  - name: com.leancloud.storage
-    version: 2.3.0
-  - name: com.leancloud.realtime
-    version: 2.3.0
-  resolvedDependencies:
-  - name: com.leancloud.storage
-    version: 2.3.0
-  - name: com.leancloud.realtime
-    version: 2.3.0
-  keywords:
-  - LeanCloud
-  - Play
-  registry:
-    id: scoped:TapSDK
-    name: TapSDK
-    url: https://nexus.tapsvc.com/repository/npm-registry
-    scopes:
-    - com.tapsdk
-    - com.taptap
-    - com.leancloud
-    isDefault: 0
-    capabilities: 0
-  hideInEditor: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
-  documentationUrl: 
-  hasRepository: 0
-  repository:
-    type: 
-    url: 
-    revision: 
-    path: 
-  unityLifecycle:
-    version: 
-    nextVersion: 
-- packageId: com.taptap.tds.update@https://github.com/TapTap/TapUpdate-Unity.git#3.28.2
-  testable: 0
-  isDirectDependency: 1
-  version: 3.28.2
-  source: 5
-  resolvedPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.update@0e3797a4f3
-  assetPath: Packages/com.taptap.tds.update
-  name: com.taptap.tds.update
-  displayName: TapTap Update
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: TapTap Develop Service
-  status: 4
-  errors: []
-  versions:
-    all:
-    - 3.23.0-internal1
-    - 3.23.0
-    - 3.24.0
-    - 3.24.1
-    - 3.25.0-dev.1
-    - 3.25.0-dev.2
-    - 3.25.0-dev.3
-    - 3.25.0-dev.4
-    - 3.25.0-dev.6
-    - 3.25.0
-    - 3.26.0
-    - 3.26.1
-    - 3.26.2
-    - 3.26.3
-    - 3.26.5
-    - 3.27.0
-    - 3.27.1
-    - 3.28.0
-    - 3.28.2
-    compatible:
-    - 3.23.0-internal1
-    - 3.23.0
-    - 3.24.0
-    - 3.24.1
-    - 3.25.0-dev.1
-    - 3.25.0-dev.2
-    - 3.25.0-dev.3
-    - 3.25.0-dev.4
-    - 3.25.0-dev.6
-    - 3.25.0
-    - 3.26.0
-    - 3.26.1
-    - 3.26.2
-    - 3.26.3
-    - 3.26.5
-    - 3.27.0
-    - 3.27.1
-    - 3.28.0
-    - 3.28.2
-    verified: 
-  dependencies:
-  - name: com.taptap.tds.common
-    version: 3.28.2
-  - name: com.tapsdk.androiddependencyresolver
-    version: 1.2.0
-  resolvedDependencies:
-  - name: com.taptap.tds.common
-    version: 3.28.2
-  - name: com.leancloud.storage
-    version: 2.3.0
-  - name: com.tapsdk.androiddependencyresolver
-    version: 1.2.0
-  keywords: []
   registry:
     id: scoped:TapSDK
     name: TapSDK
@@ -6508,6 +6169,7 @@ m_ResolvedPackages:
     - 1.12.0
     - 1.12.1
     - 1.12.2
+    - 1.12.4
     compatible:
     - 1.4.2
     - 1.4.3
@@ -6523,6 +6185,7 @@ m_ResolvedPackages:
     - 1.12.0
     - 1.12.1
     - 1.12.2
+    - 1.12.4
     verified: 1.4.3
   dependencies:
   - name: com.unity.modules.unitywebrequest

@@ -13,8 +13,6 @@
     <string name="achievement_rarity_ultra_rare">Ultra Selten</string>
     <string name="achievement_rarity_uncommon">Selten</string>
     <string name="achievement_unlocked">ENTSPERRT</string>
-    <string name="billboard_loading">Laden…</string>
-    <string name="billboard_network_error_retry">Der Ladevorgang ist fehlgeschlagen. Versuche es bitte erneut.</string>
     <string name="connect_copy_success">Aktualisierungen des Spiels</string>
     <string name="connect_fun_moment">Spielaktualisierungen</string>
     <string name="connect_fun_review">Spielbewertung</string>

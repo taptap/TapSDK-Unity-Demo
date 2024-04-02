@@ -166,8 +166,6 @@
     <string name="antiaddictionui_retry" translatable="false">重试</string>
     <string name="antiaddictionui_return_game">返回游戏</string>
     <string name="app_name">Tds-unity-demo</string>
-    <string name="billboard_loading">加载中…</string>
-    <string name="billboard_network_error_retry">页面加载失败，点击重试</string>
     <string name="connect_copy_success">复制成功</string>
     <string name="connect_fun_moment">游戏动态</string>
     <string name="connect_fun_review">评价游戏</string>
@@ -201,33 +199,10 @@
     <string name="moment_security_jump_alert_message">You are about to leave TapTap and go to an external browser to access the link: %s, there may be risks, please identify them carefully.</string>
     <string name="moment_security_jump_alert_title">Confirm access to this link</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="tappayment_alipay_not_installed">未安装支付宝应用无法支付</string>
-    <string name="tappayment_app_pay_confirm">确认支付</string>
-    <string name="tappayment_app_pay_price_total">总计 </string>
-    <string name="tappayment_loading">加载中...</string>
-    <string name="tappayment_loading_error_retry">加载失败，点击屏幕重试</string>
-    <string name="tappayment_network_error_safe_retry">网络异常，请稍后重试</string>
-    <string name="tappayment_pay_cancel">支付取消</string>
-    <string name="tappayment_pay_channel">支付方式</string>
-    <string name="tappayment_pay_channel_alipay">支付宝</string>
-    <string name="tappayment_pay_channel_tag_default">推荐</string>
-    <string name="tappayment_pay_channel_wechat">微信</string>
-    <string name="tappayment_pay_channel_wx_qr_code">扫码支付</string>
-    <string name="tappayment_pay_error">支付失败</string>
-    <string name="tappayment_show_more_payment_channel">其他支付方式</string>
-    <string name="tappayment_wechat_not_installed">未安装微信应用无法支付</string>
     <style name="AlertDialogStyle" parent="@android:style/Theme.Dialog">
         <item name="android:windowBackground">@android:color/transparent</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:backgroundDimEnabled">true</item>
-    </style>
-    <style name="AppPaySlideLeftRightAnim">
-        <item name="android:windowEnterAnimation">@anim/tappayment_app_dialog_slide_right_in</item>-->
-        <item name="android:windowExitAnimation">@anim/tappayment_app_dialog_slide_right_out</item>
-    </style>
-    <style name="AppPaySlideUpDownAnim">
-        <item name="android:windowEnterAnimation">@anim/tappayment_app_dialog_slide_up</item>-->
-        <item name="android:windowExitAnimation">@anim/tappayment_app_dialog_slide_down</item>
     </style>
     <style name="BaseUnityTheme" parent="android:Theme.Holo.Light.NoActionBar.Fullscreen">
 </style>
@@ -239,13 +214,6 @@
         <item name="android:backgroundDimEnabled">true</item>
         <item name="android:gravity">bottom</item>
         <item name="android:windowAnimationStyle">@style/dialog_fragment_animation</item>
-    </style>
-    <style name="TDSThemeAppPayFullscreen">
-        <item name="android:windowNoTitle">true</item>
-        <item name="android:statusBarColor">@android:color/transparent</item>
-        <item name="android:windowFullscreen">true</item>
-        <item name="android:backgroundDimEnabled">true</item>
-        <item name="android:backgroundDimAmount">0.6</item>
     </style>
     <style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.StatusBar.EventContent"/>
     <style name="TextAppearance.Compat.Notification.Info">

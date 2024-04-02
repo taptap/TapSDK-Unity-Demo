@@ -12,7 +12,6 @@ ScriptsOnlyBuild:
     - MainScene
     - MomentScene
     - MultiplayerScene
-    - PayScene
     - StorageScene
     - TapDBScene
     - TdsDLCScene
@@ -102,7 +101,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9210}
+      Script: {instanceID: 9124}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -131,7 +130,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 3360}
+      Script: {instanceID: 3390}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -160,7 +159,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 2798}
+      Script: {instanceID: 2836}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -189,7 +188,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 5440}
+      Script: {instanceID: 5428}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -218,7 +217,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 6940}
+      Script: {instanceID: 6888}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -247,7 +246,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 7908}
+      Script: {instanceID: 7846}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -276,7 +275,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 6632}
+      Script: {instanceID: 6592}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -299,7 +298,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 4812}
+      Script: {instanceID: 4820}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -322,7 +321,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 6130}
+      Script: {instanceID: 6100}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -351,36 +350,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 5798}
-    - Class: 115
-      Script: {instanceID: 0}
-    - Class: 157
-      Script: {instanceID: 0}
-    - Class: 196
-      Script: {instanceID: 0}
-    Assets/Scenes/PayScene.unity:
-    - Class: 1
-      Script: {instanceID: 0}
-    - Class: 4
-      Script: {instanceID: 0}
-    - Class: 20
-      Script: {instanceID: 0}
-    - Class: 21
-      Script: {instanceID: 0}
-    - Class: 28
-      Script: {instanceID: 0}
-    - Class: 48
-      Script: {instanceID: 0}
-    - Class: 81
-      Script: {instanceID: 0}
-    - Class: 89
-      Script: {instanceID: 0}
-    - Class: 104
-      Script: {instanceID: 0}
-    - Class: 108
-      Script: {instanceID: 0}
-    - Class: 114
-      Script: {instanceID: 1686}
+      Script: {instanceID: 5774}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -415,6 +385,10 @@ ScriptsOnlyBuild:
     - Class: 111
       Script: {instanceID: 0}
     - Class: 114
+      Script: {instanceID: 1642}
+    - Class: 114
+      Script: {instanceID: 1644}
+    - Class: 114
       Script: {instanceID: 1646}
     - Class: 114
       Script: {instanceID: 1648}
@@ -425,61 +399,57 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1654}
     - Class: 114
-      Script: {instanceID: 1656}
+      Script: {instanceID: 1848}
     - Class: 114
-      Script: {instanceID: 1658}
+      Script: {instanceID: 1986}
     - Class: 114
-      Script: {instanceID: 1794}
+      Script: {instanceID: 2002}
     - Class: 114
-      Script: {instanceID: 1932}
+      Script: {instanceID: 2664}
     - Class: 114
-      Script: {instanceID: 1950}
+      Script: {instanceID: 3090}
     - Class: 114
-      Script: {instanceID: 2622}
+      Script: {instanceID: 3158}
     - Class: 114
-      Script: {instanceID: 3058}
+      Script: {instanceID: 3216}
     - Class: 114
-      Script: {instanceID: 3126}
+      Script: {instanceID: 3474}
     - Class: 114
-      Script: {instanceID: 3184}
+      Script: {instanceID: 3698}
     - Class: 114
-      Script: {instanceID: 3446}
+      Script: {instanceID: 4338}
     - Class: 114
-      Script: {instanceID: 3672}
+      Script: {instanceID: 4408}
     - Class: 114
-      Script: {instanceID: 4322}
+      Script: {instanceID: 4852}
     - Class: 114
-      Script: {instanceID: 4392}
+      Script: {instanceID: 4910}
     - Class: 114
-      Script: {instanceID: 4846}
+      Script: {instanceID: 5408}
     - Class: 114
-      Script: {instanceID: 4904}
+      Script: {instanceID: 5738}
     - Class: 114
-      Script: {instanceID: 5420}
+      Script: {instanceID: 6760}
     - Class: 114
-      Script: {instanceID: 5760}
+      Script: {instanceID: 7112}
     - Class: 114
-      Script: {instanceID: 6806}
+      Script: {instanceID: 7128}
     - Class: 114
-      Script: {instanceID: 7164}
+      Script: {instanceID: 7190}
     - Class: 114
-      Script: {instanceID: 7180}
+      Script: {instanceID: 7212}
     - Class: 114
-      Script: {instanceID: 7242}
+      Script: {instanceID: 7260}
     - Class: 114
-      Script: {instanceID: 7264}
+      Script: {instanceID: 7574}
     - Class: 114
-      Script: {instanceID: 7312}
+      Script: {instanceID: 7892}
     - Class: 114
-      Script: {instanceID: 7632}
+      Script: {instanceID: 7970}
     - Class: 114
-      Script: {instanceID: 7954}
+      Script: {instanceID: 8314}
     - Class: 114
-      Script: {instanceID: 8036}
-    - Class: 114
-      Script: {instanceID: 8392}
-    - Class: 114
-      Script: {instanceID: 9226}
+      Script: {instanceID: 9140}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -520,7 +490,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 5910}
+      Script: {instanceID: 5882}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -549,7 +519,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 5738}
+      Script: {instanceID: 5718}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -578,7 +548,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 7742}
+      Script: {instanceID: 7682}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -634,12 +604,6 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UIElements
     className: PanelRaycaster
-  - hash:
-      serializedVersion: 2
-      Hash: 559f599ae905e2061d8a97549ef4dcee
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: PayScene
   - hash:
       serializedVersion: 2
       Hash: 7ae8cd48c89027257f70cfc95b4d4495
@@ -1620,7 +1584,6 @@ ScriptsOnlyBuild:
   - Assets/Scenes/LeaderboardScene.unity
   - Assets/GiftScene.unity
   - Assets/Scenes/AwokenUpdateScene.unity
-  - Assets/Scenes/PayScene.unity
   - Assets/Scenes/TdsDLCScene.unity
   - Assets/Scenes/MultiplayerScene.unity
-  playerPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Tds_demo.apk
+  playerPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Tds_demo_v2.0.1.apk

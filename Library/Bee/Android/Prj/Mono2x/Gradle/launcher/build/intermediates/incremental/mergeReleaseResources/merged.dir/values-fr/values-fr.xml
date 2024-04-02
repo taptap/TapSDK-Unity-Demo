@@ -13,8 +13,6 @@
     <string name="achievement_rarity_ultra_rare">Ultra rare</string>
     <string name="achievement_rarity_uncommon">Rare</string>
     <string name="achievement_unlocked">DÉBLOQUÉ</string>
-    <string name="billboard_loading">Chargement…</string>
-    <string name="billboard_network_error_retry">Chargement échoué. Veuillez réessayer.</string>
     <string name="connect_copy_success">Mises à jour du jeu</string>
     <string name="connect_fun_moment">Mises à jour du jeu</string>
     <string name="connect_fun_review">Examiner le jeu</string>
