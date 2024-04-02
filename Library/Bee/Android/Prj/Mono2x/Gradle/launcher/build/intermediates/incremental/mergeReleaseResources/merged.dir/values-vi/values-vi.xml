@@ -13,8 +13,6 @@
     <string name="achievement_rarity_ultra_rare">Cực Hiếm</string>
     <string name="achievement_rarity_uncommon">Hiếm</string>
     <string name="achievement_unlocked">MỞ</string>
-    <string name="billboard_loading">Đang tải…</string>
-    <string name="billboard_network_error_retry">Tải thất bại. Vui lòng thử lại.</string>
     <string name="connect_copy_success">Cập nhật trò chơi</string>
     <string name="connect_fun_moment">Cập nhật trò chơi</string>
     <string name="connect_fun_review">Đánh giá trò chơi</string>

@@ -13,8 +13,6 @@
     <string name="achievement_rarity_ultra_rare">İstisnai</string>
     <string name="achievement_rarity_uncommon">Seyrek</string>
     <string name="achievement_unlocked">KİLİDİ AÇILDI</string>
-    <string name="billboard_loading">Yükleniyor…</string>
-    <string name="billboard_network_error_retry">Yüklenemedi. Lütfen tekrar deneyin.</string>
     <string name="connect_copy_success">Oyun güncellemeleri</string>
     <string name="connect_fun_moment">Oyun güncellemeleri</string>
     <string name="connect_fun_review">Oyunu gözden geçirin</string>

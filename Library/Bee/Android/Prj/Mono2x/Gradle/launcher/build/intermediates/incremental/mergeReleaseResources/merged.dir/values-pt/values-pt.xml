@@ -13,8 +13,6 @@
     <string name="achievement_rarity_ultra_rare">Ultra Raro</string>
     <string name="achievement_rarity_uncommon">Raro</string>
     <string name="achievement_unlocked">DESBLOQUEADO</string>
-    <string name="billboard_loading">Carregando…</string>
-    <string name="billboard_network_error_retry">Falha ao carregar. Por favor, tente novamente.</string>
     <string name="connect_copy_success">Copiado</string>
     <string name="connect_fun_moment">Atualizações de jogo</string>
     <string name="connect_fun_review">Fazer análise do jogo</string>

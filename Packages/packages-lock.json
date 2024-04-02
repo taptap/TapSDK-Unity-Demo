@@ -59,15 +59,6 @@
       },
       "hash": "d63ba8f6f42202d4d36bc0f8743fbf9efef3ff19"
     },
-    "com.taptap.tds.billboard": {
-      "version": "https://github.com/TapTap/TapBillboard-Unity.git#3.28.2",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {
-        "com.taptap.tds.common": "3.28.2"
-      },
-      "hash": "401d4aa5bda0f773562232e733a654e29f3ef0c5"
-    },
     "com.taptap.tds.bootstrap": {
       "version": "https://github.com/TapTap/TapBootstrap-Unity.git#3.28.2",
       "depth": 0,
@@ -123,15 +114,6 @@
         "com.taptap.tds.common": "3.28.2"
       },
       "hash": "7a0cf97df694196a5d990ca922ab77155ba3268d"
-    },
-    "com.taptap.tds.payment": {
-      "version": "https://github.com/TapTap/TapPayment-Unity.git#3.28.2",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {
-        "com.taptap.tds.common": "3.28.2"
-      },
-      "hash": "71a1d5a9c23ff7ee04c03497c7e079a7a700d0ce"
     },
     "com.taptap.tds.tapdb": {
       "version": "https://github.com/TapTap/TapDB-Unity.git#3.28.2",

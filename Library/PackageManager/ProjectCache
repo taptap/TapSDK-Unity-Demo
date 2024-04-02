@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638463289850000000
-    m_Hash: 3755749051
+      ticks: 638476397110000000
+    m_Hash: 3641016707
   m_LockFileStatus:
     m_FilePath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638463289850000000
-    m_Hash: 394928879
+      ticks: 638476397140000000
+    m_Hash: 1568001863
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -270,6 +270,7 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     compatible:
     - 0.0.1
     - 0.0.2
@@ -374,6 +375,7 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     verified: 
   dependencies:
   - name: com.taptap.tds.common
@@ -530,6 +532,7 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     compatible:
     - 0.0.1
     - 0.0.2
@@ -634,6 +637,7 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     verified: 
   dependencies:
   - name: com.taptap.tds.common
@@ -786,6 +790,7 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     compatible:
     - 0.0.1
     - 0.0.2
@@ -886,6 +891,7 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     verified: 
   dependencies:
   - name: com.taptap.tds.common
@@ -1040,6 +1046,7 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     compatible:
     - 0.0.1
     - 0.0.2
@@ -1142,6 +1149,7 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     verified: 
   dependencies:
   - name: com.taptap.tds.common
@@ -1300,6 +1308,7 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     compatible:
     - 0.0.1
     - 0.0.2
@@ -1406,6 +1415,7 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     verified: 
   dependencies:
   - name: com.leancloud.storage
@@ -1568,6 +1578,7 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     compatible:
     - 0.0.1
     - 0.0.2
@@ -1680,6 +1691,7 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     verified: 
   dependencies:
   - name: com.taptap.tds.common
@@ -1833,6 +1845,7 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     compatible:
     - 0.0.1
     - 0.0.2
@@ -1934,6 +1947,7 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     verified: 
   dependencies:
   - name: com.taptap.tds.bootstrap
@@ -2094,6 +2108,7 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     compatible:
     - 0.0.1
     - 0.0.2
@@ -2196,6 +2211,7 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     verified: 
   dependencies:
   - name: com.taptap.tds.login
@@ -2495,236 +2511,6 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
-- packageId: com.taptap.tds.billboard@https://github.com/TapTap/TapBillboard-Unity.git#3.28.2
-  testable: 0
-  isDirectDependency: 1
-  version: 3.28.2
-  source: 5
-  resolvedPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.billboard@401d4aa5bd
-  assetPath: Packages/com.taptap.tds.billboard
-  name: com.taptap.tds.billboard
-  displayName: TapTap Billboard
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: TapTap Develop Service
-  status: 4
-  errors: []
-  versions:
-    all:
-    - 0.0.1
-    - 0.0.2
-    - 0.0.3
-    - 0.0.4
-    - 0.0.5
-    - 0.0.6
-    - 0.0.7
-    - 0.0.8
-    - 0.0.10
-    - 0.0.11
-    - 0.0.12
-    - 0.0.13
-    - 0.0.14
-    - 0.0.15
-    - 0.0.20
-    - 0.0.21
-    - 0.0.30
-    - 0.0.32
-    - 0.0.33
-    - 0.0.35
-    - 0.0.36
-    - 0.0.37
-    - 0.0.38
-    - 3.12.0
-    - 3.12.1
-    - 3.13.0
-    - 3.14.0
-    - 3.15.0
-    - 3.15.1
-    - 3.16.0
-    - 3.16.1
-    - 3.16.2
-    - 3.16.4
-    - 3.16.5
-    - 3.16.6
-    - 3.17.0-1
-    - 3.17.0-2
-    - 3.17.0
-    - 3.17.1
-    - 3.18.0
-    - 3.18.1
-    - 3.18.2-alpha1
-    - 3.18.2-dev1
-    - 3.18.2-dev2
-    - 3.18.2
-    - 3.18.3
-    - 3.18.4-1
-    - 3.18.4
-    - 3.18.5-1
-    - 3.18.5
-    - 3.18.6
-    - 3.18.7-1
-    - 3.18.7-a1
-    - 3.18.7
-    - 3.18.8
-    - 3.18.9
-    - 3.19.0
-    - 3.19.1
-    - 3.19.2
-    - 3.19.3
-    - 3.20.0
-    - 3.20.1
-    - 3.21.0
-    - 3.21.1
-    - 3.21.2
-    - 3.21.3
-    - 3.22.0
-    - 3.22.1
-    - 3.22.2
-    - 3.22.3
-    - 3.23.0
-    - 3.24.0
-    - 3.24.1
-    - 3.25.0-dev.1
-    - 3.25.0-dev.2
-    - 3.25.0-dev.3
-    - 3.25.0-dev.4
-    - 3.25.0-dev.6
-    - 3.25.0
-    - 3.26.0
-    - 3.26.1
-    - 3.26.2
-    - 3.26.3
-    - 3.26.5
-    - 3.27.0
-    - 3.27.1
-    - 3.28.0
-    - 3.28.2
-    compatible:
-    - 0.0.1
-    - 0.0.2
-    - 0.0.3
-    - 0.0.4
-    - 0.0.5
-    - 0.0.6
-    - 0.0.7
-    - 0.0.8
-    - 0.0.10
-    - 0.0.11
-    - 0.0.12
-    - 0.0.13
-    - 0.0.14
-    - 0.0.15
-    - 0.0.20
-    - 0.0.21
-    - 0.0.30
-    - 0.0.32
-    - 0.0.33
-    - 0.0.35
-    - 0.0.36
-    - 0.0.37
-    - 0.0.38
-    - 3.12.0
-    - 3.12.1
-    - 3.13.0
-    - 3.14.0
-    - 3.15.0
-    - 3.15.1
-    - 3.16.0
-    - 3.16.1
-    - 3.16.2
-    - 3.16.4
-    - 3.16.5
-    - 3.16.6
-    - 3.17.0-1
-    - 3.17.0-2
-    - 3.17.0
-    - 3.17.1
-    - 3.18.0
-    - 3.18.1
-    - 3.18.2-alpha1
-    - 3.18.2-dev1
-    - 3.18.2-dev2
-    - 3.18.2
-    - 3.18.3
-    - 3.18.4-1
-    - 3.18.4
-    - 3.18.5-1
-    - 3.18.5
-    - 3.18.6
-    - 3.18.7-1
-    - 3.18.7-a1
-    - 3.18.7
-    - 3.18.8
-    - 3.18.9
-    - 3.19.0
-    - 3.19.1
-    - 3.19.2
-    - 3.19.3
-    - 3.20.0
-    - 3.20.1
-    - 3.21.0
-    - 3.21.1
-    - 3.21.2
-    - 3.21.3
-    - 3.22.0
-    - 3.22.1
-    - 3.22.2
-    - 3.22.3
-    - 3.23.0
-    - 3.24.0
-    - 3.24.1
-    - 3.25.0-dev.1
-    - 3.25.0-dev.2
-    - 3.25.0-dev.3
-    - 3.25.0-dev.4
-    - 3.25.0-dev.6
-    - 3.25.0
-    - 3.26.0
-    - 3.26.1
-    - 3.26.2
-    - 3.26.3
-    - 3.26.5
-    - 3.27.0
-    - 3.27.1
-    - 3.28.0
-    - 3.28.2
-    verified: 
-  dependencies:
-  - name: com.taptap.tds.common
-    version: 3.28.2
-  resolvedDependencies:
-  - name: com.taptap.tds.common
-    version: 3.28.2
-  - name: com.leancloud.storage
-    version: 2.3.0
-  keywords: []
-  registry:
-    id: scoped:TapSDK
-    name: TapSDK
-    url: https://nexus.tapsvc.com/repository/npm-registry
-    scopes:
-    - com.tapsdk
-    - com.taptap
-    - com.leancloud
-    isDefault: 0
-    capabilities: 0
-  hideInEditor: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
-  documentationUrl: 
-  hasRepository: 0
-  repository:
-    type: 
-    url: 
-    revision: 
-    path: 
-  unityLifecycle:
-    version: 
-    nextVersion: 
 - packageId: com.taptap.tds.connect@https://github.com/TapTap/TapConnect-Unity.git#3.28.2
   testable: 0
   isDirectDependency: 1
@@ -2768,6 +2554,7 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     compatible:
     - 0.0.30
     - 0.0.32
@@ -2792,6 +2579,7 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     verified: 
   dependencies:
   - name: com.taptap.tds.login
@@ -2807,258 +2595,6 @@ m_ResolvedPackages:
     version: 2.3.0
   - name: com.taptap.tds.moment
     version: 3.28.2
-  keywords: []
-  registry:
-    id: scoped:TapSDK
-    name: TapSDK
-    url: https://nexus.tapsvc.com/repository/npm-registry
-    scopes:
-    - com.tapsdk
-    - com.taptap
-    - com.leancloud
-    isDefault: 0
-    capabilities: 0
-  hideInEditor: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
-  documentationUrl: 
-  hasRepository: 0
-  repository:
-    type: 
-    url: 
-    revision: 
-    path: 
-  unityLifecycle:
-    version: 
-    nextVersion: 
-- packageId: com.taptap.tds.payment@https://github.com/TapTap/TapPayment-Unity.git#3.28.2
-  testable: 0
-  isDirectDependency: 1
-  version: 3.28.2
-  source: 5
-  resolvedPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Library/PackageCache/com.taptap.tds.payment@71a1d5a9c2
-  assetPath: Packages/com.taptap.tds.payment
-  name: com.taptap.tds.payment
-  displayName: TapTap Payment
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: TapTap Develop Service
-  status: 4
-  errors: []
-  versions:
-    all:
-    - 0.0.1
-    - 0.0.2
-    - 0.0.3
-    - 0.0.4
-    - 0.0.5
-    - 0.0.6
-    - 0.0.7
-    - 0.0.8
-    - 0.0.10
-    - 0.0.11
-    - 0.0.12
-    - 0.0.13
-    - 0.0.14
-    - 0.0.15
-    - 0.0.21
-    - 0.0.30
-    - 0.0.32
-    - 0.0.33
-    - 0.0.35
-    - 0.0.36
-    - 0.0.37
-    - 0.0.38
-    - 3.9.0
-    - 3.10.0
-    - 3.11.0
-    - 3.11.1
-    - 3.12.0
-    - 3.12.1
-    - 3.13.0
-    - 3.14.0
-    - 3.15.0
-    - 3.15.1
-    - 3.16.0
-    - 3.16.1
-    - 3.16.2
-    - 3.16.4
-    - 3.16.5
-    - 3.16.6
-    - 3.17.0-1
-    - 3.17.0-2
-    - 3.17.0
-    - 3.17.1
-    - 3.18.0
-    - 3.18.1
-    - 3.18.2-alpha1
-    - 3.18.2-dev1
-    - 3.18.2-dev2
-    - 3.18.2
-    - 3.18.3
-    - 3.18.4-1
-    - 3.18.4
-    - 3.18.5-1
-    - 3.18.5
-    - 3.18.6
-    - 3.18.7-1
-    - 3.18.7-a1
-    - 3.18.7
-    - 3.18.8
-    - 3.18.9
-    - 3.19.0-alpha.1
-    - 3.19.0-alpha.2
-    - 3.19.0-alpha.3
-    - 3.19.0-alpha.4
-    - 3.19.0-alpha.5
-    - 3.19.0-alpha.6
-    - 3.19.0-alpha.7
-    - 3.19.0-alpha.8
-    - 3.19.0
-    - 3.19.1
-    - 3.19.2
-    - 3.19.3
-    - 3.20.0
-    - 3.20.1
-    - 3.21.0
-    - 3.21.1
-    - 3.21.2
-    - 3.21.3
-    - 3.22.0
-    - 3.22.1
-    - 3.22.2
-    - 3.22.3
-    - 3.23.0
-    - 3.24.0
-    - 3.24.1
-    - 3.25.0-dev.1
-    - 3.25.0-dev.2
-    - 3.25.0-dev.3
-    - 3.25.0-dev.4
-    - 3.25.0-dev.6
-    - 3.25.0
-    - 3.26.0
-    - 3.26.1
-    - 3.26.2
-    - 3.26.3
-    - 3.26.5
-    - 3.27.0
-    - 3.27.1
-    - 3.28.0
-    - 3.28.2
-    compatible:
-    - 0.0.1
-    - 0.0.2
-    - 0.0.3
-    - 0.0.4
-    - 0.0.5
-    - 0.0.6
-    - 0.0.7
-    - 0.0.8
-    - 0.0.10
-    - 0.0.11
-    - 0.0.12
-    - 0.0.13
-    - 0.0.14
-    - 0.0.15
-    - 0.0.21
-    - 0.0.30
-    - 0.0.32
-    - 0.0.33
-    - 0.0.35
-    - 0.0.36
-    - 0.0.37
-    - 0.0.38
-    - 3.9.0
-    - 3.10.0
-    - 3.11.0
-    - 3.11.1
-    - 3.12.0
-    - 3.12.1
-    - 3.13.0
-    - 3.14.0
-    - 3.15.0
-    - 3.15.1
-    - 3.16.0
-    - 3.16.1
-    - 3.16.2
-    - 3.16.4
-    - 3.16.5
-    - 3.16.6
-    - 3.17.0-1
-    - 3.17.0-2
-    - 3.17.0
-    - 3.17.1
-    - 3.18.0
-    - 3.18.1
-    - 3.18.2-alpha1
-    - 3.18.2-dev1
-    - 3.18.2-dev2
-    - 3.18.2
-    - 3.18.3
-    - 3.18.4-1
-    - 3.18.4
-    - 3.18.5-1
-    - 3.18.5
-    - 3.18.6
-    - 3.18.7-1
-    - 3.18.7-a1
-    - 3.18.7
-    - 3.18.8
-    - 3.18.9
-    - 3.19.0-alpha.1
-    - 3.19.0-alpha.2
-    - 3.19.0-alpha.3
-    - 3.19.0-alpha.4
-    - 3.19.0-alpha.5
-    - 3.19.0-alpha.6
-    - 3.19.0-alpha.7
-    - 3.19.0-alpha.8
-    - 3.19.0
-    - 3.19.1
-    - 3.19.2
-    - 3.19.3
-    - 3.20.0
-    - 3.20.1
-    - 3.21.0
-    - 3.21.1
-    - 3.21.2
-    - 3.21.3
-    - 3.22.0
-    - 3.22.1
-    - 3.22.2
-    - 3.22.3
-    - 3.23.0
-    - 3.24.0
-    - 3.24.1
-    - 3.25.0-dev.1
-    - 3.25.0-dev.2
-    - 3.25.0-dev.3
-    - 3.25.0-dev.4
-    - 3.25.0-dev.6
-    - 3.25.0
-    - 3.26.0
-    - 3.26.1
-    - 3.26.2
-    - 3.26.3
-    - 3.26.5
-    - 3.27.0
-    - 3.27.1
-    - 3.28.0
-    - 3.28.2
-    verified: 
-  dependencies:
-  - name: com.taptap.tds.common
-    version: 3.28.2
-  resolvedDependencies:
-  - name: com.taptap.tds.common
-    version: 3.28.2
-  - name: com.leancloud.storage
-    version: 2.3.0
   keywords: []
   registry:
     id: scoped:TapSDK
@@ -3218,6 +2754,7 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     compatible:
     - 3.23.0-internal1
     - 3.23.0
@@ -3238,6 +2775,7 @@ m_ResolvedPackages:
     - 3.27.1
     - 3.28.0
     - 3.28.2
+    - 3.28.3
     verified: 
   dependencies:
   - name: com.taptap.tds.common

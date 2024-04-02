@@ -13,8 +13,6 @@
     <string name="achievement_rarity_ultra_rare">エクストリーム</string>
     <string name="achievement_rarity_uncommon">ハード</string>
     <string name="achievement_unlocked">完了</string>
-    <string name="billboard_loading">ロード中…</string>
-    <string name="billboard_network_error_retry">ページの読み込みに失敗しました。再度タップしてお試しください。</string>
     <string name="connect_copy_success">コピーしました</string>
     <string name="connect_fun_moment">ゲームの最新情報</string>
     <string name="connect_fun_review">ゲームレビュー</string>

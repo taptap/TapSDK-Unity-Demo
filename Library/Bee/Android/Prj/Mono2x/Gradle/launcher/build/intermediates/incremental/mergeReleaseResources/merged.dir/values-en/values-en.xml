@@ -13,8 +13,6 @@
     <string name="achievement_rarity_ultra_rare">Ultra Rare</string>
     <string name="achievement_rarity_uncommon">Rare</string>
     <string name="achievement_unlocked">UNLOCKED</string>
-    <string name="billboard_loading">Loading…</string>
-    <string name="billboard_network_error_retry">Loading failed. Please try again.</string>
     <string name="connect_copy_success">Copied</string>
     <string name="connect_fun_moment">Game updates</string>
     <string name="connect_fun_review">Review the game</string>

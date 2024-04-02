@@ -13,8 +13,6 @@
     <string name="achievement_rarity_ultra_rare">울트라 유니크</string>
     <string name="achievement_rarity_uncommon">희귀</string>
     <string name="achievement_unlocked">해제</string>
-    <string name="billboard_loading">로딩 중…</string>
-    <string name="billboard_network_error_retry">페이지를 로드하지 못했습니다. 다시 시도해 주세요.</string>
     <string name="connect_copy_success">복사 완료</string>
     <string name="connect_fun_moment">게임 업데이트</string>
     <string name="connect_fun_review">리뷰 작성</string>
