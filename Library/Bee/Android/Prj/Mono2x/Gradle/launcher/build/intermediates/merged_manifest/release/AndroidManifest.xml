@@ -43,12 +43,12 @@
         android:name="android.hardware.touchscreen.multitouch.distinct"
         android:required="false" />
 
-    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-    <uses-permission android:name="android.permission.REORDER_TASKS" />
     <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
     <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
+    <uses-permission android:name="android.permission.REORDER_TASKS" />
     <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 
     <application
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -95,45 +95,13 @@
             android:name="notch.config"
             android:value="portrait|landscape" />
         <meta-data
-            android:name="com.tapsdk.tapdb.loader"
-            android:value="true" />
-
-        <provider
-            android:name="com.tds.tapdb.internal.device.DeviceProvider"
-            android:authorities="com.tds.demo.device.provider"
-            android:exported="false" />
-        <provider
-            android:name="com.tds.common.provider.CurrentConfigProvider"
-            android:authorities="com.tds.demo.tap_config.provider"
-            android:exported="false" />
-
-        <meta-data
-            android:name="com.tapsdk.achievement.loader"
-            android:value="true" />
-
-        <activity
-            android:name="com.taptap.sdk.ui.TapTapActivity"
-            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
-            android:exported="false"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
-        <activity
-            android:name="com.taptap.sdk.TapLoginHelperActivity"
-            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
-            android:exported="false"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
-
-        <provider
-            android:name="com.taptap.sdk.internal.user.CurrentUserProvider"
-            android:authorities="com.tds.demo.tap_user.provider"
-            android:exported="false" />
-
-        <meta-data
             android:name="com.tapsdk.moment.loader"
             android:value="true" />
-        <meta-data
-            android:name="com.tapsdk.tapconnect.loader"
-            android:value="true" />
 
+        <provider
+            android:name="com.tds.themis.ThemisProvider"
+            android:authorities="com.tds.demo.themis"
+            android:exported="false" />
         <provider
             android:name="com.taptap.services.update.TapUpdateFileProvider"
             android:authorities="com.tds.demo.com.taptap.services.update.fileProvider"
@@ -154,6 +122,46 @@
         <meta-data
             android:name="com.tapsdk.antiaddiction.loader"
             android:value="true" />
+
+        <activity
+            android:name="com.taptap.sdk.ui.TapTapActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:exported="false"
+            android:launchMode="singleTask"
+            android:screenOrientation="behind"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+        <activity
+            android:name="com.taptap.sdk.TapLoginHelperActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:exported="false"
+            android:screenOrientation="behind"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+
+        <provider
+            android:name="com.taptap.sdk.internal.user.CurrentUserProvider"
+            android:authorities="com.tds.demo.tap_user.provider"
+            android:exported="false" />
+
+        <meta-data
+            android:name="com.tapsdk.achievement.loader"
+            android:value="true" />
+        <meta-data
+            android:name="com.tapsdk.tapdb.loader"
+            android:value="true" />
+
+        <provider
+            android:name="com.tds.tapdb.internal.device.DeviceProvider"
+            android:authorities="com.tds.demo.device.provider"
+            android:exported="false" />
+
+        <meta-data
+            android:name="com.tapsdk.tapconnect.loader"
+            android:value="true" />
+
+        <provider
+            android:name="com.tds.common.provider.CurrentConfigProvider"
+            android:authorities="com.tds.demo.tap_config.provider"
+            android:exported="false" />
     </application>
 
 </manifest>

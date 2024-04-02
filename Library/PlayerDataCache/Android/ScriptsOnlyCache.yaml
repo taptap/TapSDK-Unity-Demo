@@ -1586,4 +1586,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/AwokenUpdateScene.unity
   - Assets/Scenes/TdsDLCScene.unity
   - Assets/Scenes/MultiplayerScene.unity
-  playerPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Tds_demo.apk
+  playerPath: /Users/yuwenjian/Desktop/unity_Project/TapSDK-Unity-Demo/Tds_demo_v2.0.1.apk

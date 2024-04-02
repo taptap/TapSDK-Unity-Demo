@@ -9,6 +9,8 @@ using TapTap.Common; // 命名空间
 using System;
 using LeanCloud;
 using TapTap.Connect; // 命名空间
+using TapTap.Themis;
+
 
 
 public class MainScene : MonoBehaviour
@@ -52,6 +54,13 @@ public class MainScene : MonoBehaviour
 
             TapBootstrap.Init(config);
 
+            TapThemis.InitTHEMIS();
+
+            TapThemis.U3d_ConfigAutoReportLogLevel(TapTap.Themis.LogSeverity.LogError); // 设置日志上报等级
+
+            // 注册日志监听
+            TapThemis.U3d_UnregisterLogCallback(logcallback);
+            
 
             TapConnect.SetEntryVisible(true);
 
@@ -69,7 +78,9 @@ public class MainScene : MonoBehaviour
       
     }
 
+    public void logcallback(string condition, string statckTrace, LogType type ){
 
+    }
 
     private void OnGUI()
     {
@@ -99,7 +110,6 @@ public class MainScene : MonoBehaviour
         if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "内嵌动态", style))
 		{
             UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(2);
-
         }
 
         btnTop += btnHeight + 20 * scale;

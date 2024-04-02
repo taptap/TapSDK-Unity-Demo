@@ -58,23 +58,26 @@ dependencies {
 	
 	
 	
+	
+	
 	// TapTap Android Resolver Dependencies Start
     implementation "com.google.android.flexbox:flexbox:3.0.0"
     implementation "androidx.core:core:1.6.0"
     implementation "com.squareup.okhttp3:okhttp:3.12.1"
 
 	// TapTap Android Resolver Dependencies End
-    implementation(name: 'TapDB_3.28.2', ext:'aar')
-    implementation(name: 'TapCommon_3.28.2', ext:'aar')
-    implementation(name: 'TapAchievement_3.28.2', ext:'aar')
-    implementation(name: 'TapLogin_3.28.2', ext:'aar')
-    implementation(name: 'TapLicense_3.28.2', ext:'aar')
-    implementation(name: 'TapMoment_3.28.2', ext:'aar')
-    implementation(name: 'TapConnect_3.28.2', ext:'aar')
+    implementation(name: 'TapMoment_3.28.3', ext:'aar')
+    implementation(name: 'TapLicense_3.28.3', ext:'aar')
+    implementation(name: 'THEMIS-release3.1.7.5', ext:'aar')
+    implementation(name: 'TapUpdate_3.28.3', ext:'aar')
+    implementation(name: 'AntiAddictionUI_3.28.3', ext:'aar')
+    implementation(name: 'TapLogin_3.28.3', ext:'aar')
+    implementation(name: 'TapAchievement_3.28.3', ext:'aar')
+    implementation(name: 'TapDB_3.28.3', ext:'aar')
     implementation(name: 'com.UnityNative.Toasts-v1.0.4', ext:'aar')
-    implementation(name: 'TapUpdate_3.28.2', ext:'aar')
-    implementation(name: 'AntiAddiction_3.28.2', ext:'aar')
-    implementation(name: 'AntiAddictionUI_3.28.2', ext:'aar')
+    implementation(name: 'AntiAddiction_3.28.3', ext:'aar')
+    implementation(name: 'TapConnect_3.28.3', ext:'aar')
+    implementation(name: 'TapCommon_3.28.3', ext:'aar')
 
 }
 
