@@ -43,10 +43,10 @@
         android:name="android.hardware.touchscreen.multitouch.distinct"
         android:required="false" />
 
-    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
-    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
     <uses-permission android:name="android.permission.REORDER_TASKS" />
     <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 
@@ -94,13 +94,14 @@
         <meta-data
             android:name="notch.config"
             android:value="portrait|landscape" />
-        <meta-data
-            android:name="com.tapsdk.moment.loader"
-            android:value="true" />
 
         <provider
             android:name="com.tds.themis.ThemisProvider"
             android:authorities="com.tds.demo.themis"
+            android:exported="false" />
+        <provider
+            android:name="com.tds.common.provider.CurrentConfigProvider"
+            android:authorities="com.tds.demo.tap_config.provider"
             android:exported="false" />
         <provider
             android:name="com.taptap.services.update.TapUpdateFileProvider"
@@ -118,6 +119,9 @@
 
         <meta-data
             android:name="com.taptap.services.update.loader"
+            android:value="true" />
+        <meta-data
+            android:name="com.tapsdk.tapconnect.loader"
             android:value="true" />
         <meta-data
             android:name="com.tapsdk.antiaddiction.loader"
@@ -143,7 +147,7 @@
             android:exported="false" />
 
         <meta-data
-            android:name="com.tapsdk.achievement.loader"
+            android:name="com.tapsdk.moment.loader"
             android:value="true" />
         <meta-data
             android:name="com.tapsdk.tapdb.loader"
@@ -155,13 +159,8 @@
             android:exported="false" />
 
         <meta-data
-            android:name="com.tapsdk.tapconnect.loader"
+            android:name="com.tapsdk.achievement.loader"
             android:value="true" />
-
-        <provider
-            android:name="com.tds.common.provider.CurrentConfigProvider"
-            android:authorities="com.tds.demo.tap_config.provider"
-            android:exported="false" />
     </application>
 
 </manifest>

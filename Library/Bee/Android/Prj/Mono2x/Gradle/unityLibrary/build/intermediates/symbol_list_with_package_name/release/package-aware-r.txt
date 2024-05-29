@@ -1886,6 +1886,7 @@ drawable bg_fun_button
 drawable bg_loading
 drawable bg_share_button
 drawable bg_share_child_button
+drawable bg_test_mode_tips
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -1941,6 +1942,7 @@ drawable ic_mtrl_chip_close_circle
 drawable ic_refresh
 drawable ic_tap
 drawable ic_tap_logo
+drawable ic_test_mode_tips
 drawable ic_webview_close
 drawable icon_back
 drawable icon_close
@@ -2673,6 +2675,7 @@ layout design_text_input_start_icon
 layout fragment_login
 layout fragment_webview_login
 layout layout_dialog
+layout layout_test_mode_tips
 layout material_chip_input_combo
 layout material_clock_display
 layout material_clock_display_divider
@@ -2842,6 +2845,7 @@ string license_dialog_choose_tap_global
 string license_dialog_choose_title
 string license_download_taptap
 string license_open_taptap
+string license_test_tips
 string login_account_logged_tip
 string material_clock_display_divider
 string material_clock_toggle_content_description

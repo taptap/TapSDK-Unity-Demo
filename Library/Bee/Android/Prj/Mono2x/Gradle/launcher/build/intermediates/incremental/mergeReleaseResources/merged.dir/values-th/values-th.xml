@@ -26,6 +26,7 @@
     <string name="license_dialog_choose_title">เลือกแอปพลิเคชันต่อไปนี้เพื่อเรียกใช้</string>
     <string name="license_download_taptap">ดาวน์โหลด TapTap</string>
     <string name="license_open_taptap">เปิด TapTap</string>
+    <string name="license_test_tips">The current test environment, do not close the test environment before the official launch</string>
     <string name="login_account_logged_tip">บัญชีที่ล็อกอิน: %s</string>
     <string name="moment_browser_load_failed_message">ไม่สามารถโหลดหน้านี้ได้ คลิกเพื่อลองใหม่</string>
     <string name="moment_dialog_cancel">ยกเลิก</string>

@@ -26,6 +26,7 @@
     <string name="license_dialog_choose_title">Çalıştırmak için aşağıdaki uygulamaları seç</string>
     <string name="license_download_taptap">TapTap\'i İndir</string>
     <string name="license_open_taptap">TapTap\'i Aç</string>
+    <string name="license_test_tips">The current test environment, do not close the test environment before the official launch</string>
     <string name="login_account_logged_tip">Giriş yapılan hesap: %s</string>
     <string name="moment_browser_load_failed_message">Sayfa yüklenemedi, yeniden denemek için tıklayınız</string>
     <string name="moment_dialog_cancel">İptal Et</string>

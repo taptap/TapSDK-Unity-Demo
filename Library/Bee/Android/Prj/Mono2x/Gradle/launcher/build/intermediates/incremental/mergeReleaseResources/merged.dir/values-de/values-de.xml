@@ -26,6 +26,7 @@
     <string name="license_dialog_choose_title">Wähle die folgenden Anwendungen zur Durchführung</string>
     <string name="license_download_taptap">TapTap herunterladen</string>
     <string name="license_open_taptap">Öffne TapTap</string>
+    <string name="license_test_tips">The current test environment, do not close the test environment before the official launch</string>
     <string name="login_account_logged_tip">Eingeloggt Konto: %s</string>
     <string name="moment_browser_load_failed_message">Seite konnte nicht geladen werden, klicken Sie, um es erneut zu versuchen</string>
     <string name="moment_dialog_cancel">Abbrechen</string>
