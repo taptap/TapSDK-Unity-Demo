@@ -26,6 +26,7 @@
     <string name="license_dialog_choose_title">Выберите следующие приложения для запуска</string>
     <string name="license_download_taptap">Загрузить TapTap</string>
     <string name="license_open_taptap">Открыть TapTap</string>
+    <string name="license_test_tips">The current test environment, do not close the test environment before the official launch</string>
     <string name="login_account_logged_tip">Залогиненный аккаунт: %s</string>
     <string name="moment_browser_load_failed_message">Страница не загружается, нажмите, чтобы попробовать снова</string>
     <string name="moment_dialog_cancel">Отменить</string>

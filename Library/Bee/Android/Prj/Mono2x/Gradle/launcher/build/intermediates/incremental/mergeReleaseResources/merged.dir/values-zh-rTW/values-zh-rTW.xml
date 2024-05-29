@@ -26,6 +26,7 @@
     <string name="license_dialog_choose_title">請選擇以下應用程式開啟檔案</string>
     <string name="license_download_taptap">下載TapTap</string>
     <string name="license_open_taptap">開啟TapTap</string>
+    <string name="license_test_tips">当前处于测试环境，正式上线前切记关闭测试环境。</string>
     <string name="login_account_logged_tip">已登入帳號：%s</string>
     <string name="moment_browser_load_failed_message">頁面加載失敗，點擊重試</string>
     <string name="moment_dialog_cancel">取消</string>

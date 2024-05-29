@@ -26,6 +26,7 @@
     <string name="license_dialog_choose_title">Select the following applications to run</string>
     <string name="license_download_taptap">Download TapTap</string>
     <string name="license_open_taptap">Open TapTap</string>
+    <string name="license_test_tips">The current test environment, do not close the test environment before the official launch</string>
     <string name="login_account_logged_tip">Logged-in account: %s</string>
     <string name="moment_dialog_cancel">Cancel</string>
     <string name="moment_dialog_confirm">Confirm</string>

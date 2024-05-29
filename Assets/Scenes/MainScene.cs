@@ -4,23 +4,23 @@ using UnityEngine;
 using MS.NativeDialog;
 using UnityEngine.Events;
 using UnityNative.Toasts.Example;
-using TapTap.Bootstrap; // 命名空间
-using TapTap.Common; // 命名空间
+using TapTap.Bootstrap; 
+using TapTap.Common;
 using System;
 using LeanCloud;
-using TapTap.Connect; // 命名空间
+using TapTap.Connect;
 using TapTap.Themis;
-
+using TapTap.AntiAddiction;
+using TapTap.AntiAddiction.Model;
 
 
 public class MainScene : MonoBehaviour
 {
 	public GUISkin demoSkin;
 
+
     void Start()
     {
-
-
 
         LCLogger.LogDelegate = (LCLogLevel level, string info) => {
         switch (level) {
@@ -43,13 +43,14 @@ public class MainScene : MonoBehaviour
         bool isInit = InitSpace.InitUnitl.isInit;
 
         if(!isInit){
+
             var config =  new TapConfig.Builder()
-                .ClientID("hskcocvse6x1cgkklm")  // 必须，开发者中心对应 Client ID
-                .ClientToken("XQuOYJZ5Oo2wHXf7J5pK1yEtRWH59Tp9AdfMpwOf")  // 必须，开发者中心对应 Client Token
-                .ServerURL("https://hskcocvs.cloud.tds1.tapapis.cn") // TapDC 后台获取
-                .RegionType(RegionType.CN)  // 非必须，默认 CN 表示国内
-                .AntiAddictionConfig(true)  // 3.27.0 版本开始防沉迷支持 TapBootstrap 初始化
-                .TapDBConfig(true, "gameChannel", "gameVersion", true)  // TapDB 会根据 TapConfig 的配置进行自动初始化
+                .ClientID("hskcocvse6x1cgkklm")
+                .ClientToken("XQuOYJZ5Oo2wHXf7J5pK1yEtRWH59Tp9AdfMpwOf") 
+                .ServerURL("https://hskcocvs.cloud.tds1.tapapis.cn") 
+                .RegionType(RegionType.CN)  
+                .AntiAddictionConfig(true, true) 
+                .TapDBConfig(true, "gameChannel", "2.0.2", true) 
                 .ConfigBuilder();
 
             TapBootstrap.Init(config);
@@ -96,30 +97,31 @@ public class MainScene : MonoBehaviour
         float btnHeight = Screen.height / 25;
 		float btnTop = 30 * scale;
 		float btnGap = 20 * scale;
+        
+
+        GUIStyle versionStyle = new GUIStyle();
+        versionStyle.fontSize = 30;
+        versionStyle.normal.textColor = Color.white;
 
 		GUI.skin.button.fontSize = Convert.ToInt32(13 * scale);
         var style = new GUIStyle(GUI.skin.button) { fontSize = 20 };
          btnTop += btnHeight + 20 * scale;
 
+
+        GUI.Label(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "TapSDK 版本：3.29.0", versionStyle);
+
+        
+        btnTop += btnHeight + 20 * scale;
+
 		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "登录", style))
 		{
             UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(1);
-
 		}
 
         if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "内嵌动态", style))
 		{
             UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(2);
         }
-
-        btnTop += btnHeight + 20 * scale;
-
-        GUIStyle labelStyle = new GUIStyle(GUI.skin.label);
-        labelStyle.fontSize = 20;
-        labelStyle.alignment = TextAnchor.MiddleLeft;
-        
-        GUI.Label(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "TapDB 对接需要联系 Tap 运营同学，仅供参考接口！", labelStyle);
-
 
         btnTop += btnHeight + 20 * scale;
 
@@ -130,7 +132,7 @@ public class MainScene : MonoBehaviour
 
         }
 
-        if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "防沉迷", style))
+        if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "合规认证", style))
 		{
 			UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(4);
 
@@ -189,20 +191,11 @@ public class MainScene : MonoBehaviour
 
         }
 
-         if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "DLC 内购", style))
+         if (GUI.Button(new Rect((Screen.width - btnGap) / 2 + btnGap, btnTop, btnWidth, btnHeight), "DLC/正版验证", style))
 		{
 			UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(12);
 
 		}
-        btnTop += btnHeight + 20 * scale;
-
-		if (GUI.Button(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "多人对战", style))
-		{
-
-            UnityEngine.SceneManagement.SceneManager.LoadSceneAsync(13);
-
-        }
-
 
     }
 

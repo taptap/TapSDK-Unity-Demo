@@ -26,7 +26,6 @@ public class PostExample : MonoBehaviour
         string str = string.Format("{0}{1}{2}", timestamp, nonce_str, client_id);
         sign = GetSHA1(str);
 
-        // 构造POST请求的参数
         WWWForm form = new WWWForm();
         form.AddField("client_id", client_id);
         form.AddField("gift_code", gift_code);
@@ -35,11 +34,9 @@ public class PostExample : MonoBehaviour
         form.AddField("timestamp", timestamp);
         form.AddField("sign", sign);
 
-        // 构造请求头
         var headers = form.headers;
         headers["Content-Type"] = "application/json";
 
-        // 发送POST请求
         using (UnityWebRequest www = UnityWebRequest.Post(url, form))
         {
             www.uploadHandler = new UploadHandlerRaw(form.data);
