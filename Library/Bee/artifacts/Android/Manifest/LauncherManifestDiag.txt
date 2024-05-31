@@ -1,2 +1,0 @@
-Using template 'Assets/Plugins/Android/LauncherManifest.xml'
-

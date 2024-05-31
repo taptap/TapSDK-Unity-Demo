@@ -3,3 +3,10 @@ Temp
 unity_ios_demo
 Library
 Logs
+*.csproj
+UserSettings
+obj
+.DS_Store
+.vsconfig
+.vs
+.vscode

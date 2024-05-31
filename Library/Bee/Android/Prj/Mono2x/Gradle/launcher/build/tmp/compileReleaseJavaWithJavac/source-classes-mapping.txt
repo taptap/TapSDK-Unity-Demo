@@ -1,2 +1,0 @@
-com/tds/demo/BuildConfig.java
- com.tds.demo.BuildConfig
