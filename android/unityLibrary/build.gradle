@@ -1,0 +1,176 @@
+apply plugin: 'com.android.library'
+
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	// TapTap Android Resolver Dependencies Start
+    implementation "com.google.android.flexbox:flexbox:3.0.0"
+    implementation "androidx.core:core:1.6.0"
+    implementation "com.squareup.okhttp3:okhttp:3.12.1"
+
+	// TapTap Android Resolver Dependencies End
+    implementation(name: 'TapCommon_3.29.0', ext:'aar')
+    implementation(name: 'UnityAds', ext:'aar')
+    implementation(name: 'TapLicense_3.29.0', ext:'aar')
+    implementation(name: 'UnityAdsAndroidPlugin', ext:'aar')
+    implementation(name: 'common', ext:'aar')
+    implementation(name: 'AntiAddictionUI_3.29.0', ext:'aar')
+    implementation(name: 'TapLogin_3.29.0', ext:'aar')
+    implementation(name: 'com.UnityNative.Toasts-v1.0.4', ext:'aar')
+    implementation(name: 'TapAchievement_3.29.0', ext:'aar')
+    implementation(name: 'THEMIS-release3.1.7.5', ext:'aar')
+    implementation(name: 'AntiAddiction_3.29.0', ext:'aar')
+    implementation(name: 'billing-3.0.3', ext:'aar')
+    implementation(name: 'TapUpdate_3.29.0', ext:'aar')
+    implementation(name: 'TapConnect_3.29.0', ext:'aar')
+    implementation(name: 'TapMoment_3.29.0', ext:'aar')
+    implementation(name: 'TapDB_3.29.0', ext:'aar')
+
+}
+
+android {
+    compileSdkVersion 33
+    buildToolsVersion '30.0.3'
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    defaultConfig {
+        minSdkVersion 22
+        targetSdkVersion 33
+        ndk {
+            abiFilters 'armeabi-v7a'
+        }
+        versionCode 1
+        versionName '1.0'
+        consumerProguardFiles 'proguard-unity.txt', 'proguard-user.txt'
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+
+    aaptOptions {
+        noCompress = ['.unity3d', '.ress', '.resource', '.obb', '.bundle', '.unityexp'] + unityStreamingAssets.tokenize(', ')
+        ignoreAssetsPattern = "!.svn:!.git:!.ds_store:!*.scc:.*:!CVS:!thumbs.db:!picasa.ini:!*~"
+    }
+
+    packagingOptions {
+        doNotStrip '*/armeabi-v7a/*.so'
+    }
+}
+
+
+
