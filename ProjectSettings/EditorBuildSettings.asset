@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 880bfc59109c44207a922fa5313377f7
+  - enabled: 1
+    path: Assets/Scenes/LoginScene.unity
+    guid: 54c070ce2d7a14d0baa394823f5903e0
+  - enabled: 1
+    path: Assets/Scenes/MomentScene.unity
+    guid: 965fc0b3a1a054256a5f180cf4cf2b47
+  - enabled: 1
+    path: Assets/Scenes/TapDBScene.unity
+    guid: 47bad7e6053d6482882202723a3447a7
+  - enabled: 1
+    path: Assets/Scenes/AntiaddictionScene.unity
+    guid: 34ef6ed73121d4188800bf8b9b92adc4
+  - enabled: 1
+    path: Assets/Scenes/InsideAccoundScene.unity
+    guid: fe4632a8c3ca34367a4dc8a6e2f6d45f
+  - enabled: 1
+    path: Assets/Scenes/AchievementScene.unity
+    guid: 3760244471e494470a3709cf85381488
+  - enabled: 1
+    path: Assets/Scenes/StorageScene.unity
+    guid: bda0c7f7007a7465e815bf36777feae8
+  - enabled: 1
+    path: Assets/Scenes/GamesavesScene.unity
+    guid: d75247ec53dda4ca193994062b4dd634
+  - enabled: 1
+    path: Assets/Scenes/LeaderboardScene.unity
+    guid: f58d23d1b60f445b6a56b6ede1576509
+  - enabled: 1
+    path: Assets/Scenes/GiftScene.unity
+    guid: 0b609506b30bf400bbf49e877a5b9c59
+  - enabled: 1
+    path: Assets/Scenes/AwokenUpdateScene.unity
+    guid: a3b378f26ed36485bbfeb963264981f8
+  - enabled: 1
+    path: Assets/Scenes/TdsDLCScene.unity
+    guid: 970458809bc5c497991833bbf010f42a
+  m_configObjects: {}

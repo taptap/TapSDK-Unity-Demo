@@ -50,7 +50,7 @@ public class MainScene : MonoBehaviour
                 .ServerURL("https://hskcocvs.cloud.tds1.tapapis.cn") 
                 .RegionType(RegionType.CN)  
                 .AntiAddictionConfig(true, true) 
-                .TapDBConfig(true, "gameChannel", "2.0.2", true) 
+                .TapDBConfig(true, "gameChannel", "3.29.2", true) 
                 .ConfigBuilder();
 
             TapBootstrap.Init(config);
@@ -108,7 +108,7 @@ public class MainScene : MonoBehaviour
          btnTop += btnHeight + 20 * scale;
 
 
-        GUI.Label(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "TapSDK 版本：3.29.0", versionStyle);
+        GUI.Label(new Rect((Screen.width - btnGap) / 2 - btnWidth, btnTop, btnWidth, btnHeight), "TapSDK 版本：3.29.2", versionStyle);
 
         
         btnTop += btnHeight + 20 * scale;
